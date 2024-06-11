@@ -9,13 +9,13 @@ creationInfo:
     Please check "LicenseComments" for explanations of concluded licenses.
 
     '
-  created: '2024-06-10T12:48:34Z'
+  created: '2024-06-11T06:27:35Z'
   creators:
   - 'Tool: fossology-4.4.0'
   - 'Person: Sascha Dierberg'
   licenseListVersion: '3.22'
 dataLicense: CC0-1.0
-documentNamespace: http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx
+documentNamespace: http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx
 files:
 - SPDXID: SPDXRef-item701563
   checksums:
@@ -25,32 +25,7 @@ files:
     checksumValue: 4bb33cc4cd956b56b779b501f18cae46a9e26f8c8500cca86ed758b8bc5e1788
   - algorithm: MD5
     checksumValue: 38fa42a5a6425b26d2919b17b1527324
-  copyrightText: ' Copyright (C) 1991, 1999 Free Software Foundation, Inc.
-
-    copyright the library, and (2) we offer you this license, which gives you legal
-    permission to copy, distribute and/or modify the library.
-
-    copyright law: that is to say, a work containing the Library or a portion of it,
-    either verbatim or with modifications and/or translated straightforwardly into
-    another language. (Hereinafter, translation is included without limitation in
-    the term "modification".)
-
-    copyrighted interfaces, the
-
-    copyrighted by the Free Software Foundation, write to the Free Software Foundation;
-    we sometimes make exceptions for this. Our decision will be guided by the two
-    goals of preserving the free status of all derivatives of our free software and
-    of promoting the sharing and reuse of software generally.
-
-    copyright" line and a pointer to where the full notice is found.
-
-    Copyright (C) {year} {fullname}
-
-    copyright disclaimer" for the library, if necessary. Here is a sample; alter the
-    names:
-
-    copyright interest in the library `Frob'' (a library for tweaking knobs) written
-    by James Random Hacker. '
+  copyrightText: ' Copyright (C) 1991, 1999 Free Software Foundation, Inc. '
   fileName: libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/LICENSE
   licenseComments: ' The file contains the text of the LGPL-2.1. The text of the license
     is licensed under:

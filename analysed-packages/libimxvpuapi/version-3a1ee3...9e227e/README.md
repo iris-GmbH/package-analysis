@@ -4,7 +4,7 @@ https://github.com/Freescale/libimxvpuapi/archive/3a1ee3a54fe93813868d38c3d32ea0
 
 ## Package URL (purl)
 
-[PurlLink]
+pkg:github/freescale/libimxvpuapi@3a1ee3a54fe93813868d38c3d32ea065b59e227e
 
 ## Creator
 

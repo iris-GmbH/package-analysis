@@ -1,43 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rdf:RDF
   xmlns:spdx="http://spdx.org/rdf/terms#"
-  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <spdx:SpdxDocument rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#SPDXRef-DOCUMENT">
-    <spdx:dataLicense rdf:resource="http://spdx.org/licenses/CC0-1.0"/>
-    <spdx:relationship>
-      <spdx:Relationship rdf:nodeID="N6c7775073bfe4daca2bde50f6c52d5bd">
-        <spdx:relatedSpdxElement>
-          <spdx:Package rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#SPDXRef-upload426">
-            <spdx:relationship>
-              <spdx:Relationship rdf:nodeID="Nb44a0a36180b4280bca949ec2b854e07">
-                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
-                <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#SPDXRef-item701593">
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N642e5751fc4b42cc8399a9c67c04b2a7">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
-                        <spdx:checksumValue>87ac745f1bbf511505898063fcdf34904db6b7ed</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Nbe50c10edb594865b4c3adb879487328">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
-                        <spdx:checksumValue>9e8dc9e9846ace262dab1e29c96f01e2d8883ce8081a41ffa732b5926ab3ea63</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N548422f21cec48cbbda79e99f5ac98d5">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
-                        <spdx:checksumValue>7b70ce011c70d3cb98fad814711402b3</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:licenseConcluded>
-                      <spdx:ExtractedLicensingInfo rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#LicenseRef-LGPL-2.1-or-later">
-                        <spdx:licenseId>LicenseRef-LGPL-2.1-or-later</spdx:licenseId>
-                        <spdx:name>GNU Library General Public License v2.1 or later</spdx:name>
-                        <spdx:extractedText><![CDATA[ GNU LESSER GENERAL PUBLIC LICENSE
+  <spdx:SpdxDocument rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#SPDXRef-DOCUMENT">
+    <spdx:hasExtractedLicensingInfo>
+      <spdx:ExtractedLicensingInfo rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#LicenseRef-BSD-3-Clause-HP">
+        <spdx:name>Hewlett-Packard BSD variant license</spdx:name>
+        <spdx:extractedText> Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions
+are met:
+1. Redistributions of source code must retain the above copyright
+   notice, this list of conditions and the following disclaimer.
+2. Redistributions in binary form must reproduce the above copyright
+   notice, this list of conditions and the following disclaimer in the
+   documentation and/or other materials provided with the distribution.
+3. Neither the name of the HP nor the names of its
+   contributors may be used to endorse or promote products derived
+   from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE AUTHOR "AS IS" AND ANY EXPRESS OR
+IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
+OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT,
+INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT
+NOT LIMITED TO, PATENT INFRINGEMENT; PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
+STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING
+IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGE.
+ </spdx:extractedText>
+        <spdx:licenseId>LicenseRef-BSD-3-Clause-HP</spdx:licenseId>
+      </spdx:ExtractedLicensingInfo>
+    </spdx:hasExtractedLicensingInfo>
+    <spdx:hasExtractedLicensingInfo>
+      <spdx:ExtractedLicensingInfo rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#LicenseRef-IJG-possibility">
+        <spdx:extractedText> License by Nomos. </spdx:extractedText>
+        <spdx:licenseId>LicenseRef-IJG-possibility</spdx:licenseId>
+        <spdx:name>IJG-possibility</spdx:name>
+      </spdx:ExtractedLicensingInfo>
+    </spdx:hasExtractedLicensingInfo>
+    <spdx:hasExtractedLicensingInfo>
+      <spdx:ExtractedLicensingInfo rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#LicenseRef-BSD-3-Clause-231b5da5f8398b762831172efc5d6ee9">
+        <spdx:extractedText> Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions
+are met:
+
+1. Redistributions of source code must retain the above copyright
+notice, this list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright
+notice, this list of conditions and the following disclaimer in the
+documentation and/or other materials provided with the distribution.
+
+3. The name of the author may not be used to endorse or promote products
+derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE AUTHOR "AS IS" AND ANY EXPRESS OR
+IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT,
+INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
+STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING
+IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGE. </spdx:extractedText>
+        <spdx:name>BSD 3-Clause "New" or "Revised" License</spdx:name>
+        <spdx:licenseId>LicenseRef-BSD-3-Clause-231b5da5f8398b762831172efc5d6ee9</spdx:licenseId>
+      </spdx:ExtractedLicensingInfo>
+    </spdx:hasExtractedLicensingInfo>
+    <spdx:hasExtractedLicensingInfo>
+      <spdx:ExtractedLicensingInfo rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#LicenseRef-License-of-GNU-Licenses">
+        <spdx:extractedText> Everyone is permitted to copy and distribute verbatim copies
+of this license document, but changing it is not allowed. </spdx:extractedText>
+        <spdx:name>License-of-GNU-Licenses</spdx:name>
+        <spdx:licenseId>LicenseRef-License-of-GNU-Licenses</spdx:licenseId>
+      </spdx:ExtractedLicensingInfo>
+    </spdx:hasExtractedLicensingInfo>
+    <spdx:hasExtractedLicensingInfo>
+      <spdx:ExtractedLicensingInfo rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#LicenseRef-LGPL-2.1-or-later">
+        <spdx:name>GNU Library General Public License v2.1 or later</spdx:name>
+        <spdx:extractedText><![CDATA[ GNU LESSER GENERAL PUBLIC LICENSE
 
 Version 2.1, February 1999
 
@@ -220,144 +267,13 @@ Ty Coon, President of Vice
 That's all there is to it!
 
  ]]></spdx:extractedText>
-                      </spdx:ExtractedLicensingInfo>
-                    </spdx:licenseConcluded>
-                    <spdx:licenseInfoInFile>
-                      <spdx:ExtractedLicensingInfo rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#LicenseRef-IJG-possibility">
-                        <spdx:name>IJG-possibility</spdx:name>
-                        <spdx:licenseId>LicenseRef-IJG-possibility</spdx:licenseId>
-                        <spdx:extractedText> License by Nomos. </spdx:extractedText>
-                      </spdx:ExtractedLicensingInfo>
-                    </spdx:licenseInfoInFile>
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#LicenseRef-LGPL-2.1-or-later"/>
-                    <spdx:copyrightText> Copyright (C) 2015 Carlos Rafael Giani </spdx:copyrightText>
-                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/imxvpuapi/imxvpuapi_vpulib.c</spdx:fileName>
-                  </spdx:File>
-                </spdx:relatedSpdxElement>
-              </spdx:Relationship>
-            </spdx:relationship>
-            <spdx:relationship>
-              <spdx:Relationship rdf:nodeID="N63e70aea70e14029892c1100c2fb90e2">
-                <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#SPDXRef-item701572">
-                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/debian/copyright</spdx:fileName>
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#LicenseRef-LGPL-2.1-or-later"/>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N37c0c93c0a9f4e71bec4de44fd3a7f43">
-                        <spdx:checksumValue>bb9806a8291d8e79b57bcb1e3a7155865b18ca62</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N01de210427c2480d827ee49e79819432">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
-                        <spdx:checksumValue>4a8019159880f91dc6df4662ae06be40</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Nd1fb6ff069124aa5a738ea25e6f236ab">
-                        <spdx:checksumValue>19666f5389963b222480fe11d150950e65072f807fd8a2c361d2ad918ff0ae66</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                    <spdx:copyrightText> Copyright: 2014-2015 Carlos Rafael Giani
-Copyright: 2015 Josua Mayer  </spdx:copyrightText>
-                  </spdx:File>
-                </spdx:relatedSpdxElement>
-                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
-              </spdx:Relationship>
-            </spdx:relationship>
-            <spdx:relationship>
-              <spdx:Relationship rdf:nodeID="N07d49f538c2e4768bfcb4f5fd3b2b4ea">
-                <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#SPDXRef-item701586">
-                    <spdx:copyrightText> Copyright (C) 2014 Carlos Rafael Giani </spdx:copyrightText>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N53ecc0bef56d4f19b8298410fd190186">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
-                        <spdx:checksumValue>47f4c4fe09320605dc71738ea695706e</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Nc951076278b843208f0928356b217434">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
-                        <spdx:checksumValue>a94238d21486087af074bad90b4454c2ee0df23b453baf79cdf9639159ab973c</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Nc9b7c554c33f4a209553ecb2e9ad2235">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
-                        <spdx:checksumValue>83ce4f36746aa6a46c0c9c8aac5caf04e92e2f9c</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/example/main.h</spdx:fileName>
-                    <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#LicenseRef-LGPL-2.1-or-later"/>
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#LicenseRef-LGPL-2.1-or-later"/>
-                  </spdx:File>
-                </spdx:relatedSpdxElement>
-                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
-              </spdx:Relationship>
-            </spdx:relationship>
-            <spdx:relationship>
-              <spdx:Relationship rdf:nodeID="Nf59ee8c636a147969de0cfd939267e66">
-                <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#SPDXRef-item701596">
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N0ed381a75d9845dea2412b3090d0fa68">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
-                        <spdx:checksumValue>4408172b3ab8e6fc73b197791ec651ea</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N8a00f92c7866498aa19754fd7527ea3c">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
-                        <spdx:checksumValue>2cd8030ce20bd3a7aa2c506e2ac1149d456ebc60</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N04610c373980401fae6e2b15847d5ad0">
-                        <spdx:checksumValue>5d3e838832faf08fd0881a3117d4d8262bf09f45e4cbcafe2bb5f1b1db4fa55d</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/imxvpuapi/imxvpuapi_priv.h</spdx:fileName>
-                    <spdx:copyrightText> Copyright (C) 2014 Carlos Rafael Giani </spdx:copyrightText>
-                    <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#LicenseRef-LGPL-2.1-or-later"/>
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#LicenseRef-LGPL-2.1-or-later"/>
-                  </spdx:File>
-                </spdx:relatedSpdxElement>
-                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
-              </spdx:Relationship>
-            </spdx:relationship>
-            <spdx:relationship>
-              <spdx:Relationship rdf:nodeID="Nbb1b16619c4942b6a9f3ab583af45361">
-                <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#SPDXRef-item701601">
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N68363651fda74520b5795debc77e6ec4">
-                        <spdx:checksumValue>e087670ecc6a05f82e43ae70e59abe84fa2abcee</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N8b6b2544663847f3be110148e4810723">
-                        <spdx:checksumValue>2378fb350604952ce5439cfb0fa8a476</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Nc412553a8cd94d59be5fa31f938e779d">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
-                        <spdx:checksumValue>c726631125e03d5e595560fc6b886f77b700f96ab0af317c9c4d41080a1c3227</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
-                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/README.md</spdx:fileName>
-                    <spdx:licenseInfoInFile>
-                      <spdx:ExtractedLicensingInfo rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#LicenseRef-LGPL-2.1-only">
-                        <spdx:extractedText> GNU LESSER GENERAL PUBLIC LICENSE
+        <spdx:licenseId>LicenseRef-LGPL-2.1-or-later</spdx:licenseId>
+      </spdx:ExtractedLicensingInfo>
+    </spdx:hasExtractedLicensingInfo>
+    <spdx:hasExtractedLicensingInfo>
+      <spdx:ExtractedLicensingInfo rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#LicenseRef-LGPL-2.1-only">
+        <spdx:name>GNU Lesser General Public License v2.1 only</spdx:name>
+        <spdx:extractedText> GNU LESSER GENERAL PUBLIC LICENSE
 
 Version 2.1, February 1999
 
@@ -533,644 +449,13 @@ signature of Ty Coon, 1 April 1990
 Ty Coon, President of Vice
 That's all there is to it!
  </spdx:extractedText>
-                        <spdx:licenseId>LicenseRef-LGPL-2.1-only</spdx:licenseId>
-                        <spdx:name>GNU Lesser General Public License v2.1 only</spdx:name>
-                      </spdx:ExtractedLicensingInfo>
-                    </spdx:licenseInfoInFile>
-                  </spdx:File>
-                </spdx:relatedSpdxElement>
-                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
-              </spdx:Relationship>
-            </spdx:relationship>
-            <spdx:relationship>
-              <spdx:Relationship rdf:nodeID="Ndbb7aaf7bdce4cb09fd879d977e36add">
-                <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#SPDXRef-item701598">
-                    <spdx:copyrightText> Copyright (C) 2014 Carlos Rafael Giani </spdx:copyrightText>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Na63c819ca7b141f2b9717fa6ee58da77">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
-                        <spdx:checksumValue>f35228c465e92aa292e6d8d895790e6d</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Nec56531ea2a644d28d14073462221e2d">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
-                        <spdx:checksumValue>4e067571be98386d8062f6a73b6910df1016cd97</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Nd56832df2f534a40bdc25cee687e5fd3">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
-                        <spdx:checksumValue>6573f5ad8e512ef06c6cb0f18a5f2b8bb1a0dd9e125bec66981a61d544b1ee97</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/imxvpuapi/imxvpuapi_jpeg.h</spdx:fileName>
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#LicenseRef-LGPL-2.1-or-later"/>
-                    <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#LicenseRef-LGPL-2.1-or-later"/>
-                  </spdx:File>
-                </spdx:relatedSpdxElement>
-                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
-              </spdx:Relationship>
-            </spdx:relationship>
-            <spdx:relationship>
-              <spdx:Relationship rdf:nodeID="Ndbd4229adc544c62ab3e4213e20fa6cc">
-                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
-                <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#SPDXRef-item701571">
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Nfa38f3e9691a4461b23805fac9b18e42">
-                        <spdx:checksumValue>c5fc031a250b2d76fe051ac3621620ab</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N9e4453fd720041e4b5cea34a657f484d">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
-                        <spdx:checksumValue>e8e18df40bcd69d6aa404282679186d9b8256ac63a5b4e80d7f081e8a0095a2e</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N19b9698020c44c2988885fa77654257e">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
-                        <spdx:checksumValue>f8738a6566306ae25f93456a019426af51ccc827</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
-                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/debian/source/format</spdx:fileName>
-                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                  </spdx:File>
-                </spdx:relatedSpdxElement>
-              </spdx:Relationship>
-            </spdx:relationship>
-            <spdx:relationship>
-              <spdx:Relationship rdf:nodeID="Ne15cfed0bc544f35b6a4a6b646808136">
-                <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#SPDXRef-item701584">
-                    <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
-                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N86a7491c2ee5486d918a92c2cba3a353">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
-                        <spdx:checksumValue>e3c3a23555b594db4a319482877545005c72f9ad</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Na5d5cd01d02b43c994dfb82c8650506f">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
-                        <spdx:checksumValue>c9550182477730a588b19afb37f4e281</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Ndcbc90bce27b4062ae4d541879874403">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
-                        <spdx:checksumValue>e126e7f79dd4d66559b621637a59f87b22dfe97256c4fe212e95010be1b3390a</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/example/h264_utils.h</spdx:fileName>
-                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                  </spdx:File>
-                </spdx:relatedSpdxElement>
-                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
-              </spdx:Relationship>
-            </spdx:relationship>
-            <spdx:relationship>
-              <spdx:Relationship rdf:nodeID="N9c61327b4a964d839eb84bea5261044a">
-                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
-                <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#SPDXRef-item701576">
-                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/debian/compat</spdx:fileName>
-                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N3e55c81966dd4f329e0853e3c7368d78">
-                        <spdx:checksumValue>136571b41aa14adc10c5f3c987d43c02c8f5d498</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N69e707044d314666ad5e7292eacda567">
-                        <spdx:checksumValue>aa67a169b0bba217aa0aa88a65346920c84c42447c36ba5f7ea65f422c1fe5d8</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N00042d50e7d042d09f0d630ef9fbdc75">
-                        <spdx:checksumValue>c30f7472766d25af1dc80b3ffc9a58c7</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
-                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                  </spdx:File>
-                </spdx:relatedSpdxElement>
-              </spdx:Relationship>
-            </spdx:relationship>
-            <spdx:relationship>
-              <spdx:Relationship rdf:nodeID="Ndfe8fe863d8a4517bb78b4cb69f81949">
-                <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#SPDXRef-item701582">
-                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/example/decode-example.c</spdx:fileName>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N28f58311e156480293f3724f36406acc">
-                        <spdx:checksumValue>22bcccf25c4c062f2f6c3b47f415116fdd53868d</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N6a665df0107f476eaf1755950e67a01e">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
-                        <spdx:checksumValue>f9981b9a7037beb307823383221b9df4</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N8b0b8ae7cba746038999af577e64b397">
-                        <spdx:checksumValue>b7c78ab2eba64c23f50ab582b0d393244c075b21ae304611fc550eef0051b615</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#LicenseRef-LGPL-2.1-or-later"/>
-                    <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#LicenseRef-LGPL-2.1-or-later"/>
-                    <spdx:copyrightText> Copyright (C) 2014 Carlos Rafael Giani </spdx:copyrightText>
-                  </spdx:File>
-                </spdx:relatedSpdxElement>
-                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
-              </spdx:Relationship>
-            </spdx:relationship>
-            <spdx:relationship>
-              <spdx:Relationship rdf:nodeID="N9b463d636a0b441a94335f56ba7c2382">
-                <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#SPDXRef-item701600">
-                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/libimxvpuapi.pc.in</spdx:fileName>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N8b6f7692cd244011a8c91648b4c27c7d">
-                        <spdx:checksumValue>e1dcdb17499bff4b54fc6fe743838300</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N78b1329c465245bcbba7a25ceb016260">
-                        <spdx:checksumValue>78f6b391e52b3499e95bdca88fde87026d2162a4</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Nbac787ee631a457ea95dd190db13317d">
-                        <spdx:checksumValue>0de49afdaddd41bf658838db37d71b89f1d7392d0c77b454c9d4698682a31a76</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                    <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
-                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                  </spdx:File>
-                </spdx:relatedSpdxElement>
-                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
-              </spdx:Relationship>
-            </spdx:relationship>
-            <spdx:relationship>
-              <spdx:Relationship rdf:nodeID="N5aacba38725f46c1afa6698596145957">
-                <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#SPDXRef-item701592">
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Nbda65c600e3d48ef8fcec0790e668e0e">
-                        <spdx:checksumValue>f6205976593ebafd4abe02ed6cbc0c12</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N5942e4b9b3f845c9947f4ac7baf1b3cb">
-                        <spdx:checksumValue>e1d4093f701e6488c71d87470d747c79c81a7dc3</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N333a80aced57423fa19a3029de186057">
-                        <spdx:checksumValue>abf6b28a46e0b0b253944d2dd261d5eb4fed6a42732aed2ce5ea4a1e8a77bec2</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/imxvpuapi/imxvpuapi_jpeg.c</spdx:fileName>
-                    <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#LicenseRef-LGPL-2.1-or-later"/>
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#LicenseRef-LGPL-2.1-or-later"/>
-                    <spdx:copyrightText> Copyright (C) 2014 Carlos Rafael Giani </spdx:copyrightText>
-                  </spdx:File>
-                </spdx:relatedSpdxElement>
-                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
-              </spdx:Relationship>
-            </spdx:relationship>
-            <spdx:relationship>
-              <spdx:Relationship rdf:nodeID="N196bfb0d46534d219088bef85c11ea12">
-                <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#SPDXRef-item701599">
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Nb6b2d2cc68aa40f18b534570aac3e3aa">
-                        <spdx:checksumValue>68fe378e8441daf0dfa2b2c9979b1ec2</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N08673f600bea4226ac120e97c43eda1d">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
-                        <spdx:checksumValue>f911cddea8b9fa727caf1ed9a1f767160c29fd52fd9e59ba334d0fac43b9a847</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N62396b7b12df4e74baf7101ac418e292">
-                        <spdx:checksumValue>ba26d244a069ad9a70e17058a0a475309a78799d</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#LicenseRef-LGPL-2.1-or-later"/>
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#LicenseRef-IJG-possibility"/>
-                    <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#LicenseRef-LGPL-2.1-or-later"/>
-                    <spdx:copyrightText> Copyright (C) 2015 Carlos Rafael Giani </spdx:copyrightText>
-                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/imxvpuapi/imxvpuapi.h</spdx:fileName>
-                  </spdx:File>
-                </spdx:relatedSpdxElement>
-                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
-              </spdx:Relationship>
-            </spdx:relationship>
-            <spdx:relationship>
-              <spdx:Relationship rdf:nodeID="N5b4171455e05443789a39e9192e29c83">
-                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
-                <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#SPDXRef-item701580">
-                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/example/test-320x240.h264</spdx:fileName>
-                    <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Nfb809dbbb4c44c7d8562b318181bb8ff">
-                        <spdx:checksumValue>fbd0cec0c33fba2dd390f5ad631d96cde15c3f7b998f37142a27d3808d35bb86</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N0c53c763bed049e4817dc327af0b4f33">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
-                        <spdx:checksumValue>939dec23622659d23e219a2e2d215be5</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Nfbd787c84c2c4c19adab56f79aed6b97">
-                        <spdx:checksumValue>e48b51d85bac4cdce0ee3c1c680baf66f77fd23e</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                  </spdx:File>
-                </spdx:relatedSpdxElement>
-              </spdx:Relationship>
-            </spdx:relationship>
-            <spdx:relationship>
-              <spdx:Relationship rdf:nodeID="N7cfbbc99aa2a45c8a083e48734c7c992">
-                <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#SPDXRef-item701568">
-                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/debian/libimxvpuapi0.install</spdx:fileName>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Nb8f15a4c33734ec28ec2c68297f23640">
-                        <spdx:checksumValue>81d7e678468e4f6744fc7c96969880245db5bb69</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Nd5a9b577630b4f579068e62b5207f9fb">
-                        <spdx:checksumValue>458372cd3e2a599dca894c33fb7ed967efb7d453d3cb31e0ce2bd257ce6baba1</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N9e5a9dbb52024da1b9e7c4a3aad5f63e">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
-                        <spdx:checksumValue>3173afd4d46c42d1e5839280ba3787b8</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
-                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                  </spdx:File>
-                </spdx:relatedSpdxElement>
-                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
-              </spdx:Relationship>
-            </spdx:relationship>
-            <spdx:relationship>
-              <spdx:Relationship rdf:nodeID="N5627f4ab2c0f430f989fa09d15c76b7e">
-                <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#SPDXRef-item701569">
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Nf312d9228b5e4a248d0cef5c8198c5ba">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
-                        <spdx:checksumValue>70331df42f288e495921044b59215a2bef15bea8e25a7d117305cf8617f43b60</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N7c01bdf4914b4cd4884f7a42f1c2a3c2">
-                        <spdx:checksumValue>ae36eae8ff11a8c9db3410c417564664</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N125c924bf06a4d56b14a5ce51591050f">
-                        <spdx:checksumValue>b76a5adaa1a672f4af1680d303cf7cbc0cd0de84</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                    <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
-                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/debian/libimxvpuapi-dev.install</spdx:fileName>
-                  </spdx:File>
-                </spdx:relatedSpdxElement>
-                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
-              </spdx:Relationship>
-            </spdx:relationship>
-            <spdx:relationship>
-              <spdx:Relationship rdf:nodeID="Nad4847251e574417a85de7efb7d1c09b">
-                <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#SPDXRef-item701565">
-                    <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N0437ef03fd9e45ce87534ba265dc6253">
-                        <spdx:checksumValue>77191b24c440bdb86c3677428758a9b5</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N2f4cacd4807c4b04b3a23d6ddc532f0f">
-                        <spdx:checksumValue>0de09bbce2778f7e98f21c3f88a004b87ac9c3540bb2ff6d98cc8441dbdbf804</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N6b93b454923443e7aa914a99b516bf5b">
-                        <spdx:checksumValue>56f975aa89777d9b2540319446fcf096c18ee703</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/VERSION</spdx:fileName>
-                  </spdx:File>
-                </spdx:relatedSpdxElement>
-                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
-              </spdx:Relationship>
-            </spdx:relationship>
-            <spdx:relationship>
-              <spdx:Relationship rdf:nodeID="Nd4abd55160b74cd1b8edefceac1088ab">
-                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
-                <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#SPDXRef-item701575">
-                    <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N896666db848f449a9bdd38b6ecf0b433">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
-                        <spdx:checksumValue>8185bf411dc2eeeb6c675fcb80276b24b9afa0acc778a6cd7af68eb22cedd144</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Ne8260ad9218c46639a8d7922fa3633c2">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
-                        <spdx:checksumValue>76a8db45d77bc0183dd553cd3dbc368b</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N4998ad0edda64538b6447d396291bc92">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
-                        <spdx:checksumValue>bd507f33382032446747b5267d5929ec210602ea</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/debian/changelog</spdx:fileName>
-                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                  </spdx:File>
-                </spdx:relatedSpdxElement>
-              </spdx:Relationship>
-            </spdx:relationship>
-            <spdx:relationship>
-              <spdx:Relationship rdf:nodeID="N1e4e26fd1cc0472eb2388a8f3fc3f855">
-                <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#SPDXRef-item701579">
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N1cdc8184b77b430fa8d39196425ffbe5">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
-                        <spdx:checksumValue>c68b21f6c2b4fa101e6971763fb80cbc2ff72fe9</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Nc1b529f44a6742ea8c1b612a9f961927">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
-                        <spdx:checksumValue>51e66b0706e3e1143d06e79dcd9d8151</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N12faa8cfefa24cf9b1d57740fd21993b">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
-                        <spdx:checksumValue>17df48ecabc5c3781ead7534709953354640b2be2dea91794cb53525676ce103</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                    <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
-                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/example/h264_utils.c</spdx:fileName>
-                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                  </spdx:File>
-                </spdx:relatedSpdxElement>
-                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
-              </spdx:Relationship>
-            </spdx:relationship>
-            <spdx:relationship>
-              <spdx:Relationship rdf:nodeID="Ne3ea8033c10c48ee921a19640813816f">
-                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
-                <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#SPDXRef-item701597">
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N33f30c2e5f15450493d9e983b0e04c69">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
-                        <spdx:checksumValue>bab5b691d49217337e41ec5cf48b5d26d4c65f81</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Ndf228a46f6af4a08975f46ebf01a6c6e">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
-                        <spdx:checksumValue>935d3406b4d411cb562a2735c2c05bac</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N258da0de68644b88bb0dc7f79820b8e2">
-                        <spdx:checksumValue>78596e3a7c7fdad1c49f694c549ec0c920a84f5ce1bfe9bc76f24fec404f31ef</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/imxvpuapi/imxvpuapi_parse_jpeg.h</spdx:fileName>
-                    <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
-                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                  </spdx:File>
-                </spdx:relatedSpdxElement>
-              </spdx:Relationship>
-            </spdx:relationship>
-            <spdx:relationship>
-              <spdx:Relationship rdf:nodeID="Ndbda6636c9e84feb87250dfc0f75186d">
-                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
-                <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#SPDXRef-item701574">
-                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N6926805c9fa44b53b0680077cfae1ab6">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
-                        <spdx:checksumValue>9f5cb6e9884bdfd322a091c042bf8fdf86b07f51916620fe518879a4801cb6d4</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N7dac71ff858042739768e98542dbf59d">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
-                        <spdx:checksumValue>a4043da681ab186ec8a6afa0dd54e4f6</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Nf7e2d59870394731870a0dd65a0555bd">
-                        <spdx:checksumValue>8a9d6d2c53091a4215e2bf13f996800ffbdb7df1</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/debian/control</spdx:fileName>
-                    <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
-                  </spdx:File>
-                </spdx:relatedSpdxElement>
-              </spdx:Relationship>
-            </spdx:relationship>
-            <spdx:relationship>
-              <spdx:Relationship rdf:nodeID="Nf7fb1460713b4ce68340488d168a5447">
-                <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#SPDXRef-item701587">
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#LicenseRef-LGPL-2.1-or-later"/>
-                    <spdx:copyrightText> Copyright (C) 2014 Carlos Rafael Giani </spdx:copyrightText>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N029e776873fe486f937a818b4a47d9f4">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
-                        <spdx:checksumValue>9455e62e26b99afaf63fa1fceca08a91</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N0f0ec3b85ce24132ac3e57a2414c65a3">
-                        <spdx:checksumValue>4d418aae4c589c5059795f333099de9c76eb225cd709d78c06215761cb242b22</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N8732d3066d97431d8c681fda51a57dc2">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
-                        <spdx:checksumValue>84952a4cb81efc9b339c60c04d7bcac1f7c144c1</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/example/encode-example.c</spdx:fileName>
-                    <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#LicenseRef-LGPL-2.1-or-later"/>
-                  </spdx:File>
-                </spdx:relatedSpdxElement>
-                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
-              </spdx:Relationship>
-            </spdx:relationship>
-            <spdx:relationship>
-              <spdx:Relationship rdf:nodeID="N2d970ab00cd34715a7caa9bff87cf443">
-                <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#SPDXRef-item701583">
-                    <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#LicenseRef-LGPL-2.1-or-later"/>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Nc94b9f8729b647378d077ebac6aac20d">
-                        <spdx:checksumValue>6059782046824f95c15ee1c563ee357863040553dd083e292e5928e0d9820fcc</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Neb79be493b8a4d498d85fae762ae467a">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
-                        <spdx:checksumValue>f2d41acf7385a1d23f116388916813f0</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N48440a23a57540628b0249908ac2429b">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
-                        <spdx:checksumValue>51e5a59069b9795c3e9cf7d63a21457ea7f01ba8</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#LicenseRef-LGPL-2.1-or-later"/>
-                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/example/main.c</spdx:fileName>
-                    <spdx:copyrightText> Copyright (C) 2014 Carlos Rafael Giani </spdx:copyrightText>
-                  </spdx:File>
-                </spdx:relatedSpdxElement>
-                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
-              </spdx:Relationship>
-            </spdx:relationship>
-            <spdx:relationship>
-              <spdx:Relationship rdf:nodeID="Nbb1f00885cec44df9b4f1fdf00150b46">
-                <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#SPDXRef-item701564">
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Naee7b4eeb70a4264a20f9e0a69dfb479">
-                        <spdx:checksumValue>b48e5cc92043adca22d405ac351b387e</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N3e3ec440319543c48e065550a316f31f">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
-                        <spdx:checksumValue>3cde132564815c6a2403b5f9fce52a57cc1e5c437a19b44f48d2351401ad9dda</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Nde05af1ef07e4c208c9d59c943bb646f">
-                        <spdx:checksumValue>0c9ac42576a9686326a8f1feac4a7eec5a6f14ff</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/wscript</spdx:fileName>
-                    <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
-                  </spdx:File>
-                </spdx:relatedSpdxElement>
-                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
-              </spdx:Relationship>
-            </spdx:relationship>
-            <spdx:relationship>
-              <spdx:Relationship rdf:nodeID="N725abb3299bd4541947ae8e5fd5d248a">
-                <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#SPDXRef-item701589">
-                    <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
-                    <spdx:licenseConcluded>
-                      <spdx:ExtractedLicensingInfo rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#LicenseRef-BSD-3-Clause-231b5da5f8398b762831172efc5d6ee9">
-                        <spdx:extractedText> Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions
-are met:
-
-1. Redistributions of source code must retain the above copyright
-notice, this list of conditions and the following disclaimer.
-
-2. Redistributions in binary form must reproduce the above copyright
-notice, this list of conditions and the following disclaimer in the
-documentation and/or other materials provided with the distribution.
-
-3. The name of the author may not be used to endorse or promote products
-derived from this software without specific prior written permission.
-
-THIS SOFTWARE IS PROVIDED BY THE AUTHOR "AS IS" AND ANY EXPRESS OR
-IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
-WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT,
-INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
-(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
-HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
-STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING
-IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
-POSSIBILITY OF SUCH DAMAGE. </spdx:extractedText>
-                        <spdx:name>BSD 3-Clause "New" or "Revised" License</spdx:name>
-                        <spdx:licenseId>LicenseRef-BSD-3-Clause-231b5da5f8398b762831172efc5d6ee9</spdx:licenseId>
-                      </spdx:ExtractedLicensingInfo>
-                    </spdx:licenseConcluded>
-                    <spdx:licenseInfoInFile>
-                      <spdx:ExtractedLicensingInfo rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#LicenseRef-BSD-3-Clause">
-                        <spdx:extractedText><![CDATA[ Copyright (c) <year> <owner>.
+        <spdx:licenseId>LicenseRef-LGPL-2.1-only</spdx:licenseId>
+      </spdx:ExtractedLicensingInfo>
+    </spdx:hasExtractedLicensingInfo>
+    <spdx:hasExtractedLicensingInfo>
+      <spdx:ExtractedLicensingInfo rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#LicenseRef-BSD-3-Clause">
+        <spdx:licenseId>LicenseRef-BSD-3-Clause</spdx:licenseId>
+        <spdx:extractedText><![CDATA[ Copyright (c) <year> <owner>.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
@@ -1181,456 +466,1163 @@ Redistribution and use in source and binary forms, with or without modification,
 3. Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
 
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. ]]></spdx:extractedText>
-                        <spdx:licenseId>LicenseRef-BSD-3-Clause</spdx:licenseId>
-                        <spdx:name>BSD 3-Clause "New" or "Revised" License</spdx:name>
-                      </spdx:ExtractedLicensingInfo>
-                    </spdx:licenseInfoInFile>
-                    <spdx:licenseInfoInFile>
-                      <spdx:ExtractedLicensingInfo rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#LicenseRef-BSD-3-Clause-HP">
-                        <spdx:extractedText> Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions
-are met:
-1. Redistributions of source code must retain the above copyright
-   notice, this list of conditions and the following disclaimer.
-2. Redistributions in binary form must reproduce the above copyright
-   notice, this list of conditions and the following disclaimer in the
-   documentation and/or other materials provided with the distribution.
-3. Neither the name of the HP nor the names of its
-   contributors may be used to endorse or promote products derived
-   from this software without specific prior written permission.
-
-THIS SOFTWARE IS PROVIDED BY THE AUTHOR "AS IS" AND ANY EXPRESS OR
-IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
-OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
-IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT,
-INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT
-NOT LIMITED TO, PATENT INFRINGEMENT; PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
-HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
-STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING
-IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
-POSSIBILITY OF SUCH DAMAGE.
- </spdx:extractedText>
-                        <spdx:licenseId>LicenseRef-BSD-3-Clause-HP</spdx:licenseId>
-                        <spdx:name>Hewlett-Packard BSD variant license</spdx:name>
-                      </spdx:ExtractedLicensingInfo>
-                    </spdx:licenseInfoInFile>
+        <spdx:name>BSD 3-Clause "New" or "Revised" License</spdx:name>
+      </spdx:ExtractedLicensingInfo>
+    </spdx:hasExtractedLicensingInfo>
+    <spdx:name>/srv/fossology/repository/report</spdx:name>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="Nad4eb89a08074a2f9a71850b0526c115">
+        <spdx:relatedSpdxElement>
+          <spdx:Package rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#SPDXRef-upload426">
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N52da74991d88408582d359207eee621e">
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#SPDXRef-item701568">
                     <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N7a63efce9fef47a5bdc8bfdc6051d888">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
-                        <spdx:checksumValue>4cea2b2c4cf74cc9d27ab8ca112c0de2404309a2</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Nf42ccf8eb2724d1a887532ea44366b69">
+                      <spdx:Checksum rdf:nodeID="N2956abd9e1724fb1969e3e4a95f46846">
                         <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
-                        <spdx:checksumValue>13d74d9d91a20a54290dd98d033baf19bfe31ed4fd2720e9fadc92469d4fa9e0</spdx:checksumValue>
+                        <spdx:checksumValue>458372cd3e2a599dca894c33fb7ed967efb7d453d3cb31e0ce2bd257ce6baba1</spdx:checksumValue>
                       </spdx:Checksum>
                     </spdx:checksum>
                     <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N2132d43b52b34c2e917cbb577b9387c7">
+                      <spdx:Checksum rdf:nodeID="Ne8191de073e646a2b1a6cda247460191">
                         <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
-                        <spdx:checksumValue>2bbda956b4a340bf5dbfe07b3ea51068</spdx:checksumValue>
+                        <spdx:checksumValue>3173afd4d46c42d1e5839280ba3787b8</spdx:checksumValue>
                       </spdx:Checksum>
                     </spdx:checksum>
-                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/waf</spdx:fileName>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N1356ccf4c95a47b2a5381bda5b215c84">
+                        <spdx:checksumValue>81d7e678468e4f6744fc7c96969880245db5bb69</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/debian/libimxvpuapi0.install</spdx:fileName>
+                    <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N2438fdf1a739438e8178d5e252b80648">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#SPDXRef-item701571">
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N83ba466c888f4c56a0bd87df242334ec">
+                        <spdx:checksumValue>e8e18df40bcd69d6aa404282679186d9b8256ac63a5b4e80d7f081e8a0095a2e</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N4cb976d544ef43e08790a37d4d73b028">
+                        <spdx:checksumValue>f8738a6566306ae25f93456a019426af51ccc827</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N27989bd239e2464fa9d55af976c9b1c8">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>c5fc031a250b2d76fe051ac3621620ab</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/debian/source/format</spdx:fileName>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
                   </spdx:File>
                 </spdx:relatedSpdxElement>
                 <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
               </spdx:Relationship>
             </spdx:relationship>
             <spdx:relationship>
-              <spdx:Relationship rdf:nodeID="N3c21ff4e715e4eaa83fa3ebc451bd369">
+              <spdx:Relationship rdf:nodeID="N5f9241f7102d4d36b2f86abf93d1efd5">
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
                 <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#SPDXRef-item701595">
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#LicenseRef-LGPL-2.1-or-later"/>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#SPDXRef-item701576">
                     <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N22c4957d27f04a4b9d1dee4b6c60cc04">
+                      <spdx:Checksum rdf:nodeID="Nbb013a551156479ba4374e20fa8c3820">
+                        <spdx:checksumValue>136571b41aa14adc10c5f3c987d43c02c8f5d498</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Na3f53e47af774504b5eae3c14b8fc35a">
+                        <spdx:checksumValue>c30f7472766d25af1dc80b3ffc9a58c7</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nf71628eae55c47189b7bdb07a034284a">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                        <spdx:checksumValue>aa67a169b0bba217aa0aa88a65346920c84c42447c36ba5f7ea65f422c1fe5d8</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/debian/compat</spdx:fileName>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="Ne4c1a8b92d994460987d940e983bf5e1">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#SPDXRef-item701573">
+                    <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/debian/rules</spdx:fileName>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N32868adf2b284a0bacc747c7f6169822">
+                        <spdx:checksumValue>868fbafd927761e6444c62a64c3d5bf231b84b95</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N5f740936fc3243d5bf824658cf838403">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>701ab6fdc295d69ca845ede94b879d44</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nbc26451956ed40bd912f5a5f1b77f69f">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                        <spdx:checksumValue>24f7d02d907ba70ff9b4f8d3d4fc02b2831907b8af8cce555b10980cd7dab0a9</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N44f46002150c483fabb2f863a488f2e2">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#SPDXRef-item701566">
+                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/.gitignore</spdx:fileName>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N910130c3821a44ab80ed8e2a50000925">
+                        <spdx:checksumValue>5fd15acff7d46c0ce1492fc1c1e0209f</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nb5803b0ca1b3483ba0ed5ab64f46ec2b">
+                        <spdx:checksumValue>5d30ecbc7a674118d484a0e4498a61fc54d0eb62</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nbf16ae7a609f44f9be389c3ad13e7bf9">
+                        <spdx:checksumValue>9119e9255825d91bbb60abaea62c52d83e83dbe384bd2dd3bfceec942ca31a2b</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N5d7f9055bc984639b6b3bf583a0a7719">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#SPDXRef-item701577">
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N4d89215a8b4940d48039e82949b14622">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>33c89083e3ee9e3fe70f6da2ce0e3388</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Ned31fc0eb5534a66b6b9a046053084c1">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                        <spdx:checksumValue>62c3b0f1619043ea53127054c5f21336f1f35eb46487dca0d7d8ca51ee574486</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Na382974d6bdd474a923fbcab78e4aa42">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                        <spdx:checksumValue>917de6058718af6f5ec8deeb909a34e02572c444</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
+                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/ChangeLog</spdx:fileName>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="Nead3bca91d124569aaa2b2ffe6c7239c">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#SPDXRef-item701593">
+                    <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#LicenseRef-LGPL-2.1-or-later"/>
+                    <spdx:copyrightText> Copyright (C) 2015 Carlos Rafael Giani </spdx:copyrightText>
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#LicenseRef-IJG-possibility"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#LicenseRef-LGPL-2.1-or-later"/>
+                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/imxvpuapi/imxvpuapi_vpulib.c</spdx:fileName>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N0b4d2feb73744541986b9e4619e19d1c">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                        <spdx:checksumValue>9e8dc9e9846ace262dab1e29c96f01e2d8883ce8081a41ffa732b5926ab3ea63</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Na970ab2dbd504249a304992e22334df6">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>7b70ce011c70d3cb98fad814711402b3</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N294dbc6164874a508d82eca76735cff2">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                        <spdx:checksumValue>87ac745f1bbf511505898063fcdf34904db6b7ed</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N73f358218aac492bb5a190b282100f1c">
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#SPDXRef-item701579">
+                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/example/h264_utils.c</spdx:fileName>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N5a6a1fc69a93429a8e335c2cf44ccebb">
+                        <spdx:checksumValue>17df48ecabc5c3781ead7534709953354640b2be2dea91794cb53525676ce103</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N1977985d3a784f57a6c01396c4c1060a">
+                        <spdx:checksumValue>51e66b0706e3e1143d06e79dcd9d8151</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N5fd52bf153424a3eba1cf6194c1dda05">
+                        <spdx:checksumValue>c68b21f6c2b4fa101e6971763fb80cbc2ff72fe9</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="Nae2e41d185e146e58ca37b4b2a518cf3">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#SPDXRef-item701565">
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N381aeaf0699245999ce6dbb92b0f6b75">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>77191b24c440bdb86c3677428758a9b5</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nf3e7b7bb32054ce49aec8733319046c4">
+                        <spdx:checksumValue>56f975aa89777d9b2540319446fcf096c18ee703</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N090c7ee0b1294fc0a2f6dcbb82640bd1">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                        <spdx:checksumValue>0de09bbce2778f7e98f21c3f88a004b87ac9c3540bb2ff6d98cc8441dbdbf804</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
+                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/VERSION</spdx:fileName>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N7c1300e4608541a4a6f95aeccd9eda92">
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#SPDXRef-item701575">
+                    <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
+                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/debian/changelog</spdx:fileName>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Ndeb4090d4b924e8786b218db2531f7b8">
+                        <spdx:checksumValue>8185bf411dc2eeeb6c675fcb80276b24b9afa0acc778a6cd7af68eb22cedd144</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Na818fd09c8884b0aaab0a011737b38f1">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>76a8db45d77bc0183dd553cd3dbc368b</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N3b569dfe0e83466e87a4de7c8d5bc586">
+                        <spdx:checksumValue>bd507f33382032446747b5267d5929ec210602ea</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N25036b6563834220921cb6caefd7a674">
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#SPDXRef-item701585">
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#LicenseRef-LGPL-2.1-or-later"/>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nbe012921ddc84d069cd58bff57ea8ac7">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>b108a46b5f3d650ca02fc4e9d4d63d46</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nc71de024f58e4f42902564287cc744da">
+                        <spdx:checksumValue>79af3f07e1bf5fa77be5c1aec74af8d1e6358879</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N5443ee8eb43544748cd9483a4f8b338e">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                        <spdx:checksumValue>7a2f2396d5b81c1d06106827339d3b8252700a64ab2810789c26f1be94dd395a</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#LicenseRef-LGPL-2.1-or-later"/>
+                    <spdx:copyrightText> Copyright (C) 2014 Carlos Rafael Giani </spdx:copyrightText>
+                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/example/jpeg-dec-example.c</spdx:fileName>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N3c5b0511b0a54b12b6166d389123f509">
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#SPDXRef-item701599">
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N05470fd743434d37ac8fde1dc499badd">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                        <spdx:checksumValue>ba26d244a069ad9a70e17058a0a475309a78799d</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nf14b064b4de84e5b8153b594eb6f0f24">
+                        <spdx:checksumValue>f911cddea8b9fa727caf1ed9a1f767160c29fd52fd9e59ba334d0fac43b9a847</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Ndcff9965c5c5416baa71a6a2bcdc3f63">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>68fe378e8441daf0dfa2b2c9979b1ec2</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/imxvpuapi/imxvpuapi.h</spdx:fileName>
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#LicenseRef-IJG-possibility"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#LicenseRef-LGPL-2.1-or-later"/>
+                    <spdx:copyrightText> Copyright (C) 2015 Carlos Rafael Giani </spdx:copyrightText>
+                    <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#LicenseRef-LGPL-2.1-or-later"/>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="Naec24aead0974268b52231ff50d224a1">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#SPDXRef-item701581">
+                    <spdx:copyrightText> Copyright (C) 2014 Carlos Rafael Giani </spdx:copyrightText>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N0d13f14393464219b0706b01a44465f7">
+                        <spdx:checksumValue>93bb36f0f58e0ad9433aa70eb2a5aa5e158ff55e457135db33dfc8676ddef757</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N483c067bf0d4486695881e85adb5350d">
+                        <spdx:checksumValue>088d8970c01e67356abc3be2bf5293b0</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N8267432473d841f58edb2f71957ea375">
+                        <spdx:checksumValue>83571d858c19267724da907ac826e1138c618779</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/example/jpeg-enc-example.c</spdx:fileName>
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#LicenseRef-LGPL-2.1-or-later"/>
+                    <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#LicenseRef-LGPL-2.1-or-later"/>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="Nc798eac9573b47fa952a3ec8a705b954">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#SPDXRef-item701600">
+                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/libimxvpuapi.pc.in</spdx:fileName>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nd479f066a251444e872a4981fba0a279">
+                        <spdx:checksumValue>78f6b391e52b3499e95bdca88fde87026d2162a4</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N5270bede61714e91a2f47c0fec9b360d">
+                        <spdx:checksumValue>e1dcdb17499bff4b54fc6fe743838300</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N960c05159d8c4962aef173bb8fe99cb5">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                        <spdx:checksumValue>0de49afdaddd41bf658838db37d71b89f1d7392d0c77b454c9d4698682a31a76</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="Ncb996ee06ec74d7c904cb064f12d79d6">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#SPDXRef-item701587">
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N68f5cc0b1eae4242975eb6d7a6039b0c">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>9455e62e26b99afaf63fa1fceca08a91</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nf9d74dd23132437791eacaae31a556c9">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                        <spdx:checksumValue>84952a4cb81efc9b339c60c04d7bcac1f7c144c1</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N4e908a64fbfc469e82edd641ddbd7e34">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                        <spdx:checksumValue>4d418aae4c589c5059795f333099de9c76eb225cd709d78c06215761cb242b22</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#LicenseRef-LGPL-2.1-or-later"/>
+                    <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#LicenseRef-LGPL-2.1-or-later"/>
+                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/example/encode-example.c</spdx:fileName>
+                    <spdx:copyrightText> Copyright (C) 2014 Carlos Rafael Giani </spdx:copyrightText>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="Nbca17d0884fa4369bffb977450d29c7f">
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#SPDXRef-item701596">
+                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/imxvpuapi/imxvpuapi_priv.h</spdx:fileName>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N7247bf99592448d789d462976d006e0b">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                        <spdx:checksumValue>5d3e838832faf08fd0881a3117d4d8262bf09f45e4cbcafe2bb5f1b1db4fa55d</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N5d9c3d99bba64004ad28ac0dd7824b5a">
+                        <spdx:checksumValue>2cd8030ce20bd3a7aa2c506e2ac1149d456ebc60</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Necd0f957323546f09cc77df83d53bf9c">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>4408172b3ab8e6fc73b197791ec651ea</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#LicenseRef-LGPL-2.1-or-later"/>
+                    <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#LicenseRef-LGPL-2.1-or-later"/>
+                    <spdx:copyrightText> Copyright (C) 2014 Carlos Rafael Giani </spdx:copyrightText>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N7e37bc9a110043889cdc5139cc5b8396">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#SPDXRef-item701584">
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Naeab68a107be471eadc4ae37a2065a71">
+                        <spdx:checksumValue>e126e7f79dd4d66559b621637a59f87b22dfe97256c4fe212e95010be1b3390a</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N9ca617e725c04ba2bb9a2b3c0b870879">
+                        <spdx:checksumValue>e3c3a23555b594db4a319482877545005c72f9ad</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N7bace7ac5dd54f1bbadfe7f0340fb5de">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>c9550182477730a588b19afb37f4e281</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/example/h264_utils.h</spdx:fileName>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="Ne13e5ffe242e46b8bee08c86f0404898">
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#SPDXRef-item701572">
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#LicenseRef-LGPL-2.1-or-later"/>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Ne511540395444c6c8db4992daf9b0765">
+                        <spdx:checksumValue>bb9806a8291d8e79b57bcb1e3a7155865b18ca62</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N29389842f8f649849bc308dcfd2c4efa">
+                        <spdx:checksumValue>4a8019159880f91dc6df4662ae06be40</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N5cad939f5d814d34a684ff7d90f8337c">
+                        <spdx:checksumValue>19666f5389963b222480fe11d150950e65072f807fd8a2c361d2ad918ff0ae66</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:copyrightText> Copyright: 2014-2015 Carlos Rafael Giani
+Copyright: 2015 Josua Mayer  </spdx:copyrightText>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/debian/copyright</spdx:fileName>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N0074691a905e48cdbe3268256f82d6eb">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#SPDXRef-item701583">
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N0210aa2bc6614bab91ac6cc991a70cd7">
+                        <spdx:checksumValue>6059782046824f95c15ee1c563ee357863040553dd083e292e5928e0d9820fcc</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N28ab8b88347441ecb8279d99b96dc6a9">
+                        <spdx:checksumValue>51e5a59069b9795c3e9cf7d63a21457ea7f01ba8</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nb4bb393a19a94f8e80ed12072cfba057">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>f2d41acf7385a1d23f116388916813f0</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#LicenseRef-LGPL-2.1-or-later"/>
+                    <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#LicenseRef-LGPL-2.1-or-later"/>
+                    <spdx:copyrightText> Copyright (C) 2014 Carlos Rafael Giani </spdx:copyrightText>
+                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/example/main.c</spdx:fileName>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N262be3e4da9c44c29883ca3a3c8b67ab">
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#SPDXRef-item701574">
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nd10f121c6218467e89754d887ccf26df">
+                        <spdx:checksumValue>8a9d6d2c53091a4215e2bf13f996800ffbdb7df1</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N8dce492816eb4cd98351301cf3e18135">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                        <spdx:checksumValue>9f5cb6e9884bdfd322a091c042bf8fdf86b07f51916620fe518879a4801cb6d4</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nfff40f30acc64796964d33a9a8e0d471">
+                        <spdx:checksumValue>a4043da681ab186ec8a6afa0dd54e4f6</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/debian/control</spdx:fileName>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="Na5aa6f4debda4a8d995f47fa8f34d69b">
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#SPDXRef-item701586">
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N159a1c8c5cbb457c920b5b2d05ebcd36">
+                        <spdx:checksumValue>a94238d21486087af074bad90b4454c2ee0df23b453baf79cdf9639159ab973c</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N6c8341e0053b448eafc4cafce54d0be1">
+                        <spdx:checksumValue>83ce4f36746aa6a46c0c9c8aac5caf04e92e2f9c</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N49997b5c700d4840a4739ba38d0055d6">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>47f4c4fe09320605dc71738ea695706e</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/example/main.h</spdx:fileName>
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#LicenseRef-LGPL-2.1-or-later"/>
+                    <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#LicenseRef-LGPL-2.1-or-later"/>
+                    <spdx:copyrightText> Copyright (C) 2014 Carlos Rafael Giani </spdx:copyrightText>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N49b89b78b0c4402ab09757e16d6f29f6">
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#SPDXRef-item701564">
+                    <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
+                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/wscript</spdx:fileName>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N72873768eb394d19839a62f5dbd93a7b">
+                        <spdx:checksumValue>0c9ac42576a9686326a8f1feac4a7eec5a6f14ff</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nb78b424e21ff491e90a6462c8632656d">
+                        <spdx:checksumValue>3cde132564815c6a2403b5f9fce52a57cc1e5c437a19b44f48d2351401ad9dda</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N315fdd2e1c7649e1afcb01ab8c4fd29a">
+                        <spdx:checksumValue>b48e5cc92043adca22d405ac351b387e</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N7e18e92530914ee8985bcc6e14f4192e">
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#SPDXRef-item701595">
+                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/imxvpuapi/imxvpuapi_fslwrapper.c</spdx:fileName>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N0ad462b2b11a4e6a88f07ba58d33079c">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                        <spdx:checksumValue>1d06c412f29b12f386147cd457a9b038b6d4c216</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nf3c3066deda24251b93ac8c34f9cb686">
                         <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
                         <spdx:checksumValue>a657628d2f30aedb84482d429f803957</spdx:checksumValue>
                       </spdx:Checksum>
                     </spdx:checksum>
                     <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N8f8a2b88a44d498081b46f20bddea419">
-                        <spdx:checksumValue>1d06c412f29b12f386147cd457a9b038b6d4c216</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Ndeaf6b47581242ff9eb4be7a58584185">
+                      <spdx:Checksum rdf:nodeID="N47b94b663aed4415bd9ce9d5332b0381">
                         <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
                         <spdx:checksumValue>cb532d8e5817ff66f9cd8921188aa9237848e4ae92b670f8ae91efa7da6bb8c4</spdx:checksumValue>
                       </spdx:Checksum>
                     </spdx:checksum>
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#LicenseRef-LGPL-2.1-or-later"/>
+                    <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#LicenseRef-LGPL-2.1-or-later"/>
                     <spdx:copyrightText> Copyright (C) 2014 Carlos Rafael Giani </spdx:copyrightText>
-                    <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#LicenseRef-LGPL-2.1-or-later"/>
-                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/imxvpuapi/imxvpuapi_fslwrapper.c</spdx:fileName>
                   </spdx:File>
                 </spdx:relatedSpdxElement>
-                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
               </spdx:Relationship>
             </spdx:relationship>
             <spdx:relationship>
-              <spdx:Relationship rdf:nodeID="N10a7423fb95147cfba9acca92bc69d96">
+              <spdx:Relationship rdf:nodeID="Nb149654091874175bb55e4a435b660f3">
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
                 <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#SPDXRef-item701566">
-                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/.gitignore</spdx:fileName>
-                    <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#SPDXRef-item701582">
+                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/example/decode-example.c</spdx:fileName>
                     <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Ne430980aa71f4dd6a6520b0a8570f4f2">
-                        <spdx:checksumValue>9119e9255825d91bbb60abaea62c52d83e83dbe384bd2dd3bfceec942ca31a2b</spdx:checksumValue>
+                      <spdx:Checksum rdf:nodeID="N441416164b7e4935bd4c303faae2d197">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                        <spdx:checksumValue>22bcccf25c4c062f2f6c3b47f415116fdd53868d</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N8d141515cf3542deaaf63d063845320a">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>f9981b9a7037beb307823383221b9df4</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N03218dd5f14e41298106135fc58507df">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                        <spdx:checksumValue>b7c78ab2eba64c23f50ab582b0d393244c075b21ae304611fc550eef0051b615</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#LicenseRef-LGPL-2.1-or-later"/>
+                    <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#LicenseRef-LGPL-2.1-or-later"/>
+                    <spdx:copyrightText> Copyright (C) 2014 Carlos Rafael Giani </spdx:copyrightText>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N88d6988f97484c7da7ccdd91f602c3cf">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#SPDXRef-item701598">
+                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/imxvpuapi/imxvpuapi_jpeg.h</spdx:fileName>
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#LicenseRef-LGPL-2.1-or-later"/>
+                    <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#LicenseRef-LGPL-2.1-or-later"/>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N1c9f21ca059244898df61ff3095f3f73">
+                        <spdx:checksumValue>6573f5ad8e512ef06c6cb0f18a5f2b8bb1a0dd9e125bec66981a61d544b1ee97</spdx:checksumValue>
                         <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
                       </spdx:Checksum>
                     </spdx:checksum>
                     <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N8a6a5b0b6eec4003bc46ded949495b37">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
-                        <spdx:checksumValue>5d30ecbc7a674118d484a0e4498a61fc54d0eb62</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N9b421864e8124862b9b5419db680e5cc">
+                      <spdx:Checksum rdf:nodeID="Nbe16b0213bfb4949a6672b34782b4750">
+                        <spdx:checksumValue>f35228c465e92aa292e6d8d895790e6d</spdx:checksumValue>
                         <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
-                        <spdx:checksumValue>5fd15acff7d46c0ce1492fc1c1e0209f</spdx:checksumValue>
                       </spdx:Checksum>
                     </spdx:checksum>
-                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                  </spdx:File>
-                </spdx:relatedSpdxElement>
-                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
-              </spdx:Relationship>
-            </spdx:relationship>
-            <spdx:relationship>
-              <spdx:Relationship rdf:nodeID="Nd350b77bfef1411cad9c69aa92085662">
-                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
-                <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#SPDXRef-item701591">
                     <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N798f63a8384449219eff8ae62cd48021">
+                      <spdx:Checksum rdf:nodeID="N9900aee64a8b47c4a343012b20bcf2e5">
+                        <spdx:checksumValue>4e067571be98386d8062f6a73b6910df1016cd97</spdx:checksumValue>
                         <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
-                        <spdx:checksumValue>09cbb385694cfc0c0fc11d89278b28e45509f06e</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N75690c1785544624afb939cd66cc4d46">
-                        <spdx:checksumValue>81a503f4262c21ed630c9bdd1e9674e0e40a7264e950ce39aa6b1e60433a6d85</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N9bee17b4abf84a8bbd6b1ca869e97a3d">
-                        <spdx:checksumValue>b494be53ac2bdc2e1b6a2ae2299faa71</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
                       </spdx:Checksum>
                     </spdx:checksum>
                     <spdx:copyrightText> Copyright (C) 2014 Carlos Rafael Giani </spdx:copyrightText>
-                    <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#LicenseRef-LGPL-2.1-or-later"/>
-                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/imxvpuapi/imxvpuapi.c</spdx:fileName>
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#LicenseRef-LGPL-2.1-or-later"/>
-                  </spdx:File>
-                </spdx:relatedSpdxElement>
-              </spdx:Relationship>
-            </spdx:relationship>
-            <spdx:relationship>
-              <spdx:Relationship rdf:nodeID="Nb1e8124f960b45f5b5e33b50ddb5fb14">
-                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
-                <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#SPDXRef-item701573">
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N278059bccae14da0ac9c10e1766e4293">
-                        <spdx:checksumValue>701ab6fdc295d69ca845ede94b879d44</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Nec9c025f5c39435cb67b1c323aadb05e">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
-                        <spdx:checksumValue>24f7d02d907ba70ff9b4f8d3d4fc02b2831907b8af8cce555b10980cd7dab0a9</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N39124e44333444ec9bf78e56fc7ed4bb">
-                        <spdx:checksumValue>868fbafd927761e6444c62a64c3d5bf231b84b95</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/debian/rules</spdx:fileName>
-                    <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
-                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                  </spdx:File>
-                </spdx:relatedSpdxElement>
-              </spdx:Relationship>
-            </spdx:relationship>
-            <spdx:relationship>
-              <spdx:Relationship rdf:nodeID="N3baf3e0f47354ddb86ff2145df456dc6">
-                <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#SPDXRef-item701594">
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Nd6bb78be161b49929b7a98f0442341ba">
-                        <spdx:checksumValue>2dec741a1a41baa52c251ed64a82c961</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N0cf400f3eaa34438b6bc96de334d0619">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
-                        <spdx:checksumValue>537c58a7ffced145f1a73a474a730a5d65ac78854d4f2ebe806d5203314ff0fa</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Nfe65e92442a349598ed542c7b29982cd">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
-                        <spdx:checksumValue>2019140c9dc95473c81de96aadd856250ec9603f</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                    <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
-                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/imxvpuapi/imxvpuapi_parse_jpeg.c</spdx:fileName>
                   </spdx:File>
                 </spdx:relatedSpdxElement>
                 <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
               </spdx:Relationship>
             </spdx:relationship>
             <spdx:relationship>
-              <spdx:Relationship rdf:nodeID="Ndfc90876e66449c4957d89a7ff97f138">
+              <spdx:Relationship rdf:nodeID="N5ddf6f67165f4d078ff619eb7bdad60f">
                 <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#SPDXRef-item701563">
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#SPDXRef-item701597">
+                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/imxvpuapi/imxvpuapi_parse_jpeg.h</spdx:fileName>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N53cd2b2e965e46a3ba3ed70219ab1ff6">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>935d3406b4d411cb562a2735c2c05bac</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N50e6637b56454cba9a541a517fd8579d">
+                        <spdx:checksumValue>78596e3a7c7fdad1c49f694c549ec0c920a84f5ce1bfe9bc76f24fec404f31ef</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N25a6731efaee4b3d9bf74970600b4be1">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                        <spdx:checksumValue>bab5b691d49217337e41ec5cf48b5d26d4c65f81</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="Nbd4e7317c9b14458808fe039e161044d">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#SPDXRef-item701589">
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#LicenseRef-BSD-3-Clause-HP"/>
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#LicenseRef-BSD-3-Clause"/>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N13b5801badfb41378cc7d613877f409c">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                        <spdx:checksumValue>4cea2b2c4cf74cc9d27ab8ca112c0de2404309a2</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nb769dee8db314f64a5cbe96c6951c70f">
+                        <spdx:checksumValue>13d74d9d91a20a54290dd98d033baf19bfe31ed4fd2720e9fadc92469d4fa9e0</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N3b8b16e24bb34c0fae650a07c4198637">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>2bbda956b4a340bf5dbfe07b3ea51068</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/waf</spdx:fileName>
+                    <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#LicenseRef-BSD-3-Clause-231b5da5f8398b762831172efc5d6ee9"/>
+                    <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N3e08581fb94f486ab2d12fecb9eb7128">
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#SPDXRef-item701588">
+                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/example/encode-example-writecb.c</spdx:fileName>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nc646f6124f8347319794aad125060dfb">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>8c23d78c378b236170e493cfa996ff60</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N5be49c3d13a247de83b1cebd0fb434e6">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                        <spdx:checksumValue>20238ca966eecbf6973d2bb97c3c6e594465aaed</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nf6144c4318c446c4959c5f76bdf6dcb2">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                        <spdx:checksumValue>339b85f0bd980b6c7188c8bfc52a41f869575d21c3a576511fe026414e9043b6</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:copyrightText> Copyright (C) 2014 Carlos Rafael Giani </spdx:copyrightText>
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#LicenseRef-LGPL-2.1-or-later"/>
+                    <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#LicenseRef-LGPL-2.1-or-later"/>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="Na1ada4408b294b9a8e6bd9bbdd2f7998">
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#SPDXRef-item701563">
+                    <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#LicenseRef-License-of-GNU-Licenses"/>
+                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/LICENSE</spdx:fileName>
+                    <spdx:copyrightText> Copyright (C) 1991, 1999 Free Software Foundation, Inc. </spdx:copyrightText>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N2efe4c3a01d344e1a15aa573e5f93d61">
+                        <spdx:checksumValue>38fa42a5a6425b26d2919b17b1527324</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nfaea9c078bb3475eaef15d1a2bde0dc9">
+                        <spdx:checksumValue>4bb33cc4cd956b56b779b501f18cae46a9e26f8c8500cca86ed758b8bc5e1788</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N0c1d6b01e8d042f3a43efa2e0e7214e9">
+                        <spdx:checksumValue>2bbaa4096bf351fab33e2b9d669b8a5f1ef1c08d</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#LicenseRef-LGPL-2.1-only"/>
                     <spdx:licenseComments> The file contains the text of the LGPL-2.1. The text of the license is licensed under:
 
 Everyone is permitted to copy and distribute verbatim copies
 of this license document, but changing it is not allowed.
 
 Thus we concluded License-of-GNU-Licenses as license of this file. </spdx:licenseComments>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N91ecf281f7d74b3bb0ce0c6c637db84a">
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#SPDXRef-item701569">
                     <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N42c004e0232647f6885b4737cbaa47f3">
-                        <spdx:checksumValue>38fa42a5a6425b26d2919b17b1527324</spdx:checksumValue>
+                      <spdx:Checksum rdf:nodeID="Nf3ac446353a74df6906f77589e133507">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                        <spdx:checksumValue>b76a5adaa1a672f4af1680d303cf7cbc0cd0de84</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N73d9a0bfff554756b1b46c04c0fb9568">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                        <spdx:checksumValue>70331df42f288e495921044b59215a2bef15bea8e25a7d117305cf8617f43b60</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N65f206173fb844e3bcf050d6bf78af8b">
+                        <spdx:checksumValue>ae36eae8ff11a8c9db3410c417564664</spdx:checksumValue>
                         <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
                       </spdx:Checksum>
                     </spdx:checksum>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
+                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/debian/libimxvpuapi-dev.install</spdx:fileName>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N76895cd45472452ab766332a39da5573">
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#SPDXRef-item701594">
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
                     <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N6e93073861bf412294cf88367e26e32a">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
-                        <spdx:checksumValue>2bbaa4096bf351fab33e2b9d669b8a5f1ef1c08d</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Ncfb9759b05a3476881bf3d011c22d0c4">
-                        <spdx:checksumValue>4bb33cc4cd956b56b779b501f18cae46a9e26f8c8500cca86ed758b8bc5e1788</spdx:checksumValue>
+                      <spdx:Checksum rdf:nodeID="Nc977747e0e0a4eee85d7abb3a817cdde">
+                        <spdx:checksumValue>537c58a7ffced145f1a73a474a730a5d65ac78854d4f2ebe806d5203314ff0fa</spdx:checksumValue>
                         <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
                       </spdx:Checksum>
                     </spdx:checksum>
-                    <spdx:copyrightText> Copyright (C) 1991, 1999 Free Software Foundation, Inc.
-copyright the library, and (2) we offer you this license, which gives you legal permission to copy, distribute and/or modify the library.
-copyright law: that is to say, a work containing the Library or a portion of it, either verbatim or with modifications and/or translated straightforwardly into another language. (Hereinafter, translation is included without limitation in the term "modification".)
-copyrighted interfaces, the
-copyrighted by the Free Software Foundation, write to the Free Software Foundation; we sometimes make exceptions for this. Our decision will be guided by the two goals of preserving the free status of all derivatives of our free software and of promoting the sharing and reuse of software generally.
-copyright" line and a pointer to where the full notice is found.
-Copyright (C) {year} {fullname}
-copyright disclaimer" for the library, if necessary. Here is a sample; alter the names:
-copyright interest in the library `Frob' (a library for tweaking knobs) written by James Random Hacker. </spdx:copyrightText>
-                    <spdx:licenseConcluded>
-                      <spdx:ExtractedLicensingInfo rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#LicenseRef-License-of-GNU-Licenses">
-                        <spdx:extractedText> Everyone is permitted to copy and distribute verbatim copies
-of this license document, but changing it is not allowed. </spdx:extractedText>
-                        <spdx:licenseId>LicenseRef-License-of-GNU-Licenses</spdx:licenseId>
-                        <spdx:name>License-of-GNU-Licenses</spdx:name>
-                      </spdx:ExtractedLicensingInfo>
-                    </spdx:licenseConcluded>
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#LicenseRef-LGPL-2.1-only"/>
-                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/LICENSE</spdx:fileName>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N4b1dd6c6bb0849328c850c1dc14042a7">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>2dec741a1a41baa52c251ed64a82c961</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nc4ecc83e301a4ea890720452081bc0a9">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                        <spdx:checksumValue>2019140c9dc95473c81de96aadd856250ec9603f</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
+                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/imxvpuapi/imxvpuapi_parse_jpeg.c</spdx:fileName>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:relationship>
+              <spdx:Relationship rdf:nodeID="N51cd6c7a341041a7b15dae1695f72011">
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#SPDXRef-item701592">
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#LicenseRef-LGPL-2.1-or-later"/>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nd69e350acde54396870cdc2d0b66ab54">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                        <spdx:checksumValue>abf6b28a46e0b0b253944d2dd261d5eb4fed6a42732aed2ce5ea4a1e8a77bec2</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N898c637be2ae4145b8d8c27395fbc1cc">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                        <spdx:checksumValue>e1d4093f701e6488c71d87470d747c79c81a7dc3</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Nb8d78eb51e3943dc8f3badcc2d1f31b2">
+                        <spdx:checksumValue>f6205976593ebafd4abe02ed6cbc0c12</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#LicenseRef-LGPL-2.1-or-later"/>
+                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/imxvpuapi/imxvpuapi_jpeg.c</spdx:fileName>
+                    <spdx:copyrightText> Copyright (C) 2014 Carlos Rafael Giani </spdx:copyrightText>
                   </spdx:File>
                 </spdx:relatedSpdxElement>
                 <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
               </spdx:Relationship>
             </spdx:relationship>
             <spdx:relationship>
-              <spdx:Relationship rdf:nodeID="N79c72d02f70f448099cda6834fb84d57">
+              <spdx:Relationship rdf:nodeID="N47d48abf8bcd438d86563ac2259798ef">
                 <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#SPDXRef-item701577">
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#SPDXRef-item701601">
                     <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N182a1713f16c41b5b7e291734d63e859">
-                        <spdx:checksumValue>33c89083e3ee9e3fe70f6da2ce0e3388</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N980104b698ae4549943e64bee28a9abc">
-                        <spdx:checksumValue>917de6058718af6f5ec8deeb909a34e02572c444</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N845026e3295a4607a90a4134a88ce24f">
-                        <spdx:checksumValue>62c3b0f1619043ea53127054c5f21336f1f35eb46487dca0d7d8ca51ee574486</spdx:checksumValue>
+                      <spdx:Checksum rdf:nodeID="N0b5bab8aed9941b9b48d4f1c54b42d87">
+                        <spdx:checksumValue>c726631125e03d5e595560fc6b886f77b700f96ab0af317c9c4d41080a1c3227</spdx:checksumValue>
                         <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N1699c14fd75b474f904d5004d08d5f7b">
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>2378fb350604952ce5439cfb0fa8a476</spdx:checksumValue>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="Ne314b22adb63485498f506871392d7c3">
+                        <spdx:checksumValue>e087670ecc6a05f82e43ae70e59abe84fa2abcee</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
                       </spdx:Checksum>
                     </spdx:checksum>
                     <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/ChangeLog</spdx:fileName>
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#LicenseRef-LGPL-2.1-only"/>
                     <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
+                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/README.md</spdx:fileName>
                   </spdx:File>
                 </spdx:relatedSpdxElement>
                 <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
               </spdx:Relationship>
             </spdx:relationship>
             <spdx:relationship>
-              <spdx:Relationship rdf:nodeID="N1d6f82284dae416084ef30f6bc0a2184">
+              <spdx:Relationship rdf:nodeID="Ne69154281ed04dcea5a673fb12376c1e">
                 <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#SPDXRef-item701588">
-                    <spdx:copyrightText> Copyright (C) 2014 Carlos Rafael Giani </spdx:copyrightText>
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#SPDXRef-item701591">
+                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#LicenseRef-LGPL-2.1-or-later"/>
                     <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Ndae7bd630aa64c1f88d2fff2ff794c09">
-                        <spdx:checksumValue>8c23d78c378b236170e493cfa996ff60</spdx:checksumValue>
+                      <spdx:Checksum rdf:nodeID="N9220fbce0ce44080a257ed2a2ffc23da">
+                        <spdx:checksumValue>b494be53ac2bdc2e1b6a2ae2299faa71</spdx:checksumValue>
                         <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
                       </spdx:Checksum>
                     </spdx:checksum>
                     <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N967d047fb03349e5a5f71706a45af346">
-                        <spdx:checksumValue>20238ca966eecbf6973d2bb97c3c6e594465aaed</spdx:checksumValue>
+                      <spdx:Checksum rdf:nodeID="N0cbbe078350645d28db542fbba8ac4e1">
+                        <spdx:checksumValue>09cbb385694cfc0c0fc11d89278b28e45509f06e</spdx:checksumValue>
                         <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
                       </spdx:Checksum>
                     </spdx:checksum>
                     <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Nb549295309e042c99b6b1a5bfa01a475">
-                        <spdx:checksumValue>339b85f0bd980b6c7188c8bfc52a41f869575d21c3a576511fe026414e9043b6</spdx:checksumValue>
+                      <spdx:Checksum rdf:nodeID="Nda90bd1f95254206a6bb9b6c11aaaace">
                         <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                        <spdx:checksumValue>81a503f4262c21ed630c9bdd1e9674e0e40a7264e950ce39aa6b1e60433a6d85</spdx:checksumValue>
                       </spdx:Checksum>
                     </spdx:checksum>
-                    <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#LicenseRef-LGPL-2.1-or-later"/>
-                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/example/encode-example-writecb.c</spdx:fileName>
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#LicenseRef-LGPL-2.1-or-later"/>
+                    <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#LicenseRef-LGPL-2.1-or-later"/>
+                    <spdx:copyrightText> Copyright (C) 2014 Carlos Rafael Giani </spdx:copyrightText>
+                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/imxvpuapi/imxvpuapi.c</spdx:fileName>
                   </spdx:File>
                 </spdx:relatedSpdxElement>
                 <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
               </spdx:Relationship>
             </spdx:relationship>
             <spdx:relationship>
-              <spdx:Relationship rdf:nodeID="Nb28eaf049d9144728d06de6835a9a2ea">
+              <spdx:Relationship rdf:nodeID="N3e1176ed8c404482a3b58fa87307f23c">
                 <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#SPDXRef-item701585">
+                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718087255.spdx#SPDXRef-item701580">
                     <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Ne0409f9ceab8467dba87449f026bbb5d">
+                      <spdx:Checksum rdf:nodeID="N94ead59317ae41c9afcee23c45d72927">
                         <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
-                        <spdx:checksumValue>79af3f07e1bf5fa77be5c1aec74af8d1e6358879</spdx:checksumValue>
+                        <spdx:checksumValue>e48b51d85bac4cdce0ee3c1c680baf66f77fd23e</spdx:checksumValue>
                       </spdx:Checksum>
                     </spdx:checksum>
                     <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N1e94840b7913425ab3d5796b2e52e323">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
-                        <spdx:checksumValue>7a2f2396d5b81c1d06106827339d3b8252700a64ab2810789c26f1be94dd395a</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N78682982e4f54f0f83b8b6083a9b16a2">
-                        <spdx:checksumValue>b108a46b5f3d650ca02fc4e9d4d63d46</spdx:checksumValue>
+                      <spdx:Checksum rdf:nodeID="N3866647adc3a48a5aa53b2c59a0ebec2">
                         <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                        <spdx:checksumValue>939dec23622659d23e219a2e2d215be5</spdx:checksumValue>
                       </spdx:Checksum>
                     </spdx:checksum>
-                    <spdx:copyrightText> Copyright (C) 2014 Carlos Rafael Giani </spdx:copyrightText>
-                    <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#LicenseRef-LGPL-2.1-or-later"/>
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#LicenseRef-LGPL-2.1-or-later"/>
-                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/example/jpeg-dec-example.c</spdx:fileName>
+                    <spdx:checksum>
+                      <spdx:Checksum rdf:nodeID="N465bc66927754bb3bdfd2ffbfec97f7b">
+                        <spdx:checksumValue>fbd0cec0c33fba2dd390f5ad631d96cde15c3f7b998f37142a27d3808d35bb86</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+                    <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
+                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/example/test-320x240.h264</spdx:fileName>
                   </spdx:File>
                 </spdx:relatedSpdxElement>
                 <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
               </spdx:Relationship>
             </spdx:relationship>
-            <spdx:relationship>
-              <spdx:Relationship rdf:nodeID="Nd4e539f5c7b9499e9d18b8f1ba95ed17">
-                <spdx:relatedSpdxElement>
-                  <spdx:File rdf:about="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#SPDXRef-item701581">
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Nc5d411acdb9b46dda64be3fa4fafe1df">
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
-                        <spdx:checksumValue>088d8970c01e67356abc3be2bf5293b0</spdx:checksumValue>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="N7ae53a2534f346feabffc5d5974f0605">
-                        <spdx:checksumValue>93bb36f0f58e0ad9433aa70eb2a5aa5e158ff55e457135db33dfc8676ddef757</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:checksum>
-                      <spdx:Checksum rdf:nodeID="Nc181ad2461ec4c83b45f925ace0ead23">
-                        <spdx:checksumValue>83571d858c19267724da907ac826e1138c618779</spdx:checksumValue>
-                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
-                      </spdx:Checksum>
-                    </spdx:checksum>
-                    <spdx:fileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar/libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e/example/jpeg-enc-example.c</spdx:fileName>
-                    <spdx:copyrightText> Copyright (C) 2014 Carlos Rafael Giani </spdx:copyrightText>
-                    <spdx:licenseConcluded rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#LicenseRef-LGPL-2.1-or-later"/>
-                    <spdx:licenseInfoInFile rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#LicenseRef-LGPL-2.1-or-later"/>
-                  </spdx:File>
-                </spdx:relatedSpdxElement>
-                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
-              </spdx:Relationship>
-            </spdx:relationship>
-            <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
-            <spdx:licenseComments> licenseInfoInFile determined by Scanners:
- - nomos ("4.4.0".903df0)
- - monk ("4.4.0".903df0)
- - ojo ("4.4.0".903df0) </spdx:licenseComments>
-            <spdx:packageVerificationCode>
-              <spdx:PackageVerificationCode rdf:nodeID="N41c88521d1ef4d609dc95e058b76f694">
-                <spdx:packageVerificationCodeValue>6ca52ae79ac58bf5e5c303fdf28abbb7535968c1</spdx:packageVerificationCodeValue>
-              </spdx:PackageVerificationCode>
-            </spdx:packageVerificationCode>
-            <spdx:packageFileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz</spdx:packageFileName>
-            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-            <spdx:licenseInfoFromFiles rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
             <spdx:checksum>
-              <spdx:Checksum rdf:nodeID="Nf4fc941cbe58468680324a23606ba415">
-                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
+              <spdx:Checksum rdf:nodeID="N137ba71b3c7d4d15a70b47719a41fc05">
                 <spdx:checksumValue>fe736e951e8af8b974354c8faafa6fafcd204f565c4c3e9dc787572b7aecf08d</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256"/>
               </spdx:Checksum>
             </spdx:checksum>
             <spdx:checksum>
-              <spdx:Checksum rdf:nodeID="Na61c6e933c0a45f28f8dba97d10e7bd1">
-                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
-                <spdx:checksumValue>b2405f72ef888de3faf75bab50f5aaa2</spdx:checksumValue>
-              </spdx:Checksum>
-            </spdx:checksum>
-            <spdx:checksum>
-              <spdx:Checksum rdf:nodeID="Na4887ab3ca424b42bca272106962b1b5">
+              <spdx:Checksum rdf:nodeID="Nb5253c7b21d740ae85fade8f73875c50">
                 <spdx:checksumValue>e939d4115abb44bf4b12431e371a54e76caaf186</spdx:checksumValue>
                 <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
               </spdx:Checksum>
             </spdx:checksum>
-            <spdx:downloadLocation rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
-            <spdx:filesAnalyzed rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</spdx:filesAnalyzed>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="Nacfdaadf84564a739fa322787ea95540">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+                <spdx:checksumValue>b2405f72ef888de3faf75bab50f5aaa2</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
             <spdx:licenseDeclared rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:packageVerificationCode>
+              <spdx:PackageVerificationCode rdf:nodeID="N651cdd9fadc743e4b8cd8e37597f6f52">
+                <spdx:packageVerificationCodeValue>6ca52ae79ac58bf5e5c303fdf28abbb7535968c1</spdx:packageVerificationCodeValue>
+              </spdx:PackageVerificationCode>
+            </spdx:packageVerificationCode>
             <spdx:name>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz</spdx:name>
+            <spdx:packageFileName>libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz</spdx:packageFileName>
+            <spdx:licenseInfoFromFiles rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:downloadLocation rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:licenseComments> licenseInfoInFile determined by Scanners:
+ - nomos ("4.4.0".903df0)
+ - monk ("4.4.0".903df0)
+ - ojo ("4.4.0".903df0) </spdx:licenseComments>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:copyrightText>NOASSERTION</spdx:copyrightText>
+            <spdx:filesAnalyzed rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</spdx:filesAnalyzed>
           </spdx:Package>
         </spdx:relatedSpdxElement>
         <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_describes"/>
       </spdx:Relationship>
     </spdx:relationship>
-    <spdx:hasExtractedLicensingInfo rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#LicenseRef-LGPL-2.1-or-later"/>
-    <spdx:hasExtractedLicensingInfo rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#LicenseRef-IJG-possibility"/>
-    <spdx:hasExtractedLicensingInfo rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#LicenseRef-BSD-3-Clause"/>
-    <spdx:hasExtractedLicensingInfo rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#LicenseRef-License-of-GNU-Licenses"/>
-    <spdx:hasExtractedLicensingInfo rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#LicenseRef-LGPL-2.1-only"/>
-    <spdx:hasExtractedLicensingInfo rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#LicenseRef-BSD-3-Clause-231b5da5f8398b762831172efc5d6ee9"/>
-    <spdx:hasExtractedLicensingInfo rdf:resource="http://fossology-6674c79fbf-2qzn2/repo/SPDX2TV_libimxvpuapi-3a1ee3a54fe93813868d38c3d32ea065b59e227e.tar.gz_1718023714.spdx#LicenseRef-BSD-3-Clause-HP"/>
-    <spdx:name>/srv/fossology/repository/report</spdx:name>
+    <spdx:specVersion>SPDX-2.3</spdx:specVersion>
     <spdx:creationInfo>
-      <spdx:CreationInfo rdf:nodeID="Nf4be1d9c6d004599b5605a5e28529b3c">
-        <spdx:created>2024-06-10T12:48:34Z</spdx:created>
-        <spdx:creator>Tool: fossology-4.4.0</spdx:creator>
+      <spdx:CreationInfo rdf:nodeID="N3d05326506ce4511afaefaa6b8707b2d">
+        <spdx:licenseListVersion>3.22</spdx:licenseListVersion>
+        <spdx:created>2024-06-11T06:27:35Z</spdx:created>
         <spdx:creator>Person: Sascha Dierberg</spdx:creator>
+        <spdx:creator>Tool: fossology-4.4.0</spdx:creator>
         <rdfs:comment>
 This document was created using license information and a generator from Fossology.
 It contains the license and copyright analysis of libimxvpuapi 3a1ee3a54fe93813868d38c3d32ea065b59e227e.
 Please check "LicenseComments" for explanations of concluded licenses.
 </rdfs:comment>
-        <spdx:licenseListVersion>3.22</spdx:licenseListVersion>
       </spdx:CreationInfo>
     </spdx:creationInfo>
-    <spdx:specVersion>SPDX-2.3</spdx:specVersion>
+    <spdx:dataLicense rdf:resource="http://spdx.org/licenses/CC0-1.0"/>
   </spdx:SpdxDocument>
 </rdf:RDF>

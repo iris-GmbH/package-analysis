@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: Jasper Orschulko <Jasper.Orschulko@iris-sensing.com>
+# SPDX-License-Identifier: CC0-1.0
+
 name: 'Upstream Sync'
 
 on:

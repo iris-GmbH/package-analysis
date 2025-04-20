@@ -1,6 +1,6 @@
 ================================================================================
 
-xz-5.2.5
+xz-5.8.1
 
 --------------------------------------------------------------------------------
 
@@ -41,15 +41,33 @@ Gettext-Permission-Notice
 This file is free software; the Free Software Foundation
 gives unlimited permission to copy and/or distribute it,
 with or without modifications, as long as this notice is preserved.
+This file is offered as-is, without any warranty.
 
 This file can be used in projects which are not available under
-the GNU General Public License or the GNU Library General Public
+the GNU General Public License or the GNU Lesser General Public
 License but which still want to provide support for the GNU gettext
 functionality.
 Please note that the actual code of the GNU gettext library is covered
-by the GNU Library General Public License, and the rest of the GNU
+by the GNU Lesser General Public License, and the rest of the GNU
 gettext package is covered by the GNU General Public License.
 They are  not  in the public domain.
+
+--------------------------------------------------------------------------------
+
+Gettext-Permission-Notice
+
+This file is free software; the Free Software Foundation
+gives unlimited permission to copy and/or distribute it,
+with or without modifications, as long as this notice is preserved.
+
+This file can be used in projects which are not available under
+the GNU General Public License or the GNU Lesser General Public
+License but which still want to provide support for the GNU gettext
+functionality.
+Please note that the actual code of the GNU gettext library is covered
+by the GNU Lesser General Public License, and the rest of the GNU
+gettext package is covered by the GNU General Public License.
+They are *not* in the public domain.
 
 --------------------------------------------------------------------------------
 
@@ -2122,6 +2140,13 @@ using GNU Libtool, you may include this file under the same
 distribution terms that you use for the rest of that program.
 --------------------------------------------------------------------------------
 
+Permission-Notice
+
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+--------------------------------------------------------------------------------
+
 License-of-GNU-Licenses
 Everyone is permitted to copy and distribute verbatim copies
 of this license document, but changing it is not allowed.
@@ -2132,14 +2157,6 @@ FSFULLR
 This file is free software; the Free Software Foundation
 gives unlimited permission to copy and/or distribute it,
 with or without modifications, as long as this notice is preserved.
-
---------------------------------------------------------------------------------
-
-FSFUL
-
-This file, Rules-quot, and its auxiliary files (listed under
-DISTFILES.common.extra1) are free software; the Free Software Foundation
-gives unlimited permission to use, copy, distribute, and modify them.
 
 --------------------------------------------------------------------------------
 
@@ -2160,7 +2177,7 @@ gives unlimited permission to copy, distribute and modify it.
 FSFUL
 
 This config.lt script is free software; the Free Software Foundation
-gives unlimited permision to copy, distribute and modify it.
+gives unlimited permission to copy, distribute and modify it.
 
 --------------------------------------------------------------------------------
 
@@ -2179,6 +2196,22 @@ Copying and distribution of this file, with or without modification,
 are permitted in any medium without royalty provided the copyright
 notice and this notice are preserved. This file is offered as-is,
 without any warranty.
+
+--------------------------------------------------------------------------------
+
+0BSD
+
+Permission to use, copy, modify, and/or distribute this
+software for any purpose with or without fee is hereby granted.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL
+WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL
+THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR
+CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT,
+NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN
+CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 --------------------------------------------------------------------------------
 
@@ -3060,85 +3093,87 @@ provided.
 
 Copyright notices
 
-Copyright 1996-2019 Free Software Foundation, Inc. 2001 Originally by Gordon
+Copyright 1996-2024 Free Software Foundation, Inc. 2001 Originally by Gordon
 Matzigkeit <gord@gnu.ai.mit.edu>, 1996
-Copyright 1992-2018 Free Software Foundation, Inc.
+Copyright 1992-2024 Free Software Foundation, Inc.
+Copyright (©) The XZ Utils authors and contributors Мирослав Николић
+<miroslavnikolic@rocketmail.com>, 2025.
 Copyright (c) 2019 Marc Stevens <marc.stevens@cwi.nl>
-Copyright (c) 2015 Lasse Collin <lasse.collin@tukaani.org>
-Copyright (c) 2014 Google Inc.
 Copyright (c) 2011 Daniel Richard G. <skunk@iSKUNK.ORG>
 Copyright (c) 2008 Steven G. Johnson <stevenj@alum.mit.edu>
+Copyright (C) The XZ Utils authors and contributors
 Copyright (C) Michael D. Brennan
-Copyright (C) 2014 Free Software Foundation, Inc.
-Copyright (C) 2012 Free Software Foundation, Inc.
-Copyright (C) 2011 Free Software Foundation, Inc. 
-Copyright (C) 2010-2018 Bootstrap Authors
-Copyright (C) 2009-2018 Free Software Foundation, Inc.
-Copyright (C) 2007-2008 Free Software Foundation, Inc.
+Copyright (C) Free Software Foundation, Inc.
+Copyright (C) 2024, 2025 The XZ Utils authors and contributors Cristian Othón
+Martínez Vera <cfuga@cfuga.mx>, 2022, 2023, 2024, 2025.
+Copyright (C) 2024 Free Software Foundation, Inc. Written by Bruno Haible
+Copyright (C) 2024 Free Software Foundation, Inc.
+Copyright (C) 2023-2024 Free Software Foundation, Inc.
+Copyright (C) 2023 Free Software Foundation, Inc.
+Copyright (C) 2022-2024 Free Software Foundation, Inc.
+Copyright (C) 2021 Debian French l10n team <debian-l10n-french@lists.debian.org>
+Translator bubu <bubub@no-log.org>, 2021.
+Copyright (C) 2021 Debian French l10n team <debian-l10n-french@lists.debian.org>
+Copyright (C) 2011-2024 Free Software Foundation, Inc.
+Copyright (C) 2010-2019, 2021, 2023-2024 Bootstrap Authors
+Copyright (C) 2009-2024 Free Software Foundation, Inc.
+Copyright (C) 2007-2024 Free Software Foundation, Inc.
 Copyright (C) 2007 Free Software Foundation, Inc.
-Copyright (C) 2006-2018 Free Software Foundation, Inc.
+Copyright (C) 2006-2024 Free Software Foundation, Inc.
 Copyright (C) 2006 Timo Lindfors
-Copyright (C) 2005, 2008, 2010-2020 Free Software Foundation, Inc.
+Copyright (C) 2005, 2008, 2010-2024 Free Software Foundation, Inc.
 Copyright (C) 2005 Philipp Benner.
-Copyright (C) 2004-2018 Free Software Foundation, Inc.
-Copyright (C) 2004-2018 Bootstrap Authors
-Copyright (C) 2004-2014, 2016, 2019 Free Software Foundation, Inc.
+Copyright (C) 2004-2024 Free Software Foundation, Inc.
+Copyright (C) 2004-2019, 2021, 2023-2024 Bootstrap Authors
+Copyright (C) 2004-2014, 2016, 2019-2024 Free Software Foundation, Inc.
 Copyright (C) 2004-2007 Free Software Foundation, Inc.
-Copyright (C) 2004-2005, 2007-2009, 2011-2018 Free Software Foundation, Inc.
-Written by Gary V. Vaughan, 2004
-Copyright (C) 2004-2005, 2007-2008, 2011-2018 Free Software Foundation, Inc.
-Written by Gary V. Vaughan, 2004
-Copyright (C) 2004-2005, 2007, 2009, 2011-2018 Free Software Foundation, Inc.
-Written by Scott James Remnant, 2004.
-Copyright (C) 2004, 2011-2018 Free Software Foundation, Inc. Written by Scott
-James Remnant, 2004
-Copyright (C) 2003-2018 Free Software Foundation, Inc.
-Copyright (C) 2002-2019 Free Software Foundation, Inc. 
-Copyright (C) 2002-2018 Free Software Foundation, Inc.
-Copyright (C) 2002-2006, 2008 Free Software Foundation, Inc.
+Copyright (C) 2004-2005, 2007-2009, 2011-2019, 2021-2024 Free Software
+Foundation, Inc. Written by Gary V. Vaughan, 2004
+Copyright (C) 2004-2005, 2007-2008, 2011-2019, 2021-2024 Free Software
+Foundation, Inc. Written by Gary V. Vaughan, 2004
+Copyright (C) 2004-2005, 2007, 2009, 2011-2019, 2021-2024 Free Software
+Foundation, Inc. Written by Scott James Remnant, 2004.
+Copyright (C) 2004, 2011-2019, 2021-2024 Free Software Foundation, Inc. Written
+by Scott James Remnant, 2004
+Copyright (C) 2003-2024 Free Software Foundation, Inc.
+Copyright (C) 2003-2019 Free Software Foundation, Inc.
+Copyright (C) 2002-2024 Free Software Foundation, Inc.
+Copyright (C) 2002-2006, 2008-2023 Free Software Foundation, Inc.
 Copyright (C) 2002 Free Software Foundation, Inc.
-Copyright (C) 2001-2019 Free Software Foundation, Inc.
-Copyright (C) 2001-2018 Free Software Foundation, Inc.
-Copyright (C) 2001-2017 Free Software Foundation, Inc.
-Copyright (C) 2001-2005, 2008-2019 Free Software Foundation, Inc.
+Copyright (C) 2001-2024 Free Software Foundation, Inc.
+Copyright (C) 2001-2024 Free Software Foundation, Inc
+Copyright (C) 2001-2005, 2008-2024 Free Software Foundation, Inc.
 Copyright (C) 2001, 2002, 2007 Free Software Foundation
-Copyright (C) 2001 Free Software Foundation, Inc. Written by Bruno Haible
-<bruno@clisp.org>, 2001.
-Copyright (C) 2000-2019 Free Software Foundation, Inc.
-Copyright (C) 2000-2002, 2007-2014, 2016-2019 Free Software Foundation, Inc.
-Copyright (C) 1999-2018 Free Software Foundation, Inc. Written by Tom Tromey
+Copyright (C) 2001 Free Software Foundation, Inc.
+Copyright (C) 2000-2024 Free Software Foundation, Inc.
+Copyright (C) 2000-2002, 2007-2014, 2016-2024 Free Software Foundation, Inc.
+Copyright (C) 1999-2024 Free Software Foundation, Inc. Written by Tom Tromey
 <tromey@cygnus.com>.
-Copyright (C) 1999-2018 Free Software Foundation, Inc.
+Copyright (C) 1999-2024 Free Software Foundation, Inc.
 Copyright (C) 1998, 2002, 2006, 2007 Free Software Foundation
 Copyright (C) 1998, 2001, 2002, 2006, 2007 Free Software Foundation
 Copyright (C) 1998, 1999, 2001 Henry Spencer.
-Copyright (C) 1997-2018 Free Software Foundation, Inc.
-Copyright (C) 1997-2007 by Dimitri van Heesch
-Copyright (C) 1996-2018 Free Software Foundation, Inc. Originally written by
+Copyright (C) 1997-2024 Free Software Foundation, Inc.
+Copyright (C) 1996-2024 Free Software Foundation, Inc. Originally written by
 Fran,cois Pinard <pinard@iro.umontreal.ca>, 1996.
-Copyright (C) 1996-2018 Free Software Foundation, Inc.
-Copyright (C) 1996-2003, 2009-2019 Free Software Foundation, Inc.
-Copyright (C) 1996-2003, 2005, 2008-2019 Free Software Foundation, Inc.
-Copyright (C) 1996-2001, 2003-2018 Free Software Foundation, Inc. Written by
-Gordon Matzigkeit, 1996
-Copyright (C) 1995-2014, 2016, 2018-2019 Free Software Foundation, Inc.
-Copyright (C) 1995-2014, 2016, 2018 Free Software Foundation, Inc.
-Copyright (C) 1995-2003, 2005-2006, 2008-2014, 2016, 2019 Free Software
+Copyright (C) 1996-2024 Free Software Foundation, Inc.
+Copyright (C) 1996-2019, 2021-2024 Free Software Foundation, Inc.
+Copyright (C) 1996-2003, 2009-2024 Free Software Foundation, Inc.
+Copyright (C) 1996-2003, 2005, 2008-2024 Free Software Foundation, Inc.
+Copyright (C) 1996-2001, 2003-2019, 2021-2024 Free Software Foundation, Inc.
+Written by Gordon Matzigkeit, 1996
+Copyright (C) 1995-2014, 2016, 2018-2024 Free Software Foundation, Inc.
+Copyright (C) 1995-2014, 2016, 2018-2022, 2024 Free Software Foundation, Inc.
+Copyright (C) 1995-2003, 2005-2006, 2008-2014, 2016, 2019-2024 Free dnl Software
 Foundation, Inc.
 Copyright (C) 1995-2000 Ulrich Drepper <drepper@gnu.ai.mit.edu>
-Copyright (C) 1994-2018 Free Software Foundation, Inc.
+Copyright (C) 1994-2024 Free Software Foundation, Inc.
 Copyright (C) 1994-1996, 1999-2002, 2004-2016 Free Software Foundation, Inc.
 Copyright (C) 1994 X Consortium
 Copyright (C) 1993 Jean-loup Gailly
-Copyright (C) 1992-1996, 1998-2012 Free Software Foundation, Inc.
+Copyright (C) 1992-1996, 1998-2017, 2020-2023 Free Software Foundation, Inc.
 Copyright (C) 1992, 1993 Jean-loup Gailly
 Copyright (C) 1991, 1999 Free Software Foundation, Inc.
-Copyright (C) 1989-1994,1996-1999,2001,2003,2004,2005,2006,2007 Free Software
-Foundation, Inc.
-Copyright (C) 1989-1994,1996-1999,2001,2003,2004 Free Software Foundation, Inc.
+Copyright (C) 1989-2023 Free Software Foundation, Inc.
 Copyright (C) 1989, 1991 Free Software Foundation, Inc.
-Copyright (C) 1987,88,89,90,91,92,93,94,96,97,98,2004,2006 Free Software
-Foundation, Inc.
-Copyright (C)
-1987,88,89,90,91,92,93,94,95,96,98,99,2000,2001,2002,2003,2004,2006 Free
-Software Foundation, Inc.
+Copyright (C) 1987-2023 Free Software Foundation, Inc.

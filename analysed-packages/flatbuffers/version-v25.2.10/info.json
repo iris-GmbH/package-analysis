@@ -1,29 +1,29 @@
 {
     "schema_version": "1.0.0",
-    "name": "libXi",
-    "version": "libxi-1.8.2",
+    "name": "flatbuffers",
+    "version": "v25.2.10",
     "description": "",
     "comment": "",
     "src": {
         "tarball": {
-            "url": "https://gitlab.freedesktop.org/xorg/lib/libxi/-/archive/libXi-1.8.2/libxi-libXi-1.8.2.tar.gz"
+            "url": "https://github.com/google/flatbuffers/archive/refs/tags/v25.2.10.tar.gz"
         }
     },
     "clearingFiles": [
         {
-            "fileName": "libXi-libXi-1.8.2.spdx.rdf.xml",
+            "fileName": "flatbuffers-v25.2.10.spdx.rdf.xml",
             "priority": "n/a",
             "author": "Oliver Fendt",
             "reviewer": [],
             "alternate_files": [
                 {
-                    "fileName": "libXi-libXi-1.8.2-SPDX2TV.spdx"
+                    "fileName": "flatbuffers-v25.2.10-SPDX2TV.spdx"
                 },
                 {
-                    "fileName": "libXi-libXi-1.8.2.spdx.json"
+                    "fileName": "flatbuffers-v25.2.10.spdx.json"
                 },
                 {
-                    "fileName": "libXi-libXi-1.8.2.spdx.yaml"
+                    "fileName": "flatbuffers-v25.2.10.spdx.yaml"
                 }
             ]
         }

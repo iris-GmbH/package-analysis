@@ -1,26 +1,29 @@
 {
     "schema_version": "1.0.0",
-    "name": "barebox",
-    "version": "2024.09.0",
+    "name": "avahi",
+    "version": "v0.8",
     "description": "",
     "comment": "",
     "src": {
         "tarball": {
-            "url": "https://git.pengutronix.de/cgit/barebox/snapshot/barebox-2024.09.0.tar.gz"
+            "url": "https://github.com/avahi/avahi/archive/refs/tags/v0.8.tar.gz"
         }
     },
     "clearingFiles": [
         {
-            "fileName": "",
+            "fileName": "avahi-v0.8.spdx.rdf.xml",
             "priority": "n/a",
             "author": "Oliver Fendt",
             "reviewer": [],
             "alternate_files": [
                 {
-                    "fileName": "barebox-2024.09.0-SPDX2TV.spdx"
+                    "fileName": "avahi-v0.8-SPDX2TV.spdx"
                 },
                 {
-                    "fileName": "barebox-2024.09.0.spdx.json"
+                    "fileName": "avahi-v0.8.spdx.json"
+                },
+                {
+                    "fileName": "avahi-v0.8.spdx.yaml"
                 }
             ]
         }

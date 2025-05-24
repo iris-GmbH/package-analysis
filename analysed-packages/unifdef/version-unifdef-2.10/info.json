@@ -1,29 +1,29 @@
 {
     "schema_version": "1.0.0",
-    "name": "libXv",
-    "version": "libxv-1.0.13",
+    "name": "unifdef",
+    "version": "unifdef-2.10",
     "description": "",
     "comment": "",
     "src": {
         "tarball": {
-            "url": "https://gitlab.freedesktop.org/xorg/lib/libxv/-/archive/libXv-1.0.13/libxv-libXv-1.0.13.tar.gz"
+            "url": "https://github.com/fanf2/unifdef/archive/refs/tags/unifdef-2.10.tar.gz"
         }
     },
     "clearingFiles": [
         {
-            "fileName": "libxv-libXv-1.0.13.spdx.rdf.xml",
+            "fileName": "unifdef-unifdef-2.10.spdx.rdf.xml",
             "priority": "n/a",
             "author": "Oliver Fendt",
             "reviewer": [],
             "alternate_files": [
                 {
-                    "fileName": "libxv-libXv-1.0.13.spdx.json"
+                    "fileName": "unifdef-unifdef-2.10-SPDX2TV.spdx"
                 },
                 {
-                    "fileName": "libxv-libXv-1.0.13.spdx.yaml"
+                    "fileName": "unifdef-unifdef-2.10.spdx.json"
                 },
                 {
-                    "fileName": "libxv-libXv-1.0.13.SPDX2TV.spdx"
+                    "fileName": "unifdef-unifdef-2.10.spdx.yaml"
                 }
             ]
         }

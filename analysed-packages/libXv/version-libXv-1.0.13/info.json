@@ -1,0 +1,31 @@
+{
+    "schema_version": "1.0.0",
+    "name": "libXv",
+    "version": "libxv-1.0.13",
+    "description": "",
+    "comment": "",
+    "src": {
+        "tarball": {
+            "url": "https://gitlab.freedesktop.org/xorg/lib/libxv/-/archive/libXv-1.0.13/libxv-libXv-1.0.13.tar.gz"
+        }
+    },
+    "clearingFiles": [
+        {
+            "fileName": "libXv-libXv-1.0.13.spdx.rdf.xml",
+            "priority": "n/a",
+            "author": "Oliver Fendt",
+            "reviewer": [],
+            "alternate_files": [
+                {
+                    "fileName": "libXv-libXv-1.0.13.spdx.json"
+                },
+                {
+                    "fileName": "libXv-libXv-1.0.13.spdx.yaml"
+                },
+                {
+                    "fileName": "libXv-libXv-1.0.13.SPDX2TV.spdx"
+                }
+            ]
+        }
+    ]
+}

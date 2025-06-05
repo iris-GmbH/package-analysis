@@ -1,29 +1,29 @@
 {
     "schema_version": "1.0.0",
     "name": "boost",
-    "version": "1.81.0",
+    "version": "boost-1.83.0",
     "description": "",
     "comment": "",
     "src": {
         "tarball": {
-            "url": "https://github.com/boostorg/boost/archive/refs/tags/boost-1.81.0.tar.gz"
+            "url": "https://github.com/boostorg/boost/archive/refs/tags/boost-1.83.0.tar.gz"
         }
     },
     "clearingFiles": [
         {
-            "fileName": "boost-1.81.0.spdx.rdf.xml",
+            "fileName": "boost-boost-1.83.0.spdx.rdf.xml",
             "priority": "n/a",
             "author": "Oliver Fendt",
             "reviewer": [],
             "alternate_files": [
                 {
-                    "fileName": "boost-1.81.0-SPDX2TV.spdx"
+                    "fileName": "boost-boost-1.83.0-SPDX2TV.spdx"
                 },
                 {
-                    "fileName": "boost-1.81.0.spdx.json"
+                    "fileName": "boost-boost-1.83.0.spdx.json"
                 },
                 {
-                    "fileName": "boost-1.81.0.spdx.yaml"
+                    "fileName": "boost-boost-1.83.0.spdx.yaml"
                 }
             ]
         }

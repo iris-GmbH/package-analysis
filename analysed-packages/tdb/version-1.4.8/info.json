@@ -1,29 +1,29 @@
 {
     "schema_version": "1.0.0",
-    "name": "bootstrap",
-    "version": "4.0.0",
+    "name": "tdb",
+    "version": "1.4.8",
     "description": "",
     "comment": "",
     "src": {
         "tarball": {
-            "url": "https://github.com/twbs/bootstrap/archive/refs/tags/v4.0.0.zip"
+            "url": "https://www.samba.org/ftp/tdb/tdb-1.4.8.tar.gz"
         }
     },
     "clearingFiles": [
         {
-            "fileName": "bootstrap-4.0.0.spdx.rdf.xml",
+            "fileName": "tdb-1.4.8.spdx.rdf.xml",
             "priority": "n/a",
             "author": "Oliver Fendt",
             "reviewer": [],
             "alternate_files": [
                 {
-                    "fileName": "bootstrap-4.0.0-SPDX2TV.spdx"
+                    "fileName": "tdb-1.4.8-SPDX2TV.spdx"
                 },
                 {
-                    "fileName": "bootstrap-4.0.0.spdx.json"
+                    "fileName": "tdb-1.4.8.spdx.json"
                 },
                 {
-                    "fileName": "bootstrap-4.0.0.spdx.yaml"
+                    "fileName": "tdb-1.4.8.spdx.yaml"
                 }
             ]
         }

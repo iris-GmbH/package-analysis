@@ -1,29 +1,29 @@
 {
     "schema_version": "1.0.0",
-    "name": "bootstrap",
-    "version": "5.2.3",
+    "name": "brotli",
+    "version": "v1.0.9",
     "description": "",
     "comment": "",
     "src": {
         "tarball": {
-            "url": "https://github.com/twbs/bootstrap/archive/refs/tags/v5.2.3.tar.gz"
+            "url": "https://github.com/google/brotli/archive/refs/tags/v1.0.9.tar.gz"
         }
     },
     "clearingFiles": [
         {
-            "fileName": "bootstrap-5.2.3.spdx.rdf.xml",
+            "fileName": "brotli-v1.0.9.spdx.rdf.xml",
             "priority": "n/a",
             "author": "Oliver Fendt",
             "reviewer": [],
             "alternate_files": [
                 {
-                    "fileName": "bootstrap-5.2.3-SPDX2TV.spdx"
+                    "fileName": "brotli-v1.0.9-SPDX2TV.spdx"
                 },
                 {
-                    "fileName": "bootstrap-5.2.3.spdx.json"
+                    "fileName": "brotli-v1.0.9.spdx.json"
                 },
                 {
-                    "fileName": "bootstrap-5.2.3.spdx.yaml"
+                    "fileName": "brotli-v1.0.9.spdx.yaml"
                 }
             ]
         }

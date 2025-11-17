@@ -1,29 +1,29 @@
 {
     "schema_version": "1.0.0",
-    "name": "SDL_image",
-    "version": "release-2.6.3",
+    "name": "libqrtr-glib",
+    "version": "1.2.2",
     "description": "",
     "comment": "",
     "src": {
         "tarball": {
-            "url": "https://github.com/libsdl-org/SDL_image/archive/refs/tags/release-2.6.3.tar.gz"
+            "url": "https://gitlab.freedesktop.org/mobile-broadband/libqrtr-glib/-/archive/1.2.2/libqrtr-glib-1.2.2.tar.bz2"
         }
     },
     "clearingFiles": [
         {
-            "fileName": "SDL_image-release-2.6.3.spdx.rdf.xml",
+            "fileName": "libqrtr-glib-1.2.2.spdx.rdf.xml",
             "priority": "n/a",
             "author": "Oliver Fendt",
             "reviewer": [],
             "alternate_files": [
                 {
-                    "fileName": "SDL_image-release-2.6.3-SPDX2TV.spdx"
+                    "fileName": "libqrtr-glib-1.2.2-SPDX2TV.spdx"
                 },
                 {
-                    "fileName": "SDL_image-release-2.6.3.spdx.json"
+                    "fileName": "libqrtr-glib-1.2.2.spdx.json"
                 },
                 {
-                    "fileName": "SDL_image-release-2.6.3.spdx.yaml"
+                    "fileName": "libqrtr-glib-1.2.2.spdx.yaml"
                 }
             ]
         }

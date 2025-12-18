@@ -1,0 +1,31 @@
+{
+    "schema_version": "1.0.0",
+    "name": "mtd-utils",
+    "version": "v2.2.1",
+    "description": "",
+    "comment": "",
+    "src": {
+        "tarball": {
+            "url": "https://github.com/sigma-star/mtd-utils/archive/refs/tags/v2.2.1.tar.gz"
+        }
+    },
+    "clearingFiles": [
+        {
+            "fileName": "mtd-utils-2.2.1.spdx.rdf.xml",
+            "priority": "n/a",
+            "author": "Oliver Fendt",
+            "reviewer": [],
+            "alternate_files": [
+                {
+                    "fileName": "mtd-utils-2.2.1-SPDX2TV.spdx"
+                },
+                {
+                    "fileName": "mtd-utils-2.2.1.spdx.json"
+                },
+                {
+                    "fileName": "mtd-utils-2.2.1.spdx.yaml"
+                }
+            ]
+        }
+    ]
+}

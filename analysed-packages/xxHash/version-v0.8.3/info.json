@@ -1,0 +1,31 @@
+{
+    "schema_version": "1.0.0",
+    "name": "xxHash",
+    "version": "v0.8.3",
+    "description": "",
+    "comment": "",
+    "src": {
+        "tarball": {
+            "url": "https://github.com/Cyan4973/xxHash/archive/refs/tags/v0.8.3.tar.gz"
+        }
+    },
+    "clearingFiles": [
+        {
+            "fileName": "xxHash-v0.8.3.spdx.rdf.xml",
+            "priority": "n/a",
+            "author": "Oliver Fendt",
+            "reviewer": [],
+            "alternate_files": [
+                {
+                    "fileName": "xxHash-v0.8.3-SPDX2TV.spdx"
+                },
+                {
+                    "fileName": "xxHash-v0.8.3.spdx.json"
+                },
+                {
+                    "fileName": "xxHash-v0.8.3.spdx.yaml"
+                }
+            ]
+        }
+    ]
+}

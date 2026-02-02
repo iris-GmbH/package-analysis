@@ -1,7 +1,7 @@
 {
     "schema_version": "1.0.0",
     "name": "xxHash",
-    "version": "0.8.1",
+    "version": "v0.8.1",
     "description": "",
     "comment": "",
     "src": {
@@ -11,19 +11,19 @@
     },
     "clearingFiles": [
         {
-            "fileName": "xxHash-0.8.1.spdx.rdf.xml",
+            "fileName": "xxHash-v0.8.1.spdx.rdf.xml",
             "priority": "n/a",
             "author": "Oliver Fendt",
             "reviewer": [],
             "alternate_files": [
                 {
-                    "fileName": "xxHash-0.8.1-SPDX2TV.spdx"
+                    "fileName": "xxHash-v0.8.1-SPDX2TV.spdx"
                 },
                 {
-                    "fileName": "xxHash-0.8.1.spdx.json"
+                    "fileName": "xxHash-v0.8.1.spdx.json"
                 },
                 {
-                    "fileName": "xxHash-0.8.1.spdx.yaml"
+                    "fileName": "xxHash-v0.8.1.spdx.yaml"
                 }
             ]
         }

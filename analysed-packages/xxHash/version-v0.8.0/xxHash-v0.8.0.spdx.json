@@ -1,11 +1,11 @@
 {
   "SPDXID" : "SPDXRef-DOCUMENT",
-  "spdxVersion" : "SPDX-2.2",
+  "spdxVersion" : "SPDX-2.3",
   "creationInfo" : {
-    "comment" : "This document was created using license information and a generator from Fossology.\nIt contains the license and copyright analysis of xxHash 0.8.1\nPlease check \"LicenseComments\" for explanations of concluded licenses",
-    "created" : "2023-05-12T15:20:03Z",
-    "creators" : [ "Tool: spdx2", "Person: Oliver Fendt" ],
-    "licenseListVersion" : "2.6"
+    "comment" : "This document was created using license information and a generator from Fossology.\nIt contains the license and copyright analysis of xxHash v0.8.0\nPlease check \"LicenseComments\" for explanations of concluded licenses",
+    "created" : "2026-02-01T14:26:11Z",
+    "creators" : [ "Tool: fossology-4.4.0.51", "Person: Oliver Fendt" ],
+    "licenseListVersion" : "3.22"
   },
   "name" : "/srv/fossology/repository/report",
   "dataLicense" : "CC0-1.0",
@@ -16,15 +16,15 @@
   }, {
     "licenseId" : "LicenseRef-BSD-2-Clause-2cc4ca67731de11ba12ab2ba3628eb2c",
     "extractedText" : "Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\n1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\n\n2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.",
-    "name" : "BSD-2-Clause-2cc4ca67731de11ba12ab2ba3628eb2c"
+    "name" : "BSD 2-Clause \"Simplified\" License"
   }, {
     "licenseId" : "LicenseRef-BSD-2-Clause-4a23fcefa5e462ab24d8c477b521cc39",
     "extractedText" : "Redistribution and use in source and binary forms, with or without\nmodification, are permitted provided that the following conditions are\nmet:\n\n* Redistributions of source code must retain the above copyright\nnotice, this list of conditions and the following disclaimer.\n* Redistributions in binary form must reproduce the above\ncopyright notice, this list of conditions and the following disclaimer\nin the documentation and/or other materials provided with the\ndistribution.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS\n\"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT\nLIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR\nA PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT\nOWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,\nSPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT\nLIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,\nDATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY\nTHEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT\n(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE\nOF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.",
-    "name" : "BSD-2-Clause-4a23fcefa5e462ab24d8c477b521cc39"
+    "name" : "BSD 2-Clause \"Simplified\" License"
   }, {
     "licenseId" : "LicenseRef-BSD-2-Clause-9afc9a4fb1f7aea6393ed4f69550b44e",
     "extractedText" : "Redistribution and use in source and binary forms, with or without modification,\nare permitted provided that the following conditions are met:\n\n* Redistributions of source code must retain the above copyright notice, this\nlist of conditions and the following disclaimer.\n\n* Redistributions in binary form must reproduce the above copyright notice, this\nlist of conditions and the following disclaimer in the documentation and/or\nother materials provided with the distribution.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND\nANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED\nWARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE\nDISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR\nANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES\n(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;\nLOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON\nANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT\n(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS\nSOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.",
-    "name" : "BSD-2-Clause-9afc9a4fb1f7aea6393ed4f69550b44e"
+    "name" : "BSD 2-Clause \"Simplified\" License"
   }, {
     "licenseId" : "LicenseRef-BSD-3-Clause",
     "extractedText" : "Copyright (c) <year> <owner>.\n\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\n1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\n\n2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\n\n3. Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.",
@@ -66,297 +66,131 @@
     "extractedText" : "Everyone is permitted to copy and distribute verbatim copies\nof this license document, but changing it is not allowed.",
     "name" : "License-of-GNU-Licenses"
   }, {
-    "licenseId" : "LicenseRef-LicenseRef-scancode-peter-deutsch-document",
-    "extractedText" : "License by Scancode.",
-    "name" : "Peter Deutsch Document License"
-  }, {
     "licenseId" : "LicenseRef-Permission-Notice-d0288eb5f82820a557e99597e7f1527d",
     "extractedText" : "Permission is granted to copy and distribute this document\nfor any purpose and without charge,\nincluding translations into other languages\nand incorporation into compilations,\nprovided that the copyright notice and this notice are preserved,\nand that any substantive changes or deletions from the original\nare clearly marked.\nDistribution of this document is unlimited.",
-    "name" : "Permission-Notice-d0288eb5f82820a557e99597e7f1527d"
+    "name" : "Permission Notice from Adam Costello and Cosim Truta"
   }, {
     "licenseId" : "LicenseRef-Public-domain",
     "extractedText" : "Public domain",
     "name" : "Public domain software"
+  }, {
+    "licenseId" : "LicenseRef-scancode-peter-deutsch-document",
+    "extractedText" : "License by Scancode.",
+    "name" : "Peter Deutsch Document License"
   } ],
-  "documentNamespace" : "http://fossy.osadl.org/repo/SPDX2TV_xxHash-0.8.1.tar.gz_1683897603.spdx",
+  "documentNamespace" : "http://fossy.osadl.org/repo/SPDX2TV_xxHash-0.8.0.tar.gz_1769955970.spdx",
   "packages" : [ {
-    "SPDXID" : "SPDXRef-upload299",
+    "SPDXID" : "SPDXRef-upload4095",
     "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "62310678857c30fcef4128f41f711f49"
+    }, {
       "algorithm" : "SHA1",
-      "checksumValue" : "a92c9a9cfbef23e52f2d1b581cb9926c680d261d"
+      "checksumValue" : "edd0ad280e3d294d06b278c3c9ae03b2b7d6686a"
     }, {
       "algorithm" : "SHA256",
-      "checksumValue" : "3bb6b7d6f30c591dd65aaaff1c8b7a5b94d81687998ca9400082c739a690436c"
-    }, {
-      "algorithm" : "MD5",
-      "checksumValue" : "b67c587f5ff4894253da0095ba7ea393"
+      "checksumValue" : "7054c3ebd169c97b64a92d7b994ab63c70dd53a06974f1f630ab782c28db0f4f"
     } ],
     "copyrightText" : "NOASSERTION",
-    "downloadLocation" : "NOASSERTION",
-    "licenseComments" : "licenseInfoInFile determined by Scanners:\n - nomos (\"4.1.0.95\".82b3b2)\n - monk (\"4.1.0.95\".82b3b2)\n - ojo (\"4.1.0.95\".82b3b2)\n- scancode (\"4.1.0.95\".82b3b2)",
+    "downloadLocation" : "https://github.com/Cyan4973/xxHash/archive/refs/tags/v0.8.0.tar.gz",
+    "externalRefs" : [ {
+      "referenceCategory" : "PACKAGE-MANAGER",
+      "referenceLocator" : "pkg:github/cyan4973/xxhash@v0.8.0",
+      "referenceType" : "purl"
+    } ],
+    "filesAnalyzed" : true,
+    "licenseComments" : "licenseInfoInFile determined by Scanners:\n - nomos (\"4.4.0.51\".1e52cb)\n - monk (\"4.4.0.51\".1e52cb)\n - ojo (\"4.4.0.51\".1e52cb)\n - scancode (\"4.4.0.51\".1e52cb) \n********************************************************************************\nAdditional information found in: README.md:\n\nThe library files `xxhash.c` and `xxhash.h` are BSD licensed.\nThe utility `xxhsum` is GPL licensed.\n********************************************************************************",
     "licenseConcluded" : "NOASSERTION",
-    "licenseDeclared" : "NOASSERTION",
+    "licenseDeclared" : "LicenseRef-BSD-2-Clause-9afc9a4fb1f7aea6393ed4f69550b44e",
     "licenseInfoFromFiles" : [ "NOASSERTION" ],
-    "name" : "xxHash-0.8.1.tar.gz",
-    "packageFileName" : "xxHash-0.8.1.tar.gz",
+    "name" : "xxHash-0.8.0.tar.gz",
+    "packageFileName" : "xxHash-0.8.0.tar.gz",
     "packageVerificationCode" : {
-      "packageVerificationCodeValue" : "660ec8df4b8ea6926fd4c09688086d020628b25a"
+      "packageVerificationCodeValue" : "043cbad3cd7137b35c1d0cf6d9fa9d3d23665130"
     }
   } ],
   "files" : [ {
-    "SPDXID" : "SPDXRef-item1814886",
+    "SPDXID" : "SPDXRef-item17542035",
     "checksums" : [ {
       "algorithm" : "SHA256",
-      "checksumValue" : "a155cfebfcb77cfe061b41acd819bc3545f433fed5e4a125f40b6ffac989c518"
-    }, {
-      "algorithm" : "SHA1",
-      "checksumValue" : "0bf5d309b91b364d3e3fbf468eedef8d4ca5075a"
+      "checksumValue" : "4b1a71bac393734b61162bab922fc11cb34178835ae2e638454179213d665c55"
     }, {
       "algorithm" : "MD5",
-      "checksumValue" : "f7bf25466a560de42b6396042054cda4"
-    } ],
-    "copyrightText" : "Copyright (C) 2013-2021 Yann Collet",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/cli/xsum_config.h",
-    "licenseComments" : "NOASSERTION",
-    "licenseConcluded" : "LicenseRef-GPL-2.0-or-later",
-    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-or-later" ]
-  }, {
-    "SPDXID" : "SPDXRef-item1814887",
-    "checksums" : [ {
-      "algorithm" : "MD5",
-      "checksumValue" : "0abc63f18620ba0f52de724efb04d97c"
+      "checksumValue" : "4f84858364a855268eaace79ec888402"
     }, {
       "algorithm" : "SHA1",
-      "checksumValue" : "164b9bd2e84fc9dd5bc56f122c04cf21e1e2e442"
-    }, {
-      "algorithm" : "SHA256",
-      "checksumValue" : "8ab8925c399596dcb5a51a448a9a1fc117c4adabeede392a25aaaa6d034c9cac"
+      "checksumValue" : "b28b791aa429d9cd8515ddf22b86ce728c4081c8"
     } ],
     "copyrightText" : "NOASSERTION",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/cli/README.md",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/appveyor.yml",
     "licenseConcluded" : "NOASSERTION",
-    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-only" ]
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
   }, {
-    "SPDXID" : "SPDXRef-item1814888",
+    "SPDXID" : "SPDXRef-item17542036",
     "checksums" : [ {
-      "algorithm" : "SHA1",
-      "checksumValue" : "73c1cd355fbfe42d2f0a79f3965813352431b432"
+      "algorithm" : "MD5",
+      "checksumValue" : "b335320506abb0505437e39295e799cb"
     }, {
       "algorithm" : "SHA256",
-      "checksumValue" : "3c26d835d8e9a2514e69313b65f14d59fd9c387c1cc09b37c628b371c6266678"
+      "checksumValue" : "9da63520e9293d82c4b1613be5c84058cadb82b02f5972179bad13731d589910"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "c4d6fd586b63b3e25a4ed28a23210791db46df98"
+    } ],
+    "copyrightText" : "Copyright (c) 2012-2020 Yann Collet All rights reserved.\nCopyright (c) 2013-2020 Yann Collet All rights reserved.",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/LICENSE",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-or-later", "LicenseRef-BSD-2-Clause" ]
+  }, {
+    "SPDXID" : "SPDXRef-item17542037",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "9737783be0d9d6536be0f97cac439df6303b2821"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "0470da54e967f02effb3ca436d42c5fe203cb3ef9507cbe41bcac1afd17d1375"
     }, {
       "algorithm" : "MD5",
-      "checksumValue" : "39a2fe765822db5aeabd8d1ab87a5506"
+      "checksumValue" : "01669da842e53bcb7d26390af7f8b0ef"
+    } ],
+    "copyrightText" : "Copyright (C) 2019-2020 Yann Collet",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/xxh3.h",
+    "licenseConcluded" : "LicenseRef-BSD-2-Clause-4a23fcefa5e462ab24d8c477b521cc39",
+    "licenseInfoInFiles" : [ "LicenseRef-BSD-2-Clause", "LicenseRef-BSD-3-Clause-No-Military-License" ]
+  }, {
+    "SPDXID" : "SPDXRef-item17542038",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "da68289dfb5bff6746f7203a3896ee7e84480b6b"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "c3c11f1c29a7251e95d6b1c3c56de37eb07f3d5e477aa565079de084985a55a6"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "9b2ceaabfed800c0e8b7f17b7d354135"
     } ],
     "copyrightText" : "NOASSERTION",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/cli/xxhsum.1.md",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/.travis.yml",
     "licenseConcluded" : "NOASSERTION",
-    "licenseInfoInFiles" : [ "LicenseRef-BSD-3-Clause", "NOASSERTION" ]
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
   }, {
-    "SPDXID" : "SPDXRef-item1814889",
-    "checksums" : [ {
-      "algorithm" : "SHA1",
-      "checksumValue" : "11d2594fd3593a96c5a5d679ce1d2bd2d64d93b6"
-    }, {
-      "algorithm" : "SHA256",
-      "checksumValue" : "e1779a83edf19f8b601652700f5b8c83ba1f8c4a32d899f83f4e2a8ba4f06a08"
-    }, {
-      "algorithm" : "MD5",
-      "checksumValue" : "39b41e599d6871e8a28698dfea8926f3"
-    } ],
-    "copyrightText" : "Copyright (C) 2013-2021 Yann Collet",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/cli/xsum_bench.h",
-    "licenseComments" : "NOASSERTION",
-    "licenseConcluded" : "LicenseRef-GPL-2.0-or-later",
-    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-or-later" ]
-  }, {
-    "SPDXID" : "SPDXRef-item1814890",
-    "checksums" : [ {
-      "algorithm" : "SHA1",
-      "checksumValue" : "b1d2a472ad40a0bccbc8fe57545483afe0528fc2"
-    }, {
-      "algorithm" : "SHA256",
-      "checksumValue" : "74a91d39ef5741bcb5f99d1d08c5caa82f12b8fedda2331c36572fa2a1c7c859"
-    }, {
-      "algorithm" : "MD5",
-      "checksumValue" : "b196d10bb86a9776295f427ebd8ce8e0"
-    } ],
-    "copyrightText" : "Copyright (C) 2013-2020 Yann Collet",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/cli/xxhsum.c",
-    "licenseComments" : "NOASSERTION",
-    "licenseConcluded" : "LicenseRef-GPL-2.0-or-later",
-    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-or-later", "LicenseRef-BSD-3-Clause" ]
-  }, {
-    "SPDXID" : "SPDXRef-item1814891",
-    "checksums" : [ {
-      "algorithm" : "MD5",
-      "checksumValue" : "d89273b543446782045a2ec34aefa9af"
-    }, {
-      "algorithm" : "SHA1",
-      "checksumValue" : "41462471c32803d542d9caeb0ee2addf40090346"
-    }, {
-      "algorithm" : "SHA256",
-      "checksumValue" : "22a2bc02a438035195912daed6bc27799df43cd8676d2ef39fed9bd590053483"
-    } ],
-    "copyrightText" : "Copyright (C) 2013-2020 Yann Collet",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/cli/xsum_os_specific.c",
-    "licenseComments" : "NOASSERTION",
-    "licenseConcluded" : "LicenseRef-GPL-2.0-or-later",
-    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-or-later" ]
-  }, {
-    "SPDXID" : "SPDXRef-item1814892",
+    "SPDXID" : "SPDXRef-item17542039",
     "checksums" : [ {
       "algorithm" : "SHA256",
-      "checksumValue" : "971786d52b8c593986b3ba361a3ffba66a99b5e8f946dc98d9e86c4a58e05e23"
+      "checksumValue" : "c31edaf92f5ef3e704717fc2e9b287d0aeb0cf22e89f038420152ec7212dc917"
     }, {
       "algorithm" : "MD5",
-      "checksumValue" : "138bb34d153a111ebe13b2774a1d86bb"
+      "checksumValue" : "ccfaeb2d0699535eee0ea67fe2e36c11"
     }, {
       "algorithm" : "SHA1",
-      "checksumValue" : "7d1020d665c2fa9e30860248fdd700197e0a9e45"
+      "checksumValue" : "7075e3c18efb56e9e0e5b1e5196c443a149f23a7"
     } ],
-    "copyrightText" : "Copyright (C) 2013-2020 Yann Collet",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/cli/xsum_sanity_check.h",
-    "licenseComments" : "NOASSERTION",
-    "licenseConcluded" : "LicenseRef-GPL-2.0-or-later",
-    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-or-later" ]
+    "copyrightText" : "Copyright (C) 2020 Yann Collet",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/xxh_x86dispatch.h",
+    "licenseConcluded" : "LicenseRef-BSD-2-Clause-4a23fcefa5e462ab24d8c477b521cc39",
+    "licenseInfoInFiles" : [ "LicenseRef-BSD-2-Clause", "LicenseRef-BSD-3-Clause-No-Military-License" ]
   }, {
-    "SPDXID" : "SPDXRef-item1814893",
-    "checksums" : [ {
-      "algorithm" : "SHA256",
-      "checksumValue" : "d2860bc51d83e395eea4a6676fd1e0a951f9cfb39f03e2d8c41274660fe1fcef"
-    }, {
-      "algorithm" : "MD5",
-      "checksumValue" : "8387f16f32a7df2c511748cf547b9bff"
-    }, {
-      "algorithm" : "SHA1",
-      "checksumValue" : "b7256ca9992043d847142b2f314a83c3a798d78a"
-    } ],
-    "copyrightText" : "Copyright (C) 2013-2020 Yann Collet",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/cli/xsum_os_specific.h",
-    "licenseComments" : "NOASSERTION",
-    "licenseConcluded" : "LicenseRef-GPL-2.0-or-later",
-    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-or-later" ]
-  }, {
-    "SPDXID" : "SPDXRef-item1814894",
-    "checksums" : [ {
-      "algorithm" : "SHA256",
-      "checksumValue" : "c43ca8199d3803e1416ca168f2aa974e0dcd0e37e182d140df8a75f586ecf3b1"
-    }, {
-      "algorithm" : "MD5",
-      "checksumValue" : "b8e153caefdb2fb2a3172a9c868b2ffc"
-    }, {
-      "algorithm" : "SHA1",
-      "checksumValue" : "0fbd927a2e1a4c0600b5c20bc6a1b0c1767b6937"
-    } ],
-    "copyrightText" : "Copyright (C) 2013-2020 Yann Collet",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/cli/xsum_sanity_check.c",
-    "licenseComments" : "NOASSERTION",
-    "licenseConcluded" : "LicenseRef-GPL-2.0-or-later",
-    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-or-later" ]
-  }, {
-    "SPDXID" : "SPDXRef-item1814895",
-    "checksums" : [ {
-      "algorithm" : "MD5",
-      "checksumValue" : "83cc85bf9e419e30188fe4d5c0fb7162"
-    }, {
-      "algorithm" : "SHA1",
-      "checksumValue" : "04c75b0575f279ca1dfee0c9fcbe431611d2fb22"
-    }, {
-      "algorithm" : "SHA256",
-      "checksumValue" : "08e1073dd493a98bd7b30b564c35ef2e65e9eda8b53595a78ebb6429fd20a0db"
-    } ],
-    "copyrightText" : "NOASSERTION",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/cli/xxhsum.1",
-    "licenseConcluded" : "NOASSERTION",
-    "licenseInfoInFiles" : [ "LicenseRef-BSD-3-Clause", "NOASSERTION" ]
-  }, {
-    "SPDXID" : "SPDXRef-item1814896",
-    "checksums" : [ {
-      "algorithm" : "SHA256",
-      "checksumValue" : "36934964be68416340f27aa60fd5d578f1ef85ad9b717caf7f134d81c8218249"
-    }, {
-      "algorithm" : "MD5",
-      "checksumValue" : "1b4a1332fe70da3bfaf189576bad7aa9"
-    }, {
-      "algorithm" : "SHA1",
-      "checksumValue" : "9340519ff5bb064a2bf6e52ec34b33917c76d49e"
-    } ],
-    "copyrightText" : "Copyright (C) 2013-2020 Yann Collet",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/cli/xsum_output.h",
-    "licenseComments" : "NOASSERTION",
-    "licenseConcluded" : "LicenseRef-GPL-2.0-or-later",
-    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-or-later" ]
-  }, {
-    "SPDXID" : "SPDXRef-item1814897",
-    "checksums" : [ {
-      "algorithm" : "MD5",
-      "checksumValue" : "58f6ca093b6b1540bf197e5bd04fb846"
-    }, {
-      "algorithm" : "SHA1",
-      "checksumValue" : "7438da58ae67870ecf53ba97cc99d0c5d0937e9f"
-    }, {
-      "algorithm" : "SHA256",
-      "checksumValue" : "dda9d0968a1e35e5a6edf412406251201a011616f9421eb905b031e379e67bbe"
-    } ],
-    "copyrightText" : "Copyright (C) 2013-2021 Yann Collet",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/cli/xsum_bench.c",
-    "licenseComments" : "NOASSERTION",
-    "licenseConcluded" : "LicenseRef-GPL-2.0-or-later",
-    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-or-later" ]
-  }, {
-    "SPDXID" : "SPDXRef-item1814898",
-    "checksums" : [ {
-      "algorithm" : "SHA1",
-      "checksumValue" : "4cc77b90af91e615a64ae04893fdffa7939db84c"
-    }, {
-      "algorithm" : "SHA256",
-      "checksumValue" : "8177f97513213526df2cf6184d8ff986c675afb514d4e68a404010521b880643"
-    }, {
-      "algorithm" : "MD5",
-      "checksumValue" : "b234ee4d69f5fce4486a80fdaf4a4263"
-    } ],
-    "copyrightText" : "Copyright (C) 1989, 1991 Free Software Foundation, Inc.",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/cli/COPYING",
-    "licenseComments" : "The file contains the text of the GPL. The text is licensed under:\nEveryone is permitted to copy and distribute verbatim copies\nof this license document, but changing it is not allowed.\nThus we concluded License-of-GNU-Licenses as license of this file",
-    "licenseConcluded" : "LicenseRef-License-of-GNU-Licenses",
-    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-or-later", "LicenseRef-GPL-2.0-or-later-WITH-Autoconf-exception", "LicenseRef-GPL-2.0-only" ]
-  }, {
-    "SPDXID" : "SPDXRef-item1814899",
-    "checksums" : [ {
-      "algorithm" : "SHA1",
-      "checksumValue" : "51ca20f9138d0c908245972b253b49b8e707e476"
-    }, {
-      "algorithm" : "SHA256",
-      "checksumValue" : "ba75e5a65da5ab9c6ed98555309f38d16d9d383438844853a100da926b510d0d"
-    }, {
-      "algorithm" : "MD5",
-      "checksumValue" : "1ad197ef72cce7ee92894e094685e780"
-    } ],
-    "copyrightText" : "Copyright (C) 2013-2020 Yann Collet",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/cli/xsum_arch.h",
-    "licenseComments" : "NOASSERTION",
-    "licenseConcluded" : "LicenseRef-GPL-2.0-or-later",
-    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-or-later" ]
-  }, {
-    "SPDXID" : "SPDXRef-item1814900",
-    "checksums" : [ {
-      "algorithm" : "SHA1",
-      "checksumValue" : "8de5a57fa263521be1db5e2cf6bf7451c615bfe8"
-    }, {
-      "algorithm" : "SHA256",
-      "checksumValue" : "cfdedb515b3fbc4a6a1822cb274f8d284edbdf499d3a26021797c8cc696d10df"
-    }, {
-      "algorithm" : "MD5",
-      "checksumValue" : "102d247cbd3f2c0b99e34ca7f309d211"
-    } ],
-    "copyrightText" : "Copyright (C) 2013-2020 Yann Collet",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/cli/xsum_output.c",
-    "licenseComments" : "NOASSERTION",
-    "licenseConcluded" : "LicenseRef-GPL-2.0-or-later",
-    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-or-later" ]
-  }, {
-    "SPDXID" : "SPDXRef-item1814901",
+    "SPDXID" : "SPDXRef-item17542040",
     "checksums" : [ {
       "algorithm" : "SHA256",
       "checksumValue" : "0ae36c075eb8ae22769f0ea38f4f892413499c347d0ffd50cccca338d138c58d"
@@ -368,691 +202,252 @@
       "checksumValue" : "f1a286236f359bd1f42942025ea9a9067d42ebd7"
     } ],
     "copyrightText" : "Copyright (C) 2012-2020 Yann Collet",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/xxhash.c",
-    "licenseComments" : "NOASSERTION",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/xxhash.c",
     "licenseConcluded" : "LicenseRef-BSD-2-Clause-4a23fcefa5e462ab24d8c477b521cc39",
     "licenseInfoInFiles" : [ "LicenseRef-BSD-2-Clause", "LicenseRef-BSD-3-Clause-No-Military-License" ]
   }, {
-    "SPDXID" : "SPDXRef-item1814902",
+    "SPDXID" : "SPDXRef-item17542041",
     "checksums" : [ {
       "algorithm" : "SHA1",
-      "checksumValue" : "d6cf8b65815efff8a46def3ec4c74c57033d25fa"
+      "checksumValue" : "9afb3f6d837870aa9e2fea239a002816043aad05"
     }, {
       "algorithm" : "SHA256",
-      "checksumValue" : "553d0035773ddd1590045f8fdc3a4c6ead31e36336721aeca8421e88ed1c9f80"
+      "checksumValue" : "2f16955a0bde1549862ad212302bb0f22ac099aa420459795faaf0697de1fcee"
     }, {
       "algorithm" : "MD5",
-      "checksumValue" : "cdfe7764d5685d8e08b3df302885d7f3"
-    } ],
-    "copyrightText" : "NOASSERTION",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/LICENSE",
-    "licenseConcluded" : "NOASSERTION",
-    "licenseInfoInFiles" : [ "LicenseRef-BSD-2-Clause" ]
-  }, {
-    "SPDXID" : "SPDXRef-item1814903",
-    "checksums" : [ {
-      "algorithm" : "SHA1",
-      "checksumValue" : "e96dd30d5fd7961b081e08970aab67821bf848e8"
-    }, {
-      "algorithm" : "SHA256",
-      "checksumValue" : "2e5072057d0f641ea2b2a06709cf1fcb841f19ce79436e61091f333d307b0ce1"
-    }, {
-      "algorithm" : "MD5",
-      "checksumValue" : "938de1106f5850d4afe551167bdd6da4"
-    } ],
-    "copyrightText" : "NOASSERTION",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/README.md",
-    "licenseConcluded" : "NOASSERTION",
-    "licenseInfoInFiles" : [ "LicenseRef-GPL-1.0-or-later", "LicenseRef-BSD-3-Clause", "LicenseRef-GPL" ]
-  }, {
-    "SPDXID" : "SPDXRef-item1814904",
-    "checksums" : [ {
-      "algorithm" : "MD5",
-      "checksumValue" : "c0bf39faed5d0c302ed12e764499233b"
-    }, {
-      "algorithm" : "SHA256",
-      "checksumValue" : "a54f0800917f548629125af963b2685de375b7021d45a87b3e4c70142de23307"
-    }, {
-      "algorithm" : "SHA1",
-      "checksumValue" : "ebc6a1c92fbfd205edd1540b00e6eb030b55da4b"
-    } ],
-    "copyrightText" : "NOASSERTION",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/appveyor.yml",
-    "licenseConcluded" : "NOASSERTION",
-    "licenseInfoInFiles" : [ "NOASSERTION" ]
-  }, {
-    "SPDXID" : "SPDXRef-item1814905",
-    "checksums" : [ {
-      "algorithm" : "SHA1",
-      "checksumValue" : "4f7e1b272e566d6b3d0ea4b79357b81ba68ff5e5"
-    }, {
-      "algorithm" : "SHA256",
-      "checksumValue" : "4e9f742748bd5868f132da5f95c2e14b87efdc5f7d942e1b40fc282e0e36ba96"
-    }, {
-      "algorithm" : "MD5",
-      "checksumValue" : "2c99f3faa0375fca8a9ef37fd0d644ea"
+      "checksumValue" : "4143b73b180d8ce1fed2b5bbec5c2d64"
     } ],
     "copyrightText" : "Copyright (C) 2020 Yann Collet",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/xxh_x86dispatch.c",
-    "licenseComments" : "NOASSERTION",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/xxh_x86dispatch.c",
     "licenseConcluded" : "LicenseRef-BSD-2-Clause-4a23fcefa5e462ab24d8c477b521cc39",
     "licenseInfoInFiles" : [ "LicenseRef-BSD-2-Clause", "LicenseRef-BSD-3-Clause-No-Military-License" ]
   }, {
-    "SPDXID" : "SPDXRef-item1814906",
+    "SPDXID" : "SPDXRef-item17542042",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "3cd1e704da4da63ebbcb5f03d12d4c95"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "1bc52be844ae9545931cf437b677b3b6d9c7bf77"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "de6ea45bddd1bc0b685764ba6a80d9a125bc6bdae180864c6e67defabb93665a"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/xxhsum.1.md",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "LicenseRef-BSD-3-Clause" ]
+  }, {
+    "SPDXID" : "SPDXRef-item17542043",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "d96b023d7ae0b16735e7116b52d6203d"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "69bacc3e7f24dc87a5aa57921454827db345ceeafcaecdef107ec174de3a8928"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "c1c169160b0dbac8565dda1bc28c7fc21d12d89b"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/README.md",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "LicenseRef-BSD-3-Clause", "LicenseRef-GPL", "LicenseRef-GPL-1.0-or-later" ]
+  }, {
+    "SPDXID" : "SPDXRef-item17542044",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "9a927bf0fd24c13fe377e2de84108139019f7067"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "59e0f6052567507d3c5ec3e4c5759866e7867ecf8864ccb14f39a69cbf4117b1"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "bac797200e1577b3c3bfa0d2d487d9f0"
+    } ],
+    "copyrightText" : "Copyright (C) 2012-2020 Yann Collet",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/Makefile",
+    "licenseConcluded" : "LicenseRef-GPL-2.0-or-later",
+    "licenseInfoInFiles" : [ "LicenseRef-BSD-3-Clause", "LicenseRef-GPL-2.0-or-later" ]
+  }, {
+    "SPDXID" : "SPDXRef-item17542045",
     "checksums" : [ {
       "algorithm" : "SHA1",
       "checksumValue" : "eba8b5a112d3bb976b71229de023e437d113191d"
     }, {
-      "algorithm" : "SHA256",
-      "checksumValue" : "dd394337fc8104fc727ab97b979c84230ab2098bd4ce3d122191105fc8da501f"
-    }, {
       "algorithm" : "MD5",
       "checksumValue" : "56e67841018879b47c3de7c7fe8144d4"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "dd394337fc8104fc727ab97b979c84230ab2098bd4ce3d122191105fc8da501f"
     } ],
     "copyrightText" : "NOASSERTION",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/.gitattributes",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/.gitattributes",
     "licenseConcluded" : "NOASSERTION",
     "licenseInfoInFiles" : [ "NOASSERTION" ]
   }, {
-    "SPDXID" : "SPDXRef-item1814908",
+    "SPDXID" : "SPDXRef-item17542046",
     "checksums" : [ {
       "algorithm" : "SHA1",
-      "checksumValue" : "d5ebe864f0107fe6124523ce43d60ba25a608abf"
+      "checksumValue" : "1351ab7d582563a2cf753b7e0827e189588d7f39"
     }, {
       "algorithm" : "SHA256",
-      "checksumValue" : "7400f118ca71e4a37558940fe21a4c3a0518b36ca85055fecabfe5966907fbbb"
+      "checksumValue" : "56586c4d24904af1e57b0c4d2c2ff723cc41911a49a27b2497debf179536bc1f"
     }, {
       "algorithm" : "MD5",
-      "checksumValue" : "a89d5e3fba88c62eb348ca396df7a868"
-    } ],
-    "copyrightText" : "NOASSERTION",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/cmake_unofficial/README.md",
-    "licenseConcluded" : "NOASSERTION",
-    "licenseInfoInFiles" : [ "NOASSERTION" ]
-  }, {
-    "SPDXID" : "SPDXRef-item1814909",
-    "checksums" : [ {
-      "algorithm" : "MD5",
-      "checksumValue" : "51793b796663965203949d6f5d776efe"
-    }, {
-      "algorithm" : "SHA1",
-      "checksumValue" : "5808236c1a05a7386e5846633b8976655ebc42da"
-    }, {
-      "algorithm" : "SHA256",
-      "checksumValue" : "5a0b912c25fa75cea1845c0083b9ad58c867cf764e30ba6becfad6ef576c5f08"
-    } ],
-    "copyrightText" : "NOASSERTION",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/cmake_unofficial/xxHashConfig.cmake.in",
-    "licenseConcluded" : "NOASSERTION",
-    "licenseInfoInFiles" : [ "NOASSERTION" ]
-  }, {
-    "SPDXID" : "SPDXRef-item1814910",
-    "checksums" : [ {
-      "algorithm" : "MD5",
-      "checksumValue" : "3f31003263622d144731d477b551e63e"
-    }, {
-      "algorithm" : "SHA256",
-      "checksumValue" : "5f4f0a48d707ef15ace5cec6e6424a26bec107fa44fae60f7cd77d2f2518fe35"
-    }, {
-      "algorithm" : "SHA1",
-      "checksumValue" : "f580594911adebb6127bc175490bb7d83bd4d702"
-    } ],
-    "copyrightText" : "NOASSERTION",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/cmake_unofficial/CMakeLists.txt",
-    "licenseComments" : "NOASSERTION",
-    "licenseConcluded" : "LicenseRef-CC0-1.0",
-    "licenseInfoInFiles" : [ "LicenseRef-Public-domain", "LicenseRef-CC0-1.0" ]
-  }, {
-    "SPDXID" : "SPDXRef-item1814911",
-    "checksums" : [ {
-      "algorithm" : "MD5",
-      "checksumValue" : "a81a3e31165ec8995d15f76381c5828f"
-    }, {
-      "algorithm" : "SHA1",
-      "checksumValue" : "7043dcbe2da5e9f83c8da6152f446df02181420d"
-    }, {
-      "algorithm" : "SHA256",
-      "checksumValue" : "51a9a395b389f84e618beba03b6b64e3cd155864acf96ffa3a0909609d80ba43"
-    } ],
-    "copyrightText" : "NOASSERTION",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/cmake_unofficial/.gitignore",
-    "licenseConcluded" : "NOASSERTION",
-    "licenseInfoInFiles" : [ "NOASSERTION" ]
-  }, {
-    "SPDXID" : "SPDXRef-item1814912",
-    "checksums" : [ {
-      "algorithm" : "SHA1",
-      "checksumValue" : "f4928d8ad9faba12518425eb7103a980855ebc86"
-    }, {
-      "algorithm" : "SHA256",
-      "checksumValue" : "d4f2b91b547c79061649186721a6b331609f2bf8595485a21ea631c82ec3ef93"
-    }, {
-      "algorithm" : "MD5",
-      "checksumValue" : "63854394ee5e31db5681712c6b2527d0"
+      "checksumValue" : "3066518b768e229d4b44248362581f9c"
     } ],
     "copyrightText" : "Copyright (C) 2012-2020 Yann Collet",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/xxhash.h",
-    "licenseComments" : "NOASSERTION",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/xxhash.h",
     "licenseConcluded" : "LicenseRef-BSD-2-Clause-4a23fcefa5e462ab24d8c477b521cc39",
     "licenseInfoInFiles" : [ "LicenseRef-BSD-2-Clause", "LicenseRef-BSD-3-Clause-No-Military-License" ]
   }, {
-    "SPDXID" : "SPDXRef-item1814913",
+    "SPDXID" : "SPDXRef-item17542047",
     "checksums" : [ {
-      "algorithm" : "SHA256",
-      "checksumValue" : "139ea0520a96267954a428745a667b75d29856273de80f920eb53a874ee7b69a"
-    }, {
       "algorithm" : "MD5",
-      "checksumValue" : "e9376a73e7e7283ec98163a89b22390e"
+      "checksumValue" : "7c4f70d6a3337ede4887a32715e21530"
     }, {
       "algorithm" : "SHA1",
-      "checksumValue" : "4d4179f7161e2e972b58bddb31d40b4a762b72bb"
-    } ],
-    "copyrightText" : "NOASSERTION",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/Doxyfile",
-    "licenseConcluded" : "NOASSERTION",
-    "licenseInfoInFiles" : [ "NOASSERTION" ]
-  }, {
-    "SPDXID" : "SPDXRef-item1814914",
-    "checksums" : [ {
-      "algorithm" : "MD5",
-      "checksumValue" : "ccfaeb2d0699535eee0ea67fe2e36c11"
-    }, {
-      "algorithm" : "SHA1",
-      "checksumValue" : "7075e3c18efb56e9e0e5b1e5196c443a149f23a7"
+      "checksumValue" : "a6dd3afe2bc23efaef20caabd25d3208058e0bbe"
     }, {
       "algorithm" : "SHA256",
-      "checksumValue" : "c31edaf92f5ef3e704717fc2e9b287d0aeb0cf22e89f038420152ec7212dc917"
+      "checksumValue" : "b4e9779c019646a4e015e5e04d327eed7b6f35aa93610cc523da4aa83c61cdac"
     } ],
-    "copyrightText" : "Copyright (C) 2020 Yann Collet",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/xxh_x86dispatch.h",
-    "licenseComments" : "NOASSERTION",
-    "licenseConcluded" : "LicenseRef-BSD-2-Clause-4a23fcefa5e462ab24d8c477b521cc39",
-    "licenseInfoInFiles" : [ "LicenseRef-BSD-2-Clause", "LicenseRef-BSD-3-Clause-No-Military-License" ]
+    "copyrightText" : "Copyright (C) 2013-2020 Yann Collet",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/xxhsum.c",
+    "licenseConcluded" : "LicenseRef-GPL-2.0-or-later",
+    "licenseInfoInFiles" : [ "LicenseRef-BSD-3-Clause", "LicenseRef-GPL-2.0-or-later" ]
   }, {
-    "SPDXID" : "SPDXRef-item1814916",
+    "SPDXID" : "SPDXRef-item17542049",
     "checksums" : [ {
-      "algorithm" : "MD5",
-      "checksumValue" : "3eb5f9a73d4b6c63086e8ed22a8c90fd"
-    }, {
-      "algorithm" : "SHA1",
-      "checksumValue" : "2094ffce36792cc2650071aa2a0e1ea1b46f1521"
-    }, {
-      "algorithm" : "SHA256",
-      "checksumValue" : "c83f006d355c25c160df54a1981bda1bb08374da2efc6b6c1296d7a829189dda"
-    } ],
-    "copyrightText" : "NOASSERTION",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/doc/README.md",
-    "licenseConcluded" : "NOASSERTION",
-    "licenseInfoInFiles" : [ "NOASSERTION" ]
-  }, {
-    "SPDXID" : "SPDXRef-item1814917",
-    "checksums" : [ {
-      "algorithm" : "SHA256",
-      "checksumValue" : "980b6062b4a3e20438360607e638bf573cba3fedbaeb5d1a2a42d8ae86c6b947"
-    }, {
-      "algorithm" : "MD5",
-      "checksumValue" : "9c30191729823f0a8a41feaec9cf5a89"
-    }, {
-      "algorithm" : "SHA1",
-      "checksumValue" : "8478f4679de417ef84b68bd479f8884130187104"
-    } ],
-    "copyrightText" : "Copyright (c) Yann Collet",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/doc/xxhash_spec.md",
-    "licenseComments" : "NOASSERTION",
-    "licenseConcluded" : "LicenseRef-Permission-Notice-d0288eb5f82820a557e99597e7f1527d",
-    "licenseInfoInFiles" : [ "LicenseRef-LicenseRef-scancode-peter-deutsch-document", "NOASSERTION" ]
-  }, {
-    "SPDXID" : "SPDXRef-item1814918",
-    "checksums" : [ {
-      "algorithm" : "MD5",
-      "checksumValue" : "4b53b81e622873754c021294a46939b8"
-    }, {
       "algorithm" : "SHA1",
       "checksumValue" : "ca5e66a96404e2366881fb7fee3850d121154bb2"
     }, {
       "algorithm" : "SHA256",
       "checksumValue" : "0a221e49377b1f49d73f6bd94ab2efd1cc505f347edc383936867a6ba831cf26"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "4b53b81e622873754c021294a46939b8"
     } ],
     "copyrightText" : "NOASSERTION",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/doc/xxhash.cry",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/doc/xxhash.cry",
     "licenseConcluded" : "NOASSERTION",
     "licenseInfoInFiles" : [ "NOASSERTION" ]
   }, {
-    "SPDXID" : "SPDXRef-item1814921",
+    "SPDXID" : "SPDXRef-item17542050",
     "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "9c4233071dc8cfdb2d0676fb130c5b0c"
+    }, {
       "algorithm" : "SHA1",
-      "checksumValue" : "c177e9f29d47f6d4159b0fb202fa3149f09023f7"
+      "checksumValue" : "de00a055ca0c6762906c90f6448f84d4c6886f26"
     }, {
       "algorithm" : "SHA256",
-      "checksumValue" : "354a4dcd14b3d054dfb4d2d46eef340e590bddb62b2ba8051a1a18dc80a828c0"
+      "checksumValue" : "2397dba99c82157b0ea880227e0929b216e6c78d35e7b991f4196cb4be7e12c4"
+    } ],
+    "copyrightText" : "Copyright (c) Yann Collet",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/doc/xxhash_spec.md",
+    "licenseConcluded" : "LicenseRef-Permission-Notice-d0288eb5f82820a557e99597e7f1527d",
+    "licenseInfoInFiles" : [ "LicenseRef-scancode-peter-deutsch-document" ]
+  }, {
+    "SPDXID" : "SPDXRef-item17542051",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "2094ffce36792cc2650071aa2a0e1ea1b46f1521"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "c83f006d355c25c160df54a1981bda1bb08374da2efc6b6c1296d7a829189dda"
     }, {
       "algorithm" : "MD5",
-      "checksumValue" : "3859e8a44a541da66ab41b873e4e33ba"
+      "checksumValue" : "3eb5f9a73d4b6c63086e8ed22a8c90fd"
     } ],
     "copyrightText" : "NOASSERTION",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/.github/workflows/ci.yml",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/doc/README.md",
     "licenseConcluded" : "NOASSERTION",
     "licenseInfoInFiles" : [ "NOASSERTION" ]
   }, {
-    "SPDXID" : "SPDXRef-item1814922",
+    "SPDXID" : "SPDXRef-item17542053",
     "checksums" : [ {
       "algorithm" : "SHA1",
-      "checksumValue" : "e7a4ccee1ac8af4652ebcc0169c4b3d9578d4f1f"
+      "checksumValue" : "6a3b1151340b03e18b4dd8ddf0a0aee025896fcc"
     }, {
       "algorithm" : "SHA256",
-      "checksumValue" : "44c23e8ad589a82be05dde3c836e81325f6ac2e4edae182cb011adf9d91e10d5"
+      "checksumValue" : "514f84bffe658b0996803ff108acc7e09e2132edf2ab0aa921464c8996c613e1"
     }, {
       "algorithm" : "MD5",
-      "checksumValue" : "73a8f748598338e28d24932e763de4d4"
+      "checksumValue" : "16b8a57785f9924155810d1c156c154b"
     } ],
     "copyrightText" : "NOASSERTION",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/CHANGELOG",
-    "licenseConcluded" : "NOASSERTION",
-    "licenseInfoInFiles" : [ "LicenseRef-BSD-3-Clause", "NOASSERTION" ]
-  }, {
-    "SPDXID" : "SPDXRef-item1814923",
-    "checksums" : [ {
-      "algorithm" : "SHA256",
-      "checksumValue" : "eb9fcee8f818de93db33928d60610e8d45237aac74ab053b3a2468be3d6585d4"
-    }, {
-      "algorithm" : "MD5",
-      "checksumValue" : "e26b4ba168a62f7f5ac36f72ed7187c0"
-    }, {
-      "algorithm" : "SHA1",
-      "checksumValue" : "e7dfbc72853891ab430f0c3c773aada8870ea1ce"
-    } ],
-    "copyrightText" : "NOASSERTION",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/.gitignore",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/cmake_unofficial/README.md",
     "licenseConcluded" : "NOASSERTION",
     "licenseInfoInFiles" : [ "NOASSERTION" ]
   }, {
-    "SPDXID" : "SPDXRef-item1814924",
+    "SPDXID" : "SPDXRef-item17542054",
     "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "5a0b912c25fa75cea1845c0083b9ad58c867cf764e30ba6becfad6ef576c5f08"
+    }, {
       "algorithm" : "MD5",
-      "checksumValue" : "45639eb6b40224afe3780974758d94cf"
+      "checksumValue" : "51793b796663965203949d6f5d776efe"
     }, {
       "algorithm" : "SHA1",
-      "checksumValue" : "efe6c97db5fb30b64498f2f3de9359bf20a5dc57"
-    }, {
-      "algorithm" : "SHA256",
-      "checksumValue" : "734d232a98fe21e92652cad07f738f7e476954d9c3705373dcafbb58794f1893"
+      "checksumValue" : "5808236c1a05a7386e5846633b8976655ebc42da"
     } ],
     "copyrightText" : "NOASSERTION",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/.travis.yml",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/cmake_unofficial/xxHashConfig.cmake.in",
     "licenseConcluded" : "NOASSERTION",
     "licenseInfoInFiles" : [ "NOASSERTION" ]
   }, {
-    "SPDXID" : "SPDXRef-item1814926",
-    "checksums" : [ {
-      "algorithm" : "MD5",
-      "checksumValue" : "6906ef6970255649b13a4a3cd97c9b21"
-    }, {
-      "algorithm" : "SHA1",
-      "checksumValue" : "89cc4ca6ca8032f5b3d9c032d52ad330e06effd5"
-    }, {
-      "algorithm" : "SHA256",
-      "checksumValue" : "1829422db6c67ce7958068768a0d5309317764effbf543367feb9e5f057cac6a"
-    } ],
-    "copyrightText" : "Copyright (C) 2020 Devin Hussey (easyaspi314)",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/tests/generate_unicode_test.c",
-    "licenseComments" : "NOASSERTION",
-    "licenseConcluded" : "LicenseRef-BSD-2-Clause-4a23fcefa5e462ab24d8c477b521cc39",
-    "licenseInfoInFiles" : [ "LicenseRef-BSD-2-Clause" ]
-  }, {
-    "SPDXID" : "SPDXRef-item1814927",
+    "SPDXID" : "SPDXRef-item17542055",
     "checksums" : [ {
       "algorithm" : "SHA256",
-      "checksumValue" : "e1552f60f7d4b117f0e7c022f9dda5f0cf317f86e832817cf224491e63029c0e"
+      "checksumValue" : "d2d1879cb2ff72fc3956934ee7104edb1e0d173d22ded9457d743b9147cc1e48"
     }, {
       "algorithm" : "MD5",
-      "checksumValue" : "9434b65e15b1720dd011d1b2cd8fd0c1"
+      "checksumValue" : "4a9394abb591e1afbac8b31ef0a688b3"
     }, {
       "algorithm" : "SHA1",
-      "checksumValue" : "e1ad5b0a79b025100f2a21f5ec216986a01c58bf"
+      "checksumValue" : "9680116a1bcfea52393b9e238b58c3d2db395fd5"
     } ],
     "copyrightText" : "NOASSERTION",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/tests/unicode_lint.sh",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/cmake_unofficial/CMakeLists.txt",
+    "licenseConcluded" : "LicenseRef-CC0-1.0",
+    "licenseInfoInFiles" : [ "LicenseRef-CC0-1.0", "LicenseRef-Public-domain" ]
+  }, {
+    "SPDXID" : "SPDXRef-item17542056",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "51a9a395b389f84e618beba03b6b64e3cd155864acf96ffa3a0909609d80ba43"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "a81a3e31165ec8995d15f76381c5828f"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "7043dcbe2da5e9f83c8da6152f446df02181420d"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/cmake_unofficial/.gitignore",
     "licenseConcluded" : "NOASSERTION",
     "licenseInfoInFiles" : [ "NOASSERTION" ]
   }, {
-    "SPDXID" : "SPDXRef-item1814928",
+    "SPDXID" : "SPDXRef-item17542059",
     "checksums" : [ {
-      "algorithm" : "SHA1",
-      "checksumValue" : "f6c09344bf7af264e0e893e969bfe59fda8d2907"
-    }, {
-      "algorithm" : "SHA256",
-      "checksumValue" : "47b3e72692d30f0a78d48f2a1ce38e3d3248673d6ede42628662a9214c492330"
-    }, {
-      "algorithm" : "MD5",
-      "checksumValue" : "5dbb722e21e82a70656da8bf404cfed7"
-    } ],
-    "copyrightText" : "Copyright (C) 2020 Yann Collet",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/tests/multiInclude.c",
-    "licenseComments" : "NOASSERTION",
-    "licenseConcluded" : "LicenseRef-GPL-2.0-or-later",
-    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-or-later" ]
-  }, {
-    "SPDXID" : "SPDXRef-item1814930",
-    "checksums" : [ {
-      "algorithm" : "SHA1",
-      "checksumValue" : "41bd6dcdae33e0599dc43445c98fb7d09d85d277"
-    }, {
-      "algorithm" : "SHA256",
-      "checksumValue" : "97aaca6f51bb8dc3a24e5758990b02dc89f424b09b26378bb75722786432ace4"
-    }, {
-      "algorithm" : "MD5",
-      "checksumValue" : "333aed0d87b51791a03ec7d83ebdc3fa"
-    } ],
-    "copyrightText" : "Copyright (C) 2019-2020 Yann Collet",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/tests/bench/bhDisplay.c",
-    "licenseComments" : "NOASSERTION",
-    "licenseConcluded" : "LicenseRef-GPL-2.0-or-later",
-    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-or-later" ]
-  }, {
-    "SPDXID" : "SPDXRef-item1814931",
-    "checksums" : [ {
-      "algorithm" : "SHA256",
-      "checksumValue" : "8177f97513213526df2cf6184d8ff986c675afb514d4e68a404010521b880643"
-    }, {
       "algorithm" : "MD5",
       "checksumValue" : "b234ee4d69f5fce4486a80fdaf4a4263"
     }, {
       "algorithm" : "SHA1",
       "checksumValue" : "4cc77b90af91e615a64ae04893fdffa7939db84c"
-    } ],
-    "copyrightText" : "Copyright (C) 1989, 1991 Free Software Foundation, Inc.",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/tests/bench/LICENSE",
-    "licenseComments" : "The file contains the text of the GPL. The text is licensed under:\nEveryone is permitted to copy and distribute verbatim copies\nof this license document, but changing it is not allowed.\nThus we concluded License-of-GNU-Licenses as license of this file",
-    "licenseConcluded" : "LicenseRef-License-of-GNU-Licenses",
-    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-or-later", "LicenseRef-GPL-2.0-or-later-WITH-Autoconf-exception", "LicenseRef-GPL-2.0-only" ]
-  }, {
-    "SPDXID" : "SPDXRef-item1814932",
-    "checksums" : [ {
-      "algorithm" : "SHA256",
-      "checksumValue" : "4c33c66c91ab1b8e53d3d86e2059bb8d2b728014ff20bd890492e91fff0dc079"
     }, {
-      "algorithm" : "MD5",
-      "checksumValue" : "3a78e3c68be48efaef32f0d690375de4"
-    }, {
-      "algorithm" : "SHA1",
-      "checksumValue" : "43bdb9a81fdeff33c66c9441d58df4f57cc7eed7"
-    } ],
-    "copyrightText" : "Copyright (C) 2019-2020 Yann Collet",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/tests/bench/bhDisplay.h",
-    "licenseComments" : "NOASSERTION",
-    "licenseConcluded" : "LicenseRef-GPL-2.0-or-later",
-    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-or-later" ]
-  }, {
-    "SPDXID" : "SPDXRef-item1814933",
-    "checksums" : [ {
-      "algorithm" : "SHA256",
-      "checksumValue" : "f90771200db4013d803a557a668b4baba16c9f8bbad42e5a5fbde83801e8b020"
-    }, {
-      "algorithm" : "MD5",
-      "checksumValue" : "dd681d5224159b97395df9cac8d3e704"
-    }, {
-      "algorithm" : "SHA1",
-      "checksumValue" : "e49461ef1f31a5e4d30e277afbcb526c56285c2b"
-    } ],
-    "copyrightText" : "Copyright (C) 2016-2020 Yann Collet, Facebook, Inc. All rights reserved.",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/tests/bench/benchfn.h",
-    "licenseComments" : "NOASSERTION AND The information in the file is:\n\nThis source code is licensed under both the BSD-style license (found in the\nLICENSE file in the root directory of this source tree) and the GPLv2 (found\nin the COPYING file in the root directory of this source tree).\n\nThe LICENSE file in the root directory contains the text of the BSD-2-Clause license. Additionally there is the text of the GPL-2.0 in this directory but there is no COPYING file in the root directory.\nNevertheless we concluded BSD-2-Clause AND GPL-2.0-only",
-    "licenseConcluded" : "(LicenseRef-BSD-2-Clause-9afc9a4fb1f7aea6393ed4f69550b44e AND LicenseRef-GPL-2.0-only)",
-    "licenseInfoInFiles" : [ "LicenseRef-BSD-3-Clause", "LicenseRef-BSD-style", "LicenseRef-GPL-2.0-only" ]
-  }, {
-    "SPDXID" : "SPDXRef-item1814934",
-    "checksums" : [ {
-      "algorithm" : "MD5",
-      "checksumValue" : "4da63bd1532aaf2cd111cc81fc76d3ff"
-    }, {
-      "algorithm" : "SHA1",
-      "checksumValue" : "e63e8296b32830293f62bf0dfa33b9ae9b9eedfc"
-    }, {
-      "algorithm" : "SHA256",
-      "checksumValue" : "0c1dd7eeadd4f65bd9feb8cdc14951af860e44295b5e4a8696508c7fdae9448f"
-    } ],
-    "copyrightText" : "Copyright (C) 2019-2020 Yann Collet",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/tests/bench/hashes.h",
-    "licenseComments" : "NOASSERTION",
-    "licenseConcluded" : "LicenseRef-GPL-2.0-or-later",
-    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-or-later" ]
-  }, {
-    "SPDXID" : "SPDXRef-item1814935",
-    "checksums" : [ {
-      "algorithm" : "MD5",
-      "checksumValue" : "17011b52c9e051ff93b49793b9051cbb"
-    }, {
-      "algorithm" : "SHA1",
-      "checksumValue" : "a4b7b1b61787fa92784e4a7def56ffb25ca61136"
-    }, {
-      "algorithm" : "SHA256",
-      "checksumValue" : "97331aee4ef791fcf6b2156cf7fd78f20895904bc9fed5d5380fbbee9085178f"
-    } ],
-    "copyrightText" : "Copyright (C) 2019-2020 Yann Collet",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/tests/bench/benchHash.c",
-    "licenseComments" : "NOASSERTION",
-    "licenseConcluded" : "LicenseRef-GPL-2.0-or-later",
-    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-or-later" ]
-  }, {
-    "SPDXID" : "SPDXRef-item1814936",
-    "checksums" : [ {
-      "algorithm" : "SHA1",
-      "checksumValue" : "5a7e5e226be6b61f94609a84f15618767199f79c"
-    }, {
-      "algorithm" : "SHA256",
-      "checksumValue" : "b10f146b48492528c11c7028d09297fac649f5544e357bc26f805bdddc47a023"
-    }, {
-      "algorithm" : "MD5",
-      "checksumValue" : "baca23d6e3e6f7a656640e60bf6bc520"
-    } ],
-    "copyrightText" : "Copyright (C) 2019-2020 Yann Collet",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/tests/bench/main.c",
-    "licenseComments" : "NOASSERTION",
-    "licenseConcluded" : "LicenseRef-GPL-2.0-or-later",
-    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-or-later" ]
-  }, {
-    "SPDXID" : "SPDXRef-item1814937",
-    "checksums" : [ {
-      "algorithm" : "SHA1",
-      "checksumValue" : "5a195fb94633d24f2957dc8ff4f3d49224494ea9"
-    }, {
-      "algorithm" : "SHA256",
-      "checksumValue" : "2c4ceafb19054ec1599cb06eee1c7d1a0469720c3550fa9d2eb6188607d02efd"
-    }, {
-      "algorithm" : "MD5",
-      "checksumValue" : "1c4d6987d316dcff52177477463d3abc"
-    } ],
-    "copyrightText" : "Copyright (C) 2019-2020 Yann Collet, Facebook, Inc. All rights reserved.",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/tests/bench/timefn.c",
-    "licenseComments" : "NOASSERTION AND The information in the file is:\n\nThis source code is licensed under both the BSD-style license (found in the\nLICENSE file in the root directory of this source tree) and the GPLv2 (found\nin the COPYING file in the root directory of this source tree).\n\nThe LICENSE file in the root directory contains the text of the BSD-2-Clause license. Additionally there is the text of the GPL-2.0 in this directory but there is no COPYING file in the root directory.\nNevertheless we concluded BSD-2-Clause AND GPL-2.0-only",
-    "licenseConcluded" : "(LicenseRef-BSD-2-Clause-9afc9a4fb1f7aea6393ed4f69550b44e AND LicenseRef-GPL-2.0-only)",
-    "licenseInfoInFiles" : [ "LicenseRef-BSD-3-Clause", "LicenseRef-BSD-style", "LicenseRef-GPL-2.0-only" ]
-  }, {
-    "SPDXID" : "SPDXRef-item1814938",
-    "checksums" : [ {
-      "algorithm" : "SHA256",
-      "checksumValue" : "392108f213bee34adeb212fcfe8760ea57796ee278e2a3bf681a9b6449913f1e"
-    }, {
-      "algorithm" : "MD5",
-      "checksumValue" : "903bf2b814dc508593e8f740af4544bc"
-    }, {
-      "algorithm" : "SHA1",
-      "checksumValue" : "f1de866f02b2ea09fa2963cf99f1156b536e0076"
-    } ],
-    "copyrightText" : "NOASSERTION",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/tests/bench/.gitignore",
-    "licenseConcluded" : "NOASSERTION",
-    "licenseInfoInFiles" : [ "NOASSERTION" ]
-  }, {
-    "SPDXID" : "SPDXRef-item1814939",
-    "checksums" : [ {
-      "algorithm" : "SHA256",
-      "checksumValue" : "84b92f6c29732d6093990d932902990d1656be71a8dcca83419f5dba5aaa4708"
-    }, {
-      "algorithm" : "MD5",
-      "checksumValue" : "33c56af7528edd04cf422b15e1f508f8"
-    }, {
-      "algorithm" : "SHA1",
-      "checksumValue" : "16c701b59df1639f82a17d74ce346da589fb8ac6"
-    } ],
-    "copyrightText" : "NOASSERTION",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/tests/bench/.clang_complete",
-    "licenseConcluded" : "NOASSERTION",
-    "licenseInfoInFiles" : [ "NOASSERTION" ]
-  }, {
-    "SPDXID" : "SPDXRef-item1814940",
-    "checksums" : [ {
-      "algorithm" : "MD5",
-      "checksumValue" : "cee00c2d0251f06ec5785bb337c7e502"
-    }, {
-      "algorithm" : "SHA1",
-      "checksumValue" : "fa1104426460e460bac64bc706c99757cf5c20db"
-    }, {
-      "algorithm" : "SHA256",
-      "checksumValue" : "d3059e733fc372b07050b07e90110e9b479b488c6e4391e1a536816bcd4c709c"
-    } ],
-    "copyrightText" : "Copyright (C) 2019-2020 Yann Collet",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/tests/bench/Makefile",
-    "licenseComments" : "NOASSERTION",
-    "licenseConcluded" : "LicenseRef-GPL-2.0-or-later",
-    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-or-later" ]
-  }, {
-    "SPDXID" : "SPDXRef-item1814941",
-    "checksums" : [ {
-      "algorithm" : "SHA256",
-      "checksumValue" : "3416c796fec6cd94e33b632fa051b7726332b6e9ab5c060160bd18b9f402fead"
-    }, {
-      "algorithm" : "MD5",
-      "checksumValue" : "7f5c23e8c5c42e1a17c7bc890c32c729"
-    }, {
-      "algorithm" : "SHA1",
-      "checksumValue" : "3a1b87b59cbd365da8f3267047947338b726b29e"
-    } ],
-    "copyrightText" : "Copyright (C) 2019-2020 Yann Collet",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/tests/bench/benchHash.h",
-    "licenseComments" : "NOASSERTION",
-    "licenseConcluded" : "LicenseRef-GPL-2.0-or-later",
-    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-or-later" ]
-  }, {
-    "SPDXID" : "SPDXRef-item1814942",
-    "checksums" : [ {
-      "algorithm" : "MD5",
-      "checksumValue" : "40e2b5f5bcba0b1f865e09f941b360ec"
-    }, {
-      "algorithm" : "SHA1",
-      "checksumValue" : "2a2a3bc45a144814eb909ffe4aeffecb437f8331"
-    }, {
-      "algorithm" : "SHA256",
-      "checksumValue" : "fde8cc901b0fb6d63a3b402ea5558ba5f47fe5596a1a30166abfb287d473d07e"
-    } ],
-    "copyrightText" : "Copyright (C) 2016-2020 Yann Collet, Facebook, Inc. All rights reserved.",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/tests/bench/benchfn.c",
-    "licenseComments" : "NOASSERTION AND The information in the file is:\n\nThis source code is licensed under both the BSD-style license (found in the\nLICENSE file in the root directory of this source tree) and the GPLv2 (found\nin the COPYING file in the root directory of this source tree).\n\nThe LICENSE file in the root directory contains the text of the BSD-2-Clause license. Additionally there is the text of the GPL-2.0 in this directory but there is no COPYING file in the root directory.\nNevertheless we concluded BSD-2-Clause AND GPL-2.0-only",
-    "licenseConcluded" : "(LicenseRef-BSD-2-Clause-9afc9a4fb1f7aea6393ed4f69550b44e AND LicenseRef-GPL-2.0-only)",
-    "licenseInfoInFiles" : [ "LicenseRef-BSD-3-Clause", "LicenseRef-BSD-style", "LicenseRef-GPL-2.0-only" ]
-  }, {
-    "SPDXID" : "SPDXRef-item1814943",
-    "checksums" : [ {
-      "algorithm" : "SHA256",
-      "checksumValue" : "ae746e0e74b2a9b7cc1ef47aab4ff6de7c64fe6cf81e07e3c9f611a84b8784b3"
-    }, {
-      "algorithm" : "MD5",
-      "checksumValue" : "003f3f6d46de14d6021669abd887459a"
-    }, {
-      "algorithm" : "SHA1",
-      "checksumValue" : "9e7730c5be84f730679ced98cde7a5dcc2b0bd87"
-    } ],
-    "copyrightText" : "Copyright (c) 2016-2020 Yann Collet, Facebook, Inc. All rights reserved.",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/tests/bench/timefn.h",
-    "licenseComments" : "NOASSERTION AND The information in the file is:\n\nThis source code is licensed under both the BSD-style license (found in the\nLICENSE file in the root directory of this source tree) and the GPLv2 (found\nin the COPYING file in the root directory of this source tree).\n\nThe LICENSE file in the root directory contains the text of the BSD-2-Clause license. Additionally there is the text of the GPL-2.0 in this directory but there is no COPYING file in the root directory.\nNevertheless we concluded BSD-2-Clause AND GPL-2.0-only",
-    "licenseConcluded" : "(LicenseRef-BSD-2-Clause-9afc9a4fb1f7aea6393ed4f69550b44e AND LicenseRef-GPL-2.0-only)",
-    "licenseInfoInFiles" : [ "LicenseRef-BSD-3-Clause", "LicenseRef-BSD-style", "LicenseRef-GPL-2.0-only" ]
-  }, {
-    "SPDXID" : "SPDXRef-item1814944",
-    "checksums" : [ {
-      "algorithm" : "SHA256",
-      "checksumValue" : "5166bd847dd425980f05615fd0850e5296b1fd088edd592f49867dec856c49a3"
-    }, {
-      "algorithm" : "MD5",
-      "checksumValue" : "a8123680832f4c610d46a688a3680c11"
-    }, {
-      "algorithm" : "SHA1",
-      "checksumValue" : "abac31a9a364ba0474e937e3d03ac2328e538048"
-    } ],
-    "copyrightText" : "Copyright (C) 2020 Yann Collet",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/tests/ppc_define.c",
-    "licenseComments" : "NOASSERTION",
-    "licenseConcluded" : "LicenseRef-GPL-2.0-or-later",
-    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-or-later" ]
-  }, {
-    "SPDXID" : "SPDXRef-item1814945",
-    "checksums" : [ {
-      "algorithm" : "SHA1",
-      "checksumValue" : "8e344e86e5e5154ac71b505d38a04a9214fdd36e"
-    }, {
-      "algorithm" : "SHA256",
-      "checksumValue" : "5843c0148147ce012dcfceafa2d940e2baf02e3d42c52bb0a27ce18227cc35fa"
-    }, {
-      "algorithm" : "MD5",
-      "checksumValue" : "10fb85668aa270983ee1541d97faa97d"
-    } ],
-    "copyrightText" : "Copyright (C) 2012-2020 Yann Collet",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/tests/Makefile",
-    "licenseComments" : "NOASSERTION",
-    "licenseConcluded" : "LicenseRef-GPL-2.0-or-later",
-    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-or-later" ]
-  }, {
-    "SPDXID" : "SPDXRef-item1814947",
-    "checksums" : [ {
-      "algorithm" : "SHA256",
-      "checksumValue" : "52c1d37d18a1b5af42eab1595b1c2188471e8d0ab802966e7d599103c0396e87"
-    }, {
-      "algorithm" : "MD5",
-      "checksumValue" : "dc7e24bb70b944aa4487ef745adc3bf1"
-    }, {
-      "algorithm" : "SHA1",
-      "checksumValue" : "7a2063123529adec348410e514a1df000ca63e36"
-    } ],
-    "copyrightText" : "Copyright (C) 2019-2020 Yann Collet",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/tests/collisions/sort.hh",
-    "licenseComments" : "NOASSERTION",
-    "licenseConcluded" : "LicenseRef-GPL-2.0-or-later",
-    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-or-later" ]
-  }, {
-    "SPDXID" : "SPDXRef-item1814948",
-    "checksums" : [ {
       "algorithm" : "SHA256",
       "checksumValue" : "8177f97513213526df2cf6184d8ff986c675afb514d4e68a404010521b880643"
-    }, {
-      "algorithm" : "SHA1",
-      "checksumValue" : "4cc77b90af91e615a64ae04893fdffa7939db84c"
-    }, {
-      "algorithm" : "MD5",
-      "checksumValue" : "b234ee4d69f5fce4486a80fdaf4a4263"
     } ],
     "copyrightText" : "Copyright (C) 1989, 1991 Free Software Foundation, Inc.",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/tests/collisions/LICENSE",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/tests/collisions/LICENSE",
     "licenseComments" : "The file contains the text of the GPL. The text is licensed under:\nEveryone is permitted to copy and distribute verbatim copies\nof this license document, but changing it is not allowed.\nThus we concluded License-of-GNU-Licenses as license of this file",
     "licenseConcluded" : "LicenseRef-License-of-GNU-Licenses",
-    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-or-later", "LicenseRef-GPL-2.0-or-later-WITH-Autoconf-exception", "LicenseRef-GPL-2.0-only" ]
+    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-only", "LicenseRef-GPL-2.0-or-later-WITH-Autoconf-exception", "LicenseRef-GPL-2.0-or-later" ]
   }, {
-    "SPDXID" : "SPDXRef-item1814949",
-    "checksums" : [ {
-      "algorithm" : "MD5",
-      "checksumValue" : "136637baaa980c9e67b667fad2eaabda"
-    }, {
-      "algorithm" : "SHA1",
-      "checksumValue" : "86e6e6aa3e8f3b3d309e506f685fc765fda2f944"
-    }, {
-      "algorithm" : "SHA256",
-      "checksumValue" : "078f0d5df59b1d937e35ec795bd18a82853a490d0901288219ff8314ae49b6b7"
-    } ],
-    "copyrightText" : "NOASSERTION",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/tests/collisions/README.md",
-    "licenseConcluded" : "NOASSERTION",
-    "licenseInfoInFiles" : [ "NOASSERTION" ]
-  }, {
-    "SPDXID" : "SPDXRef-item1814950",
+    "SPDXID" : "SPDXRef-item17542060",
     "checksums" : [ {
       "algorithm" : "SHA256",
       "checksumValue" : "737d4694952216a1620178457d31cf07276d83904e3dd7f7caad0be50eb1f236"
@@ -1064,46 +459,92 @@
       "checksumValue" : "8369a765a9f2241e509047b62c0abb60339d93b6"
     } ],
     "copyrightText" : "Copyright (c) 2016-2020 Yann Collet, Facebook, Inc. All rights reserved.",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/tests/collisions/pool.h",
-    "licenseComments" : "NOASSERTION AND The information in the file is:\n\nThis source code is licensed under both the BSD-style license (found in the\nLICENSE file in the root directory of this source tree) and the GPLv2 (found\nin the COPYING file in the root directory of this source tree).\n\nThe LICENSE file in the root directory contains the text of the BSD-2-Clause license. Additionally there is the text of the GPL-2.0 in this directory but there is no COPYING file in the root directory.\nNevertheless we concluded BSD-2-Clause AND GPL-2.0-only",
-    "licenseConcluded" : "(LicenseRef-BSD-2-Clause-9afc9a4fb1f7aea6393ed4f69550b44e AND LicenseRef-GPL-2.0-only)",
-    "licenseInfoInFiles" : [ "LicenseRef-BSD-3-Clause", "LicenseRef-BSD-style", "LicenseRef-GPL-2.0-only" ]
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/tests/collisions/pool.h",
+    "licenseComments" : "The information in the file is:\n\nThis source code is licensed under both the BSD-style license (found in the\nLICENSE file in the root directory of this source tree) and the GPLv2 (found\nin the COPYING file in the root directory of this source tree).\n\nThe LICENSE file in the root directory contains the text of the BSD-2-Clause license. Additionally there is the text of the GPL-2.0 in this directory but there is no COPYING file in the root directory.\nNevertheless we concluded BSD-2-Clause AND GPL-2.0-only",
+    "licenseConcluded" : "(LicenseRef-GPL-2.0-only AND LicenseRef-BSD-2-Clause-9afc9a4fb1f7aea6393ed4f69550b44e)",
+    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-only", "LicenseRef-BSD-3-Clause", "LicenseRef-BSD-style" ]
   }, {
-    "SPDXID" : "SPDXRef-item1814951",
+    "SPDXID" : "SPDXRef-item17542061",
     "checksums" : [ {
       "algorithm" : "MD5",
-      "checksumValue" : "f67610afe11a8f5721b16eb877ac81ca"
+      "checksumValue" : "136637baaa980c9e67b667fad2eaabda"
     }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "86e6e6aa3e8f3b3d309e506f685fc765fda2f944"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "078f0d5df59b1d937e35ec795bd18a82853a490d0901288219ff8314ae49b6b7"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/tests/collisions/README.md",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item17542062",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "59dd4a20eef1072c8eb97c1a55be7cd6"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "0b24a5d8f2a47709e850fed74111bfcda74b681e"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "0d50338e548934782e8248bc27694bd279c5ffddecb76c40ab87bc99f925b5d0"
+    } ],
+    "copyrightText" : "Copyright (C) 2019-2020 Yann Collet",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/tests/collisions/sort.cc",
+    "licenseConcluded" : "LicenseRef-GPL-2.0-or-later",
+    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-or-later" ]
+  }, {
+    "SPDXID" : "SPDXRef-item17542063",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "3ea634a42fc361762d74b8a5fa34530f"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "86c61f8db87a0e37ba4665af286ebcc35bac2cdf"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "f06170e6ced62fdb480f77eda65656a7d22bb2e2adfe25fa38c5f3a4637d1841"
+    } ],
+    "copyrightText" : "Copyright (C) 2019-2020 Yann Collet",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/tests/collisions/main.c",
+    "licenseConcluded" : "LicenseRef-GPL-2.0-or-later",
+    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-or-later" ]
+  }, {
+    "SPDXID" : "SPDXRef-item17542064",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "14811d5a7d4dc5ebd66454d6ff613e5f5f05e711"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "02fdde659c6c9dbd521dae1a580db0e2792e4f294b58bcdaa6dc756d79296457"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "e8bc5b0adddb2eb1777d3fc633bcebc6"
+    } ],
+    "copyrightText" : "Copyright (C) 2019-2020 Yann Collet",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/tests/collisions/Makefile",
+    "licenseConcluded" : "LicenseRef-GPL-2.0-or-later",
+    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-or-later" ]
+  }, {
+    "SPDXID" : "SPDXRef-item17542065",
+    "checksums" : [ {
       "algorithm" : "SHA1",
       "checksumValue" : "5799d5cd2d14a825a2419e14c06e56d0116813a7"
     }, {
       "algorithm" : "SHA256",
       "checksumValue" : "fe5f7d60187787ab27b1112547385143d4ff24a9ca4a7a23d923f2af139c79bf"
-    } ],
-    "copyrightText" : "Copyright (C) 2019-2020 Yann Collet",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/tests/collisions/hashes.h",
-    "licenseComments" : "NOASSERTION",
-    "licenseConcluded" : "LicenseRef-GPL-2.0-or-later",
-    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-or-later" ]
-  }, {
-    "SPDXID" : "SPDXRef-item1814952",
-    "checksums" : [ {
-      "algorithm" : "SHA1",
-      "checksumValue" : "70d55842344fc925574db53a2bc261d52eaccdee"
-    }, {
-      "algorithm" : "SHA256",
-      "checksumValue" : "14e15b6fc7421ae4586dfd325a8e7ac15505c0af1f4c9e58f8129909d5ced8ec"
     }, {
       "algorithm" : "MD5",
-      "checksumValue" : "267b3734d7222ebee2a3848c08eda6b4"
+      "checksumValue" : "f67610afe11a8f5721b16eb877ac81ca"
     } ],
     "copyrightText" : "Copyright (C) 2019-2020 Yann Collet",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/tests/collisions/main.c",
-    "licenseComments" : "NOASSERTION",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/tests/collisions/hashes.h",
     "licenseConcluded" : "LicenseRef-GPL-2.0-or-later",
     "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-or-later" ]
   }, {
-    "SPDXID" : "SPDXRef-item1814953",
+    "SPDXID" : "SPDXRef-item17542066",
     "checksums" : [ {
       "algorithm" : "MD5",
       "checksumValue" : "a35a8957b017314010383952c5f09392"
@@ -1115,487 +556,714 @@
       "checksumValue" : "8dbb44241cdc874fdb2d7192eb79cb97d1fa31b2bf26bc56eaa84239dcfd4ff3"
     } ],
     "copyrightText" : "Copyright (c) 2016 Tino Reichardt All rights reserved.",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/tests/collisions/threading.c",
-    "licenseComments" : "NOASSERTION AND The information in the file is:\n\nThis source code is licensed under both the BSD-style license (found in the\nLICENSE file in the root directory of this source tree) and the GPLv2 (found\nin the COPYING file in the root directory of this source tree).\n\nThe LICENSE file in the root directory contains the text of the BSD-2-Clause license. Additionally there is the text of the GPL-2.0 in /tests/collisions/LICENSE but there is no COPYING file.\nNevertheless we concluded BSD-2-Clause AND GPL-2.0-only",
-    "licenseConcluded" : "(LicenseRef-BSD-2-Clause-9afc9a4fb1f7aea6393ed4f69550b44e AND LicenseRef-GPL-2.0-only)",
-    "licenseInfoInFiles" : [ "LicenseRef-BSD-3-Clause", "LicenseRef-BSD-style", "LicenseRef-GPL-2.0-only" ]
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/tests/collisions/threading.c",
+    "licenseComments" : "The information in the file is:\n\nThis source code is licensed under both the BSD-style license (found in the\nLICENSE file in the root directory of this source tree) and the GPLv2 (found\nin the COPYING file in the root directory of this source tree).\n\nThe LICENSE file in the root directory contains the text of the BSD-2-Clause license. Additionally there is the text of the GPL-2.0 in /tests/collisions/LICENSE but there is no COPYING file.\nNevertheless we concluded BSD-2-Clause AND GPL-2.0-only",
+    "licenseConcluded" : "(LicenseRef-GPL-2.0-only AND LicenseRef-BSD-2-Clause-9afc9a4fb1f7aea6393ed4f69550b44e)",
+    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-only", "LicenseRef-BSD-3-Clause", "LicenseRef-BSD-style" ]
   }, {
-    "SPDXID" : "SPDXRef-item1814955",
+    "SPDXID" : "SPDXRef-item17542068",
     "checksums" : [ {
       "algorithm" : "SHA1",
-      "checksumValue" : "ab1087494597700f138c5e5267a7d52c6ee1cb42"
+      "checksumValue" : "0fe95db48d48debcb53101ff90fe066cb64c5fc9"
     }, {
-      "algorithm" : "SHA256",
-      "checksumValue" : "dc4b8e6cfcf56e8a3b8dac74417d258a015fdd367acc4b6953ee7db6bbf01438"
-    }, {
-      "algorithm" : "MD5",
-      "checksumValue" : "073d5000175653b2e916bfe72fa1af14"
-    } ],
-    "copyrightText" : "NOASSERTION",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/tests/collisions/allcodecs/README.md",
-    "licenseConcluded" : "NOASSERTION",
-    "licenseInfoInFiles" : [ "NOASSERTION" ]
-  }, {
-    "SPDXID" : "SPDXRef-item1814956",
-    "checksums" : [ {
       "algorithm" : "SHA256",
       "checksumValue" : "d068b8dff15513c93372e82b9ceeef70fe380232a0dbcf0482daa4a7e794083f"
     }, {
       "algorithm" : "MD5",
       "checksumValue" : "38df3a32e4ca56b9d3672fc937d16269"
-    }, {
-      "algorithm" : "SHA1",
-      "checksumValue" : "0fe95db48d48debcb53101ff90fe066cb64c5fc9"
     } ],
     "copyrightText" : "Copyright (C) 2020 Yann Collet",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/tests/collisions/allcodecs/dummy.c",
-    "licenseComments" : "NOASSERTION",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/tests/collisions/allcodecs/dummy.c",
     "licenseConcluded" : "LicenseRef-GPL-2.0-or-later",
     "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-or-later" ]
   }, {
-    "SPDXID" : "SPDXRef-item1814957",
+    "SPDXID" : "SPDXRef-item17542069",
     "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "073d5000175653b2e916bfe72fa1af14"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "ab1087494597700f138c5e5267a7d52c6ee1cb42"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "dc4b8e6cfcf56e8a3b8dac74417d258a015fdd367acc4b6953ee7db6bbf01438"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/tests/collisions/allcodecs/README.md",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item17542070",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "ea35e9a93be76e9dc613f4d993b2c61f"
+    }, {
       "algorithm" : "SHA1",
       "checksumValue" : "58c7e8c173a7df40977d9f65ead23b4769bcf060"
     }, {
       "algorithm" : "SHA256",
       "checksumValue" : "f36788a13d2cd6bb2c903598393c09339df474cdca6b0829a3cd67d7c0e11d53"
-    }, {
-      "algorithm" : "MD5",
-      "checksumValue" : "ea35e9a93be76e9dc613f4d993b2c61f"
     } ],
     "copyrightText" : "Copyright (C) 2020 Yann Collet",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/tests/collisions/allcodecs/dummy.h",
-    "licenseComments" : "NOASSERTION",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/tests/collisions/allcodecs/dummy.h",
     "licenseConcluded" : "LicenseRef-GPL-2.0-or-later",
     "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-or-later" ]
   }, {
-    "SPDXID" : "SPDXRef-item1814958",
-    "checksums" : [ {
-      "algorithm" : "SHA256",
-      "checksumValue" : "b44f1f46a697c4055f00b331d33b1c99b51399c2d7977e270001e60f06327060"
-    }, {
-      "algorithm" : "MD5",
-      "checksumValue" : "34225a42eec0b0c588fe3c075b516e38"
-    }, {
-      "algorithm" : "SHA1",
-      "checksumValue" : "3c08b6effdfdb7c830d0335d963111a7c9af1163"
-    } ],
-    "copyrightText" : "NOASSERTION",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/tests/collisions/.gitignore",
-    "licenseConcluded" : "NOASSERTION",
-    "licenseInfoInFiles" : [ "NOASSERTION" ]
-  }, {
-    "SPDXID" : "SPDXRef-item1814959",
+    "SPDXID" : "SPDXRef-item17542071",
     "checksums" : [ {
       "algorithm" : "MD5",
-      "checksumValue" : "0a89650bd5e4bfac71410b5b132e251e"
+      "checksumValue" : "6f04110e6d7cc56fa277cab2eff21a10"
     }, {
-      "algorithm" : "SHA1",
-      "checksumValue" : "67b2e215f111f86cd767e66003d4a51526325e17"
-    }, {
-      "algorithm" : "SHA256",
-      "checksumValue" : "33efae7b6ea6eab7d11a1c3c6da1546f6fcad17cab74b5d86d89a8e1cdb0d325"
-    } ],
-    "copyrightText" : "Copyright (C) 2019-2020 Yann Collet",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/tests/collisions/Makefile",
-    "licenseComments" : "NOASSERTION",
-    "licenseConcluded" : "LicenseRef-GPL-2.0-or-later",
-    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-or-later" ]
-  }, {
-    "SPDXID" : "SPDXRef-item1814960",
-    "checksums" : [ {
       "algorithm" : "SHA1",
       "checksumValue" : "349e59c31b446f5231c0d47971a108cc2e4f8649"
     }, {
       "algorithm" : "SHA256",
       "checksumValue" : "7155835e599e5fb60ca7a9709157be234c88d43525a6de4155a56a1e8d1fa248"
-    }, {
-      "algorithm" : "MD5",
-      "checksumValue" : "6f04110e6d7cc56fa277cab2eff21a10"
     } ],
     "copyrightText" : "Copyright (C) 2016-2020 Yann Collet, Facebook, Inc. All rights reserved.",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/tests/collisions/pool.c",
-    "licenseComments" : "NOASSERTION AND The information in the file is:\n\nThis source code is licensed under both the BSD-style license (found in the\nLICENSE file in the root directory of this source tree) and the GPLv2 (found\nin the COPYING file in the root directory of this source tree).\n\nThe LICENSE file in the root directory contains the text of the BSD-2-Clause license. Additionally there is the text of the GPL-2.0 in this directory but there is no COPYING file in the root directory.\nNevertheless we concluded BSD-2-Clause AND GPL-2.0-only",
-    "licenseConcluded" : "(LicenseRef-BSD-2-Clause-9afc9a4fb1f7aea6393ed4f69550b44e AND LicenseRef-GPL-2.0-only)",
-    "licenseInfoInFiles" : [ "LicenseRef-BSD-3-Clause", "LicenseRef-BSD-style", "LicenseRef-GPL-2.0-only" ]
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/tests/collisions/pool.c",
+    "licenseComments" : "The information in the file is:\n\nThis source code is licensed under both the BSD-style license (found in the\nLICENSE file in the root directory of this source tree) and the GPLv2 (found\nin the COPYING file in the root directory of this source tree).\n\nThe LICENSE file in the root directory contains the text of the BSD-2-Clause license. Additionally there is the text of the GPL-2.0 in this directory but there is no COPYING file in the root directory.\nNevertheless we concluded BSD-2-Clause AND GPL-2.0-only",
+    "licenseConcluded" : "(LicenseRef-GPL-2.0-only AND LicenseRef-BSD-2-Clause-9afc9a4fb1f7aea6393ed4f69550b44e)",
+    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-only", "LicenseRef-BSD-3-Clause", "LicenseRef-BSD-style" ]
   }, {
-    "SPDXID" : "SPDXRef-item1814961",
+    "SPDXID" : "SPDXRef-item17542072",
     "checksums" : [ {
-      "algorithm" : "SHA1",
-      "checksumValue" : "0b24a5d8f2a47709e850fed74111bfcda74b681e"
-    }, {
-      "algorithm" : "SHA256",
-      "checksumValue" : "0d50338e548934782e8248bc27694bd279c5ffddecb76c40ab87bc99f925b5d0"
-    }, {
-      "algorithm" : "MD5",
-      "checksumValue" : "59dd4a20eef1072c8eb97c1a55be7cd6"
-    } ],
-    "copyrightText" : "Copyright (C) 2019-2020 Yann Collet",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/tests/collisions/sort.cc",
-    "licenseComments" : "NOASSERTION",
-    "licenseConcluded" : "LicenseRef-GPL-2.0-or-later",
-    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-or-later" ]
-  }, {
-    "SPDXID" : "SPDXRef-item1814962",
-    "checksums" : [ {
-      "algorithm" : "SHA1",
-      "checksumValue" : "5719bb5b9c6f0ff174b40cd2433b885643c11f0e"
-    }, {
       "algorithm" : "SHA256",
       "checksumValue" : "0dffb280b3ce38e081d32a97fb6f908539df6b24d33d2f7933620bcf7a263f80"
     }, {
       "algorithm" : "MD5",
       "checksumValue" : "fe8d2dc0848833126a9aa388b165e166"
-    } ],
-    "copyrightText" : "Copyright (c) 2016 Tino Reichardt All rights reserved.",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/tests/collisions/threading.h",
-    "licenseComments" : "NOASSERTION AND The information in the file is:\n\nThis source code is licensed under both the BSD-style license (found in the\nLICENSE file in the root directory of this source tree) and the GPLv2 (found\nin the COPYING file in the root directory of this source tree).\n\nThe LICENSE file in the root directory contains the text of the BSD-2-Clause license. Additionally there is the text of the GPL-2.0 in /tests/collisions/LICENSE but there is no COPYING file.\nNevertheless we concluded BSD-2-Clause AND GPL-2.0-only",
-    "licenseConcluded" : "(LicenseRef-BSD-2-Clause-9afc9a4fb1f7aea6393ed4f69550b44e AND LicenseRef-GPL-2.0-only)",
-    "licenseInfoInFiles" : [ "LicenseRef-BSD-3-Clause", "LicenseRef-BSD-style", "LicenseRef-GPL-2.0-only" ]
-  }, {
-    "SPDXID" : "SPDXRef-item1814963",
-    "checksums" : [ {
-      "algorithm" : "SHA256",
-      "checksumValue" : "5db80724cf57ed81db7894e987b7d6957af6b79531fae3a949d0d15c03956290"
-    }, {
-      "algorithm" : "MD5",
-      "checksumValue" : "1e8f9dffc0849bdbdfac54ea3b017c49"
     }, {
       "algorithm" : "SHA1",
-      "checksumValue" : "91605db5f928a31d0d17251ed7484dd700f6084d"
+      "checksumValue" : "5719bb5b9c6f0ff174b40cd2433b885643c11f0e"
+    } ],
+    "copyrightText" : "Copyright (c) 2016 Tino Reichardt All rights reserved.",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/tests/collisions/threading.h",
+    "licenseComments" : "The information in the file is:\n\nThis source code is licensed under both the BSD-style license (found in the\nLICENSE file in the root directory of this source tree) and the GPLv2 (found\nin the COPYING file in the root directory of this source tree).\n\nThe LICENSE file in the root directory contains the text of the BSD-2-Clause license. Additionally there is the text of the GPL-2.0 in /tests/collisions/LICENSE but there is no COPYING file.\nNevertheless we concluded BSD-2-Clause AND GPL-2.0-only",
+    "licenseConcluded" : "(LicenseRef-GPL-2.0-only AND LicenseRef-BSD-2-Clause-9afc9a4fb1f7aea6393ed4f69550b44e)",
+    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-only", "LicenseRef-BSD-3-Clause", "LicenseRef-BSD-style" ]
+  }, {
+    "SPDXID" : "SPDXRef-item17542073",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "dc7e24bb70b944aa4487ef745adc3bf1"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "7a2063123529adec348410e514a1df000ca63e36"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "52c1d37d18a1b5af42eab1595b1c2188471e8d0ab802966e7d599103c0396e87"
+    } ],
+    "copyrightText" : "Copyright (C) 2019-2020 Yann Collet",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/tests/collisions/sort.hh",
+    "licenseConcluded" : "LicenseRef-GPL-2.0-or-later",
+    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-or-later" ]
+  }, {
+    "SPDXID" : "SPDXRef-item17542074",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "34225a42eec0b0c588fe3c075b516e38"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "3c08b6effdfdb7c830d0335d963111a7c9af1163"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "b44f1f46a697c4055f00b331d33b1c99b51399c2d7977e270001e60f06327060"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/tests/collisions/.gitignore",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item17542075",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "9ae1232cb7d442b25a3e0cc6cb6cf50b52ec1d5be0ad14d68c75082ecbb0e2bb"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "8f0c2ce29b10e1b6bea07cb0ffb7d188"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "8e82cd8cd5b18590104c453bd88f6ae06e5e658a"
+    } ],
+    "copyrightText" : "Copyright (C) 2020 Yann Collet",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/tests/multiInclude.c",
+    "licenseConcluded" : "LicenseRef-GPL-2.0-or-later",
+    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-or-later" ]
+  }, {
+    "SPDXID" : "SPDXRef-item17542076",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "e4eceaf1593cccee8dd4b458881218abdf61323dc4cbadfc6a259d591fdc0b95"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "a9eb697c9f6795bfad52c5d759a64eec"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "1af7534088b74f81167e26a5914e6b005ae5e79f"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/tests/Makefile",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item17542077",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "5166bd847dd425980f05615fd0850e5296b1fd088edd592f49867dec856c49a3"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "a8123680832f4c610d46a688a3680c11"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "abac31a9a364ba0474e937e3d03ac2328e538048"
+    } ],
+    "copyrightText" : "Copyright (C) 2020 Yann Collet",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/tests/ppc_define.c",
+    "licenseConcluded" : "LicenseRef-GPL-2.0-or-later",
+    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-or-later" ]
+  }, {
+    "SPDXID" : "SPDXRef-item17542079",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "b234ee4d69f5fce4486a80fdaf4a4263"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "4cc77b90af91e615a64ae04893fdffa7939db84c"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "8177f97513213526df2cf6184d8ff986c675afb514d4e68a404010521b880643"
+    } ],
+    "copyrightText" : "Copyright (C) 1989, 1991 Free Software Foundation, Inc.",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/tests/bench/LICENSE",
+    "licenseComments" : "The file contains the text of the GPL. The text is licensed under:\nEveryone is permitted to copy and distribute verbatim copies\nof this license document, but changing it is not allowed.\nThus we concluded License-of-GNU-Licenses as license of this file",
+    "licenseConcluded" : "LicenseRef-License-of-GNU-Licenses",
+    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-only", "LicenseRef-GPL-2.0-or-later-WITH-Autoconf-exception", "LicenseRef-GPL-2.0-or-later" ]
+  }, {
+    "SPDXID" : "SPDXRef-item17542080",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "db29f9be1a079312bcb571b459d6561a3973a950bf480653a7c0f5f8f980f233"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "e10f8388aa5edcb573f821d710ab985f"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "881bd2f1195916f9c770350e0b16c706f249486d"
+    } ],
+    "copyrightText" : "Copyright (C) 2019-2020 Yann Collet",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/tests/bench/bhDisplay.c",
+    "licenseConcluded" : "LicenseRef-GPL-2.0-or-later",
+    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-or-later" ]
+  }, {
+    "SPDXID" : "SPDXRef-item17542081",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "43bdb9a81fdeff33c66c9441d58df4f57cc7eed7"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "3a78e3c68be48efaef32f0d690375de4"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "4c33c66c91ab1b8e53d3d86e2059bb8d2b728014ff20bd890492e91fff0dc079"
+    } ],
+    "copyrightText" : "Copyright (C) 2019-2020 Yann Collet",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/tests/bench/bhDisplay.h",
+    "licenseConcluded" : "LicenseRef-GPL-2.0-or-later",
+    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-or-later" ]
+  }, {
+    "SPDXID" : "SPDXRef-item17542082",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "97331aee4ef791fcf6b2156cf7fd78f20895904bc9fed5d5380fbbee9085178f"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "17011b52c9e051ff93b49793b9051cbb"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "a4b7b1b61787fa92784e4a7def56ffb25ca61136"
+    } ],
+    "copyrightText" : "Copyright (C) 2019-2020 Yann Collet",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/tests/bench/benchHash.c",
+    "licenseConcluded" : "LicenseRef-GPL-2.0-or-later",
+    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-or-later" ]
+  }, {
+    "SPDXID" : "SPDXRef-item17542083",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "3416c796fec6cd94e33b632fa051b7726332b6e9ab5c060160bd18b9f402fead"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "7f5c23e8c5c42e1a17c7bc890c32c729"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "3a1b87b59cbd365da8f3267047947338b726b29e"
+    } ],
+    "copyrightText" : "Copyright (C) 2019-2020 Yann Collet",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/tests/bench/benchHash.h",
+    "licenseConcluded" : "LicenseRef-GPL-2.0-or-later",
+    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-or-later" ]
+  }, {
+    "SPDXID" : "SPDXRef-item17542084",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "16c701b59df1639f82a17d74ce346da589fb8ac6"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "84b92f6c29732d6093990d932902990d1656be71a8dcca83419f5dba5aaa4708"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "33c56af7528edd04cf422b15e1f508f8"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/tests/bench/.clang_complete",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item17542085",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "4b36e39ff54f2975f7f36b5220053eabd94342f6220b7562c9b26125b4fbd5ca"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "01ad6d9e5c64c5dabb9eb41c8d7dcfd8"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "ea7005d0a9b27a908effc28f113ba8fc1f72d6fb"
+    } ],
+    "copyrightText" : "Copyright (C) 2019-2020 Yann Collet",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/tests/bench/main.c",
+    "licenseConcluded" : "LicenseRef-GPL-2.0-or-later",
+    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-or-later" ]
+  }, {
+    "SPDXID" : "SPDXRef-item17542086",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "58b1c17c923159b89ead6f0efe3883651da4e737519fef3aa1f3ec07131695b9"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "ba61ca64f341efe86043418aeceafb68"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "ca87de38682c86d10927c8909842b0cee25a5856"
+    } ],
+    "copyrightText" : "Copyright (C) 2019-2020 Yann Collet",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/tests/bench/Makefile",
+    "licenseConcluded" : "LicenseRef-GPL-2.0-or-later",
+    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-or-later" ]
+  }, {
+    "SPDXID" : "SPDXRef-item17542087",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "0c1dd7eeadd4f65bd9feb8cdc14951af860e44295b5e4a8696508c7fdae9448f"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "4da63bd1532aaf2cd111cc81fc76d3ff"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "e63e8296b32830293f62bf0dfa33b9ae9b9eedfc"
+    } ],
+    "copyrightText" : "Copyright (C) 2019-2020 Yann Collet",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/tests/bench/hashes.h",
+    "licenseConcluded" : "LicenseRef-GPL-2.0-or-later",
+    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-or-later" ]
+  }, {
+    "SPDXID" : "SPDXRef-item17542088",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "e49461ef1f31a5e4d30e277afbcb526c56285c2b"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "f90771200db4013d803a557a668b4baba16c9f8bbad42e5a5fbde83801e8b020"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "dd681d5224159b97395df9cac8d3e704"
+    } ],
+    "copyrightText" : "Copyright (C) 2016-2020 Yann Collet, Facebook, Inc. All rights reserved.",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/tests/bench/benchfn.h",
+    "licenseComments" : "The information in the file is:\n\nThis source code is licensed under both the BSD-style license (found in the\nLICENSE file in the root directory of this source tree) and the GPLv2 (found\nin the COPYING file in the root directory of this source tree).\n\nThe LICENSE file in the root directory contains the text of the BSD-2-Clause license. Additionally there is the text of the GPL-2.0 in this directory but there is no COPYING file in the root directory.\nNevertheless we concluded BSD-2-Clause AND GPL-2.0-only",
+    "licenseConcluded" : "(LicenseRef-GPL-2.0-only AND LicenseRef-BSD-2-Clause-9afc9a4fb1f7aea6393ed4f69550b44e)",
+    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-only", "LicenseRef-BSD-3-Clause", "LicenseRef-BSD-style" ]
+  }, {
+    "SPDXID" : "SPDXRef-item17542089",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "2a2a3bc45a144814eb909ffe4aeffecb437f8331"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "fde8cc901b0fb6d63a3b402ea5558ba5f47fe5596a1a30166abfb287d473d07e"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "40e2b5f5bcba0b1f865e09f941b360ec"
+    } ],
+    "copyrightText" : "Copyright (C) 2016-2020 Yann Collet, Facebook, Inc. All rights reserved.",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/tests/bench/benchfn.c",
+    "licenseComments" : "The information in the file is:\n\nThis source code is licensed under both the BSD-style license (found in the\nLICENSE file in the root directory of this source tree) and the GPLv2 (found\nin the COPYING file in the root directory of this source tree).\n\nThe LICENSE file in the root directory contains the text of the BSD-2-Clause license. Additionally there is the text of the GPL-2.0 in this directory but there is no COPYING file in the root directory.\nNevertheless we concluded BSD-2-Clause AND GPL-2.0-only",
+    "licenseConcluded" : "(LicenseRef-GPL-2.0-only AND LicenseRef-BSD-2-Clause-9afc9a4fb1f7aea6393ed4f69550b44e)",
+    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-only", "LicenseRef-BSD-3-Clause", "LicenseRef-BSD-style" ]
+  }, {
+    "SPDXID" : "SPDXRef-item17542090",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "f1de866f02b2ea09fa2963cf99f1156b536e0076"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "392108f213bee34adeb212fcfe8760ea57796ee278e2a3bf681a9b6449913f1e"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "903bf2b814dc508593e8f740af4544bc"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/tests/bench/.gitignore",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item17542091",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "ae746e0e74b2a9b7cc1ef47aab4ff6de7c64fe6cf81e07e3c9f611a84b8784b3"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "003f3f6d46de14d6021669abd887459a"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "9e7730c5be84f730679ced98cde7a5dcc2b0bd87"
+    } ],
+    "copyrightText" : "Copyright (c) 2016-2020 Yann Collet, Facebook, Inc. All rights reserved.",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/tests/bench/timefn.h",
+    "licenseComments" : "The information in the file is:\n\nThis source code is licensed under both the BSD-style license (found in the\nLICENSE file in the root directory of this source tree) and the GPLv2 (found\nin the COPYING file in the root directory of this source tree).\n\nThe LICENSE file in the root directory contains the text of the BSD-2-Clause license. Additionally there is the text of the GPL-2.0 in this directory but there is no COPYING file in the root directory.\nNevertheless we concluded BSD-2-Clause AND GPL-2.0-only",
+    "licenseConcluded" : "(LicenseRef-GPL-2.0-only AND LicenseRef-BSD-2-Clause-9afc9a4fb1f7aea6393ed4f69550b44e)",
+    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-only", "LicenseRef-BSD-3-Clause", "LicenseRef-BSD-style" ]
+  }, {
+    "SPDXID" : "SPDXRef-item17542092",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "1c4d6987d316dcff52177477463d3abc"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "5a195fb94633d24f2957dc8ff4f3d49224494ea9"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "2c4ceafb19054ec1599cb06eee1c7d1a0469720c3550fa9d2eb6188607d02efd"
+    } ],
+    "copyrightText" : "Copyright (C) 2019-2020 Yann Collet, Facebook, Inc. All rights reserved.",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/tests/bench/timefn.c",
+    "licenseComments" : "The information in the file is:\n\nThis source code is licensed under both the BSD-style license (found in the\nLICENSE file in the root directory of this source tree) and the GPLv2 (found\nin the COPYING file in the root directory of this source tree).\n\nThe LICENSE file in the root directory contains the text of the BSD-2-Clause license. Additionally there is the text of the GPL-2.0 in this directory but there is no COPYING file in the root directory.\nNevertheless we concluded BSD-2-Clause AND GPL-2.0-only",
+    "licenseConcluded" : "(LicenseRef-GPL-2.0-only AND LicenseRef-BSD-2-Clause-9afc9a4fb1f7aea6393ed4f69550b44e)",
+    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-only", "LicenseRef-BSD-3-Clause", "LicenseRef-BSD-style" ]
+  }, {
+    "SPDXID" : "SPDXRef-item17542093",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "89cc4ca6ca8032f5b3d9c032d52ad330e06effd5"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "1829422db6c67ce7958068768a0d5309317764effbf543367feb9e5f057cac6a"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "6906ef6970255649b13a4a3cd97c9b21"
+    } ],
+    "copyrightText" : "Copyright (C) 2020 Devin Hussey (easyaspi314)",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/tests/generate_unicode_test.c",
+    "licenseConcluded" : "LicenseRef-BSD-2-Clause-4a23fcefa5e462ab24d8c477b521cc39",
+    "licenseInfoInFiles" : [ "LicenseRef-BSD-2-Clause" ]
+  }, {
+    "SPDXID" : "SPDXRef-item17542094",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "2bc6d6a78ebd9e6c5aefefa8b5bc1980"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "c755d8a97f21a7d41172a0e278b8943831dd5926"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "205750639eca81a4142dccf62a3d2a8817836b1143dd58100c53111ea36628a4"
     } ],
     "copyrightText" : "Copyright (C) 2012-2020, Yann Collet, Facebook",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/libxxhash.pc.in",
-    "licenseComments" : "(The information in the file is:\nBSD 2-Clause License (https://www.opensource.org/licenses/bsd-license.php)\n\nvisiting the link, showed the following text:\n\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\n1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\n\n2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.\n\nThus we concluded BSD-2-Clause. The information was retreived on 12th of May. 2023)",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/libxxhash.pc.in",
+    "licenseComments" : "The information in the file is:\nBSD 2-Clause License (https://www.opensource.org/licenses/bsd-license.php)\n\nvisiting the link, showed the following text:\n\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\n1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\n\n2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.\n\nThus we concluded BSD-2-Clause. The information was retreived on 12th of May. 2023",
     "licenseConcluded" : "LicenseRef-BSD-2-Clause-2cc4ca67731de11ba12ab2ba3628eb2c",
     "licenseInfoInFiles" : [ "LicenseRef-BSD-2-Clause" ]
   }, {
-    "SPDXID" : "SPDXRef-item1814964",
+    "SPDXID" : "SPDXRef-item17542095",
     "checksums" : [ {
-      "algorithm" : "SHA1",
-      "checksumValue" : "c047408489e0fe1e2e89e3cb85afb5c514cd03e7"
-    }, {
       "algorithm" : "SHA256",
-      "checksumValue" : "415f3eb922bc3d7e1a202af40a964d94f9e5fd674c030a56180beaa3c6d6d481"
+      "checksumValue" : "ac36d89e61aae05ca63d2a4e32cd8a1a32d73407495bdc45b605c007ff21e238"
     }, {
       "algorithm" : "MD5",
-      "checksumValue" : "54cb9696186f5e8787150b6df2e24d12"
+      "checksumValue" : "4cd4eb12ff17aabeca5f5911eaee069d"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "32ccb0ffda49d898e8d2693834f2f2d85a6d9f7a"
     } ],
-    "copyrightText" : "Copyright (C) 2019-2020 Yann Collet",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/xxh3.h",
-    "licenseComments" : "NOASSERTION",
-    "licenseConcluded" : "LicenseRef-BSD-2-Clause-4a23fcefa5e462ab24d8c477b521cc39",
-    "licenseInfoInFiles" : [ "LicenseRef-BSD-2-Clause", "LicenseRef-BSD-3-Clause-No-Military-License" ]
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/CHANGELOG",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "LicenseRef-BSD-3-Clause" ]
   }, {
-    "SPDXID" : "SPDXRef-item1814965",
+    "SPDXID" : "SPDXRef-item17542096",
     "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "8a6d4e4be17488a1f97ba54e8eba3a800be014de5d92249c4e773906ff03e8e2"
+    }, {
       "algorithm" : "MD5",
-      "checksumValue" : "d05331d4ddcd7a4db1cbb58e540e6a1a"
+      "checksumValue" : "0be32bba2cde26bdff846ac73a9c66c6"
     }, {
       "algorithm" : "SHA1",
-      "checksumValue" : "925bad6e6406df0c6303527bb8f8cad81e9c64d6"
+      "checksumValue" : "1edb30b995d74310f04e27f50b5234619688431e"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/.gitignore",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item17542097",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "22a3abbef9cc473b06ab2757a5207d4939985cf3"
     }, {
       "algorithm" : "SHA256",
-      "checksumValue" : "aa4deda8245c09600faab5e6e671cc6d3afd56c2519fc89a6f4fe0bf98320e2b"
+      "checksumValue" : "6a162f07a9509042b11927c51c8b737b35561cfeaaabb3b746c14720192eba93"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "70469bb4ce7ddab9ac93062409e07a41"
     } ],
-    "copyrightText" : "Copyright (C) 2012-2020 Yann Collet",
-    "fileName" : "xxHash-0.8.1.tar.gz/xxHash-0.8.1.tar/xxHash-0.8.1/Makefile",
-    "licenseComments" : "NOASSERTION",
-    "licenseConcluded" : "LicenseRef-GPL-2.0-or-later",
-    "licenseInfoInFiles" : [ "LicenseRef-GPL-2.0-or-later", "LicenseRef-BSD-3-Clause" ]
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "xxHash-0.8.0.tar.gz/xxHash-0.8.0.tar/xxHash-0.8.0/xxhsum.1",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "LicenseRef-BSD-3-Clause" ]
   } ],
   "relationships" : [ {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814886"
+    "relatedSpdxElement" : "SPDXRef-item17542035"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814887"
+    "relatedSpdxElement" : "SPDXRef-item17542036"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814888"
+    "relatedSpdxElement" : "SPDXRef-item17542037"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814889"
+    "relatedSpdxElement" : "SPDXRef-item17542038"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814890"
+    "relatedSpdxElement" : "SPDXRef-item17542039"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814891"
+    "relatedSpdxElement" : "SPDXRef-item17542040"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814892"
+    "relatedSpdxElement" : "SPDXRef-item17542041"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814893"
+    "relatedSpdxElement" : "SPDXRef-item17542042"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814894"
+    "relatedSpdxElement" : "SPDXRef-item17542043"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814895"
+    "relatedSpdxElement" : "SPDXRef-item17542044"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814896"
+    "relatedSpdxElement" : "SPDXRef-item17542045"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814897"
+    "relatedSpdxElement" : "SPDXRef-item17542046"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814898"
+    "relatedSpdxElement" : "SPDXRef-item17542047"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814899"
+    "relatedSpdxElement" : "SPDXRef-item17542049"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814900"
+    "relatedSpdxElement" : "SPDXRef-item17542050"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814901"
+    "relatedSpdxElement" : "SPDXRef-item17542051"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814902"
+    "relatedSpdxElement" : "SPDXRef-item17542053"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814903"
+    "relatedSpdxElement" : "SPDXRef-item17542054"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814904"
+    "relatedSpdxElement" : "SPDXRef-item17542055"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814905"
+    "relatedSpdxElement" : "SPDXRef-item17542056"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814906"
+    "relatedSpdxElement" : "SPDXRef-item17542059"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814908"
+    "relatedSpdxElement" : "SPDXRef-item17542060"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814909"
+    "relatedSpdxElement" : "SPDXRef-item17542061"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814910"
+    "relatedSpdxElement" : "SPDXRef-item17542062"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814911"
+    "relatedSpdxElement" : "SPDXRef-item17542063"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814912"
+    "relatedSpdxElement" : "SPDXRef-item17542064"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814913"
+    "relatedSpdxElement" : "SPDXRef-item17542065"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814914"
+    "relatedSpdxElement" : "SPDXRef-item17542066"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814916"
+    "relatedSpdxElement" : "SPDXRef-item17542068"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814917"
+    "relatedSpdxElement" : "SPDXRef-item17542069"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814918"
+    "relatedSpdxElement" : "SPDXRef-item17542070"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814921"
+    "relatedSpdxElement" : "SPDXRef-item17542071"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814922"
+    "relatedSpdxElement" : "SPDXRef-item17542072"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814923"
+    "relatedSpdxElement" : "SPDXRef-item17542073"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814924"
+    "relatedSpdxElement" : "SPDXRef-item17542074"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814926"
+    "relatedSpdxElement" : "SPDXRef-item17542075"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814927"
+    "relatedSpdxElement" : "SPDXRef-item17542076"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814928"
+    "relatedSpdxElement" : "SPDXRef-item17542077"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814930"
+    "relatedSpdxElement" : "SPDXRef-item17542079"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814931"
+    "relatedSpdxElement" : "SPDXRef-item17542080"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814932"
+    "relatedSpdxElement" : "SPDXRef-item17542081"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814933"
+    "relatedSpdxElement" : "SPDXRef-item17542082"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814934"
+    "relatedSpdxElement" : "SPDXRef-item17542083"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814935"
+    "relatedSpdxElement" : "SPDXRef-item17542084"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814936"
+    "relatedSpdxElement" : "SPDXRef-item17542085"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814937"
+    "relatedSpdxElement" : "SPDXRef-item17542086"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814938"
+    "relatedSpdxElement" : "SPDXRef-item17542087"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814939"
+    "relatedSpdxElement" : "SPDXRef-item17542088"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814940"
+    "relatedSpdxElement" : "SPDXRef-item17542089"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814941"
+    "relatedSpdxElement" : "SPDXRef-item17542090"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814942"
+    "relatedSpdxElement" : "SPDXRef-item17542091"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814943"
+    "relatedSpdxElement" : "SPDXRef-item17542092"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814944"
+    "relatedSpdxElement" : "SPDXRef-item17542093"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814945"
+    "relatedSpdxElement" : "SPDXRef-item17542094"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814947"
+    "relatedSpdxElement" : "SPDXRef-item17542095"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814948"
+    "relatedSpdxElement" : "SPDXRef-item17542096"
   }, {
-    "spdxElementId" : "SPDXRef-upload299",
+    "spdxElementId" : "SPDXRef-upload4095",
     "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814949"
-  }, {
-    "spdxElementId" : "SPDXRef-upload299",
-    "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814950"
-  }, {
-    "spdxElementId" : "SPDXRef-upload299",
-    "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814951"
-  }, {
-    "spdxElementId" : "SPDXRef-upload299",
-    "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814952"
-  }, {
-    "spdxElementId" : "SPDXRef-upload299",
-    "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814953"
-  }, {
-    "spdxElementId" : "SPDXRef-upload299",
-    "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814955"
-  }, {
-    "spdxElementId" : "SPDXRef-upload299",
-    "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814956"
-  }, {
-    "spdxElementId" : "SPDXRef-upload299",
-    "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814957"
-  }, {
-    "spdxElementId" : "SPDXRef-upload299",
-    "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814958"
-  }, {
-    "spdxElementId" : "SPDXRef-upload299",
-    "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814959"
-  }, {
-    "spdxElementId" : "SPDXRef-upload299",
-    "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814960"
-  }, {
-    "spdxElementId" : "SPDXRef-upload299",
-    "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814961"
-  }, {
-    "spdxElementId" : "SPDXRef-upload299",
-    "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814962"
-  }, {
-    "spdxElementId" : "SPDXRef-upload299",
-    "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814963"
-  }, {
-    "spdxElementId" : "SPDXRef-upload299",
-    "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814964"
-  }, {
-    "spdxElementId" : "SPDXRef-upload299",
-    "relationshipType" : "CONTAINS",
-    "relatedSpdxElement" : "SPDXRef-item1814965"
+    "relatedSpdxElement" : "SPDXRef-item17542097"
   }, {
     "spdxElementId" : "SPDXRef-DOCUMENT",
     "relationshipType" : "DESCRIBES",
-    "relatedSpdxElement" : "SPDXRef-upload299"
+    "relatedSpdxElement" : "SPDXRef-upload4095"
   } ]
 }

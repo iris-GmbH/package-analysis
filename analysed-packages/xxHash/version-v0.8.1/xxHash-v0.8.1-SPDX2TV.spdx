@@ -17,7 +17,7 @@ Creator: Tool: spdx2
 Creator: Person: Oliver Fendt
 CreatorComment: <text>
 This document was created using license information and a generator from Fossology.
-It contains the license and copyright analysis of xxHash 0.8.1
+It contains the license and copyright analysis of xxHash v0.8.1
 Please check "LicenseComments" for explanations of concluded licenses
 </text>
 Created: 2023-05-12T15:20:03Z
@@ -37,7 +37,7 @@ PackageChecksum: SHA1: a92c9a9cfbef23e52f2d1b581cb9926c680d261d
 PackageChecksum: SHA256: 3bb6b7d6f30c591dd65aaaff1c8b7a5b94d81687998ca9400082c739a690436c
 PackageChecksum: MD5: b67c587f5ff4894253da0095ba7ea393
 PackageLicenseConcluded: NOASSERTION
-PackageLicenseDeclared: NOASSERTION
+PackageLicenseDeclared: LicenseRef-BSD-2-Clause-9afc9a4fb1f7aea6393ed4f69550b44e
 PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
  - nomos ("4.1.0.95".82b3b2)
  - monk ("4.1.0.95".82b3b2)

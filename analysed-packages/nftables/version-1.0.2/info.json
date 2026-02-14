@@ -1,0 +1,33 @@
+{
+    "schema_version": "1.0.0",
+    "name": "nftables",
+    "version": "1.0.2",
+    "description": "",
+    "comment": "",
+    "src": {
+        "tarball": {
+            "url": "https://www.netfilter.org/projects/nftables/files/nftables-1.0.2.tar.bz2"
+        }
+    },
+    "clearingFiles": [
+        {
+            "fileName": "nftables-1.0.2.spdx.rdf.xml",
+            "priority": "n/a",
+            "author": "Pascal Minder (p.minder@evtec.ch)",
+            "reviewer": [
+                "Oliver Fendt"
+            ],
+            "alternate_files": [
+                {
+                    "fileName": "nftables-1.0.2-SPDX2TV.spdx"
+                },
+                {
+                    "fileName": "nftables-1.0.2.spdx.json"
+                },
+                {
+                    "fileName": "nftables-1.0.2.spdx.yaml"
+                }
+            ]
+        }
+    ]
+}

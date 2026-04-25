@@ -1,0 +1,31 @@
+{
+    "schema_version": "1.0.0",
+    "name": "Text-CharWidth",
+    "version": "0.04",
+    "description": "",
+    "comment": "",
+    "src": {
+        "tarball": {
+            "url": "https://cpan.metacpan.org/authors/id/K/KU/KUBOTA/Text-CharWidth-0.04.tar.gz"
+        }
+    },
+    "clearingFiles": [
+        {
+            "fileName": "Text-CharWidth-0.04.spdx.rdf.xml",
+            "priority": "n/a",
+            "author": "Oliver Fendt",
+            "reviewer": [],
+            "alternate_files": [
+                {
+                    "fileName": "Text-CharWidth-0.04-SPDX2TV.spdx"
+                },
+                {
+                    "fileName": "Text-CharWidth-0.04.spdx.json"
+                },
+                {
+                    "fileName": "Text-CharWidth-0.04.spdx.yaml"
+                }
+            ]
+        }
+    ]
+}

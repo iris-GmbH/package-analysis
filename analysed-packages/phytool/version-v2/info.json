@@ -1,0 +1,31 @@
+{
+    "schema_version": "1.0.0",
+    "name": "phytool",
+    "version": "v2",
+    "description": "",
+    "comment": "",
+    "src": {
+        "tarball": {
+            "url": "https://github.com/wkz/phytool/archive/refs/tags/v2.tar.gz"
+        }
+    },
+    "clearingFiles": [
+        {
+            "fileName": "phytool-v2.spdx.rdf.xml",
+            "priority": "n/a",
+            "author": "Oliver Fendt",
+            "reviewer": [],
+            "alternate_files": [
+                {
+                    "fileName": "phytool-v2-SPDX2TV.spdx"
+                },
+                {
+                    "fileName": "phytool-v2.spdx.json"
+                },
+                {
+                    "fileName": "phytool-v2.spdx.yaml"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "schema_version": "1.0.0",
+    "name": "xterm",
+    "version": "367",
+    "description": "",
+    "comment": "",
+    "src": {
+        "tarball": {
+            "url": "http://invisible-mirror.net/archives/xterm/xterm-367.tgz"
+        }
+    },
+    "clearingFiles": [
+        {
+            "fileName": "xterm-367.spdx.rdf.xml",
+            "priority": "n/a",
+            "author": "Oliver Fendt",
+            "reviewer": [],
+            "alternate_files": [
+                {
+                    "fileName": "xterm-367-SPDX2TV.spdx"
+                },
+                {
+                    "fileName": "xterm-367.spdx.json"
+                },
+                {
+                    "fileName": "xterm-367.spdx.yaml"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "schema_version": "1.0.0",
+    "name": "squashfs-tools",
+    "version": "4.4",
+    "description": "",
+    "comment": "",
+    "src": {
+        "tarball": {
+            "url": "https://github.com/plougher/squashfs-tools/archive/refs/tags/4.4.tar.gz"
+        }
+    },
+    "clearingFiles": [
+        {
+            "fileName": "squashfs-tools-4.4.spdx.rdf.xml",
+            "priority": "n/a",
+            "author": "Oliver Fendt",
+            "reviewer": [],
+            "alternate_files": [
+                {
+                    "fileName": "squashfs-tools-4.4-SPDX2TV.spdx"
+                },
+                {
+                    "fileName": "squashfs-tools-4.4.spdx.json"
+                },
+                {
+                    "fileName": "squashfs-tools-4.4.spdx.yaml"
+                }
+            ]
+        }
+    ]
+}

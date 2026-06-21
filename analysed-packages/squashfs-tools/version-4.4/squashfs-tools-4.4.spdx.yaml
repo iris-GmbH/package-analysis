@@ -1,0 +1,2723 @@
+---
+SPDXID: "SPDXRef-DOCUMENT"
+spdxVersion: "SPDX-2.3"
+creationInfo:
+  comment: "This document was created using license information and a generator from\
+    \ Fossology.\nIt contains the license and copyright analysis of squashfs-tools\
+    \ 4.4\nPlease check \"LicenseComments\" for explanations of concluded licenses"
+  created: "2026-06-15T17:41:02Z"
+  creators:
+  - "Tool: fossology-4.4.0.51"
+  - "Person: Oliver Fendt"
+  licenseListVersion: "3.22"
+name: "/srv/fossology/repository/report"
+dataLicense: "CC0-1.0"
+hasExtractedLicensingInfos:
+- licenseId: "LicenseRef-CC0-1.0"
+  extractedText: "Creative Commons Legal Code\n\nCC0 1.0 Universal\n\n    CREATIVE\
+    \ COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE\n    LEGAL SERVICES.\
+    \ DISTRIBUTION OF THIS DOCUMENT DOES NOT CREATE AN\n    ATTORNEY-CLIENT RELATIONSHIP.\
+    \ CREATIVE COMMONS PROVIDES THIS\n    INFORMATION ON AN \"AS-IS\" BASIS. CREATIVE\
+    \ COMMONS MAKES NO WARRANTIES\n    REGARDING THE USE OF THIS DOCUMENT OR THE INFORMATION\
+    \ OR WORKS\n    PROVIDED HEREUNDER, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING\
+    \ FROM\n    THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED\n  \
+    \  HEREUNDER.\n\nStatement of Purpose\n\nThe laws of most jurisdictions throughout\
+    \ the world automatically confer\nexclusive Copyright and Related Rights (defined\
+    \ below) upon the creator\nand subsequent owner(s) (each and all, an \"owner\"\
+    ) of an original work of\nauthorship and/or a database (each, a \"Work\").\n\n\
+    Certain owners wish to permanently relinquish those rights to a Work for\nthe\
+    \ purpose of contributing to a commons of creative, cultural and\nscientific works\
+    \ (\"Commons\") that the public can reliably and without fear\nof later claims\
+    \ of infringement build upon, modify, incorporate in other\nworks, reuse and redistribute\
+    \ as freely as possible in any form whatsoever\nand for any purposes, including\
+    \ without limitation commercial purposes.\nThese owners may contribute to the\
+    \ Commons to promote the ideal of a free\nculture and the further production of\
+    \ creative, cultural and scientific\nworks, or to gain reputation or greater distribution\
+    \ for their Work in\npart through the use and efforts of others.\n\nFor these\
+    \ and/or other purposes and motivations, and without any\nexpectation of additional\
+    \ consideration or compensation, the person\nassociating CC0 with a Work (the\
+    \ \"Affirmer\"), to the extent that he or she\nis an owner of Copyright and Related\
+    \ Rights in the Work, voluntarily\nelects to apply CC0 to the Work and publicly\
+    \ distribute the Work under its\nterms, with knowledge of his or her Copyright\
+    \ and Related Rights in the\nWork and the meaning and intended legal effect of\
+    \ CC0 on those rights.\n\n1. Copyright and Related Rights. A Work made available\
+    \ under CC0 may be\nprotected by copyright and related or neighboring rights (\"\
+    Copyright and\nRelated Rights\"). Copyright and Related Rights include, but are\
+    \ not\nlimited to, the following:\n\n  i. the right to reproduce, adapt, distribute,\
+    \ perform, display,\n     communicate, and translate a Work;\n ii. moral rights\
+    \ retained by the original author(s) and/or performer(s);\niii. publicity and\
+    \ privacy rights pertaining to a person's image or\n     likeness depicted in\
+    \ a Work;\n iv. rights protecting against unfair competition in regards to a Work,\n\
+    \     subject to the limitations in paragraph 4(a), below;\n  v. rights protecting\
+    \ the extraction, dissemination, use and reuse of data\n     in a Work;\n vi.\
+    \ database rights (such as those arising under Directive 96/9/EC of the\n    \
+    \ European Parliament and of the Council of 11 March 1996 on the legal\n     protection\
+    \ of databases, and under any national implementation\n     thereof, including\
+    \ any amended or successor version of such\n     directive); and\nvii. other similar,\
+    \ equivalent or corresponding rights throughout the\n     world based on applicable\
+    \ law or treaty, and any national\n     implementations thereof.\n\n2. Waiver.\
+    \ To the greatest extent permitted by, but not in contravention\nof, applicable\
+    \ law, Affirmer hereby overtly, fully, permanently,\nirrevocably and unconditionally\
+    \ waives, abandons, and surrenders all of\nAffirmer's Copyright and Related Rights\
+    \ and associated claims and causes\nof action, whether now known or unknown (including\
+    \ existing as well as\nfuture claims and causes of action), in the Work (i) in\
+    \ all territories\nworldwide, (ii) for the maximum duration provided by applicable\
+    \ law or\ntreaty (including future time extensions), (iii) in any current or future\n\
+    medium and for any number of copies, and (iv) for any purpose whatsoever,\nincluding\
+    \ without limitation commercial, advertising or promotional\npurposes (the \"\
+    Waiver\"). Affirmer makes the Waiver for the benefit of each\nmember of the public\
+    \ at large and to the detriment of Affirmer's heirs and\nsuccessors, fully intending\
+    \ that such Waiver shall not be subject to\nrevocation, rescission, cancellation,\
+    \ termination, or any other legal or\nequitable action to disrupt the quiet enjoyment\
+    \ of the Work by the public\nas contemplated by Affirmer's express Statement of\
+    \ Purpose.\n\n3. Public License Fallback. Should any part of the Waiver for any\
+    \ reason\nbe judged legally invalid or ineffective under applicable law, then\
+    \ the\nWaiver shall be preserved to the maximum extent permitted taking into\n\
+    account Affirmer's express Statement of Purpose. In addition, to the\nextent the\
+    \ Waiver is so judged Affirmer hereby grants to each affected\nperson a royalty-free,\
+    \ non transferable, non sublicensable, non exclusive,\nirrevocable and unconditional\
+    \ license to exercise Affirmer's Copyright and\nRelated Rights in the Work (i)\
+    \ in all territories worldwide, (ii) for the\nmaximum duration provided by applicable\
+    \ law or treaty (including future\ntime extensions), (iii) in any current or future\
+    \ medium and for any number\nof copies, and (iv) for any purpose whatsoever, including\
+    \ without\nlimitation commercial, advertising or promotional purposes (the\n\"\
+    License\"). The License shall be deemed effective as of the date CC0 was\napplied\
+    \ by Affirmer to the Work. Should any part of the License for any\nreason be judged\
+    \ legally invalid or ineffective under applicable law, such\npartial invalidity\
+    \ or ineffectiveness shall not invalidate the remainder\nof the License, and in\
+    \ such case Affirmer hereby affirms that he or she\nwill not (i) exercise any\
+    \ of his or her remaining Copyright and Related\nRights in the Work or (ii) assert\
+    \ any associated claims and causes of\naction with respect to the Work, in either\
+    \ case contrary to Affirmer's\nexpress Statement of Purpose.\n\n4. Limitations\
+    \ and Disclaimers.\n\n a. No trademark or patent rights held by Affirmer are waived,\
+    \ abandoned,\n    surrendered, licensed or otherwise affected by this document.\n\
+    \ b. Affirmer offers the Work as-is and makes no representations or\n    warranties\
+    \ of any kind concerning the Work, express, implied,\n    statutory or otherwise,\
+    \ including without limitation warranties of\n    title, merchantability, fitness\
+    \ for a particular purpose, non\n    infringement, or the absence of latent or\
+    \ other defects, accuracy, or\n    the present or absence of errors, whether or\
+    \ not discoverable, all to\n    the greatest extent permissible under applicable\
+    \ law.\n c. Affirmer disclaims responsibility for clearing rights of other persons\n\
+    \    that may apply to the Work or any use thereof, including without\n    limitation\
+    \ any person's Copyright and Related Rights in the Work.\n    Further, Affirmer\
+    \ disclaims responsibility for obtaining any necessary\n    consents, permissions\
+    \ or other rights required for any use of the\n    Work.\n d. Affirmer understands\
+    \ and acknowledges that Creative Commons is not a\n    party to this document\
+    \ and has no duty or obligation with respect to\n    this CC0 or use of the Work."
+  name: "Creative Commons Zero v1.0 Universal"
+- licenseId: "LicenseRef-GPL-1.0-or-later"
+  extractedText: "GNU GENERAL PUBLIC LICENSE\n\nVersion 1, February 1989\n\nCopyright\
+    \ (C) 1989 Free Software Foundation, Inc. 51 Franklin St, Fifth Floor, Boston,\
+    \ MA 02110-1301 USA\n\nEveryone is permitted to copy and distribute verbatim copies\
+    \ of this license document, but changing it is not allowed.\n\nPreamble\n\nThe\
+    \ license agreements of most software companies try to keep users at the mercy\
+    \ of those companies. By contrast, our General Public License is intended to guarantee\
+    \ your freedom to share and change free software--to make sure the software is\
+    \ free for all its users. The General Public License applies to the Free Software\
+    \ Foundation's software and to any other program whose authors commit to using\
+    \ it. You can use it for your programs, too.\n\nWhen we speak of free software,\
+    \ we are referring to freedom, not price. Specifically, the General Public License\
+    \ is designed to make sure that you have the freedom to give away or sell copies\
+    \ of free software, that you receive source code or can get it if you want it,\
+    \ that you can change the software or use pieces of it in new free programs; and\
+    \ that you know you can do these things.\n\nTo protect your rights, we need to\
+    \ make restrictions that forbid anyone to deny you these rights or to ask you\
+    \ to surrender the rights. These restrictions translate to certain responsibilities\
+    \ for you if you distribute copies of the software, or if you modify it.\n\nFor\
+    \ example, if you distribute copies of a such a program, whether gratis or for\
+    \ a fee, you must give the recipients all the rights that you have. You must make\
+    \ sure that they, too, receive or can get the source code. And you must tell them\
+    \ their rights.\n\nWe protect your rights with two steps: (1) copyright the software,\
+    \ and (2) offer you this license which gives you legal permission to copy, distribute\
+    \ and/or modify the software.\n\nAlso, for each author's protection and ours,\
+    \ we want to make certain that everyone understands that there is no warranty\
+    \ for this free software. If the software is modified by someone else and passed\
+    \ on, we want its recipients to know that what they have is not the original,\
+    \ so that any problems introduced by others will not reflect on the original authors'\
+    \ reputations.\n\nThe precise terms and conditions for copying, distribution and\
+    \ modification follow.\n\nGNU GENERAL PUBLIC LICENSE TERMS AND CONDITIONS FOR\
+    \ COPYING, DISTRIBUTION AND MODIFICATION\n\n   0. This License Agreement applies\
+    \ to any program or other work which contains a notice placed by the copyright\
+    \ holder saying it may be distributed under the terms of this General Public License.\
+    \ The \"Program\", below, refers to any such program or work, and a \"work based\
+    \ on the Program\" means either the Program or any work containing the Program\
+    \ or a portion of it, either verbatim or with modifications. Each licensee is\
+    \ addressed as \"you\".\n\n   1. You may copy and distribute verbatim copies of\
+    \ the Program's source code as you receive it, in any medium, provided that you\
+    \ conspicuously and appropriately publish on each copy an appropriate copyright\
+    \ notice and disclaimer of warranty; keep intact all the notices that refer to\
+    \ this General Public License and to the absence of any warranty; and give any\
+    \ other recipients of the Program a copy of this General Public License along\
+    \ with the Program. You may charge a fee for the physical act of transferring\
+    \ a copy.\n\n   2. You may modify your copy or copies of the Program or any portion\
+    \ of it, and copy and distribute such modifications under the terms of Paragraph\
+    \ 1 above, provided that you also do the following:\n\n      a) cause the modified\
+    \ files to carry prominent notices stating that you changed the files and the\
+    \ date of any change; and\n\n      b) cause the whole of any work that you distribute\
+    \ or publish, that in whole or in part contains the Program or any part thereof,\
+    \ either with or without modifications, to be licensed at no charge to all third\
+    \ parties under the terms of this General Public License (except that you may\
+    \ choose to grant warranty protection to some or all third parties, at your option).\n\
+    \n      c) If the modified program normally reads commands interactively when\
+    \ run, you must cause it, when started running for such interactive use in the\
+    \ simplest and most usual way, to print or display an announcement including an\
+    \ appropriate copyright notice and a notice that there is no warranty (or else,\
+    \ saying that you provide a warranty) and that users may redistribute the program\
+    \ under these conditions, and telling the user how to view a copy of this General\
+    \ Public License.\n\n      d) You may charge a fee for the physical act of transferring\
+    \ a copy, and you may at your option offer warranty protection in exchange for\
+    \ a fee.\n\n   Mere aggregation of another independent work with the Program (or\
+    \ its derivative) on a volume of a storage or distribution medium does not bring\
+    \ the other work under the scope of these terms.\n\n   3. You may copy and distribute\
+    \ the Program (or a portion or derivative of it, under Paragraph 2) in object\
+    \ code or executable form under the terms of Paragraphs 1 and 2 above provided\
+    \ that you also do one of the following:\n\n      a) accompany it with the complete\
+    \ corresponding machine-readable source code, which must be distributed under\
+    \ the terms of Paragraphs 1 and 2 above; or,\n\n      b) accompany it with a written\
+    \ offer, valid for at least three years, to give any third party free (except\
+    \ for a nominal charge for the cost of distribution) a complete machine-readable\
+    \ copy of the corresponding source code, to be distributed under the terms of\
+    \ Paragraphs 1 and 2 above; or,\n\n      c) accompany it with the information\
+    \ you received as to where the corresponding source code may be obtained. (This\
+    \ alternative is allowed only for noncommercial distribution and only if you received\
+    \ the program in object code or executable form alone.)\n\n   Source code for\
+    \ a work means the preferred form of the work for making modifications to it.\
+    \ For an executable file, complete source code means all the source code for all\
+    \ modules it contains; but, as a special exception, it need not include source\
+    \ code for modules which are standard libraries that accompany the operating system\
+    \ on which the executable file runs, or for standard header files or definitions\
+    \ files that accompany that operating system.\n\n   4. You may not copy, modify,\
+    \ sublicense, distribute or transfer the Program except as expressly provided\
+    \ under this General Public License. Any attempt otherwise to copy, modify, sublicense,\
+    \ distribute or transfer the Program is void, and will automatically terminate\
+    \ your rights to use the Program under this License. However, parties who have\
+    \ received copies, or rights to use copies, from you under this General Public\
+    \ License will not have their licenses terminated so long as such parties remain\
+    \ in full compliance.\n\n   5. By copying, distributing or modifying the Program\
+    \ (or any work based on the Program) you indicate your acceptance of this license\
+    \ to do so, and all its terms and conditions.\n\n   6. Each time you redistribute\
+    \ the Program (or any work based on the Program), the recipient automatically\
+    \ receives a license from the original licensor to copy, distribute or modify\
+    \ the Program subject to these terms and conditions. You may not impose any further\
+    \ restrictions on the recipients' exercise of the rights granted herein.\n\n \
+    \  7. The Free Software Foundation may publish revised and/or new versions of\
+    \ the General Public License from time to time. Such new versions will be similar\
+    \ in spirit to the present version, but may differ in detail to address new problems\
+    \ or concerns.\n\n   Each version is given a distinguishing version number. If\
+    \ the Program specifies a version number of the license which applies to it and\
+    \ \"any later version\", you have the option of following the terms and conditions\
+    \ either of that version or of any later version published by the Free Software\
+    \ Foundation. If the Program does not specify a version number of the license,\
+    \ you may choose any version ever published by the Free Software Foundation.\n\
+    \n   8. If you wish to incorporate parts of the Program into other free programs\
+    \ whose distribution conditions are different, write to the author to ask for\
+    \ permission. For software which is copyrighted by the Free Software Foundation,\
+    \ write to the Free Software Foundation; we sometimes make exceptions for this.\
+    \ Our decision will be guided by the two goals of preserving the free status of\
+    \ all derivatives of our free software and of promoting the sharing and reuse\
+    \ of software generally.\n\n   NO WARRANTY\n\n   9.\n\n   BECAUSE THE PROGRAM\
+    \ IS LICENSED FREE OF CHARGE, THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT\
+    \ PERMITTED BY APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT\
+    \ HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM \"AS IS\" WITHOUT WARRANTY\
+    \ OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE\
+    \ IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.\
+    \ THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU.\
+    \ SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING,\
+    \ REPAIR OR CORRECTION.\n\n   10. IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW\
+    \ OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MAY\
+    \ MODIFY AND/OR REDISTRIBUTE THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU\
+    \ FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES\
+    \ ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED\
+    \ TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU\
+    \ OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS),\
+    \ EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH\
+    \ DAMAGES. END OF TERMS AND CONDITIONS\n\nAppendix: How to Apply These Terms to\
+    \ Your New Programs\n\nIf you develop a new program, and you want it to be of\
+    \ the greatest possible use to humanity, the best way to achieve this is to make\
+    \ it free software which everyone can redistribute and change under these terms.\n\
+    \nTo do so, attach the following notices to the program. It is safest to attach\
+    \ them to the start of each source file to most effectively convey the exclusion\
+    \ of warranty; and each file should have at least the \"copyright\" line and a\
+    \ pointer to where the full notice is found.\n\n<one line to give the program's\
+    \ name and a brief idea of what it does.>\n\nCopyright (C) 19yy <name of author>\n\
+    \nThis program is free software; you can redistribute it and/or modify it under\
+    \ the terms of the GNU General Public License as published by the Free Software\
+    \ Foundation; either version 1, or (at your option) any later version.\n\nThis\
+    \ program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;\
+    \ without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR\
+    \ PURPOSE. See the GNU General Public License for more details.\n\nYou should\
+    \ have received a copy of the GNU General Public License along with this program;\
+    \ if not, write to the Free Software Foundation, Inc., 675 Mass Ave, Cambridge,\
+    \ MA 02139, USA.\n\nAlso add information on how to contact you by electronic and\
+    \ paper mail.\n\nIf the program is interactive, make it output a short notice\
+    \ like this when it starts in an interactive mode:\n\nGnomovision version 69,\
+    \ Copyright (C) 19xx name of author Gnomovision comes with ABSOLUTELY NO WARRANTY;\
+    \ for details type `show w'. This is free software, and you are welcome to redistribute\
+    \ it under certain conditions; type `show c' for details.\n\nThe hypothetical\
+    \ commands `show w' and `show c' should show the appropriate parts of the General\
+    \ Public License. Of course, the commands you use may be called something other\
+    \ than `show w' and `show c'; they could even be mouse-clicks or menu items--whatever\
+    \ suits your program.\n\nYou should also get your employer (if you work as a programmer)\
+    \ or your school, if any, to sign a \"copyright disclaimer\" for the program,\
+    \ if necessary. Here a sample; alter the names:\n\nYoyodyne, Inc., hereby disclaims\
+    \ all copyright interest in the program `Gnomovision' (a program to direct compilers\
+    \ to make passes at assemblers) written by James Hacker.\n\n<signature of Ty Coon>,\
+    \ 1 April 1989 Ty Coon, President of Vice\n\nThat's all there is to it!"
+  name: "GNU General Public License v1.0 or later"
+- licenseId: "LicenseRef-GPL-2.0-only"
+  extractedText: "GNU GENERAL PUBLIC LICENSE\nVersion 2, June 1991\n\nCopyright (C)\
+    \ 1989, 1991 Free Software Foundation, Inc.\n51 Franklin Street, Fifth Floor,\
+    \ Boston, MA  02110-1301, USA\n\nEveryone is permitted to copy and distribute\
+    \ verbatim copies of this license document, but changing it is not allowed.\n\n\
+    Preamble\n\nThe licenses for most software are designed to take away your freedom\
+    \ to share and change it. By contrast, the GNU General Public License is intended\
+    \ to guarantee your freedom to share and change free software--to make sure the\
+    \ software is free for all its users. This General Public License applies to most\
+    \ of the Free Software Foundation's software and to any other program whose authors\
+    \ commit to using it. (Some other Free Software Foundation software is covered\
+    \ by the GNU Lesser General Public License instead.) You can apply it to your\
+    \ programs, too.\n\nWhen we speak of free software, we are referring to freedom,\
+    \ not price. Our General Public Licenses are designed to make sure that you have\
+    \ the freedom to distribute copies of free software (and charge for this service\
+    \ if you wish), that you receive source code or can get it if you want it, that\
+    \ you can change the software or use pieces of it in new free programs; and that\
+    \ you know you can do these things.\n\nTo protect your rights, we need to make\
+    \ restrictions that forbid anyone to deny you these rights or to ask you to surrender\
+    \ the rights. These restrictions translate to certain responsibilities for you\
+    \ if you distribute copies of the software, or if you modify it.\n\nFor example,\
+    \ if you distribute copies of such a program, whether gratis or for a fee, you\
+    \ must give the recipients all the rights that you have. You must make sure that\
+    \ they, too, receive or can get the source code. And you must show them these\
+    \ terms so they know their rights.\n\nWe protect your rights with two steps: (1)\
+    \ copyright the software, and (2) offer you this license which gives you legal\
+    \ permission to copy, distribute and/or modify the software.\n\nAlso, for each\
+    \ author's protection and ours, we want to make certain that everyone understands\
+    \ that there is no warranty for this free software. If the software is modified\
+    \ by someone else and passed on, we want its recipients to know that what they\
+    \ have is not the original, so that any problems introduced by others will not\
+    \ reflect on the original authors' reputations.\n\nFinally, any free program is\
+    \ threatened constantly by software patents. We wish to avoid the danger that\
+    \ redistributors of a free program will individually obtain patent licenses, in\
+    \ effect making the program proprietary. To prevent this, we have made it clear\
+    \ that any patent must be licensed for everyone's free use or not licensed at\
+    \ all.\n\nThe precise terms and conditions for copying, distribution and modification\
+    \ follow.\n\nTERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION\n\
+    \n0. This License applies to any program or other work which contains a notice\
+    \ placed by the copyright holder saying it may be distributed under the terms\
+    \ of this General Public License. The \"Program\", below, refers to any such program\
+    \ or work, and a \"work based on the Program\" means either the Program or any\
+    \ derivative work under copyright law: that is to say, a work containing the Program\
+    \ or a portion of it, either verbatim or with modifications and/or translated\
+    \ into another language. (Hereinafter, translation is included without limitation\
+    \ in the term \"modification\".) Each licensee is addressed as \"you\".\n\nActivities\
+    \ other than copying, distribution and modification are not covered by this License;\
+    \ they are outside its scope. The act of running the Program is not restricted,\
+    \ and the output from the Program is covered only if its contents constitute a\
+    \ work based on the Program (independent of having been made by running the Program).\
+    \ Whether that is true depends on what the Program does.\n\n1. You may copy and\
+    \ distribute verbatim copies of the Program's source code as you receive it, in\
+    \ any medium, provided that you conspicuously and appropriately publish on each\
+    \ copy an appropriate copyright notice and disclaimer of warranty; keep intact\
+    \ all the notices that refer to this License and to the absence of any warranty;\
+    \ and give any other recipients of the Program a copy of this License along with\
+    \ the Program.\n\nYou may charge a fee for the physical act of transferring a\
+    \ copy, and you may at your option offer warranty protection in exchange for a\
+    \ fee.\n\n2. You may modify your copy or copies of the Program or any portion\
+    \ of it, thus forming a work based on the Program, and copy and distribute such\
+    \ modifications or work under the terms of Section 1 above, provided that you\
+    \ also meet all of these conditions:\n\n     a) You must cause the modified files\
+    \ to carry prominent notices stating that you changed the files and the date of\
+    \ any change.\n\n     b) You must cause any work that you distribute or publish,\
+    \ that in whole or in part contains or is derived from the Program or any part\
+    \ thereof, to be licensed as a whole at no charge to all third parties under the\
+    \ terms of this License.\n\n     c) If the modified program normally reads commands\
+    \ interactively when run, you must cause it, when started running for such interactive\
+    \ use in the most ordinary way, to print or display an announcement including\
+    \ an appropriate copyright notice and a notice that there is no warranty (or else,\
+    \ saying that you provide a warranty) and that users may redistribute the program\
+    \ under these conditions, and telling the user how to view a copy of this License.\
+    \ (Exception: if the Program itself is interactive but does not normally print\
+    \ such an announcement, your work based on the Program is not required to print\
+    \ an announcement.)\n\nThese requirements apply to the modified work as a whole.\
+    \ If identifiable sections of that work are not derived from the Program, and\
+    \ can be reasonably considered independent and separate works in themselves, then\
+    \ this License, and its terms, do not apply to those sections when you distribute\
+    \ them as separate works. But when you distribute the same sections as part of\
+    \ a whole which is a work based on the Program, the distribution of the whole\
+    \ must be on the terms of this License, whose permissions for other licensees\
+    \ extend to the entire whole, and thus to each and every part regardless of who\
+    \ wrote it.\n\nThus, it is not the intent of this section to claim rights or contest\
+    \ your rights to work written entirely by you; rather, the intent is to exercise\
+    \ the right to control the distribution of derivative or collective works based\
+    \ on the Program.\n\nIn addition, mere aggregation of another work not based on\
+    \ the Program with the Program (or with a work based on the Program) on a volume\
+    \ of a storage or distribution medium does not bring the other work under the\
+    \ scope of this License.\n\n3. You may copy and distribute the Program (or a work\
+    \ based on it, under Section 2) in object code or executable form under the terms\
+    \ of Sections 1 and 2 above provided that you also do one of the following:\n\n\
+    \     a) Accompany it with the complete corresponding machine-readable source\
+    \ code, which must be distributed under the terms of Sections 1 and 2 above on\
+    \ a medium customarily used for software interchange; or,\n\n     b) Accompany\
+    \ it with a written offer, valid for at least three years, to give any third party,\
+    \ for a charge no more than your cost of physically performing source distribution,\
+    \ a complete machine-readable copy of the corresponding source code, to be distributed\
+    \ under the terms of Sections 1 and 2 above on a medium customarily used for software\
+    \ interchange; or,\n\n     c) Accompany it with the information you received as\
+    \ to the offer to distribute corresponding source code. (This alternative is allowed\
+    \ only for noncommercial distribution and only if you received the program in\
+    \ object code or executable form with such an offer, in accord with Subsection\
+    \ b above.)\n\nThe source code for a work means the preferred form of the work\
+    \ for making modifications to it. For an executable work, complete source code\
+    \ means all the source code for all modules it contains, plus any associated interface\
+    \ definition files, plus the scripts used to control compilation and installation\
+    \ of the executable. However, as a special exception, the source code distributed\
+    \ need not include anything that is normally distributed (in either source or\
+    \ binary form) with the major components (compiler, kernel, and so on) of the\
+    \ operating system on which the executable runs, unless that component itself\
+    \ accompanies the executable.\n\nIf distribution of executable or object code\
+    \ is made by offering access to copy from a designated place, then offering equivalent\
+    \ access to copy the source code from the same place counts as distribution of\
+    \ the source code, even though third parties are not compelled to copy the source\
+    \ along with the object code.\n\n4. You may not copy, modify, sublicense, or distribute\
+    \ the Program except as expressly provided under this License. Any attempt otherwise\
+    \ to copy, modify, sublicense or distribute the Program is void, and will automatically\
+    \ terminate your rights under this License. However, parties who have received\
+    \ copies, or rights, from you under this License will not have their licenses\
+    \ terminated so long as such parties remain in full compliance.\n\n5. You are\
+    \ not required to accept this License, since you have not signed it. However,\
+    \ nothing else grants you permission to modify or distribute the Program or its\
+    \ derivative works. These actions are prohibited by law if you do not accept this\
+    \ License. Therefore, by modifying or distributing the Program (or any work based\
+    \ on the Program), you indicate your acceptance of this License to do so, and\
+    \ all its terms and conditions for copying, distributing or modifying the Program\
+    \ or works based on it.\n\n6. Each time you redistribute the Program (or any work\
+    \ based on the Program), the recipient automatically receives a license from the\
+    \ original licensor to copy, distribute or modify the Program subject to these\
+    \ terms and conditions. You may not impose any further restrictions on the recipients'\
+    \ exercise of the rights granted herein. You are not responsible for enforcing\
+    \ compliance by third parties to this License.\n\n7. If, as a consequence of a\
+    \ court judgment or allegation of patent infringement or for any other reason\
+    \ (not limited to patent issues), conditions are imposed on you (whether by court\
+    \ order, agreement or otherwise) that contradict the conditions of this License,\
+    \ they do not excuse you from the conditions of this License. If you cannot distribute\
+    \ so as to satisfy simultaneously your obligations under this License and any\
+    \ other pertinent obligations, then as a consequence you may not distribute the\
+    \ Program at all. For example, if a patent license would not permit royalty-free\
+    \ redistribution of the Program by all those who receive copies directly or indirectly\
+    \ through you, then the only way you could satisfy both it and this License would\
+    \ be to refrain entirely from distribution of the Program.\n\nIf any portion of\
+    \ this section is held invalid or unenforceable under any particular circumstance,\
+    \ the balance of the section is intended to apply and the section as a whole is\
+    \ intended to apply in other circumstances.\n\nIt is not the purpose of this section\
+    \ to induce you to infringe any patents or other property right claims or to contest\
+    \ validity of any such claims; this section has the sole purpose of protecting\
+    \ the integrity of the free software distribution system, which is implemented\
+    \ by public license practices. Many people have made generous contributions to\
+    \ the wide range of software distributed through that system in reliance on consistent\
+    \ application of that system; it is up to the author/donor to decide if he or\
+    \ she is willing to distribute software through any other system and a licensee\
+    \ cannot impose that choice.\n\nThis section is intended to make thoroughly clear\
+    \ what is believed to be a consequence of the rest of this License.\n\n8. If the\
+    \ distribution and/or use of the Program is restricted in certain countries either\
+    \ by patents or by copyrighted interfaces, the original copyright holder who places\
+    \ the Program under this License may add an explicit geographical distribution\
+    \ limitation excluding those countries, so that distribution is permitted only\
+    \ in or among countries not thus excluded. In such case, this License incorporates\
+    \ the limitation as if written in the body of this License.\n\n9. The Free Software\
+    \ Foundation may publish revised and/or new versions of the General Public License\
+    \ from time to time. Such new versions will be similar in spirit to the present\
+    \ version, but may differ in detail to address new problems or concerns.\n\nEach\
+    \ version is given a distinguishing version number. If the Program specifies a\
+    \ version number of this License which applies to it and \"any later version\"\
+    , you have the option of following the terms and conditions either of that version\
+    \ or of any later version published by the Free Software Foundation. If the Program\
+    \ does not specify a version number of this License, you may choose any version\
+    \ ever published by the Free Software Foundation.\n\n10. If you wish to incorporate\
+    \ parts of the Program into other free programs whose distribution conditions\
+    \ are different, write to the author to ask for permission. For software which\
+    \ is copyrighted by the Free Software Foundation, write to the Free Software Foundation;\
+    \ we sometimes make exceptions for this. Our decision will be guided by the two\
+    \ goals of preserving the free status of all derivatives of our free software\
+    \ and of promoting the sharing and reuse of software generally.\n\nNO WARRANTY\n\
+    \n11. BECAUSE THE PROGRAM IS LICENSED FREE OF CHARGE, THERE IS NO WARRANTY FOR\
+    \ THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT WHEN OTHERWISE\
+    \ STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM\
+    \ \"AS IS\" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING,\
+    \ BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR\
+    \ A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE\
+    \ PROGRAM IS WITH YOU. SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST\
+    \ OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.\n\n12. IN NO EVENT UNLESS\
+    \ REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER,\
+    \ OR ANY OTHER PARTY WHO MAY MODIFY AND/OR REDISTRIBUTE THE PROGRAM AS PERMITTED\
+    \ ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL\
+    \ OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM\
+    \ (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE\
+    \ OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE\
+    \ WITH ANY OTHER PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED\
+    \ OF THE POSSIBILITY OF SUCH DAMAGES.\n\nEND OF TERMS AND CONDITIONS\n\nHow to\
+    \ Apply These Terms to Your New Programs\n\nIf you develop a new program, and\
+    \ you want it to be of the greatest possible use to the public, the best way to\
+    \ achieve this is to make it free software which everyone can redistribute and\
+    \ change under these terms.\n\nTo do so, attach the following notices to the program.\
+    \ It is safest to attach them to the start of each source file to most effectively\
+    \ convey the exclusion of warranty; and each file should have at least the \"\
+    copyright\" line and a pointer to where the full notice is found.\n\n     one\
+    \ line to give the program's name and an idea of what it does. Copyright (C) yyyy\
+    \ name of author\n\n     This program is free software; you can redistribute it\
+    \ and/or modify it under the terms of the GNU General Public License as published\
+    \ by the Free Software Foundation; either version 2 of the License, or (at your\
+    \ option) any later version.\n\n     This program is distributed in the hope that\
+    \ it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty\
+    \ of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General\
+    \ Public License for more details.\n\n     You should have received a copy of\
+    \ the GNU General Public License along with this program; if not, write to the\
+    \ Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA\
+    \ 02110-1301, USA. Also add information on how to contact you by electronic and\
+    \ paper mail.\n\nIf the program is interactive, make it output a short notice\
+    \ like this when it starts in an interactive mode:\n\n     Gnomovision version\
+    \ 69, Copyright (C) year name of author Gnomovision comes with ABSOLUTELY NO WARRANTY;\
+    \ for details type `show w'. This is free software, and you are welcome to redistribute\
+    \ it under certain conditions; type `show c' for details.\n\nThe hypothetical\
+    \ commands `show w' and `show c' should show the appropriate parts of the General\
+    \ Public License. Of course, the commands you use may be called something other\
+    \ than `show w' and `show c'; they could even be mouse-clicks or menu items--whatever\
+    \ suits your program.\n\nYou should also get your employer (if you work as a programmer)\
+    \ or your school, if any, to sign a \"copyright disclaimer\" for the program,\
+    \ if necessary. Here is a sample; alter the names:\n\n     Yoyodyne, Inc., hereby\
+    \ disclaims all copyright interest in the program `Gnomovision' (which makes passes\
+    \ at compilers) written by James Hacker.\n\nsignature of Ty Coon, 1 April 1989\
+    \ Ty Coon, President of Vice"
+  name: "GNU General Public License v2.0 only"
+- licenseId: "LicenseRef-GPL-2.0-or-later"
+  extractedText: "GNU GENERAL PUBLIC LICENSE\n\nVersion 2, June 1991\n\nCopyright\
+    \ (C) 1989, 1991 Free Software Foundation, Inc.\n\n51 Franklin Street, Fifth Floor,\
+    \ Boston, MA 02110-1301, USA\n\nEveryone is permitted to copy and distribute verbatim\
+    \ copies of this license document, but changing it is not allowed.\n\nPreamble\n\
+    \nThe licenses for most software are designed to take away your freedom to share\
+    \ and change it. By contrast, the GNU General Public License is intended to guarantee\
+    \ your freedom to share and change free software--to make sure the software is\
+    \ free for all its users. This General Public License applies to most of the Free\
+    \ Software Foundation's software and to any other program whose authors commit\
+    \ to using it. (Some other Free Software Foundation software is covered by the\
+    \ GNU Lesser General Public License instead.) You can apply it to your programs,\
+    \ too.\n\nWhen we speak of free software, we are referring to freedom, not price.\
+    \ Our General Public Licenses are designed to make sure that you have the freedom\
+    \ to distribute copies of free software (and charge for this service if you wish),\
+    \ that you receive source code or can get it if you want it, that you can change\
+    \ the software or use pieces of it in new free programs; and that you know you\
+    \ can do these things.\n\nTo protect your rights, we need to make restrictions\
+    \ that forbid anyone to deny you these rights or to ask you to surrender the rights.\
+    \ These restrictions translate to certain responsibilities for you if you distribute\
+    \ copies of the software, or if you modify it.\n\nFor example, if you distribute\
+    \ copies of such a program, whether gratis or for a fee, you must give the recipients\
+    \ all the rights that you have. You must make sure that they, too, receive or\
+    \ can get the source code. And you must show them these terms so they know their\
+    \ rights.\n\nWe protect your rights with two steps: (1) copyright the software,\
+    \ and (2) offer you this license which gives you legal permission to copy, distribute\
+    \ and/or modify the software.\n\nAlso, for each author's protection and ours,\
+    \ we want to make certain that everyone understands that there is no warranty\
+    \ for this free software. If the software is modified by someone else and passed\
+    \ on, we want its recipients to know that what they have is not the original,\
+    \ so that any problems introduced by others will not reflect on the original authors'\
+    \ reputations.\n\nFinally, any free program is threatened constantly by software\
+    \ patents. We wish to avoid the danger that redistributors of a free program will\
+    \ individually obtain patent licenses, in effect making the program proprietary.\
+    \ To prevent this, we have made it clear that any patent must be licensed for\
+    \ everyone's free use or not licensed at all.\n\nThe precise terms and conditions\
+    \ for copying, distribution and modification follow.\n\nTERMS AND CONDITIONS FOR\
+    \ COPYING, DISTRIBUTION AND MODIFICATION\n\n   0. This License applies to any\
+    \ program or other work which contains a notice placed by the copyright holder\
+    \ saying it may be distributed under the terms of this General Public License.\
+    \ The \"Program\", below, refers to any such program or work, and a \"work based\
+    \ on the Program\" means either the Program or any derivative work under copyright\
+    \ law: that is to say, a work containing the Program or a portion of it, either\
+    \ verbatim or with modifications and/or translated into another language. (Hereinafter,\
+    \ translation is included without limitation in the term \"modification\".) Each\
+    \ licensee is addressed as \"you\".\n\n   Activities other than copying, distribution\
+    \ and modification are not covered by this License; they are outside its scope.\
+    \ The act of running the Program is not restricted, and the output from the Program\
+    \ is covered only if its contents constitute a work based on the Program (independent\
+    \ of having been made by running the Program). Whether that is true depends on\
+    \ what the Program does.\n\n   1. You may copy and distribute verbatim copies\
+    \ of the Program's source code as you receive it, in any medium, provided that\
+    \ you conspicuously and appropriately publish on each copy an appropriate copyright\
+    \ notice and disclaimer of warranty; keep intact all the notices that refer to\
+    \ this License and to the absence of any warranty; and give any other recipients\
+    \ of the Program a copy of this License along with the Program.\n\n   You may\
+    \ charge a fee for the physical act of transferring a copy, and you may at your\
+    \ option offer warranty protection in exchange for a fee.\n\n   2. You may modify\
+    \ your copy or copies of the Program or any portion of it, thus forming a work\
+    \ based on the Program, and copy and distribute such modifications or work under\
+    \ the terms of Section 1 above, provided that you also meet all of these conditions:\n\
+    \n      a) You must cause the modified files to carry prominent notices stating\
+    \ that you changed the files and the date of any change.\n\n      b) You must\
+    \ cause any work that you distribute or publish, that in whole or in part contains\
+    \ or is derived from the Program or any part thereof, to be licensed as a whole\
+    \ at no charge to all third parties under the terms of this License.\n\n     \
+    \ c) If the modified program normally reads commands interactively when run, you\
+    \ must cause it, when started running for such interactive use in the most ordinary\
+    \ way, to print or display an announcement including an appropriate copyright\
+    \ notice and a notice that there is no warranty (or else, saying that you provide\
+    \ a warranty) and that users may redistribute the program under these conditions,\
+    \ and telling the user how to view a copy of this License. (Exception: if the\
+    \ Program itself is interactive but does not normally print such an announcement,\
+    \ your work based on the Program is not required to print an announcement.)\n\n\
+    \   These requirements apply to the modified work as a whole. If identifiable\
+    \ sections of that work are not derived from the Program, and can be reasonably\
+    \ considered independent and separate works in themselves, then this License,\
+    \ and its terms, do not apply to those sections when you distribute them as separate\
+    \ works. But when you distribute the same sections as part of a whole which is\
+    \ a work based on the Program, the distribution of the whole must be on the terms\
+    \ of this License, whose permissions for other licensees extend to the entire\
+    \ whole, and thus to each and every part regardless of who wrote it.\n\n   Thus,\
+    \ it is not the intent of this section to claim rights or contest your rights\
+    \ to work written entirely by you; rather, the intent is to exercise the right\
+    \ to control the distribution of derivative or collective works based on the Program.\n\
+    \n   In addition, mere aggregation of another work not based on the Program with\
+    \ the Program (or with a work based on the Program) on a volume of a storage or\
+    \ distribution medium does not bring the other work under the scope of this License.\n\
+    \n   3. You may copy and distribute the Program (or a work based on it, under\
+    \ Section 2) in object code or executable form under the terms of Sections 1 and\
+    \ 2 above provided that you also do one of the following:\n\n      a) Accompany\
+    \ it with the complete corresponding machine-readable source code, which must\
+    \ be distributed under the terms of Sections 1 and 2 above on a medium customarily\
+    \ used for software interchange; or,\n\n      b) Accompany it with a written offer,\
+    \ valid for at least three years, to give any third party, for a charge no more\
+    \ than your cost of physically performing source distribution, a complete machine-readable\
+    \ copy of the corresponding source code, to be distributed under the terms of\
+    \ Sections 1 and 2 above on a medium customarily used for software interchange;\
+    \ or,\n\n      c) Accompany it with the information you received as to the offer\
+    \ to distribute corresponding source code. (This alternative is allowed only for\
+    \ noncommercial distribution and only if you received the program in object code\
+    \ or executable form with such an offer, in accord with Subsection b above.)\n\
+    \n   The source code for a work means the preferred form of the work for making\
+    \ modifications to it. For an executable work, complete source code means all\
+    \ the source code for all modules it contains, plus any associated interface definition\
+    \ files, plus the scripts used to control compilation and installation of the\
+    \ executable. However, as a special exception, the source code distributed need\
+    \ not include anything that is normally distributed (in either source or binary\
+    \ form) with the major components (compiler, kernel, and so on) of the operating\
+    \ system on which the executable runs, unless that component itself accompanies\
+    \ the executable.\n\n   If distribution of executable or object code is made by\
+    \ offering access to copy from a designated place, then offering equivalent access\
+    \ to copy the source code from the same place counts as distribution of the source\
+    \ code, even though third parties are not compelled to copy the source along with\
+    \ the object code.\n\n   4. You may not copy, modify, sublicense, or distribute\
+    \ the Program except as expressly provided under this License. Any attempt otherwise\
+    \ to copy, modify, sublicense or distribute the Program is void, and will automatically\
+    \ terminate your rights under this License. However, parties who have received\
+    \ copies, or rights, from you under this License will not have their licenses\
+    \ terminated so long as such parties remain in full compliance.\n\n   5. You are\
+    \ not required to accept this License, since you have not signed it. However,\
+    \ nothing else grants you permission to modify or distribute the Program or its\
+    \ derivative works. These actions are prohibited by law if you do not accept this\
+    \ License. Therefore, by modifying or distributing the Program (or any work based\
+    \ on the Program), you indicate your acceptance of this License to do so, and\
+    \ all its terms and conditions for copying, distributing or modifying the Program\
+    \ or works based on it.\n\n   6. Each time you redistribute the Program (or any\
+    \ work based on the Program), the recipient automatically receives a license from\
+    \ the original licensor to copy, distribute or modify the Program subject to these\
+    \ terms and conditions. You may not impose any further restrictions on the recipients'\
+    \ exercise of the rights granted herein. You are not responsible for enforcing\
+    \ compliance by third parties to this License.\n\n   7. If, as a consequence of\
+    \ a court judgment or allegation of patent infringement or for any other reason\
+    \ (not limited to patent issues), conditions are imposed on you (whether by court\
+    \ order, agreement or otherwise) that contradict the conditions of this License,\
+    \ they do not excuse you from the conditions of this License. If you cannot distribute\
+    \ so as to satisfy simultaneously your obligations under this License and any\
+    \ other pertinent obligations, then as a consequence you may not distribute the\
+    \ Program at all. For example, if a patent license would not permit royalty-free\
+    \ redistribution of the Program by all those who receive copies directly or indirectly\
+    \ through you, then the only way you could satisfy both it and this License would\
+    \ be to refrain entirely from distribution of the Program.\n\n   If any portion\
+    \ of this section is held invalid or unenforceable under any particular circumstance,\
+    \ the balance of the section is intended to apply and the section as a whole is\
+    \ intended to apply in other circumstances.\n\n   It is not the purpose of this\
+    \ section to induce you to infringe any patents or other property right claims\
+    \ or to contest validity of any such claims; this section has the sole purpose\
+    \ of protecting the integrity of the free software distribution system, which\
+    \ is implemented by public license practices. Many people have made generous contributions\
+    \ to the wide range of software distributed through that system in reliance on\
+    \ consistent application of that system; it is up to the author/donor to decide\
+    \ if he or she is willing to distribute software through any other system and\
+    \ a licensee cannot impose that choice.\n\n   This section is intended to make\
+    \ thoroughly clear what is believed to be a consequence of the rest of this License.\n\
+    \n   8. If the distribution and/or use of the Program is restricted in certain\
+    \ countries either by patents or by copyrighted interfaces, the original copyright\
+    \ holder who places the Program under this License may add an explicit geographical\
+    \ distribution limitation excluding those countries, so that distribution is permitted\
+    \ only in or among countries not thus excluded. In such case, this License incorporates\
+    \ the limitation as if written in the body of this License.\n\n   9. The Free\
+    \ Software Foundation may publish revised and/or new versions of the General Public\
+    \ License from time to time. Such new versions will be similar in spirit to the\
+    \ present version, but may differ in detail to address new problems or concerns.\n\
+    \n   Each version is given a distinguishing version number. If the Program specifies\
+    \ a version number of this License which applies to it and \"any later version\"\
+    , you have the option of following the terms and conditions either of that version\
+    \ or of any later version published by the Free Software Foundation. If the Program\
+    \ does not specify a version number of this License, you may choose any version\
+    \ ever published by the Free Software Foundation.\n\n   10. If you wish to incorporate\
+    \ parts of the Program into other free programs whose distribution conditions\
+    \ are different, write to the author to ask for permission. For software which\
+    \ is copyrighted by the Free Software Foundation, write to the Free Software Foundation;\
+    \ we sometimes make exceptions for this. Our decision will be guided by the two\
+    \ goals of preserving the free status of all derivatives of our free software\
+    \ and of promoting the sharing and reuse of software generally.\n\n   NO WARRANTY\n\
+    \n   11. BECAUSE THE PROGRAM IS LICENSED FREE OF CHARGE, THERE IS NO WARRANTY\
+    \ FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT WHEN OTHERWISE\
+    \ STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM\
+    \ \"AS IS\" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING,\
+    \ BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR\
+    \ A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE\
+    \ PROGRAM IS WITH YOU. SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST\
+    \ OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.\n\n   12. IN NO EVENT UNLESS\
+    \ REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER,\
+    \ OR ANY OTHER PARTY WHO MAY MODIFY AND/OR REDISTRIBUTE THE PROGRAM AS PERMITTED\
+    \ ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL\
+    \ OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM\
+    \ (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE\
+    \ OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE\
+    \ WITH ANY OTHER PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED\
+    \ OF THE POSSIBILITY OF SUCH DAMAGES. END OF TERMS AND CONDITIONS\n\nHow to Apply\
+    \ These Terms to Your New Programs\n\nIf you develop a new program, and you want\
+    \ it to be of the greatest possible use to the public, the best way to achieve\
+    \ this is to make it free software which everyone can redistribute and change\
+    \ under these terms.\n\nTo do so, attach the following notices to the program.\
+    \ It is safest to attach them to the start of each source file to most effectively\
+    \ convey the exclusion of warranty; and each file should have at least the \"\
+    copyright\" line and a pointer to where the full notice is found.\n\n<one line\
+    \ to give the program's name and an idea of what it does.>\n\nCopyright (C) <yyyy>\
+    \ <name of author>\n\nThis program is free software; you can redistribute it and/or\
+    \ modify it under the terms of the GNU General Public License as published by\
+    \ the Free Software Foundation; either version 2 of the License, or (at your option)\
+    \ any later version.\n\nThis program is distributed in the hope that it will be\
+    \ useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY\
+    \ or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for\
+    \ more details.\n\nYou should have received a copy of the GNU General Public License\
+    \ along with this program; if not, write to the Free Software Foundation, Inc.,\
+    \ 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA.\n\nAlso add information\
+    \ on how to contact you by electronic and paper mail.\n\nIf the program is interactive,\
+    \ make it output a short notice like this when it starts in an interactive mode:\n\
+    \nGnomovision version 69, Copyright (C) year name of author Gnomovision comes\
+    \ with ABSOLUTELY NO WARRANTY; for details type `show w'. This is free software,\
+    \ and you are welcome to redistribute it under certain conditions; type `show\
+    \ c' for details.\n\nThe hypothetical commands `show w' and `show c' should show\
+    \ the appropriate parts of the General Public License. Of course, the commands\
+    \ you use may be called something other than `show w' and `show c'; they could\
+    \ even be mouse-clicks or menu items--whatever suits your program.\n\nYou should\
+    \ also get your employer (if you work as a programmer) or your school, if any,\
+    \ to sign a \"copyright disclaimer\" for the program, if necessary. Here is a\
+    \ sample; alter the names:\n\nYoyodyne, Inc., hereby disclaims all copyright interest\
+    \ in the program `Gnomovision' (which makes passes at compilers) written by James\
+    \ Hacker.\n\n< signature of Ty Coon > , 1 April 1989 Ty Coon, President of Vice"
+  name: "GNU General Public License v2.0 or later"
+- licenseId: "LicenseRef-GPL-2.0-or-later-WITH-Autoconf-exception"
+  extractedText: "GNU GENERAL PUBLIC LICENSE\n                       Version 2, June\
+    \ 1991\n\n Copyright (C) 1989, 1991 Free Software Foundation, Inc.,\n 51 Franklin\
+    \ Street, Fifth Floor, Boston, MA 02110-1301 USA\n Everyone is permitted to copy\
+    \ and distribute verbatim copies\n of this license document, but changing it is\
+    \ not allowed.\n\n                            Preamble\n\n  The licenses for most\
+    \ software are designed to take away your\nfreedom to share and change it.  By\
+    \ contrast, the GNU General Public\nLicense is intended to guarantee your freedom\
+    \ to share and change free\nsoftware--to make sure the software is free for all\
+    \ its users.  This\nGeneral Public License applies to most of the Free Software\n\
+    Foundation's software and to any other program whose authors commit to\nusing\
+    \ it.  (Some other Free Software Foundation software is covered by\nthe GNU Lesser\
+    \ General Public License instead.)  You can apply it to\nyour programs, too.\n\
+    \n  When we speak of free software, we are referring to freedom, not\nprice. \
+    \ Our General Public Licenses are designed to make sure that you\nhave the freedom\
+    \ to distribute copies of free software (and charge for\nthis service if you wish),\
+    \ that you receive source code or can get it\nif you want it, that you can change\
+    \ the software or use pieces of it\nin new free programs; and that you know you\
+    \ can do these things.\n\n  To protect your rights, we need to make restrictions\
+    \ that forbid\nanyone to deny you these rights or to ask you to surrender the\
+    \ rights.\nThese restrictions translate to certain responsibilities for you if\
+    \ you\ndistribute copies of the software, or if you modify it.\n\n  For example,\
+    \ if you distribute copies of such a program, whether\ngratis or for a fee, you\
+    \ must give the recipients all the rights that\nyou have.  You must make sure\
+    \ that they, too, receive or can get the\nsource code.  And you must show them\
+    \ these terms so they know their\nrights.\n\n  We protect your rights with two\
+    \ steps: (1) copyright the software, and\n(2) offer you this license which gives\
+    \ you legal permission to copy,\ndistribute and/or modify the software.\n\n  Also,\
+    \ for each author's protection and ours, we want to make certain\nthat everyone\
+    \ understands that there is no warranty for this free\nsoftware.  If the software\
+    \ is modified by someone else and passed on, we\nwant its recipients to know that\
+    \ what they have is not the original, so\nthat any problems introduced by others\
+    \ will not reflect on the original\nauthors' reputations.\n\n  Finally, any free\
+    \ program is threatened constantly by software\npatents.  We wish to avoid the\
+    \ danger that redistributors of a free\nprogram will individually obtain patent\
+    \ licenses, in effect making the\nprogram proprietary.  To prevent this, we have\
+    \ made it clear that any\npatent must be licensed for everyone's free use or not\
+    \ licensed at all.\n\n  The precise terms and conditions for copying, distribution\
+    \ and\nmodification follow.\n\n                    GNU GENERAL PUBLIC LICENSE\n\
+    \   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION\n\n  0. This\
+    \ License applies to any program or other work which contains\na notice placed\
+    \ by the copyright holder saying it may be distributed\nunder the terms of this\
+    \ General Public License.  The \"Program\", below,\nrefers to any such program\
+    \ or work, and a \"work based on the Program\"\nmeans either the Program or any\
+    \ derivative work under copyright law:\nthat is to say, a work containing the\
+    \ Program or a portion of it,\neither verbatim or with modifications and/or translated\
+    \ into another\nlanguage.  (Hereinafter, translation is included without limitation\
+    \ in\nthe term \"modification\".)  Each licensee is addressed as \"you\".\n\n\
+    Activities other than copying, distribution and modification are not\ncovered\
+    \ by this License; they are outside its scope.  The act of\nrunning the Program\
+    \ is not restricted, and the output from the Program\nis covered only if its contents\
+    \ constitute a work based on the\nProgram (independent of having been made by\
+    \ running the Program).\nWhether that is true depends on what the Program does.\n\
+    \n  1. You may copy and distribute verbatim copies of the Program's\nsource code\
+    \ as you receive it, in any medium, provided that you\nconspicuously and appropriately\
+    \ publish on each copy an appropriate\ncopyright notice and disclaimer of warranty;\
+    \ keep intact all the\nnotices that refer to this License and to the absence of\
+    \ any warranty;\nand give any other recipients of the Program a copy of this License\n\
+    along with the Program.\n\nYou may charge a fee for the physical act of transferring\
+    \ a copy, and\nyou may at your option offer warranty protection in exchange for\
+    \ a fee.\n\n  2. You may modify your copy or copies of the Program or any portion\n\
+    of it, thus forming a work based on the Program, and copy and\ndistribute such\
+    \ modifications or work under the terms of Section 1\nabove, provided that you\
+    \ also meet all of these conditions:\n\n    a) You must cause the modified files\
+    \ to carry prominent notices\n    stating that you changed the files and the date\
+    \ of any change.\n\n    b) You must cause any work that you distribute or publish,\
+    \ that in\n    whole or in part contains or is derived from the Program or any\n\
+    \    part thereof, to be licensed as a whole at no charge to all third\n    parties\
+    \ under the terms of this License.\n\n    c) If the modified program normally\
+    \ reads commands interactively\n    when run, you must cause it, when started\
+    \ running for such\n    interactive use in the most ordinary way, to print or\
+    \ display an\n    announcement including an appropriate copyright notice and a\n\
+    \    notice that there is no warranty (or else, saying that you provide\n    a\
+    \ warranty) and that users may redistribute the program under\n    these conditions,\
+    \ and telling the user how to view a copy of this\n    License.  (Exception: if\
+    \ the Program itself is interactive but\n    does not normally print such an announcement,\
+    \ your work based on\n    the Program is not required to print an announcement.)\n\
+    \nThese requirements apply to the modified work as a whole.  If\nidentifiable\
+    \ sections of that work are not derived from the Program,\nand can be reasonably\
+    \ considered independent and separate works in\nthemselves, then this License,\
+    \ and its terms, do not apply to those\nsections when you distribute them as separate\
+    \ works.  But when you\ndistribute the same sections as part of a whole which\
+    \ is a work based\non the Program, the distribution of the whole must be on the\
+    \ terms of\nthis License, whose permissions for other licensees extend to the\n\
+    entire whole, and thus to each and every part regardless of who wrote it.\n\n\
+    Thus, it is not the intent of this section to claim rights or contest\nyour rights\
+    \ to work written entirely by you; rather, the intent is to\nexercise the right\
+    \ to control the distribution of derivative or\ncollective works based on the\
+    \ Program.\n\nIn addition, mere aggregation of another work not based on the Program\n\
+    with the Program (or with a work based on the Program) on a volume of\na storage\
+    \ or distribution medium does not bring the other work under\nthe scope of this\
+    \ License.\n\n  3. You may copy and distribute the Program (or a work based on\
+    \ it,\nunder Section 2) in object code or executable form under the terms of\n\
+    Sections 1 and 2 above provided that you also do one of the following:\n\n   \
+    \ a) Accompany it with the complete corresponding machine-readable\n    source\
+    \ code, which must be distributed under the terms of Sections\n    1 and 2 above\
+    \ on a medium customarily used for software interchange; or,\n\n    b) Accompany\
+    \ it with a written offer, valid for at least three\n    years, to give any third\
+    \ party, for a charge no more than your\n    cost of physically performing source\
+    \ distribution, a complete\n    machine-readable copy of the corresponding source\
+    \ code, to be\n    distributed under the terms of Sections 1 and 2 above on a\
+    \ medium\n    customarily used for software interchange; or,\n\n    c) Accompany\
+    \ it with the information you received as to the offer\n    to distribute corresponding\
+    \ source code.  (This alternative is\n    allowed only for noncommercial distribution\
+    \ and only if you\n    received the program in object code or executable form\
+    \ with such\n    an offer, in accord with Subsection b above.)\n\nThe source code\
+    \ for a work means the preferred form of the work for\nmaking modifications to\
+    \ it.  For an executable work, complete source\ncode means all the source code\
+    \ for all modules it contains, plus any\nassociated interface definition files,\
+    \ plus the scripts used to\ncontrol compilation and installation of the executable.\
+    \  However, as a\nspecial exception, the source code distributed need not include\n\
+    anything that is normally distributed (in either source or binary\nform) with\
+    \ the major components (compiler, kernel, and so on) of the\noperating system\
+    \ on which the executable runs, unless that component\nitself accompanies the\
+    \ executable.\n\nIf distribution of executable or object code is made by offering\n\
+    access to copy from a designated place, then offering equivalent\naccess to copy\
+    \ the source code from the same place counts as\ndistribution of the source code,\
+    \ even though third parties are not\ncompelled to copy the source along with the\
+    \ object code.\n\n  4. You may not copy, modify, sublicense, or distribute the\
+    \ Program\nexcept as expressly provided under this License.  Any attempt\notherwise\
+    \ to copy, modify, sublicense or distribute the Program is\nvoid, and will automatically\
+    \ terminate your rights under this License.\nHowever, parties who have received\
+    \ copies, or rights, from you under\nthis License will not have their licenses\
+    \ terminated so long as such\nparties remain in full compliance.\n\n  5. You are\
+    \ not required to accept this License, since you have not\nsigned it.  However,\
+    \ nothing else grants you permission to modify or\ndistribute the Program or its\
+    \ derivative works.  These actions are\nprohibited by law if you do not accept\
+    \ this License.  Therefore, by\nmodifying or distributing the Program (or any\
+    \ work based on the\nProgram), you indicate your acceptance of this License to\
+    \ do so, and\nall its terms and conditions for copying, distributing or modifying\n\
+    the Program or works based on it.\n\n  6. Each time you redistribute the Program\
+    \ (or any work based on the\nProgram), the recipient automatically receives a\
+    \ license from the\noriginal licensor to copy, distribute or modify the Program\
+    \ subject to\nthese terms and conditions.  You may not impose any further\nrestrictions\
+    \ on the recipients' exercise of the rights granted herein.\nYou are not responsible\
+    \ for enforcing compliance by third parties to\nthis License.\n\n  7. If, as a\
+    \ consequence of a court judgment or allegation of patent\ninfringement or for\
+    \ any other reason (not limited to patent issues),\nconditions are imposed on\
+    \ you (whether by court order, agreement or\notherwise) that contradict the conditions\
+    \ of this License, they do not\nexcuse you from the conditions of this License.\
+    \  If you cannot\ndistribute so as to satisfy simultaneously your obligations\
+    \ under this\nLicense and any other pertinent obligations, then as a consequence\
+    \ you\nmay not distribute the Program at all.  For example, if a patent\nlicense\
+    \ would not permit royalty-free redistribution of the Program by\nall those who\
+    \ receive copies directly or indirectly through you, then\nthe only way you could\
+    \ satisfy both it and this License would be to\nrefrain entirely from distribution\
+    \ of the Program.\n\nIf any portion of this section is held invalid or unenforceable\
+    \ under\nany particular circumstance, the balance of the section is intended to\n\
+    apply and the section as a whole is intended to apply in other\ncircumstances.\n\
+    \nIt is not the purpose of this section to induce you to infringe any\npatents\
+    \ or other property right claims or to contest validity of any\nsuch claims; this\
+    \ section has the sole purpose of protecting the\nintegrity of the free software\
+    \ distribution system, which is\nimplemented by public license practices.  Many\
+    \ people have made\ngenerous contributions to the wide range of software distributed\n\
+    through that system in reliance on consistent application of that\nsystem; it\
+    \ is up to the author/donor to decide if he or she is willing\nto distribute software\
+    \ through any other system and a licensee cannot\nimpose that choice.\n\nThis\
+    \ section is intended to make thoroughly clear what is believed to\nbe a consequence\
+    \ of the rest of this License.\n\n  8. If the distribution and/or use of the Program\
+    \ is restricted in\ncertain countries either by patents or by copyrighted interfaces,\
+    \ the\noriginal copyright holder who places the Program under this License\nmay\
+    \ add an explicit geographical distribution limitation excluding\nthose countries,\
+    \ so that distribution is permitted only in or among\ncountries not thus excluded.\
+    \  In such case, this License incorporates\nthe limitation as if written in the\
+    \ body of this License.\n\n  9. The Free Software Foundation may publish revised\
+    \ and/or new versions\nof the General Public License from time to time.  Such\
+    \ new versions will\nbe similar in spirit to the present version, but may differ\
+    \ in detail to\naddress new problems or concerns.\n\nEach version is given a distinguishing\
+    \ version number.  If the Program\nspecifies a version number of this License\
+    \ which applies to it and \"any\nlater version\", you have the option of following\
+    \ the terms and conditions\neither of that version or of any later version published\
+    \ by the Free\nSoftware Foundation.  If the Program does not specify a version\
+    \ number of\nthis License, you may choose any version ever published by the Free\
+    \ Software\nFoundation.\n\n  10. If you wish to incorporate parts of the Program\
+    \ into other free\nprograms whose distribution conditions are different, write\
+    \ to the author\nto ask for permission.  For software which is copyrighted by\
+    \ the Free\nSoftware Foundation, write to the Free Software Foundation; we sometimes\n\
+    make exceptions for this.  Our decision will be guided by the two goals\nof preserving\
+    \ the free status of all derivatives of our free software and\nof promoting the\
+    \ sharing and reuse of software generally.\n\n                            NO WARRANTY\n\
+    \n  11. BECAUSE THE PROGRAM IS LICENSED FREE OF CHARGE, THERE IS NO WARRANTY\n\
+    FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW.  EXCEPT WHEN\nOTHERWISE\
+    \ STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES\nPROVIDE THE PROGRAM\
+    \ \"AS IS\" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED\nOR IMPLIED, INCLUDING,\
+    \ BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF\nMERCHANTABILITY AND FITNESS FOR\
+    \ A PARTICULAR PURPOSE.  THE ENTIRE RISK AS\nTO THE QUALITY AND PERFORMANCE OF\
+    \ THE PROGRAM IS WITH YOU.  SHOULD THE\nPROGRAM PROVE DEFECTIVE, YOU ASSUME THE\
+    \ COST OF ALL NECESSARY SERVICING,\nREPAIR OR CORRECTION.\n\n  12. IN NO EVENT\
+    \ UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING\nWILL ANY COPYRIGHT\
+    \ HOLDER, OR ANY OTHER PARTY WHO MAY MODIFY AND/OR\nREDISTRIBUTE THE PROGRAM AS\
+    \ PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES,\nINCLUDING ANY GENERAL, SPECIAL,\
+    \ INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING\nOUT OF THE USE OR INABILITY TO\
+    \ USE THE PROGRAM (INCLUDING BUT NOT LIMITED\nTO LOSS OF DATA OR DATA BEING RENDERED\
+    \ INACCURATE OR LOSSES SUSTAINED BY\nYOU OR THIRD PARTIES OR A FAILURE OF THE\
+    \ PROGRAM TO OPERATE WITH ANY OTHER\nPROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY\
+    \ HAS BEEN ADVISED OF THE\nPOSSIBILITY OF SUCH DAMAGES.\n\n                  \
+    \   END OF TERMS AND CONDITIONS\n\n            How to Apply These Terms to Your\
+    \ New Programs\n\n  If you develop a new program, and you want it to be of the\
+    \ greatest\npossible use to the public, the best way to achieve this is to make\
+    \ it\nfree software which everyone can redistribute and change under these terms.\n\
+    \n  To do so, attach the following notices to the program.  It is safest\nto attach\
+    \ them to the start of each source file to most effectively\nconvey the exclusion\
+    \ of warranty; and each file should have at least\nthe \"copyright\" line and\
+    \ a pointer to where the full notice is found.\n\n    <one line to give the program's\
+    \ name and a brief idea of what it does.>\n    Copyright (C) <year>  <name of\
+    \ author>\n\n    This program is free software; you can redistribute it and/or\
+    \ modify\n    it under the terms of the GNU General Public License as published\
+    \ by\n    the Free Software Foundation; either version 2 of the License, or\n\
+    \    (at your option) any later version.\n\n    This program is distributed in\
+    \ the hope that it will be useful,\n    but WITHOUT ANY WARRANTY; without even\
+    \ the implied warranty of\n    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.\
+    \  See the\n    GNU General Public License for more details.\n\n    You should\
+    \ have received a copy of the GNU General Public License along\n    with this\
+    \ program; if not, write to the Free Software Foundation, Inc.,\n    51 Franklin\
+    \ Street, Fifth Floor, Boston, MA 02110-1301 USA.\n\nAlso add information on how\
+    \ to contact you by electronic and paper mail.\n\nIf the program is interactive,\
+    \ make it output a short notice like this\nwhen it starts in an interactive mode:\n\
+    \n    Gnomovision version 69, Copyright (C) year name of author\n    Gnomovision\
+    \ comes with ABSOLUTELY NO WARRANTY; for details type `show w'.\n    This is free\
+    \ software, and you are welcome to redistribute it\n    under certain conditions;\
+    \ type `show c' for details.\n\nThe hypothetical commands `show w' and `show c'\
+    \ should show the appropriate\nparts of the General Public License.  Of course,\
+    \ the commands you use may\nbe called something other than `show w' and `show\
+    \ c'; they could even be\nmouse-clicks or menu items--whatever suits your program.\n\
+    \nYou should also get your employer (if you work as a programmer) or your\nschool,\
+    \ if any, to sign a \"copyright disclaimer\" for the program, if\nnecessary. \
+    \ Here is a sample; alter the names:\n\n  Yoyodyne, Inc., hereby disclaims all\
+    \ copyright interest in the program\n  `Gnomovision' (which makes passes at compilers)\
+    \ written by James Hacker.\n\n  <signature of Ty Coon>, 1 April 1989\n  Ty Coon,\
+    \ President of Vice\n\nThis General Public License does not permit incorporating\
+    \ your program into\nproprietary programs.  If your program is a subroutine library,\
+    \ you may\nconsider it more useful to permit linking proprietary applications\
+    \ with the\nlibrary.  If this is what you want to do, use the GNU Lesser General\n\
+    Public License instead of this License.\n\nAs a special exception to the GNU General\
+    \ Public License, if you\ndistribute this file as part of a program that contains\
+    \ a\nconfiguration script generated by Autoconf, you may include it under\nthe\
+    \ same distribution terms that you use for the rest of that program."
+  name: "GPL-2.0-or-later WITH Autoconf-exception"
+- licenseId: "LicenseRef-License-of-GNU-Licenses"
+  extractedText: "Everyone is permitted to copy and distribute verbatim copies\nof\
+    \ this license document, but changing it is not allowed."
+  name: "License-of-GNU-Licenses"
+- licenseId: "LicenseRef-See-file.README"
+  extractedText: "License by Nomos."
+  name: "See-file.README"
+documentNamespace: "http://fossy.osadl.org/repo/SPDX2TV_squashfs-tools-4.4.tar.gz_1781545261.spdx"
+packages:
+- SPDXID: "SPDXRef-upload4643"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "1d5c4e12fe3034f2347d0db26cfe1c0f"
+  - algorithm: "SHA1"
+    checksumValue: "883eb8bfae3aaef619e6d3b7ae51f5aa83097cfd"
+  - algorithm: "SHA256"
+    checksumValue: "a7fa4845e9908523c38d4acf92f8a41fdfcd19def41bd5090d7ad767a6dc75c3"
+  copyrightText: "NOASSERTION"
+  downloadLocation: "https://github.com/plougher/squashfs-tools/archive/refs/tags/4.4.tar.gz"
+  externalRefs:
+  - referenceCategory: "PACKAGE-MANAGER"
+    referenceLocator: "pkg:github/plougher/squashfs-tools@4.4"
+    referenceType: "purl"
+  filesAnalyzed: true
+  licenseComments: "licenseInfoInFile determined by Scanners:\n - nomos (\"4.4.0.51\"\
+    .1e52cb)\n - monk (\"4.4.0.51\".1e52cb)\n - ojo (\"4.4.0.51\".1e52cb)\n- scancode\
+    \ (\"4.4.0.51\".1e52cb)"
+  licenseConcluded: "NOASSERTION"
+  licenseDeclared: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoFromFiles:
+  - "NOASSERTION"
+  name: "squashfs-tools-4.4.tar.gz"
+  packageFileName: "squashfs-tools-4.4.tar.gz"
+  packageVerificationCode:
+    packageVerificationCodeValue: "025a9f937969abd83095f85aacbfa5f8b23aba0b"
+files:
+- SPDXID: "SPDXRef-item20896203"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "97e4ca527c2a01c3e3dce52784366e77c3fd3c9e6498b35c3f878f1d31d66c1f"
+  - algorithm: "MD5"
+    checksumValue: "58e488f29a6e181d991b216b76f979e8"
+  - algorithm: "SHA1"
+    checksumValue: "5a38948ae681fe464f723e5f2ab3c51564471a2c"
+  copyrightText: "NOASSERTION"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/RELEASE-READMEs/README-2.0-AMD64"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item20896204"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "8143b664e943dafd2a53cc7aab1637c96db71f0cd9f22cc142869a4b49f8c8ec"
+  - algorithm: "MD5"
+    checksumValue: "c71a7cd8c063ebd7033a500b8c791d0b"
+  - algorithm: "SHA1"
+    checksumValue: "29b85304cf099f7dceb0923e31413f0397bd4ced"
+  copyrightText: "NOASSERTION"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/RELEASE-READMEs/DONATIONS"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item20896205"
+  checksums:
+  - algorithm: "SHA1"
+    checksumValue: "a7b7326109a579b74443b49fd709600b7caefd4b"
+  - algorithm: "SHA256"
+    checksumValue: "7c6c617bea15999d66b1cd3c0ba32588ed898b20a0310f4d344895eecb2c110c"
+  - algorithm: "MD5"
+    checksumValue: "be76adcd90b598256ded907963985d3d"
+  copyrightText: "Copyright 2002-2006 Phillip Lougher <phillip@lougher.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/RELEASE-READMEs/README-3.1"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+  - "LicenseRef-GPL-1.0-or-later"
+- SPDXID: "SPDXRef-item20896206"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "a89f6a7d0e9f5f8dc9af3cf5066c8a3dd7ee6ae588b494dc1d665fa04e48951a"
+  - algorithm: "MD5"
+    checksumValue: "998728bb8efd3db87c5581fdf09aa596"
+  - algorithm: "SHA1"
+    checksumValue: "c7b751062b1b96d7e8a743b2e53f800361b5e832"
+  copyrightText: "NOASSERTION"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/RELEASE-READMEs/PERFORMANCE.README"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item20896207"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "bd810197bd4f2f1c7919b39835d8f9ce"
+  - algorithm: "SHA1"
+    checksumValue: "9dc4936f1aa4f99687fa5b08a641cb4da51cb4ce"
+  - algorithm: "SHA256"
+    checksumValue: "a39b22e74a07142899480c6fcf4e9ffc4e60a727d25be65946339e7fdfea72fe"
+  copyrightText: "Copyright 2002-2007 Phillip Lougher <phillip@lougher.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/RELEASE-READMEs/README-3.2"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+  - "LicenseRef-GPL-1.0-or-later"
+- SPDXID: "SPDXRef-item20896208"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "f274ce43ebe1a5de762153bf13a3b2c3"
+  - algorithm: "SHA256"
+    checksumValue: "90218fdc22454ac0d219a4fa228929ab29e3e0cb317b5f85f46d46bad03bc3b9"
+  - algorithm: "SHA1"
+    checksumValue: "2df50092888972f11d8ad0152e9366ddba1a4991"
+  copyrightText: "Copyright 2002-2011 Phillip Lougher <phillip@lougher.demon.co.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/RELEASE-READMEs/README-4.2"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+  - "LicenseRef-GPL-1.0-or-later"
+- SPDXID: "SPDXRef-item20896209"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "34b03743bc882094ddb23382ba1f05bd68c9e6d1228026d4e7a0acb6b0962944"
+  - algorithm: "MD5"
+    checksumValue: "64f416fa135b81e91099fc941f9fdc67"
+  - algorithm: "SHA1"
+    checksumValue: "df023ac816dcbb8ffae0a2a5976a227c703dafde"
+  copyrightText: "NOASSERTION"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/RELEASE-READMEs/pseudo-file.example"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item20896210"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "ebf71207d432a9a92894fe06bcb92ceaf426ec22f2d4625609b8649093b5988e"
+  - algorithm: "MD5"
+    checksumValue: "248add543fc8a95e15ac5b8b1a252652"
+  - algorithm: "SHA1"
+    checksumValue: "48a183b5cf809121cfe2ca5cfee644ac0e7e5655"
+  copyrightText: "Copyright 2002-2006 Phillip Lougher <phillip@lougher.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/RELEASE-READMEs/README-3.0"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+  - "LicenseRef-GPL-1.0-or-later"
+- SPDXID: "SPDXRef-item20896211"
+  checksums:
+  - algorithm: "SHA1"
+    checksumValue: "69be5a3b0b8cc759a3a8d46a9b4f78439866c877"
+  - algorithm: "SHA256"
+    checksumValue: "2e031b08d2d536c9323b5a1f107a4278bf602b824b49d1fd0f01c799e94674ef"
+  - algorithm: "MD5"
+    checksumValue: "a79c9f779620c04bc2fe2737db7887a0"
+  copyrightText: "Copyright 2002-2010 Phillip Lougher <phillip@lougher.demon.co.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/RELEASE-READMEs/README-4.1"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+  - "LicenseRef-GPL-1.0-or-later"
+- SPDXID: "SPDXRef-item20896212"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "c36db58e1af1542ae889646f0f11ee9e"
+  - algorithm: "SHA256"
+    checksumValue: "99c0bfdc258759aed3c61a0667aaeb7ac166e2e556dc033a2ac2aea4c07ced46"
+  - algorithm: "SHA1"
+    checksumValue: "f69617d364726cd6c73521f7357a2536c5429e42"
+  copyrightText: "Copyright 2002-2014 Phillip Lougher <phillip@lougher.demon.co.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/RELEASE-READMEs/README-4.3"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+  - "LicenseRef-GPL-1.0-or-later"
+- SPDXID: "SPDXRef-item20896213"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "31b74cb2a3612a5f123e0b2918a8cac1"
+  - algorithm: "SHA1"
+    checksumValue: "72795586b5b80b9cb9e37cc64a6ba3d6733078fa"
+  - algorithm: "SHA256"
+    checksumValue: "31afe662d9a28b2dc25b0fec16d7978e562822065a183cd25be7777a25431cd7"
+  copyrightText: "Copyright 2002-2009 Phillip Lougher <phillip@lougher.demon.co.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/RELEASE-READMEs/README-4.0"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+  - "LicenseRef-GPL-1.0-or-later"
+- SPDXID: "SPDXRef-item20896214"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "effe9d406057321ca20b74f4291f3a9e"
+  - algorithm: "SHA1"
+    checksumValue: "a9f2ab3af590078626767efbdecaae4c9d251773"
+  - algorithm: "SHA256"
+    checksumValue: "3a45f8230b3cc3b57be51ce7aeac106dbc6689bcd57200b0aad9c75cbc3e1b40"
+  copyrightText: "Copyright 2002-2007 Phillip Lougher <phillip@lougher.demon.co.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/RELEASE-READMEs/README-3.3"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+  - "LicenseRef-GPL-1.0-or-later"
+- SPDXID: "SPDXRef-item20896215"
+  checksums:
+  - algorithm: "SHA1"
+    checksumValue: "c635fd558671e57ee5e16204399714b0ba5d4e65"
+  - algorithm: "SHA256"
+    checksumValue: "9ca886862069577096a6a54b2502e90edaea0b33b518f148759ecdf57f57f4b2"
+  - algorithm: "MD5"
+    checksumValue: "cf78610c02fc878c7f9b7eaf1cc78340"
+  copyrightText: "Copyright 2004 Phillip Lougher (plougher@users.sourceforge.net)"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/RELEASE-READMEs/README-2.0"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+  - "LicenseRef-GPL-1.0-or-later"
+- SPDXID: "SPDXRef-item20896216"
+  checksums:
+  - algorithm: "SHA1"
+    checksumValue: "29a85bec81164dc3962e7fb62c937b68de5d2212"
+  - algorithm: "MD5"
+    checksumValue: "c1d53a6c8c0b6d45ec4f01fb6e889c23"
+  - algorithm: "SHA256"
+    checksumValue: "de06a4f77df8e14e9ab9a0f326ce4995716879d9f8438ccd9f39cc44be417f9d"
+  copyrightText: "Copyright 2004 Phillip Lougher (plougher@users.sourceforge.net)"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/RELEASE-READMEs/README-2.1"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+  - "LicenseRef-GPL-1.0-or-later"
+- SPDXID: "SPDXRef-item20896221"
+  checksums:
+  - algorithm: "SHA1"
+    checksumValue: "d08b5212c38939c4fec76f60694feec0b5dfac46"
+  - algorithm: "SHA256"
+    checksumValue: "09af4c022a239fafa7ad5cca0084f00bed626d5e1df9ea441eebc7c7ec4cfbfb"
+  - algorithm: "MD5"
+    checksumValue: "399ec1e0df00613fae2cd2d5b3884c5a"
+  copyrightText: "Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008 Phillip Lougher\
+    \ <phillip@lougher.demon.co.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/kernel/kernel-2.6/include/linux/squashfs_fs_i.h"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896222"
+  checksums:
+  - algorithm: "SHA1"
+    checksumValue: "e08961a64604874c3f1979af09163ae9293bdedb"
+  - algorithm: "MD5"
+    checksumValue: "24c5f3e937f9e05e46b8c64170ea5ea9"
+  - algorithm: "SHA256"
+    checksumValue: "a4d9119ba9ed339527976def857ab9d6354bba38d9c86f4632ebb5d3835ee516"
+  copyrightText: "Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008 Phillip Lougher\
+    \ <phillip@lougher.demon.co.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/kernel/kernel-2.6/include/linux/squashfs_fs.h"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896223"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "0541a39484ec61d7a4f21d33dfe2a3a2"
+  - algorithm: "SHA256"
+    checksumValue: "ae20a291821918bf239ea525cbeccb1914a6e47e82f0a9bfcf0df0f10db0dcaa"
+  - algorithm: "SHA1"
+    checksumValue: "a54e22be6c0ea43a7c9af205a58a5ffc621cfb81"
+  copyrightText: "Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008 Phillip Lougher\
+    \ <phillip@lougher.demon.co.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/kernel/kernel-2.6/include/linux/squashfs_fs_sb.h"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896226"
+  checksums:
+  - algorithm: "SHA1"
+    checksumValue: "9e012d8eba4a254b18ee685983f721058574f22e"
+  - algorithm: "SHA256"
+    checksumValue: "53a73b3a7bc7b885dbee9a3f83936098ea40935882ea771cee92ae6c6d428c1f"
+  - algorithm: "MD5"
+    checksumValue: "6b4ee85ac1f520b409863ce92ca71a67"
+  copyrightText: "NOASSERTION"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/kernel/kernel-2.6/Documentation/filesystems/squashfs.txt"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item20896229"
+  checksums:
+  - algorithm: "SHA1"
+    checksumValue: "2ccaa7220432af2a0ae6aab59dbed0fa2dbef638"
+  - algorithm: "SHA256"
+    checksumValue: "dc53e4042a06701df7da37a217fdb8ce01f774ae8c2f516d346abdbc8291cea0"
+  - algorithm: "MD5"
+    checksumValue: "4c2d6d497d60bb02c5eca0d1f05357a1"
+  copyrightText: "Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008 Phillip Lougher\
+    \ <phillip@lougher.demon.co.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/kernel/kernel-2.6/fs/squashfs/file.c"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896230"
+  checksums:
+  - algorithm: "SHA1"
+    checksumValue: "bf445119f969e168aed6502941ff3ed758fd3c8e"
+  - algorithm: "SHA256"
+    checksumValue: "96b33230b0aa98400c8fbf0b34a2604a2720d3673791fd0ee836018a19e9c2c4"
+  - algorithm: "MD5"
+    checksumValue: "6dffc0bd4e2b66ce0243d502b781b19b"
+  copyrightText: "Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008 Phillip Lougher\
+    \ <phillip@lougher.demon.co.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/kernel/kernel-2.6/fs/squashfs/fragment.c"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896231"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "039f046b5f2c5c981022c8d6d8e0a24a"
+  - algorithm: "SHA1"
+    checksumValue: "1cbd8b7009988691b90c572940e5193cd57fe865"
+  - algorithm: "SHA256"
+    checksumValue: "5409d7caa80da0d8da2b98d9ee4ab7c667c92ddbca04e87c41f1e82739af61f2"
+  copyrightText: "NOASSERTION"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/kernel/kernel-2.6/fs/squashfs/Makefile"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item20896232"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "f6ce68f09258aae732ee05ef05b4cb24081b25e390763299248b73ae0b495ef9"
+  - algorithm: "MD5"
+    checksumValue: "6db43774eaadcc8f2712f8065ee74863"
+  - algorithm: "SHA1"
+    checksumValue: "d9f0c92cd97f942c72d52ffd52e7d12ee20e455d"
+  copyrightText: "Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008 Phillip Lougher\
+    \ <phillip@lougher.demon.co.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/kernel/kernel-2.6/fs/squashfs/squashfs_fs_i.h"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896233"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "a9d9bc324ae9aa7628ed760f6e45d4787b52aa5ef8d37f5fcda057ce334637c2"
+  - algorithm: "MD5"
+    checksumValue: "3574fa2321dd0c9dc450814285fb5977"
+  - algorithm: "SHA1"
+    checksumValue: "e2e1365ae7e443e36d143d5010a0ff38de1afff5"
+  copyrightText: "Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008 Phillip Lougher\
+    \ <phillip@lougher.demon.co.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/kernel/kernel-2.6/fs/squashfs/inode.c"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896234"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "1a71ecbd989fb5e7c6109abd1497e07e4fcfceb0c4022d4523cca2af1be7e8c6"
+  - algorithm: "MD5"
+    checksumValue: "59713be5c7c76c4171041a8138b263f2"
+  - algorithm: "SHA1"
+    checksumValue: "244cba45a7a78f5f8278e73f40a8d20c7fbfdbf2"
+  copyrightText: "Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008 Phillip Lougher\
+    \ <phillip@lougher.demon.co.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/kernel/kernel-2.6/fs/squashfs/symlink.c"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896235"
+  checksums:
+  - algorithm: "SHA1"
+    checksumValue: "c654fa347478cf4f7d85f3db6ab2ffe115417e41"
+  - algorithm: "SHA256"
+    checksumValue: "c3fac97ad5d16839d28ab9112775853127df95a29dcc490de6116f507d7a9cbd"
+  - algorithm: "MD5"
+    checksumValue: "965e1e422469124b8171d802fe08e466"
+  copyrightText: "Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008 Phillip Lougher\
+    \ <phillip@lougher.demon.co.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/kernel/kernel-2.6/fs/squashfs/cache.c"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896236"
+  checksums:
+  - algorithm: "SHA1"
+    checksumValue: "64a148eb0307c31f4b3f995db88bcb844740aef7"
+  - algorithm: "SHA256"
+    checksumValue: "6b3915695cd2494b40292bf819b6a555e3c44df34165fc55969097d31f8ad772"
+  - algorithm: "MD5"
+    checksumValue: "fa68a29daf153ed36717821a35c25058"
+  copyrightText: "Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008 Phillip Lougher\
+    \ <phillip@lougher.demon.co.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/kernel/kernel-2.6/fs/squashfs/squashfs.h"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896237"
+  checksums:
+  - algorithm: "SHA1"
+    checksumValue: "652dbc70c0fb688c8cd599453288c51b0695c99d"
+  - algorithm: "SHA256"
+    checksumValue: "e3a46d31df8a4721be79e482fc808925debd9836b75c83a0f884cfc9e287d562"
+  - algorithm: "MD5"
+    checksumValue: "a2b099211dbd5a50560b9ab8e99b4c1f"
+  copyrightText: "Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008 Phillip Lougher\
+    \ <phillip@lougher.demon.co.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/kernel/kernel-2.6/fs/squashfs/super.c"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896238"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "8384156b2cd2fee88eef3c831fab907110d2ce5971a6d10b1b4a70443d8b2a5a"
+  - algorithm: "MD5"
+    checksumValue: "29f4256d3cb8988f83106a566b3627a6"
+  - algorithm: "SHA1"
+    checksumValue: "5a4a3291b4bbd73140c48c3a88ca5b36718f9ce9"
+  copyrightText: "Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008 Phillip Lougher\
+    \ <phillip@lougher.demon.co.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/kernel/kernel-2.6/fs/squashfs/export.c"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896239"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "255037a88542d93e8a619f51e311ac539668634d9b6b8c4a9569cde28e640036"
+  - algorithm: "MD5"
+    checksumValue: "fbbf8f0f83bc2395e3dffb39d5f27322"
+  - algorithm: "SHA1"
+    checksumValue: "da1def1cd45161201352111b397f76ee7b90603f"
+  copyrightText: "Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008 Phillip Lougher\
+    \ <phillip@lougher.demon.co.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/kernel/kernel-2.6/fs/squashfs/squashfs_fs.h"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896240"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "ea0b42c4dbb24cf105b6e0cd41e0ee1e2d8f05950094f4057a2d82e3b56a7533"
+  - algorithm: "MD5"
+    checksumValue: "f9e3d37e572527f309dddfa05b4e80eb"
+  - algorithm: "SHA1"
+    checksumValue: "7d47c5d8cd32e757eae9243e0afb8a41904c1ee7"
+  copyrightText: "Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008 Phillip Lougher\
+    \ <phillip@lougher.demon.co.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/kernel/kernel-2.6/fs/squashfs/id.c"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896241"
+  checksums:
+  - algorithm: "SHA1"
+    checksumValue: "aea0107cd214cf44cd59e18da26721aa68c01091"
+  - algorithm: "SHA256"
+    checksumValue: "288e043546fbbf0153fba9e9e73c640c5252936b98e991560dcebeed852098c3"
+  - algorithm: "MD5"
+    checksumValue: "be4d804809b98ce0a45a45948bbc6315"
+  copyrightText: "Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008 Phillip Lougher\
+    \ <phillip@lougher.demon.co.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/kernel/kernel-2.6/fs/squashfs/namei.c"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896242"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "5499c079142cd4c8b1cacb6506c650f0bd916f6a5811018c99c9c530b559e2a4"
+  - algorithm: "MD5"
+    checksumValue: "d79b5e95f77646605f080ecc1aa5c178"
+  - algorithm: "SHA1"
+    checksumValue: "9b7eb74513c4d1f4f4bd9867e5a43327ac4566d0"
+  copyrightText: "Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008 Phillip Lougher\
+    \ <phillip@lougher.demon.co.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/kernel/kernel-2.6/fs/squashfs/squashfs_fs_sb.h"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896243"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "ecec71d1dc2ae211b328288efe0b953f240d62f3567370bc602a35780a5553f8"
+  - algorithm: "MD5"
+    checksumValue: "7527e67a23a37631116a8ed03c616109"
+  - algorithm: "SHA1"
+    checksumValue: "14840fc1dee825a139189f8a9de7bc8a7759a9c4"
+  copyrightText: "Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008 Phillip Lougher\
+    \ <phillip@lougher.demon.co.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/kernel/kernel-2.6/fs/squashfs/block.c"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896244"
+  checksums:
+  - algorithm: "SHA1"
+    checksumValue: "2934ac5102eccedfea17d349ea59e3c96e2f753d"
+  - algorithm: "SHA256"
+    checksumValue: "32495fb8b74c9e7d9d028141a741a25f53d63b10e39d743fd5405a77fda97f64"
+  - algorithm: "MD5"
+    checksumValue: "9b2b3d51d271b79bc445d5f48693e478"
+  copyrightText: "Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008 Phillip Lougher\
+    \ <phillip@lougher.demon.co.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/kernel/kernel-2.6/fs/squashfs/dir.c"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896245"
+  checksums:
+  - algorithm: "SHA1"
+    checksumValue: "c5a562959fd4ed2efb3a4ce1cd63481f315a481b"
+  - algorithm: "SHA256"
+    checksumValue: "955adee3869e617a14859ec48f09c6d8aa02fcdb5b102698f54a081ec7a09d61"
+  - algorithm: "MD5"
+    checksumValue: "d999f543d30170da5be92a6d6777dea1"
+  copyrightText: "NOASSERTION"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/kernel/README"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item20896249"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "0afa6334baf7e8e8efec4ba01b1836e1"
+  - algorithm: "SHA1"
+    checksumValue: "3acf013391cb9a9099a6b4cbdf75586d76a492ee"
+  - algorithm: "SHA256"
+    checksumValue: "70c97f911f8e12ee3a93b74e30b096c1f0aa1848698095e3064ca5082eaa1e40"
+  copyrightText: "Copyright (c) 2002, 2003, 2004, 2005, 2006 Phillip Lougher <phillip@lougher.demon.co.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/kernel/kernel-2.4/include/linux/squashfs_fs_i.h"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896250"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "6ca65c51b5c232b2465c74fcaba7deea"
+  - algorithm: "SHA1"
+    checksumValue: "300d01f19c2244ab7621bf52dd09f0cf6fda48ad"
+  - algorithm: "SHA256"
+    checksumValue: "a55d46edf7e624fda7b4c162fdf6f482ec2e4d286840c7db21fa16ec20e8dfb7"
+  copyrightText: "Copyright (c) 2002, 2003, 2004, 2005, 2006 Phillip Lougher <phillip@lougher.demon.co.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/kernel/kernel-2.4/include/linux/squashfs_fs.h"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896251"
+  checksums:
+  - algorithm: "SHA1"
+    checksumValue: "ac7e588c9f366fce984c0d070ca5761c8ad050d4"
+  - algorithm: "MD5"
+    checksumValue: "28b0794e25a3be2f4942dd85361045ec"
+  - algorithm: "SHA256"
+    checksumValue: "50f890ee728374640a161509379e1961fe57af9e10a91ca06e5b1d0b158e9828"
+  copyrightText: "Copyright (c) 2002, 2003, 2004, 2005, 2006 Phillip Lougher <phillip@lougher.demon.co.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/kernel/kernel-2.4/include/linux/squashfs_fs_sb.h"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896254"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "6f7618752363d4de8c9c8a22d2fdd61fe22336b6e766f110fbd44d7211038f27"
+  - algorithm: "MD5"
+    checksumValue: "1f88e82bc5b991aff04e9bd1cb7755a9"
+  - algorithm: "SHA1"
+    checksumValue: "748758b1cb36cce1bf4a8147b5526798dfcab9e7"
+  copyrightText: "Copyright (c) 2002, 2003, 2004, 2005, 2006 Phillip Lougher <phillip@lougher.demon.co.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/kernel/kernel-2.4/fs/squashfs/squashfs2_0.c"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896255"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "7c65e107d1c7f56a730c02b119316e9f"
+  - algorithm: "SHA1"
+    checksumValue: "c62cac8381e711baa8b3c1d052e90519dec00586"
+  - algorithm: "SHA256"
+    checksumValue: "8ebb8f5565e69a24bef92e8200f37d949d075728b1bb6cb06caffce33b8ceb70"
+  copyrightText: "NOASSERTION"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/kernel/kernel-2.4/fs/squashfs/Makefile"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item20896256"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "00b9f0f0a039a9be0fa4e18ee154e0d5d09d34d937fdd3e983e48737d98c0ddf"
+  - algorithm: "MD5"
+    checksumValue: "4ed2e8be2eaf9f98b7ad74a0c8818abb"
+  - algorithm: "SHA1"
+    checksumValue: "1ae85d78d13ba04b064f0954c9daf0851b0199fd"
+  copyrightText: "Copyright (c) 2002, 2003, 2004, 2005, 2006 Phillip Lougher <phillip@lougher.demon.co.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/kernel/kernel-2.4/fs/squashfs/inode.c"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896257"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "93249dff29494a2ede741539273469de"
+  - algorithm: "SHA256"
+    checksumValue: "93bfb4fbc1f8cead79da88e7a9cb5f6ed9d3d7395923aa0290219c798c185e04"
+  - algorithm: "SHA1"
+    checksumValue: "add141c697e603c8610a0612f05fa28746463034"
+  copyrightText: "Copyright (c) 2002, 2003, 2004, 2005, 2006 Phillip Lougher <phillip@lougher.demon.co.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/kernel/kernel-2.4/fs/squashfs/squashfs.h"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896258"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "03295920714707f5a3d0faef9555458071dcd68683a7d13ce5563b0d2addaa8f"
+  - algorithm: "MD5"
+    checksumValue: "1a48892f33ab5481d05fe2c6dd414c7d"
+  - algorithm: "SHA1"
+    checksumValue: "d6064a9c535dfd1ab22f9244103d623d2cfa6642"
+  copyrightText: "Copyright 2002-2019 Phillip Lougher <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/USAGE"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+  - "LicenseRef-GPL-1.0-or-later"
+- SPDXID: "SPDXRef-item20896259"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "97d1158f2e2d7b500271a49e399cc3277652d7d9731deef19fa7f10bcce8cd17"
+  - algorithm: "MD5"
+    checksumValue: "cc1e81b676d544ebda1d37a068057776"
+  - algorithm: "SHA1"
+    checksumValue: "898f0cd0ff808326c9982f620c0d44c6af85c205"
+  copyrightText: "NOASSERTION"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/README"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item20896261"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "a7e9944a054d0fbbb133c47a8b181a1fb5f58bd2bf8f17c5e95668ea702f966a"
+  - algorithm: "MD5"
+    checksumValue: "1fe0429e2790c1a34e8edb8975fd2631"
+  - algorithm: "SHA1"
+    checksumValue: "c44afad62dae983b36f94569dc709f6da3f53451"
+  copyrightText: "Copyright (c) 2013 Phillip Lougher <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/unsquashfs_info.c"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896262"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "9aec9acc0227a29ed10439ab004e759f"
+  - algorithm: "SHA1"
+    checksumValue: "aa7438538209c0606b5c4a5a0a3a6af02ac226b1"
+  - algorithm: "SHA256"
+    checksumValue: "885d3aac86f33b0249fcb65476520f1ea751f7d9d1ad2ac335a6dcabc697b56e"
+  copyrightText: "Copyright (c) 2010, 2012, 2013, 2014, 2019 Phillip Lougher <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/xattr.h"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896263"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "81644727a0665bee19c1a25ac84b13b1"
+  - algorithm: "SHA1"
+    checksumValue: "ac8741feb78e89edbe82b218c24db70700cab130"
+  - algorithm: "SHA256"
+    checksumValue: "08eb6373af54387cfd00658601218186722efd69c41674f5661fddb980d94d86"
+  copyrightText: "Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010,\
+    \ 2013 Phillip Lougher <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/read_fs.h"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896264"
+  checksums:
+  - algorithm: "SHA1"
+    checksumValue: "bd5ffd2e69e7595fb659c6abbdd8fdc753b61b95"
+  - algorithm: "SHA256"
+    checksumValue: "9fa74f6422f47431e1f4ed88c0d5cd8f1e437d64674aaff2de512eff862e52bb"
+  - algorithm: "MD5"
+    checksumValue: "c0b9faf1216f3228f3f265b4751ce5a6"
+  copyrightText: "Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010,\
+    \ 2012, 2013, 2014 Phillip Lougher <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/sort.c"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896265"
+  checksums:
+  - algorithm: "SHA1"
+    checksumValue: "360cbafe2d194e0a470390989843d24ae5d45f12"
+  - algorithm: "SHA256"
+    checksumValue: "8a25e576c80f33bc0dc694526e0071ec9698fe43903313e123190c7632eb03ca"
+  - algorithm: "MD5"
+    checksumValue: "182064423ae45ea055c61d3556f3ae05"
+  copyrightText: "Copyright (c) 2010, 2011, 2012, 2013 Phillip Lougher <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/xz_wrapper.c"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896266"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "a5dad80b50dc3b012d84a97a45a054da"
+  - algorithm: "SHA1"
+    checksumValue: "51dc9631ea25cb3e9b5d983f2ac8b993547da6a0"
+  - algorithm: "SHA256"
+    checksumValue: "8ebdefd4da28df6b722c5f3e0536bb384cf701dc050952bbf208afda71700dac"
+  copyrightText: "Copyright (c) 2009, 2010, 2011, 2012, 2013, 2019 Phillip Lougher\
+    \ <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/unsquash-3.c"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896267"
+  checksums:
+  - algorithm: "SHA1"
+    checksumValue: "e226be318a98821331f1f74ed42e37fb3a51bc33"
+  - algorithm: "SHA256"
+    checksumValue: "8cd3db4fade63b21120a88433e68785ed840f5584252f5d680f8115eef2a23b0"
+  - algorithm: "MD5"
+    checksumValue: "6fb77e79b378cc0b7b832534344d3b7f"
+  copyrightText: "Copyright (c) 2010 Phillip Lougher <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/xz_wrapper.h"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896268"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "0eb76cbddfb76c900ca01ee1c4e1d8ed"
+  - algorithm: "SHA1"
+    checksumValue: "cdb11668972a868de69ec5e0251a29f6736aca94"
+  - algorithm: "SHA256"
+    checksumValue: "9084a3c79a1e66535096eb7023ef22f88641e2838eaf9d59456d5309e45526cc"
+  copyrightText: "Copyright (c) 2009, 2010, 2011 Phillip Lougher <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/compressor.c"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896269"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "ab1b8736c306e6012b35dc92252655f0"
+  - algorithm: "SHA1"
+    checksumValue: "8442f10cb667f7211f96d75f22d787d7b95c49d0"
+  - algorithm: "SHA256"
+    checksumValue: "ece6cb618a5c4e637621d8e77787dd0fa94e9aef75d9fe6a2c8d836a597ee853"
+  copyrightText: "Copyright (c) 2009, 2010, 2013 Phillip Lougher <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/lzma_wrapper.c"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896270"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "2d622efe7986d8c0d439c64b5d42e5307b4c208184c56bb42e66b199fb09f94b"
+  - algorithm: "MD5"
+    checksumValue: "2e3e02b953f999f8cc7f98c2fa4ba0b5"
+  - algorithm: "SHA1"
+    checksumValue: "1964e4d71686fac90bdf76944ca073dd47bb3c69"
+  copyrightText: "Copyright (c) 2013, 2014, 2019 Phillip Lougher <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/info.c"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896271"
+  checksums:
+  - algorithm: "SHA1"
+    checksumValue: "842103553326cffc60006e41b601731388fd474d"
+  - algorithm: "SHA256"
+    checksumValue: "a70eefdc66915a122f9a2e61a5ee6183f5a73e96ab002541f0630a6108ee042c"
+  - algorithm: "MD5"
+    checksumValue: "0efbd661bec1079bdf0b2c27d3682b7b"
+  copyrightText: "Copyright (c) 2009, 2010, 2013, 2019 Phillip Lougher <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/unsquash-2.c"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896272"
+  checksums:
+  - algorithm: "SHA1"
+    checksumValue: "da76c46d3d979ed298a7999f894559368bad299d"
+  - algorithm: "MD5"
+    checksumValue: "0f9db72aef2a728f110a017c56875008"
+  - algorithm: "SHA256"
+    checksumValue: "702a5de1c8e3f4baf590d1725d99edae4413f8344fb44b858779ee958c5ec9d6"
+  copyrightText: "Copyright (c) 2009, 2010, 2014 Phillip Lougher <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/pseudo.h"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896273"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "62a1a308c9557c82666f747f04c0168db564eeecb50a1e868ca5fc2c8a6715e4"
+  - algorithm: "MD5"
+    checksumValue: "d8f029e1d9baf83edc69c08daf310f47"
+  - algorithm: "SHA1"
+    checksumValue: "1b578a6f29422d89d103b0d4c900cc8c94383e61"
+  copyrightText: "Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010,\
+    \ 2012, 2013, 2014, 2019 Phillip Lougher <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/read_fs.c"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896274"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "925c6d5c544f6600866b9769e34a672e"
+  - algorithm: "SHA1"
+    checksumValue: "b4cb70ab4ab952354ec0efc8c43c02244bd07624"
+  - algorithm: "SHA256"
+    checksumValue: "b27e19d07e6872a946c7783cd71c7c4881a9882c33fcfc02120b6ff46d75a9d3"
+  copyrightText: "Copyright (c) 2017 Phillip Lougher <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/zstd_wrapper.c"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896275"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "d890d8039bc03665137f8de43fd60bbc28b910cf01a8a777244299ec8459af85"
+  - algorithm: "MD5"
+    checksumValue: "9a7d7bd646e8a1bb8e2708b2e44bc9f7"
+  - algorithm: "SHA1"
+    checksumValue: "51a1124ffe7362b867334aef732a460380333105"
+  copyrightText: "Copyright (c) 2013 Phillip Lougher <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/lz4_wrapper.h"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896276"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "a9ab6cf9be1c687ac13c290d414f7fc6"
+  - algorithm: "SHA1"
+    checksumValue: "8927883eb9f49cb3500532ea062834b94db8253b"
+  - algorithm: "SHA256"
+    checksumValue: "43370f1f1d7ca7934c3ee1fcf10ef121d5c8581980e7ecc7b85b1b0f1b11d904"
+  copyrightText: "Copyright (c) 2009, 2010, 2011, 2012, 2019 Phillip Lougher <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/unsquash-1.c"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896277"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "f37863273047ebed4ad2638fd7f0b06a"
+  - algorithm: "SHA1"
+    checksumValue: "e72a8b5a3e47a627e04c30a6348ef2fd53f6357f"
+  - algorithm: "SHA256"
+    checksumValue: "72dbac43e772b57c4d1e268e0dbe63328735821f75a17b5562aa65b285b690cb"
+  copyrightText: "Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010,\
+    \ 2011, 2012, 2013, 2014, 2017, 2019 Phillip Lougher <phillip@squashfs.org.uk>\n\
+    copyright (C) 2019 Phillip Lougher"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/mksquashfs.c"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896278"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "8689b9c679d6b3dca76d2409eeb08b63bfc932b56231ae42a542555e0e32f010"
+  - algorithm: "MD5"
+    checksumValue: "d09ae6532c8396ee57e14c0891e157eb"
+  - algorithm: "SHA1"
+    checksumValue: "588bc8e595020ec5b61f57d29f12be70532d5e06"
+  copyrightText: "Copyright (c) 2013, 2014, 2019 Phillip Lougher <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/restore.c"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896279"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "abef42034219ffe6dbe0dd058e5be65f"
+  - algorithm: "SHA1"
+    checksumValue: "bdf0cc74768ac9a357744505f86cde7937d8c714"
+  - algorithm: "SHA256"
+    checksumValue: "664a81326b4830a19170a487cece765f6699ba87301f1fced37dc8e9b80dcc06"
+  copyrightText: "Copyright (c) 2014 Phillip Lougher <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/process_fragments.h"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896280"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "e94c708c5c892e8647fda49248f61644"
+  - algorithm: "SHA1"
+    checksumValue: "6159a43e65c27be7994aec980de61cc3f5d6f6a2"
+  - algorithm: "SHA256"
+    checksumValue: "c615221f7c23b82059366df2e3d9886697136ccec9ae43b7f16ba4f51d8d04df"
+  copyrightText: "Copyright (c) 2009, 2010, 2013, 2014 Phillip Lougher <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/gzip_wrapper.c"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896281"
+  checksums:
+  - algorithm: "SHA1"
+    checksumValue: "60d204f90ee7e8393c3f77fb3384a3c9473b0617"
+  - algorithm: "SHA256"
+    checksumValue: "af65c6ebb0128ae04e890d5603a9585558baaa10be8cadbf3b496be7608a3404"
+  - algorithm: "MD5"
+    checksumValue: "175c86063e4276d28e6c44792b034069"
+  copyrightText: "Copyright (c) 2009, 2010, 2013, 2014, 2019 Phillip Lougher <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/unsquashfs.h"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896282"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "7f8de44b1f798168b6303b7648cbb517"
+  - algorithm: "SHA1"
+    checksumValue: "b7edd2f130c0953de33ee7297eac7091b9609de6"
+  - algorithm: "SHA256"
+    checksumValue: "af37d9f0241a027ef05799dbd4f930af958c2e363b4f55177ddb989facc15bc2"
+  copyrightText: "Copyright (c) 2013, 2014, 2019 Phillip Lougher <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/caches-queues-lists.h"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896283"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "7499c30f162fb96b0ce7f90cdc8509cd"
+  - algorithm: "SHA1"
+    checksumValue: "eb2fad958570a7d2ebf8daeac4de18c9be3c702b"
+  - algorithm: "SHA256"
+    checksumValue: "e6dd9c34911c1e44729c270dbf574b22ec3b05a7ed3693480089f3804f505f4c"
+  copyrightText: "NOASSERTION"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/Makefile"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item20896284"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "a1daf4681aa40d83fc370cb732cd03da"
+  - algorithm: "SHA1"
+    checksumValue: "dfac29b5484a1e32843a40b18761d1659e16a3d9"
+  - algorithm: "SHA256"
+    checksumValue: "7cfd4cc19d639cae23eeb41511ad09533143aae3a7fdbce9cda6bf6f830a26df"
+  copyrightText: "Copyright (c) 2012, 2013, 2014, 2019 Phillip Lougher <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/error.h"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896285"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "8709d98bf94072cc6b0dea17aa927d0bddbe594cc52e13bcf09e8a9a8714fb26"
+  - algorithm: "MD5"
+    checksumValue: "cd57955b3b5d79a0336e6b07c9bf7155"
+  - algorithm: "SHA1"
+    checksumValue: "a4cce35cff2b5521f37b26e769b5ea95c429517a"
+  copyrightText: "Copyright (c) 2012, 2013, 2014 Phillip Lougher <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/progressbar.h"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896286"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "ee229469d50a4aaac07322e06e311f1426d249eb91350675e8b1f81dc7d48107"
+  - algorithm: "MD5"
+    checksumValue: "2cd6edb5e6a39947d6ca68dc62f40d5a"
+  - algorithm: "SHA1"
+    checksumValue: "9826a91e3fe08d8d41e6a95a58f9ca0d9b81b24f"
+  copyrightText: "Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010,\
+    \ 2011, 2012, 2013, 2014, 2017, 2019 Phillip Lougher <phillip@squashfs.org.uk>\n\
+    copyright (C) 2019 Phillip Lougher"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/unsquashfs.c"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896287"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "41b40cfd44e0b9d35e636c135234d8c3"
+  - algorithm: "SHA1"
+    checksumValue: "6c9f8a1401d4844f9d5f3f6ba63c6ffc3fec03d5"
+  - algorithm: "SHA256"
+    checksumValue: "42c6fccfd5850641b12b20a2b073dfc1f4bf0a27df4e9cc3da6185549bb6d6c1"
+  copyrightText: "Copyright (c) 2011, 2012, 2013, 2014 Phillip Lougher <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/action.h"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896288"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "a40b435bfc086fd2a06d5c05057c0642"
+  - algorithm: "SHA1"
+    checksumValue: "c4dab8dbe1097d283ae8a3af462827776a87c48e"
+  - algorithm: "SHA256"
+    checksumValue: "42481d5d249502e08cfb2258fb4e5a65377dbaa77c29a58d36b3b1e886fe63c7"
+  copyrightText: "Copyright (c) 2008, 2009, 2010, 2012, 2014, 2019 Phillip Lougher\
+    \ <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/xattr.c"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896289"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "8c0f875b91138d6f59a23c8ace3b0863"
+  - algorithm: "SHA1"
+    checksumValue: "8c06de828a1b78494ea55deeea8c9db6cd31ea61"
+  - algorithm: "SHA256"
+    checksumValue: "70c102703139ecda69a39e053c9e7748c7e1230ad88262f97b761b89d6dd51c3"
+  copyrightText: "Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010,\
+    \ 2011 2012, 2013, 2014, 2019 Phillip Lougher <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/mksquashfs.h"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896290"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "8babda503ea2f94b9b6a7a57387c7f3b"
+  - algorithm: "SHA1"
+    checksumValue: "d07f6982fdff8f6d03c45385784492f89681ff14"
+  - algorithm: "SHA256"
+    checksumValue: "8dcd43aebd438f223e6e392700b927f2fc068d185a84ce9dff87352fd0d69d5b"
+  copyrightText: "Copyright (c) 2013 Phillip Lougher <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/lzo_wrapper.h"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896291"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "5607310a6ccf8a63964b3e768aa2ab00"
+  - algorithm: "SHA1"
+    checksumValue: "440128ed91a61ee6208eae16d196475ffa0666d3"
+  - algorithm: "SHA256"
+    checksumValue: "f59134afa81704fb9d24eb6332311022a9073f636f4db082d940cb9b0b99949a"
+  copyrightText: "Copyright (c) 2013, 2014 Phillip Lougher <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/info.h"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896292"
+  checksums:
+  - algorithm: "SHA1"
+    checksumValue: "baf5fc81325966d10ab02bd21a50e4a58e7e7b1e"
+  - algorithm: "SHA256"
+    checksumValue: "38233e9412c9d9e218e7c5feb3f5930addfaa4e49dc349a4b4367f137dfa254b"
+  - algorithm: "MD5"
+    checksumValue: "c039d1b579ea082d8c83d161340c283c"
+  copyrightText: "Copyright (c) 2010, 2012, 2013, 2019 Phillip Lougher <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/read_xattrs.c"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896293"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "8dfa1b973d633c5b7ea0c75ee7b7bc6279bf05679590a940901296893b8e2836"
+  - algorithm: "MD5"
+    checksumValue: "f3b83ec0528ece90e48e88eee657325e"
+  - algorithm: "SHA1"
+    checksumValue: "cbc3b42037d2695dc5ca113113b78661198cfd5a"
+  copyrightText: "Copyright (c) 2014 Phillip Lougher <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/process_fragments.c"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896294"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "0b5d4b37ea966c8a025b0d4e54a6ff6214ff46ae236bd4f4aa32ffc2d20ffad0"
+  - algorithm: "MD5"
+    checksumValue: "5499eed1ec428b1dd65e1a0f2ee2cbed"
+  - algorithm: "SHA1"
+    checksumValue: "2312c93ee9e2c361fc4638752c5b08b5f0ae97db"
+  copyrightText: "Copyright (c) 2019 Phillip Lougher <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/unsquash-123.c"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896295"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "f65b0be6ae194de965e93b9e62f82582"
+  - algorithm: "SHA1"
+    checksumValue: "57575a4363cbac17a58fd542cf051d6d31c98414"
+  - algorithm: "SHA256"
+    checksumValue: "aa3c9cc1ccc337fcaee499c9c9e52c0f360c38bd301e09a9c11898bd626cf0f4"
+  copyrightText: "Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010,\
+    \ 2012, 2013, 2014, 2017, 2019 Phillip Lougher <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/squashfs_fs.h"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896296"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "35c479922d338233f2bc4dd843925b6bd14a6dc6507bcc6f83d69a49973dd5d4"
+  - algorithm: "MD5"
+    checksumValue: "d29eab2a0d64868141e74f5a01ba530c"
+  - algorithm: "SHA1"
+    checksumValue: "43b15e560af82af0434507dc39963058b0f40c5c"
+  copyrightText: "Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010,\
+    \ 2014, 2019 Phillip Lougher <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/squashfs_compat.h"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896297"
+  checksums:
+  - algorithm: "SHA1"
+    checksumValue: "e88b89abeab93d38da5a056b565d85732fddda5a"
+  - algorithm: "SHA256"
+    checksumValue: "1ef1fdbf941588aea9dfceb73f5757d097459b6d6ac342f6c7285b8516d9203f"
+  - algorithm: "MD5"
+    checksumValue: "db4df8fb86c94ccf544f46e99af302ef"
+  copyrightText: "Copyright (c) 2019 Phillip Lougher <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/unsquash-34.c"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896298"
+  checksums:
+  - algorithm: "SHA1"
+    checksumValue: "5583b26b85863a80e14c75c0eb3f230f82d06a5d"
+  - algorithm: "SHA256"
+    checksumValue: "c828f45e8ce4bfd443a5a3661f5e69ea731109eda55feba679ad3b67ac804fe7"
+  - algorithm: "MD5"
+    checksumValue: "6597d9f354420d8d0e91af608a377776"
+  copyrightText: "Copyright (c) 2012, 2013, 2014 Phillip Lougher <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/progressbar.c"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896299"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "6fde45eff464c58a37d6106fec38a60b"
+  - algorithm: "SHA1"
+    checksumValue: "240f3df543d6f9277b69fd995a7e25f216f5fe0c"
+  - algorithm: "SHA256"
+    checksumValue: "b914906680ae51b78a75eec577d9b1a312f6ad42d166105e76bcc9f666bebcf0"
+  copyrightText: "Copyright (c) 2012 Phillip Lougher <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/read_file.c"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896300"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "39b6961cf7bef05a0a7de821b1fd1bf8afd0a543bdd46204fc224a14956a4161"
+  - algorithm: "MD5"
+    checksumValue: "6e60f90b6ee63bebc3357715173966bc"
+  - algorithm: "SHA1"
+    checksumValue: "e93f6582fbf6c365f8366a9c027d5b57cdc6f7a8"
+  copyrightText: "Copyright (c) 2010, 2013 Phillip Lougher <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/lzma_xz_wrapper.c"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896301"
+  checksums:
+  - algorithm: "SHA1"
+    checksumValue: "c606f1beb2b5dade3a73c2d1eb8f502908d92529"
+  - algorithm: "SHA256"
+    checksumValue: "3f222dcb08bd9179ab278e4b6615a007a1ccd610bd1aae6b9fe5fc5268778e44"
+  - algorithm: "MD5"
+    checksumValue: "a9345781b010ec90e0579cdd816d1ce5"
+  copyrightText: "Copyright (c) 2008, 2009, 2010, 2013, 2019 Phillip Lougher <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/squashfs_swap.h"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896302"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "4ecca1b40bb6651524aca85b13172496b1e80f5e80521a6ca40ec662484d87b6"
+  - algorithm: "MD5"
+    checksumValue: "a0dd57f30ecf63c1603d759c0e7e49f1"
+  - algorithm: "SHA1"
+    checksumValue: "9e0b86cdd9052f4c18ba367591715851d23bc8a5"
+  copyrightText: "Copyright (c) 2017 Phillip Lougher <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/zstd_wrapper.h"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896303"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "08516ff754265fb0620bae5562234052"
+  - algorithm: "SHA1"
+    checksumValue: "a3c73f9160b141adc7d76ccfac81c73274f96a3a"
+  - algorithm: "SHA256"
+    checksumValue: "2d026ba3b090e7c43ef3dc015d5c19df158fbb01d6ba0de158cb0bdd4511d976"
+  copyrightText: "Copyright (c) 2013, 2014 Phillip Lougher <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/lzo_wrapper.c"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896304"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "42ec416d25ace10923482232e7f215b9fb734d77d51cdacb2e2f5c2848948c18"
+  - algorithm: "MD5"
+    checksumValue: "686d1c578d5febc570396e42afae073f"
+  - algorithm: "SHA1"
+    checksumValue: "f5c63e1bf7166761596bd4fe197399ca4f3cb17a"
+  copyrightText: "Copyright (c) 2013, 2014 Phillip Lougher <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/unsquashfs_info.h"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896305"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "9ce0f1aae527edbf77359d2f532765f74a7536ac298eaee8b392270c9f173d1d"
+  - algorithm: "MD5"
+    checksumValue: "ac7ddc1bdf3f2d1fb302a3cead52b626"
+  - algorithm: "SHA1"
+    checksumValue: "c32617be5af5bb8507cfc79143daa34f4a7546a1"
+  copyrightText: "Copyright (c) 2013, 2019 Phillip Lougher <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/lz4_wrapper.c"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896306"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "b96ef342790618715556a22643be69f340342159aa8b707ca946e0aeefa28b0f"
+  - algorithm: "MD5"
+    checksumValue: "e7dcd9735e1ae6b1811eaaa15774aae2"
+  - algorithm: "SHA1"
+    checksumValue: "2c43b5387c90365a17540b9d6bb1286ae7be9275"
+  copyrightText: "Copyright (c) 2009, 2010, 2011, 2012, 2013, 2019 Phillip Lougher\
+    \ <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/unsquash-4.c"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896307"
+  checksums:
+  - algorithm: "SHA1"
+    checksumValue: "1568d9629cd991ec1578a6daa5c31b3a210930bd"
+  - algorithm: "SHA256"
+    checksumValue: "f2deb8a9d21cd19b3df3083dfc2827e536c34e1ae46d422b00fa378c272cc704"
+  - algorithm: "MD5"
+    checksumValue: "0cdace50a002d95c6384dcd774dc371f"
+  copyrightText: "Copyright (c) 2014 Phillip Lougher <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/gzip_wrapper.h"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896308"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "f816d503bc6527ec3d4ec86ccdaa7805c056da109f01e421f8745289eb53391b"
+  - algorithm: "MD5"
+    checksumValue: "cc179ecb5615853207e5acedafcd63ba"
+  - algorithm: "SHA1"
+    checksumValue: "a3f4e62fe71f63575c298cb2c320b2c4d71c9183"
+  copyrightText: "Copyright (c) 2009, 2010, 2011, 2012, 2013, 2014 Phillip Lougher\
+    \ <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/compressor.h"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896309"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "1e561423ad1e46b05c2cb2183192d69284808cc5cd4f0bd024c2d1b208352963"
+  - algorithm: "MD5"
+    checksumValue: "ccb6f7f798b5f7017a3ee9498b254efb"
+  - algorithm: "SHA1"
+    checksumValue: "a7b6e3e67b3ab5b7172ecdc468943a6d1bec6ba8"
+  copyrightText: "Copyright (c) 2015 Phillip Lougher <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/fnmatch_compat.h"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896310"
+  checksums:
+  - algorithm: "SHA1"
+    checksumValue: "b87b3a3ee6798d720ee156311b83f4dcfe7e52c7"
+  - algorithm: "SHA256"
+    checksumValue: "33d8074389459e5ce37905af6cd1cbc8b1c49a7d04a55717519836b0e09effbc"
+  - algorithm: "MD5"
+    checksumValue: "da2c57249a0d92d389112cbd342b11a4"
+  copyrightText: "Copyright (c) 2009, 2010, 2012, 2014, 2017, 2019 Phillip Lougher\
+    \ <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/pseudo.c"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896311"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "ad9ecf9ff7c0a95cac1f99f56ac8203a"
+  - algorithm: "SHA1"
+    checksumValue: "6652b9526b1ad756b754d2aa3ba5db2daba715c4"
+  - algorithm: "SHA256"
+    checksumValue: "659dcb92bc5af910fef43fcd08f2a4d6d07614d20b278e44db403b790a60826e"
+  copyrightText: "Copyright (c) 2009, 2010 Phillip Lougher <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/swap.c"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896312"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "68016f19b82003ca080c0e9157740d24"
+  - algorithm: "SHA1"
+    checksumValue: "343925867f332ce13907d1fc637322663002164b"
+  - algorithm: "SHA256"
+    checksumValue: "1917d88a699f934bd23788664efb65535eb13a5fb39ae012860c083720ae6bb7"
+  copyrightText: "Copyright (c) 2013, 2014, 2019 Phillip Lougher <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/caches-queues-lists.c"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896313"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "7710f55534905643e00f1f620bfacea3"
+  - algorithm: "SHA1"
+    checksumValue: "c7264e9a913f2fa802f065f6452ea7f510f95c3d"
+  - algorithm: "SHA256"
+    checksumValue: "eff118a536f97e767ecd0a19cb04628a4b10a5f07cc2285b0a89d952d166a5aa"
+  copyrightText: "Copyright (c) 2013, 2014 Phillip Lougher <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/restore.h"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896314"
+  checksums:
+  - algorithm: "SHA1"
+    checksumValue: "0da8c36c75386d00be273c65745e729e491b36bf"
+  - algorithm: "SHA256"
+    checksumValue: "08daf23771f138b0053d8476e3c86d61481b046c10b153da09dfadc63a47773e"
+  - algorithm: "MD5"
+    checksumValue: "f5d52804f0dd2bf347f1d2afd63639a4"
+  copyrightText: "Copyright (c) 2010, 2012, 2019 Phillip Lougher <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/unsquashfs_xattr.c"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896315"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "6395a091822942de8979dbe7b4c90a3b"
+  - algorithm: "SHA1"
+    checksumValue: "73159242d5581223d1e2527f6bce26e49795cae0"
+  - algorithm: "SHA256"
+    checksumValue: "f792f90fc520c618e23d2e19cdae466da7c6384a4d1596d6e39712ee5512f6fc"
+  copyrightText: "Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010,\
+    \ 2013 Phillip Lougher <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/sort.h"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896316"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "8438e61fa187ae0834c5db9a8ed73e00"
+  - algorithm: "SHA1"
+    checksumValue: "511856c4c468c17d6853d8b719fb6d7ebbb44120"
+  - algorithm: "SHA256"
+    checksumValue: "cb5bb69ea5d6f471c81d9afc83f90e75071b91f4961d0da675a9bef3fd85edc6"
+  copyrightText: "Copyright (c) 2011, 2012, 2013, 2014 Phillip Lougher <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/squashfs-tools/action.c"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+- SPDXID: "SPDXRef-item20896317"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "26563122372cfaa77d8fbf92a727c109"
+  - algorithm: "SHA256"
+    checksumValue: "95fc7dc5e294b383885768d679b4b6ac0225b0a5045d479f5f479a8905c0fd07"
+  - algorithm: "SHA1"
+    checksumValue: "b8bb81384239cf73b3f107f792ae3cc807e45a28"
+  copyrightText: "NOASSERTION"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/CHANGES"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "LicenseRef-See-file.README"
+- SPDXID: "SPDXRef-item20896318"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "d08569f72ab388c80327c186dd26259cfac55419d1f766018d9b4b055833ad51"
+  - algorithm: "MD5"
+    checksumValue: "262d5165e597e3e4eac692d41babf71e"
+  - algorithm: "SHA1"
+    checksumValue: "2806ebd6e8a0f1afc810f798b4c66a856d5d0966"
+  copyrightText: "NOASSERTION"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/ACKNOWLEDGEMENTS"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item20896319"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "6ab5d9a8b4a841a18ce33affc7eaf3b3"
+  - algorithm: "SHA1"
+    checksumValue: "0518f5e276078f9c7a90c13702cbdc5e6a8a1bf6"
+  - algorithm: "SHA256"
+    checksumValue: "e3be5c0dba2e22405d778ce97d3450f4adf918f3e4e57e9cfab7999c2a3b65d3"
+  copyrightText: "NOASSERTION"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/INSTALL"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item20896320"
+  checksums:
+  - algorithm: "SHA1"
+    checksumValue: "4cc77b90af91e615a64ae04893fdffa7939db84c"
+  - algorithm: "SHA256"
+    checksumValue: "8177f97513213526df2cf6184d8ff986c675afb514d4e68a404010521b880643"
+  - algorithm: "MD5"
+    checksumValue: "b234ee4d69f5fce4486a80fdaf4a4263"
+  copyrightText: "Copyright (C) 1989, 1991 Free Software Foundation, Inc.,"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/COPYING"
+  licenseComments: "The file contains the text of the GPL. The text of the license\
+    \ is licensed under:\nEveryone is permitted to copy and distribute verbatim copies\n\
+    of this license document, but changing it is not allowed.\nThus we concluded License-of-GNU-Licenses\
+    \ as license of this file"
+  licenseConcluded: "LicenseRef-License-of-GNU-Licenses"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-only"
+  - "LicenseRef-GPL-2.0-or-later"
+  - "LicenseRef-GPL-2.0-or-later-WITH-Autoconf-exception"
+- SPDXID: "SPDXRef-item20896321"
+  checksums:
+  - algorithm: "SHA1"
+    checksumValue: "452df6fc44660bcd819331548603725f876e26b3"
+  - algorithm: "SHA256"
+    checksumValue: "b2bb28016de33358c89921577689d09ac19283e78cce024f8717fd2b4efa3056"
+  - algorithm: "MD5"
+    checksumValue: "5fa3aa3ff0a4d424ade4472eec30a438"
+  copyrightText: "Copyright 2002-2019 Phillip Lougher <phillip@squashfs.org.uk>"
+  fileName: "squashfs-tools-4.4.tar.gz/squashfs-tools-4.4.tar/squashfs-tools-4.4/README-4.4"
+  licenseConcluded: "LicenseRef-GPL-2.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-2.0-or-later"
+  - "LicenseRef-GPL-1.0-or-later"
+relationships:
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896203"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896204"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896205"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896206"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896207"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896208"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896209"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896210"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896211"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896212"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896213"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896214"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896215"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896216"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896221"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896222"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896223"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896226"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896229"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896230"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896231"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896232"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896233"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896234"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896235"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896236"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896237"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896238"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896239"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896240"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896241"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896242"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896243"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896244"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896245"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896249"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896250"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896251"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896254"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896255"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896256"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896257"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896258"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896259"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896261"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896262"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896263"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896264"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896265"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896266"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896267"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896268"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896269"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896270"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896271"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896272"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896273"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896274"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896275"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896276"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896277"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896278"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896279"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896280"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896281"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896282"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896283"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896284"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896285"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896286"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896287"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896288"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896289"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896290"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896291"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896292"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896293"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896294"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896295"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896296"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896297"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896298"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896299"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896300"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896301"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896302"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896303"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896304"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896305"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896306"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896307"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896308"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896309"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896310"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896311"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896312"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896313"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896314"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896315"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896316"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896317"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896318"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896319"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896320"
+- spdxElementId: "SPDXRef-upload4643"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item20896321"
+- spdxElementId: "SPDXRef-DOCUMENT"
+  relationshipType: "DESCRIBES"
+  relatedSpdxElement: "SPDXRef-upload4643"

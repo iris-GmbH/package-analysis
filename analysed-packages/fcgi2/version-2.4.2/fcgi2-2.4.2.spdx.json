@@ -1,0 +1,2567 @@
+{
+  "SPDXID" : "SPDXRef-DOCUMENT",
+  "spdxVersion" : "SPDX-2.3",
+  "creationInfo" : {
+    "comment" : "This document was created using license information and a generator from Fossology.\nIt contains the license and copyright analysis of fcgi2 2.4.2\nPlease check \"LicenseComments\" for explanations of concluded licenses",
+    "created" : "2026-06-17T19:36:18Z",
+    "creators" : [ "Tool: fossology-4.4.0.51", "Person: Oliver Fendt" ],
+    "licenseListVersion" : "3.22"
+  },
+  "name" : "/srv/fossology/repository/report",
+  "dataLicense" : "CC0-1.0",
+  "hasExtractedLicensingInfos" : [ {
+    "licenseId" : "LicenseRef-BSD-3-Clause",
+    "extractedText" : "Copyright (c) <year> <owner>.\n\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\n1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\n\n2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\n\n3. Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.",
+    "name" : "BSD 3-Clause \"New\" or \"Revised\" License"
+  }, {
+    "licenseId" : "LicenseRef-BSD-3-Clause-f5488ab4eb259980368bf7a40aec0405",
+    "extractedText" : "Redistribution and use in source and binary forms, with or without\nmodification, are permitted provided that the following conditions\nare met:\n\n1. Redistributions of source code must retain the above copyright\nnotice, this list of conditions and the following disclaimer.\n2. Redistributions in binary form must reproduce the above copyright\nnotice, this list of conditions and the following disclaimer in the\ndocumentation and/or other materials provided with the distribution.\n3. The name of the author may not be used to endorse or promote products\nderived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE AUTHOR ``AS IS'' AND ANY EXPRESS OR\nIMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES\nOF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.\nIN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT,\nINCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT\nNOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,\nDATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY\nTHEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT\n(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF\nTHIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.",
+    "name" : "BSD 3-Clause \"New\" or \"Revised\" License"
+  }, {
+    "licenseId" : "LicenseRef-BSD-4-Clause-UC",
+    "extractedText" : "BSD-4-Clause (University of California-Specific)\n\nCopyright [various years] The Regents of the University of California. All rights reserved.\n\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\n1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\n\n2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\n\n3. All advertising materials mentioning features or use of this software must display the following acknowledgement: This product includes software developed by the University of California, Berkeley and its contributors.\n\n4. Neither the name of the University nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE REGENTS AND CONTRIBUTORS ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE REGENTS OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.",
+    "name" : "BSD-4-Clause (University of California-Specific)"
+  }, {
+    "licenseId" : "LicenseRef-BSD-4-Clause-UC-b4ab7b68ca132d66538459955e97bba5",
+    "extractedText" : "Redistribution and use in source and binary forms, with or without\nmodification, are permitted provided that the following conditions\nare met:\n1. Redistributions of source code must retain the above copyright\nnotice, this list of conditions and the following disclaimer.\n2. Redistributions in binary form must reproduce the above copyright\nnotice, this list of conditions and the following disclaimer in the\ndocumentation and/or other materials provided with the distribution.\n3. All advertising materials mentioning features or use of this software\nmust display the following acknowledgement:\nThis product includes software developed by the University of\nCalifornia, Berkeley and its contributors.\n4. Neither the name of the University nor the names of its contributors\nmay be used to endorse or promote products derived from this software\nwithout specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE REGENTS AND CONTRIBUTORS ``AS IS'' AND\nANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE\nIMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE\nARE DISCLAIMED. IN NO EVENT SHALL THE REGENTS OR CONTRIBUTORS BE LIABLE\nFOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL\nDAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS\nOR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)\nHOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT\nLIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY\nOUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF\nSUCH DAMAGE.",
+    "name" : "BSD-4-Clause (University of California-Specific)"
+  }, {
+    "licenseId" : "LicenseRef-CC0-1.0",
+    "extractedText" : "Creative Commons Legal Code\n\nCC0 1.0 Universal\n\n    CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE\n    LEGAL SERVICES. DISTRIBUTION OF THIS DOCUMENT DOES NOT CREATE AN\n    ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS\n    INFORMATION ON AN \"AS-IS\" BASIS. CREATIVE COMMONS MAKES NO WARRANTIES\n    REGARDING THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS\n    PROVIDED HEREUNDER, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM\n    THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED\n    HEREUNDER.\n\nStatement of Purpose\n\nThe laws of most jurisdictions throughout the world automatically confer\nexclusive Copyright and Related Rights (defined below) upon the creator\nand subsequent owner(s) (each and all, an \"owner\") of an original work of\nauthorship and/or a database (each, a \"Work\").\n\nCertain owners wish to permanently relinquish those rights to a Work for\nthe purpose of contributing to a commons of creative, cultural and\nscientific works (\"Commons\") that the public can reliably and without fear\nof later claims of infringement build upon, modify, incorporate in other\nworks, reuse and redistribute as freely as possible in any form whatsoever\nand for any purposes, including without limitation commercial purposes.\nThese owners may contribute to the Commons to promote the ideal of a free\nculture and the further production of creative, cultural and scientific\nworks, or to gain reputation or greater distribution for their Work in\npart through the use and efforts of others.\n\nFor these and/or other purposes and motivations, and without any\nexpectation of additional consideration or compensation, the person\nassociating CC0 with a Work (the \"Affirmer\"), to the extent that he or she\nis an owner of Copyright and Related Rights in the Work, voluntarily\nelects to apply CC0 to the Work and publicly distribute the Work under its\nterms, with knowledge of his or her Copyright and Related Rights in the\nWork and the meaning and intended legal effect of CC0 on those rights.\n\n1. Copyright and Related Rights. A Work made available under CC0 may be\nprotected by copyright and related or neighboring rights (\"Copyright and\nRelated Rights\"). Copyright and Related Rights include, but are not\nlimited to, the following:\n\n  i. the right to reproduce, adapt, distribute, perform, display,\n     communicate, and translate a Work;\n ii. moral rights retained by the original author(s) and/or performer(s);\niii. publicity and privacy rights pertaining to a person's image or\n     likeness depicted in a Work;\n iv. rights protecting against unfair competition in regards to a Work,\n     subject to the limitations in paragraph 4(a), below;\n  v. rights protecting the extraction, dissemination, use and reuse of data\n     in a Work;\n vi. database rights (such as those arising under Directive 96/9/EC of the\n     European Parliament and of the Council of 11 March 1996 on the legal\n     protection of databases, and under any national implementation\n     thereof, including any amended or successor version of such\n     directive); and\nvii. other similar, equivalent or corresponding rights throughout the\n     world based on applicable law or treaty, and any national\n     implementations thereof.\n\n2. Waiver. To the greatest extent permitted by, but not in contravention\nof, applicable law, Affirmer hereby overtly, fully, permanently,\nirrevocably and unconditionally waives, abandons, and surrenders all of\nAffirmer's Copyright and Related Rights and associated claims and causes\nof action, whether now known or unknown (including existing as well as\nfuture claims and causes of action), in the Work (i) in all territories\nworldwide, (ii) for the maximum duration provided by applicable law or\ntreaty (including future time extensions), (iii) in any current or future\nmedium and for any number of copies, and (iv) for any purpose whatsoever,\nincluding without limitation commercial, advertising or promotional\npurposes (the \"Waiver\"). Affirmer makes the Waiver for the benefit of each\nmember of the public at large and to the detriment of Affirmer's heirs and\nsuccessors, fully intending that such Waiver shall not be subject to\nrevocation, rescission, cancellation, termination, or any other legal or\nequitable action to disrupt the quiet enjoyment of the Work by the public\nas contemplated by Affirmer's express Statement of Purpose.\n\n3. Public License Fallback. Should any part of the Waiver for any reason\nbe judged legally invalid or ineffective under applicable law, then the\nWaiver shall be preserved to the maximum extent permitted taking into\naccount Affirmer's express Statement of Purpose. In addition, to the\nextent the Waiver is so judged Affirmer hereby grants to each affected\nperson a royalty-free, non transferable, non sublicensable, non exclusive,\nirrevocable and unconditional license to exercise Affirmer's Copyright and\nRelated Rights in the Work (i) in all territories worldwide, (ii) for the\nmaximum duration provided by applicable law or treaty (including future\ntime extensions), (iii) in any current or future medium and for any number\nof copies, and (iv) for any purpose whatsoever, including without\nlimitation commercial, advertising or promotional purposes (the\n\"License\"). The License shall be deemed effective as of the date CC0 was\napplied by Affirmer to the Work. Should any part of the License for any\nreason be judged legally invalid or ineffective under applicable law, such\npartial invalidity or ineffectiveness shall not invalidate the remainder\nof the License, and in such case Affirmer hereby affirms that he or she\nwill not (i) exercise any of his or her remaining Copyright and Related\nRights in the Work or (ii) assert any associated claims and causes of\naction with respect to the Work, in either case contrary to Affirmer's\nexpress Statement of Purpose.\n\n4. Limitations and Disclaimers.\n\n a. No trademark or patent rights held by Affirmer are waived, abandoned,\n    surrendered, licensed or otherwise affected by this document.\n b. Affirmer offers the Work as-is and makes no representations or\n    warranties of any kind concerning the Work, express, implied,\n    statutory or otherwise, including without limitation warranties of\n    title, merchantability, fitness for a particular purpose, non\n    infringement, or the absence of latent or other defects, accuracy, or\n    the present or absence of errors, whether or not discoverable, all to\n    the greatest extent permissible under applicable law.\n c. Affirmer disclaims responsibility for clearing rights of other persons\n    that may apply to the Work or any use thereof, including without\n    limitation any person's Copyright and Related Rights in the Work.\n    Further, Affirmer disclaims responsibility for obtaining any necessary\n    consents, permissions or other rights required for any use of the\n    Work.\n d. Affirmer understands and acknowledges that Creative Commons is not a\n    party to this document and has no duty or obligation with respect to\n    this CC0 or use of the Work.",
+    "name" : "Creative Commons Zero v1.0 Universal"
+  }, {
+    "licenseId" : "LicenseRef-Non-profit",
+    "extractedText" : "License by Nomos.",
+    "name" : "Non-profit"
+  }, {
+    "licenseId" : "LicenseRef-OML",
+    "extractedText" : "This FastCGI application library source and object code (the \"Software\") and its documentation (the \"Documentation\") are copyrighted by Open Market, Inc (\"Open Market\"). The following terms apply to all files associated with the Software and Documentation unless explicitly disclaimed in individual files.\n\nOpen Market permits you to use, copy, modify, distribute, and license this Software and the Documentation for any purpose, provided that existing copyright notices are retained in all copies and that this notice is included verbatim in any distributions. No written agreement, license, or royalty fee is required for any of the authorized uses. Modifications to this Software and Documentation may be copyrighted by their authors and need not follow the licensing terms described here. If modifications to this Software and Documentation have new licensing terms, the new terms must be clearly indicated on the first page of each file where they apply.\n\nOPEN MARKET MAKES NO EXPRESS OR IMPLIED WARRANTY WITH RESPECT TO THE SOFTWARE OR THE DOCUMENTATION, INCLUDING WITHOUT LIMITATION ANY WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. IN NO EVENT SHALL OPEN MARKET BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY DAMAGES ARISING FROM OR RELATING TO THIS SOFTWARE OR THE DOCUMENTATION, INCLUDING, WITHOUT LIMITATION, ANY INDIRECT, SPECIAL OR CONSEQUENTIAL DAMAGES OR SIMILAR DAMAGES, INCLUDING LOST PROFITS OR LOST DATA, EVEN IF OPEN MARKET HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE SOFTWARE AND DOCUMENTATION ARE PROVIDED \"AS IS\". OPEN MARKET HAS NO LIABILITY IN CONTRACT, TORT, NEGLIGENCE OR OTHERWISE ARISING OUT OF THIS SOFTWARE OR THE DOCUMENTATION.",
+    "name" : "Open Market License"
+  }, {
+    "licenseId" : "LicenseRef-OpenMarket",
+    "extractedText" : "This FastCGI application library source and object code (the\n\"Software\") and its documentation (the \"Documentation\") are\ncopyrighted by Open Market, Inc (\"Open Market\").  The following terms\napply to all files associated with the Software and Documentation\nunless explicitly disclaimed in individual files.\n\nOpen Market permits you to use, copy, modify, distribute, and license\nthis Software and the Documentation for any purpose, provided that\nexisting copyright notices are retained in all copies and that this\nnotice is included verbatim in any distributions.  No written\nagreement, license, or royalty fee is required for any of the\nauthorized uses.  Modifications to this Software and Documentation may\nbe copyrighted by their authors and need not follow the licensing\nterms described here.  If modifications to this Software and\nDocumentation have new licensing terms, the new terms must be clearly\nindicated on the first page of each file where they apply.\n\nOPEN MARKET MAKES NO EXPRESS OR IMPLIED WARRANTY WITH RESPECT TO THE\nSOFTWARE OR THE DOCUMENTATION, INCLUDING WITHOUT LIMITATION ANY\nWARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.  IN\nNO EVENT SHALL OPEN MARKET BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY\nDAMAGES ARISING FROM OR RELATING TO THIS SOFTWARE OR THE\nDOCUMENTATION, INCLUDING, WITHOUT LIMITATION, ANY INDIRECT, SPECIAL OR\nCONSEQUENTIAL DAMAGES OR SIMILAR DAMAGES, INCLUDING LOST PROFITS OR\nLOST DATA, EVEN IF OPEN MARKET HAS BEEN ADVISED OF THE POSSIBILITY OF\nSUCH DAMAGES.  THE SOFTWARE AND DOCUMENTATION ARE PROVIDED \"AS IS\".\nOPEN MARKET HAS NO LIABILITY IN CONTRACT, TORT, NEGLIGENCE OR\nOTHERWISE ARISING OUT OF THIS SOFTWARE OR THE DOCUMENTATION.",
+    "name" : "Open Market License"
+  }, {
+    "licenseId" : "LicenseRef-OpenMarket-54ba743c95b2d78f7ba9e6de9fb05979",
+    "extractedText" : "This FastCGI application library source and object code (the\n\"Software\") and its documentation (the \"Documentation\") are\ncopyrighted by Open Market, Inc (\"Open Market\"). The following terms\napply to all files associated with the Software and Documentation\nunless explicitly disclaimed in individual files.\n\nOpen Market permits you to use, copy, modify, distribute, and license\nthis Software and the Documentation for any purpose, provided that\nexisting copyright notices are retained in all copies and that this\nnotice is included verbatim in any distributions. No written\nagreement, license, or royalty fee is required for any of the\nauthorized uses. Modifications to this Software and Documentation may\nbe copyrighted by their authors and need not follow the licensing\nterms described here. If modifications to this Software and\nDocumentation have new licensing terms, the new terms must be clearly\nindicated on the first page of each file where they apply.\n\nOPEN MARKET MAKES NO EXPRESS OR IMPLIED WARRANTY WITH RESPECT TO THE\nSOFTWARE OR THE DOCUMENTATION, INCLUDING WITHOUT LIMITATION ANY\nWARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. IN\nNO EVENT SHALL OPEN MARKET BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY\nDAMAGES ARISING FROM OR RELATING TO THIS SOFTWARE OR THE\nDOCUMENTATION, INCLUDING, WITHOUT LIMITATION, ANY INDIRECT, SPECIAL OR\nCONSEQUENTIAL DAMAGES OR SIMILAR DAMAGES, INCLUDING LOST PROFITS OR\nLOST DATA, EVEN IF OPEN MARKET HAS BEEN ADVISED OF THE POSSIBILITY OF\nSUCH DAMAGES. THE SOFTWARE AND DOCUMENTATION ARE PROVIDED \"AS IS\".\nOPEN MARKET HAS NO LIABILITY IN CONTRACT, TORT, NEGLIGENCE OR\nOTHERWISE ARISING OUT OF THIS SOFTWARE OR THE DOCUMENTATION.",
+    "name" : "Open Market License"
+  }, {
+    "licenseId" : "LicenseRef-OpenMarket-c589c9bbea5039271580679e7409032c",
+    "extractedText" : "This FastCGI application library source and object code (the\n\"Software\") and its documentation (the \"Documentation\") are\ncopyrighted by Open Market, Inc (\"Open Market\"). The following terms\napply to all files associated with the Software and Documentation\nunless explicitly disclaimed in individual files.\n\nOpen Market permits you to use, copy, modify, distribute, and license\nthis Software and the Documentation for any purpose, provided that\nexisting copyright notices are retained in all copies and that this\nnotice is included verbatim in any distributions. No written\nagreement, license, or royalty fee is required for any of the\nauthorized uses. Modifications to this Software and Documentation may\nbe copyrighted by their authors and need not follow the licensing\nterms described here. If modifications to this Software and\nDocumentation have new licensing terms, the new terms must be clearly\nindicated on the first page of each file where they apply.\n\nOPEN MARKET MAKES NO EXPRESS OR IMPLIED WARRANTY WITH RESPECT TO THE\nSOFTWARE OR THE DOCUMENTATION, INCLUDING WITHOUT LIMITATION ANY\nWARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. IN\nNO EVENT SHALL OPEN MARKET BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY\nDAMAGES ARISING FROM OR RELATING TO THIS SOFTWARE OR THE\nDOCUMENTATION, INCLUDING, WITHOUT LIMITATION, ANY INDIRECT, SPECIAL OR\nCONSEQUENTIAL DAMAGES OR SIMILAR DAMAGES, INCLUDING LOST PROFITS OR\nLOST DATA, EVEN IF OPEN MARKET HAS BEEN ADVISED OF THE POSSIBILITY OF\nSUCH DAMAGES. THE SOFTWARE AND DOCUMENTATION ARE PROVIDED \"AS IS\".\nOPEN MARKET HAS NO LIABILITY IN CONTRACT, TORT, NEGLIGENCE OR\nOTHERWISE ARISING OUT OF THIS SOFTWARE OR THE DOCUMENTATION.",
+    "name" : "Open Market License"
+  }, {
+    "licenseId" : "LicenseRef-See-doc.OTHER",
+    "extractedText" : "License by Nomos.",
+    "name" : "See-doc.OTHER"
+  }, {
+    "licenseId" : "LicenseRef-UnclassifiedLicense",
+    "extractedText" : "An unclassified license reference looks like a license (it contains common license terminology) but we don't recognize a specific license.",
+    "name" : "UnclassifiedLicense"
+  }, {
+    "licenseId" : "LicenseRef-Warranty-Disclaimer-071afb2ab639fb1214a56088798df032",
+    "extractedText" : "OPEN MARKET, INC., PROVIDES THIS PUBLICATION \"AS IS\" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. In no event shall Open Market be liable for any loss of profits, loss of business, loss of use of\ndata, interruption of business, or for indirect, special, incidental, or consequential damages of any kind,\neven if Open Market has been advised of the possibility of such damages arising from any defect or error in\nthis publication.",
+    "name" : "Warranty-Disclaimer"
+  }, {
+    "licenseId" : "LicenseRef-scancode-free-unknown",
+    "extractedText" : "License by Scancode.",
+    "name" : "Free unknown license detected but not recognized"
+  }, {
+    "licenseId" : "LicenseRef-scancode-proprietary-license",
+    "extractedText" : "License by Scancode.",
+    "name" : "Proprietary License"
+  } ],
+  "documentNamespace" : "http://fossy.osadl.org/repo/SPDX2TV_fcgi2-2.4.2.tar.gz_1781724978.spdx",
+  "packages" : [ {
+    "SPDXID" : "SPDXRef-upload4652",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "146376d5c5c059b9184755db76505fab"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "a0c37cfb9b4d2bfa8f105b298759f1f00ff88050"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "1fe83501edfc3a7ec96bb1e69db3fd5ea1730135bd73ab152186fd0b437013bc"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "downloadLocation" : "https://github.com/FastCGI-Archives/fcgi2/archive/refs/tags/2.4.2.tar.gz",
+    "externalRefs" : [ {
+      "referenceCategory" : "PACKAGE-MANAGER",
+      "referenceLocator" : "pkg:github/fastcgi-archives/fcgi2@2.4.2",
+      "referenceType" : "purl"
+    } ],
+    "filesAnalyzed" : true,
+    "licenseComments" : "licenseInfoInFile determined by Scanners:\n - nomos (\"4.4.0.51\".1e52cb)\n - monk (\"4.4.0.51\".1e52cb)\n - ojo (\"4.4.0.51\".1e52cb)\n- scancode (\"4.4.0.51\".1e52cb)",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseDeclared" : "LicenseRef-OpenMarket-c589c9bbea5039271580679e7409032c",
+    "licenseInfoFromFiles" : [ "NOASSERTION" ],
+    "name" : "fcgi2-2.4.2.tar.gz",
+    "packageFileName" : "fcgi2-2.4.2.tar.gz",
+    "packageVerificationCode" : {
+      "packageVerificationCodeValue" : "da3e47e0db6ea5f9935d8bcb62cb1e8c87bbf567"
+    }
+  } ],
+  "files" : [ {
+    "SPDXID" : "SPDXRef-item20897478",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "c3769a6074032dc6b44984ac0ce2f77f57439b20"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "676c23b7a641bb24be430bd6fbd009b39fad5b6bcc7877f2e0bbd271aa8dbcc6"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "89285b04ca616f34e31707ab7e2d4d6b"
+    } ],
+    "copyrightText" : "Copyright (c) 1988 Regents of the University of California. All rights reserved.",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/libfcgi/strerror.c",
+    "licenseComments" : "We do not print the acknowledgement because there are only The Regents of the University of California mentioned as copyright holder and no additonal ones. John Hoskins from the Berkeley University declared the required acknowledgment as invalid",
+    "licenseConcluded" : "LicenseRef-BSD-4-Clause-UC-b4ab7b68ca132d66538459955e97bba5",
+    "licenseInfoInFiles" : [ "LicenseRef-BSD-4-Clause-UC" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897479",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "5701d88d857c62e06207e4c065185f7e894c24d92012d6d3bbc89cbbccd282b7"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "7456c79afd16324f9b0c32a4455ec073"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "1e1ad3f928f8935f1b72214c35cf9d26e443a6ba"
+    } ],
+    "copyrightText" : "Copyright (c) 2000 Tux the Linux Penguin",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/libfcgi/fcgio.cpp",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897480",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "71f27ecc22ccacaadccecd6cfed76ee0"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "5ae4f1c477a8084e46a4b298cfd82e84ecca938f5f217ed2b8761bf84fc43e54"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "5fc2e9a951d2aafcea24585972c11744da63a3f1"
+    } ],
+    "copyrightText" : "Copyright (c) 1995 Open Market, Inc. All rights reserved.",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/libfcgi/os_unix.c",
+    "licenseComments" : "The information in the file is:\nThis file contains proprietary and confidential information and\nremains the unpublished property of Open Market, Inc. Use,\ndisclosure, or reproduction is prohibited except as permitted by\nexpress written license agreement with Open Market, Inc.\nWe checked the LICENSE.TERMS file in the root directory it contains the text of the OpenMarket license, which we took and concluded OpenMarket as license of this file",
+    "licenseConcluded" : "LicenseRef-OpenMarket-54ba743c95b2d78f7ba9e6de9fb05979",
+    "licenseInfoInFiles" : [ "LicenseRef-UnclassifiedLicense", "LicenseRef-scancode-proprietary-license" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897481",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "2df5a3a4ada11cdbf7a8980119e35b27"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "f5bcff10efe4a86dfa4ff6667fcd7c1bdb10999b"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "7ef0a7a66c50c2bd7c6f006fafe4f173ad77b11b987a43857666b2eddcb2359d"
+    } ],
+    "copyrightText" : "Copyright (c) 1996 Open Market, Inc.",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/libfcgi/fcgiapp.c",
+    "licenseComments" : "The information in the file is:\nSee the file \"LICENSE.TERMS\" for information on usage and redistribution\nof this file\nWe checked the LICENSE.TERMS file in the root directory it contains the text of the OpenMarket license, which we took and concluded OpenMarket as license of this file",
+    "licenseConcluded" : "LicenseRef-OpenMarket-54ba743c95b2d78f7ba9e6de9fb05979",
+    "licenseInfoInFiles" : [ "LicenseRef-See-doc.OTHER" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897482",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "b93291d2475316fd89b021a9d03582e8d8bf0bc73f7ed4252f9b723cc2981776"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "693b4dfac12cd22e7e39ea76b9b22991"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "e544a5a2c3dd751ea4d1b64755b7421494d8ec46"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/libfcgi/libfcgi.mak",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897483",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "11f09e5e8bfb7a11aedc0615323c78ed4a46a41fbcc8239e49bb4ab8e71e6293"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "9929c00c85786f6f358f892e792214f5"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "eba8b503cf52397f0ecc32c8f2b65c6252e17dff"
+    } ],
+    "copyrightText" : "Copyright (c) 1996 Open Market, Inc.",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/libfcgi/fcgi_stdio.c",
+    "licenseComments" : "The information in the file is:\nSee the file \"LICENSE.TERMS\" for information on usage and redistribution\nof this file\nWe checked the LICENSE.TERMS file in the root directory it contains the text of the OpenMarket license, which we took and concluded OpenMarket as license of this file",
+    "licenseConcluded" : "LicenseRef-OpenMarket-54ba743c95b2d78f7ba9e6de9fb05979",
+    "licenseInfoInFiles" : [ "LicenseRef-See-doc.OTHER" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897484",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "dcda6a8d930e83c79ac1c8fd4f3e8cb1"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "73335c237c885abc21ac79c42f0fb7a22c0f85ad"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "2d2b6eeac66bf8adbde40f2646eb4bcc63a9105dc94e4436ac54d8fa486bb62d"
+    } ],
+    "copyrightText" : "Copyright (c) 1995 Open Market, Inc. All rights reserved.",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/libfcgi/os_win32.c",
+    "licenseComments" : "The information in the file is:\nThis file contains proprietary and confidential information and\nremains the unpublished property of Open Market, Inc. Use,\ndisclosure, or reproduction is prohibited except as permitted by\nexpress written license agreement with Open Market, Inc.\nWe checked the LICENSE.TERMS file in the root directory it contains the text of the OpenMarket license, which we took and concluded OpenMarket as license of this file",
+    "licenseConcluded" : "LicenseRef-OpenMarket-54ba743c95b2d78f7ba9e6de9fb05979",
+    "licenseInfoInFiles" : [ "LicenseRef-UnclassifiedLicense", "LicenseRef-scancode-proprietary-license" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897485",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "6093da835897b348e52758e4315636a0"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "b565d229af4a3edeb86139d9dd2dc2f5cd9315def67c345946a4bf0eee07bb3a"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "4c732685090799f42f8945536f97ffadbbde9e06"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/libfcgi/Makefile.am",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897487",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "7dac3e3caf2638cec8e3ecd5998c5d354cd6c1c3"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "61742ed6d4ceaf26d1290e2647c4becd7bc12e611701b3a31d9b54b8da2a82e5"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "2cc2b8bd4eb4ca9160b6a4e87063a53a"
+    } ],
+    "copyrightText" : "Copyright (c) 1996 Open Market, Inc.",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/java/FCGIInterface.java",
+    "licenseComments" : "The information in the file is:\nSee the file \"LICENSE.TERMS\" for information on usage and redistribution\nof this file\nWe checked the LICENSE.TERMS file in the root directory it contains the text of the OpenMarket license, which we took and concluded OpenMarket as license of this file",
+    "licenseConcluded" : "LicenseRef-OpenMarket-54ba743c95b2d78f7ba9e6de9fb05979",
+    "licenseInfoInFiles" : [ "LicenseRef-See-doc.OTHER" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897488",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "e5f7a0a5dd8a1a2225d1c7b4fa790d8fc31b13b6cdc5924b09474d30c707c068"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "63482d4fd5ab45a0b8e6f9d6945fc63a"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "a0a7c3e3cd3cdde042edc695dd3df9972671368f"
+    } ],
+    "copyrightText" : "Copyright (c) 1996 Open Market, Inc.",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/java/FCGIMessage.java",
+    "licenseComments" : "The information in the file is:\nSee the file \"LICENSE.TERMS\" for information on usage and redistribution\nof this file\nWe checked the LICENSE.TERMS file in the root directory it contains the text of the OpenMarket license, which we took and concluded OpenMarket as license of this file",
+    "licenseConcluded" : "LicenseRef-OpenMarket-54ba743c95b2d78f7ba9e6de9fb05979",
+    "licenseInfoInFiles" : [ "LicenseRef-See-doc.OTHER" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897489",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "d00b25bf7e7e1ca02f498c109dc7206f2b53925b7b1d072784087a40f546e83a"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "25a70697d5b29f8afc66dabcff7aeaee"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "2be7d5925b3b5e23b33b12e2d94dd82357faa882"
+    } ],
+    "copyrightText" : "Copyright (c) 1996 Open Market, Inc.",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/java/FCGIRequest.java",
+    "licenseComments" : "The information in the file is:\nSee the file \"LICENSE.TERMS\" for information on usage and redistribution\nof this file\nWe checked the LICENSE.TERMS file in the root directory it contains the text of the OpenMarket license, which we took and concluded OpenMarket as license of this file",
+    "licenseConcluded" : "LicenseRef-OpenMarket-54ba743c95b2d78f7ba9e6de9fb05979",
+    "licenseInfoInFiles" : [ "LicenseRef-See-doc.OTHER" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897490",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "5ff3b88ba48a281fdb43783a34d59949"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "94ff2ffd0726a5818ed1784c34f0c337248e8721"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "9b7e658a33c88d0c36090a4b45f4ab76bf84c6a5105d129715a9a1d04d648033"
+    } ],
+    "copyrightText" : "Copyright (c) 1996 Open Market, Inc.",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/java/FCGIGlobalDefs.java",
+    "licenseComments" : "The information in the file is:\nSee the file \"LICENSE.TERMS\" for information on usage and redistribution\nof this file\nWe checked the LICENSE.TERMS file in the root directory it contains the text of the OpenMarket license, which we took and concluded OpenMarket as license of this file",
+    "licenseConcluded" : "LicenseRef-OpenMarket-54ba743c95b2d78f7ba9e6de9fb05979",
+    "licenseInfoInFiles" : [ "LicenseRef-See-doc.OTHER" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897491",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "bf44d7ceeb586c74841734c47880c6a238b2bd65"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "d9b308c8d5ac3ba222f06fabc1af3932f5e97f453821674279d9a0c686ed008d"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "d78f259c07294f4070eddc5508be4e12"
+    } ],
+    "copyrightText" : "Copyright (c) 1996 Open Market, Inc.",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/java/FCGIOutputStream.java",
+    "licenseComments" : "The information in the file is:\nSee the file \"LICENSE.TERMS\" for information on usage and redistribution\nof this file\nWe checked the LICENSE.TERMS file in the root directory it contains the text of the OpenMarket license, which we took and concluded OpenMarket as license of this file",
+    "licenseConcluded" : "LicenseRef-OpenMarket-54ba743c95b2d78f7ba9e6de9fb05979",
+    "licenseInfoInFiles" : [ "LicenseRef-See-doc.OTHER" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897492",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "29ea7981551799699281da591628020c9587153882e1214782b312d215a0ec05"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "7813fd838f09d1823962cd81d1a39894"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "8feef487e95ff2deb7b0c4499a185d1f033246fe"
+    } ],
+    "copyrightText" : "Copyright (c) 1996 Open Market, Inc.",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/java/FCGIInputStream.java",
+    "licenseComments" : "The information in the file is:\nSee the file \"LICENSE.TERMS\" for information on usage and redistribution\nof this file\nWe checked the LICENSE.TERMS file in the root directory it contains the text of the OpenMarket license, which we took and concluded OpenMarket as license of this file",
+    "licenseConcluded" : "LicenseRef-OpenMarket-54ba743c95b2d78f7ba9e6de9fb05979",
+    "licenseInfoInFiles" : [ "LicenseRef-See-doc.OTHER" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897493",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "43c02a230096f08add9beceb264a1ba1f1372b5e"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "156c61d904944f8f24d4ed5cdc50f26bd8a0a93d88e4a0c50c1f75c19c5a94d7"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "bf5561ccb4fdeb64a0213c6891f659e4"
+    } ],
+    "copyrightText" : "Copyright (c) 1996 Open Market, Inc.",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/README.md",
+    "licenseComments" : "The information in the file is:\nSee the file \"[LICENSE.TERMS](LICENSE.TERMS)\" for information on usage and redistribution\nof this file,\nWe checked the LICENSE.TERMS file in the root directory it contains the text of the OpenMarket license, which we took and concluded OpenMarket as license of this file",
+    "licenseConcluded" : "LicenseRef-OpenMarket-54ba743c95b2d78f7ba9e6de9fb05979",
+    "licenseInfoInFiles" : [ "LicenseRef-See-doc.OTHER" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897495",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "c1c91ea17b62b972912f3dcdd7d932249f68205a1cd72faa4c4df96807fcd4b6"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "63cad926bafd54a593ff205845370608"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "a3a979fea08d94b14b3643f28f7b6fe47ba6fb5f"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/images/navbar.gif",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897496",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "9e3b9e973f07f69ed6b035d9a27f9a7d"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "47a0bc464e574c06b53b38eb7f57c1f4d96c7b67"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "a0a5b578f0be63cf9a27a21824485eca1d7b64f0cb79667e3caeb8516aa621c9"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/images/serv-hd.gif",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897497",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "c782c951c7f96e67b8329c0236e412dc"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "4028f9ce4b41bff800a9a1de4f9141a8e8e6e689"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "3ee68fe1dab35ddae4353514fe6a55edfbc709fc80299f4664c22e6c258654e1"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/images/fcgi-hd.gif",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897498",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "f719e3a6fb8ec0e01b11b137ffc1428b"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "9e59bce9643683b331f77d158cf08fd214a900c6"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "247039dcd3571ad35b14a38bb74c75b91e59657e527558c2651653b0b9087b2a"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/images/aplib-hd.gif",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897499",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "570aeafc06947ca3351d4df3956efd47ed271044"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "27d9e64e344215c05335b335d4d99b2eed334eb2ec8538db76c472b85eb76970"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "f8776a339c19644707dd7aa27040376d"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/images/mail-hd.gif",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897500",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "9c8005b54f5d41b091f2f6f0be537b56d4a5504adb0aac2b159b5d6662af3ea2"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "2c0599c8dd83eae8e145a24c9736cee3"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "74965f4e556445952bcf50b0365ad0918728f1b5"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/images/words-hd.gif",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897501",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "db4286b6143e085c84c42b81ba71222c35c27f4d"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "7774f8aba4855077cd1def05b6c27296"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "0417dae36e626290d7ba456acd418db266ca6fe6bca00ee0702ab89695bb6cd7"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/images/divider.gif",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897502",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "751e8e5faaef89d960a0080ebf3fcf55531e9840"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "e79e117e81ff7c2f53b262f0273eee53cab62e81c68f2757cfe9effbf943d1b2"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "1282a01edaabd5641b109ac8261defef"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/configure.ac",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897504",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "13cb9c60bea098184162cfe7491493e55d51c595"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "037ecc5cb4874b992691c3d67ffc511d5b9e06372b37752f260cb09799e155c8"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "5c1df382f7637efcd4a2cb518d559ba2"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/examples/echo-cpp.mak",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897505",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "bd7a7a8ddacc98777c9ab98fa9ef92d00811024af387ea06c39af2386f2db98b"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "5acd1900a4df7c0ec25084df7c08986f"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "3c065efa9f0bf91f29549da3dfb13cf4c93fa0f9"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/examples/size.mak",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897506",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "060e364295c9d948672d9abb0b1429776cc2dbfeff7f7e82e9897bbae42241cb"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "9ddb55d951eb4139a57375095515884f"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "adea9b68c8e05ec7f115d7ee2ca0692a6201b2ea"
+    } ],
+    "copyrightText" : "Copyright (c) 1996 Open Market, Inc.",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/examples/log-dump.c",
+    "licenseComments" : "The information in the file is:\nSee the file \"LICENSE.TERMS\" for information on usage and redistribution\nof this file\nWe checked the LICENSE.TERMS file in the root directory it contains the text of the OpenMarket license, which we took and concluded OpenMarket as license of this file",
+    "licenseConcluded" : "LicenseRef-OpenMarket-54ba743c95b2d78f7ba9e6de9fb05979",
+    "licenseInfoInFiles" : [ "LicenseRef-See-doc.OTHER" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897507",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "d13f6a40c1abdcac3f38d86439902ed937a9777e"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "1e4ca967b3a4026338b4cab9f8113841343818bba51acf2cf7abc69d3f289ac9"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "4b30b85f2bc9c5fc22e97f6ce1580f8f"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/examples/test.html",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897508",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "a98925126a05868a44d8aabce67aa3a9d36c5f570dc6ec71a6dabe1d59b82f32"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "223ea430189b96870d71ab95b44f7cb7"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "6a8b1829610991ad14bbc8751736393016e92264"
+    } ],
+    "copyrightText" : "Copyright (c) 1996 Open Market, Inc.",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/examples/echo-x.c",
+    "licenseComments" : "The information in the file is:\nSee the file \"LICENSE.TERMS\" for information on usage and redistribution\nof this file\nWe checked the LICENSE.TERMS file in the root directory it contains the text of the OpenMarket license, which we took and concluded OpenMarket as license of this file",
+    "licenseConcluded" : "LicenseRef-OpenMarket-54ba743c95b2d78f7ba9e6de9fb05979",
+    "licenseInfoInFiles" : [ "LicenseRef-See-doc.OTHER" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897509",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "ad1017442b339919bdc43d621c96cf1d"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "570f5730aab74babe244916b9e911e84e0d20554"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "76bb3cd8ab892f629d44302452dfcd97b6c19711b3f85f659a78951b4d059f91"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/examples/authorizer.mak",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897510",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "c85e6968523f273e5ea9f61a91263df4"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "bce6307f081610eb6fe38f0a83e128730a8699a8"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "8b4cedbbffc572323a69a0e7de40114a4b7e3299d0e2d881de5c68696d751efc"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/examples/echo.mak",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897511",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "b6627a1c09e8a7bcec0bfc6904865669"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "0b8efb384089f42819d7be0c595ebc645ab2d40154cf5901c4856a785c594acb"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "6440e10651fef4150fe42d0fb081ade3a5f0d295"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/examples/threaded.c",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897512",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "ff9cab1462dcd62964f7391f52ae356b"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "3a1eed8e2b7a9fc930c4ebaa1abbcfd5a7a1c9377734bac9983fadaff4cd0485"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "2ddb8d81fd5cb603b74132501f989bbe58f7138c"
+    } ],
+    "copyrightText" : "Copyright (c) 2001 Rob Saccoccio and Chelsea Networks All rights reserved.",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/examples/echo-cpp.cpp",
+    "licenseConcluded" : "LicenseRef-BSD-3-Clause-f5488ab4eb259980368bf7a40aec0405",
+    "licenseInfoInFiles" : [ "LicenseRef-BSD-3-Clause" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897513",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "b0b29f21633ee9d061a6cad08b51f5ee"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "a7dfc8300399b5509ec0b821a06c4646e368fc9d1a01c24efd67a37a47b4c23e"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "36e9bb08122b9dddb39d6997b74b96cdc00d8085"
+    } ],
+    "copyrightText" : "Copyright (c) 1996 Open Market, Inc.",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/examples/authorizer.c",
+    "licenseComments" : "The information in the file is:\nSee the file \"LICENSE.TERMS\" for information on usage and redistribution\nof this file\nWe checked the LICENSE.TERMS file in the root directory it contains the text of the OpenMarket license, which we took and concluded OpenMarket as license of this file",
+    "licenseConcluded" : "LicenseRef-OpenMarket-54ba743c95b2d78f7ba9e6de9fb05979",
+    "licenseInfoInFiles" : [ "LicenseRef-See-doc.OTHER" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897514",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "f154ff939b4a8526cb3088b23f18c791d4f62940dcbf28b71fd873889d9531da"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "07514ff020d9a29a7fabda621454363c"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "156db3a90aa118a67237d3b0d8ce633b141391eb"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/examples/.gitignore",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897515",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "4c23131c39520a2c29619cd75eb4483d333b9595"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "cbd4e3be19145074ab8ccbbe64dca8c36e4d776feb10c73c9a4828d397effe48"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "b03de34f3d83faa73f69e1a670396449"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/examples/size.c",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897516",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "72727d4b0662e64d539092775c884b99338d2ac3"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "ecca9027ff287ea03b53ccc5af25dd1f008505dcabb19ae7b3eab64fb0b5981a"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "739bdde1a7b7bc1f5373ae166b31e40a"
+    } ],
+    "copyrightText" : "Copyright (c) 1996 Open Market, Inc.",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/examples/echo.c",
+    "licenseComments" : "The information in the file is:\nSee the file \"LICENSE.TERMS\" for information on usage and redistribution\nof this file\nWe checked the LICENSE.TERMS file in the root directory it contains the text of the OpenMarket license, which we took and concluded OpenMarket as license of this file",
+    "licenseConcluded" : "LicenseRef-OpenMarket-54ba743c95b2d78f7ba9e6de9fb05979",
+    "licenseInfoInFiles" : [ "LicenseRef-See-doc.OTHER" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897517",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "4e8a8687f5d3c6f0e1055ed9a9a37c74"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "61171555d41eeeaf7586f01c052bda09326c4f5a"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "517a0db34688d198fa597708ae7afc20923b17e3542775328d485e18ca28a473"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/examples/Makefile.am",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897518",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "fbead13f4ec1add7cf1a551f39b113796a5c434b"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "d84e4438b4f621dc1a8e626422ed816c17fe0eb0ea5ffb1d5459ce05225f146d"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "0d9bf57c6ef6043bb74b244de7d5e367"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/examples/echox.mak",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897519",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "2d1b1738e0616938bea74b0b5d56391ccb855dce"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "444db64b30cd0234a57e88cfb4a8008651c4c6a6743cb0d319bb407fd8258f2d"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "f21eb484ae049fd407c7218a71dadce5"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/fcgi.pc.in",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897521",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "fa043b9201dc8ec9711cfd55e16d557575412d08"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "6779129853e3d56f21756077805aa007cdd5da0ad45b895931b96f643433b0e5"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "b27b81f27f82cfdf633f40ca4f1463c9"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/.circleci/config.yml",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897522",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "51de26494ca11e6f68720f89c9531ad2"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "e8ff6d258cd5c92861e035fa71b7db222908d82c"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "317a7bc803df6ec8893314340a2b37ed8a090a120d59a1dd5c891a8906b05ad2"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/fcgi++.pc.in",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897523",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "e3aacac3a647af6e7e31f181cda0a06a"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "1b868f12aa2e288540004670bbe8edfe69d3de88"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "f0a8fe4513a43e8eebb24cdcf9d2e7efc52e4d8259178c6d76d3d84418397d81"
+    } ],
+    "copyrightText" : "copyrighted by Open Market, Inc (\"Open Market\").",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/LICENSE.TERMS",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "LicenseRef-OML", "LicenseRef-OpenMarket" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897524",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "4556e5728df81ed372660d5c9fc8d5e03e13b2e57e20d4efc2f12be989f35fba"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "a560f4dff496c5372636ad4dbae80659"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "9a598e186b59f3c77728b62f22e93ddd983e2c93"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/acinclude.m4",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897525",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "b24929ff04bd7f606eb62c211b108ad4"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "a2e9621cdebdca859514d6c3f077cab8ea239a72"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "863aaf6365ae816748dd757ce4c568cb88c07715d898e78e064ccf300d1b6845"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/autogen.sh",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897527",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "240a3e0d37d2e86b614063f5347eb02d4f99ca6c254de6b82871ff8d95532a7d"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "4954fe3f439337e5535185debf8fb3dd"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "886e6d00ac28a586434ae1b6320c0bb185e3ddfc"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/m4/.gitignore",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897529",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "54ea22bd0819bdebd40b6a21f457ddd5"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "2f8cd4d9db0e27c622625db671f7bf68deac92b4"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "5215a11143c94974917d4874ac386a3113a90fef0430d6695e9422d966971882"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/Win32/echo-cpp.dsp",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897530",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "ebab176f8fe67036675cfb3d99ad5f1b"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "a8a2ca394fc22c175740ab5671fd1b05e21ffe8f"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "26e0ce9cfd07233cc86dca9794997bbaf7fe1079e41007813dcade8c800c85bc"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/Win32/threaded.dsp",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897531",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "dcc2bad3e10d9d5842402bc3e7549dc573a134aeba71a72443e2a89aa570c835"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "2d3ba44b9c6e41473e69d0d9b04dab8d"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "939debb6962af2362887d15bc1bcce4c9981c06a"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/Win32/cgifcgi.dsp",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897532",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "b46439dbe043ff1ad517177b78b974fe2ed024e7687fbd0c8a13df8c5acacc12"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "abd1438f5d0feb79d452b969ec3c121c"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "cdc8c8297a114dba8f2daaba3ca352542bb8ae8b"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/Win32/config_h.dsp",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897533",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "adc52bd3d11b8ad15c635271534e8ef4"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "0da48d261a32607d20ec5a91e34f46f26b98fc9e1819284d11fd0781f04aa12a"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "475318f89195f30287c5cc425aa05dbd538b12dd"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/Win32/echo.dsp",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897534",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "264dfeef429491df092771d3d4afdfce"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "49a6c225439f625e79e7681eff44428e45a682a1"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "41807171a5f4261d2232a6e4a32e47bd1e5ab545024d14bbdb1abd0abf7d6d37"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/Win32/libfcgi.dsp",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897535",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "8207f6f86031b2c8e1fc209426e68cb6"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "da269427b1497b975e0cf9646c36706315e7eb10"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "7c66094b9b5af70ad241a0dd2be4f2feac2c29010f28a1ca4d4db0fb4b481694"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/Win32/echox.dsp",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897536",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "353b43df9b74a2ef444c546d0b522d21bcd67cbf9c42bf3795d3cebbde875175"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "55ea43c8b2743a64c4bbad246dac6818"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "b150834e5c8e1f13ab137c95502b19829e0b1f98"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/Win32/FastCGI.dsw",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897537",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "79904e0f1ce14af834f042e53728942d2d8ab286"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "37bcfe413ecc35719f5385002393efbee2b805f46c547cbf138a92542f54af5b"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "3e7b9fb362c31cfe9ae2cb1887601d88"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/Win32/authorizer.dsp",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897538",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "a01d33fbfb22a4247b5ba8c48dd31164"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "b7986eb1065f86148048fe5567998c3b8eafae92"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "dc5b89e2c0aed13d86b3a273a3cdc70752351cc5174adfeccd7b855aa76f131e"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/Win32/logdump.dsp",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897539",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "3633aaeb7f74b52e605e83dcbc7126b0dd80ce0fa83ee20e30e9df8fb5b38ee3"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "8d2594be9a3b1c4988cb9b6e59d5f3e6"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "83b638fc2d66ba1eabd0208407dcd5a857a6c84d"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/Win32/.gitignore",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897540",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "a1064862b5c4f0dbdbc852e1fa8932216840bf4f"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "1bee1e01b6a9ebf1651c71b7f6e27ba10616fd130e28d89967b267b4acbbccae"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "ef90f5b1b92ea1ba82f278a0087ae822"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/Win32/size.dsp",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897542",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "c804f4ac4ede5bf705f9daa6b1db6c74027c8c0d77184076c1d0c29c40ac3494"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "77d8cd1cfd9713904bcd213eb260c332"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "bbeb30e07d7e6730d3ab29847f49b04f98d64ef1"
+    } ],
+    "copyrightText" : "Copyright (c) 1996 Open Market, Inc.",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/doc/FCGI_Accept.3",
+    "licenseComments" : "The information in the file is:\nSee the file \"LICENSE.TERMS\" for information on usage and redistribution\nof this file\nWe checked the LICENSE.TERMS file in the root directory it contains the text of the OpenMarket license, which we took and concluded OpenMarket as license of this file",
+    "licenseConcluded" : "LicenseRef-OpenMarket-54ba743c95b2d78f7ba9e6de9fb05979",
+    "licenseInfoInFiles" : [ "LicenseRef-See-doc.OTHER" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897543",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "94aa7cd3c0c1551f9ef1326501d888fee127e3976038f69da59cf6a69d01b21c"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "4892db05ea3c4f36762b7a486d800cbd"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "43a714b2ccd723420d1824f1c1e9e9cf8ab7074a"
+    } ],
+    "copyrightText" : "Copyright (c) 1996 Open Market, Inc.",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/doc/cgi-fcgi.1",
+    "licenseComments" : "The information in the file is:\nSee the file \"LICENSE.TERMS\" for information on usage and redistribution\nof this file\nWe checked the LICENSE.TERMS file in the root directory it contains the text of the OpenMarket license, which we took and concluded OpenMarket as license of this file",
+    "licenseConcluded" : "LicenseRef-OpenMarket-54ba743c95b2d78f7ba9e6de9fb05979",
+    "licenseInfoInFiles" : [ "LicenseRef-See-doc.OTHER" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897545",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "5b33d785b10bc097d6349b59d5de90f388744b0e"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "ba1f98213c93bad1f2bc0bb88f26b4093dd60431cc9670bef10ea6d9dfc9c9e1"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "962b6771cf8b341ff9774c07a20bc44c"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/doc/fastcgi-prog-guide/apaman.htm",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897546",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "a72b6b11f0c6e0f89e75ac04f9c08ef0fb5dcb50"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "8cd06b8a014372e588f02151c45691a1b3d8914ce9d6c332d0bee478fb8e5f18"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "63087292a181699e5d833451c7ad49a6"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/doc/fastcgi-prog-guide/ch1intra.gif",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897547",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "3bae5cb7448b9d09c7e90190e08e54d8"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "f7880b8ac5303734ccb245cc244dde5b0902ed93"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "88dc62336b04532d026415d85fea9295c0e3135cf73165e2b2d3c65f12d67307"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/doc/fastcgi-prog-guide/covera.gif",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897548",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "ef6aa50cd4523d5994ec18ad4b16a6639789114b8a98da27a4c81a0214d1efc8"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "3752cc5745a831ece2913bf54767d865"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "0d465f1f933eb6aaced223684c76a384a442d3c4"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/doc/fastcgi-prog-guide/ch1intro.htm",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897549",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "ef5e04160bd2193cb21e71abfe69c205da615727263635fe2b32fb16e62428a4"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "4baff8e35256ddc8ca45f95661d525ac"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "4f3a3b6195289e5e870cd0e9fdf6257d6b64808a"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/doc/fastcgi-prog-guide/ch3perl.htm",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897550",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "d51032ca78ccd36f1283e4c2f96394dbeaf2be2e"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "ef45e2020312ef5ae39359d3d206f7e4f71f97d6a1a20cc68c51ed8fe97bb4e5"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "9f09bb2dd39982217d2c315b7f4f9a4e"
+    } ],
+    "copyrightText" : "Copyright (C) 1996 Open Market, Inc.",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/doc/fastcgi-prog-guide/cover.htm",
+    "licenseConcluded" : "LicenseRef-Warranty-Disclaimer-071afb2ab639fb1214a56088798df032",
+    "licenseInfoInFiles" : [ "LicenseRef-Non-profit" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897551",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "0a009d5ab96da628a6096e509dbb3a6b9fe723e2"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "e45c3d0f5d3074396de90e501628b782481eaa8eaf701592c6a3aa088dc77ff2"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "89b31ff954f0a3369ad64a0e3ad64d7d"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/doc/fastcgi-prog-guide/ap_guide.htm",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897552",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "8fd2ea40cbada1c299ad34ea6c6f22734860b289"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "d96d67b4e1f2d12dc8e577d92f81e36c627ba455845832842f2ea3f233da6017"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "8930eb3d73cdb80f74d4ff599386d72b"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/doc/fastcgi-prog-guide/ap_guida.htm",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897553",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "34a2896ec4b45f0b3092638b23a7301819aa3939"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "7b69902ec8df7672c507c7854acfdee9"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "4d4e45c1c190e8950107d335f66162ab1458a914c4eb5979603b54770ea28268"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/doc/fastcgi-prog-guide/ch4tcl.htm",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897554",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "57a218909182707403157ecaabdd65009e69e80a00fddc191e4b898f37ef20b7"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "af59e2dca6a922d50345383bbeacb537"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "afe806a5cd7a92f9baa71b16a58b465f213151bd"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/doc/fastcgi-prog-guide/ch2c.htm",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897555",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "1c1053b8895494c0223ea2d01de81d8e"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "b41ace3d0e4c03e31e1f81420af501c051288cbc"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "04cdcb296ea3b98521fe4c4f854bfcd9302e385d17e58f7ef13a8d93d0d1397b"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/doc/fastcgi-prog-guide/ch1inta1.gif",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897556",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "0455b154af27d937f5c1cd2babe0e39e"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "12db6de368acccd165fe1dcc6d5756dab11f8628"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "66f233c8841517386124b0796f426e80c09a94558e2ee2fe832fad3bfb8740a7"
+    } ],
+    "copyrightText" : "Copyright (c) 1996 Open Market, Inc.\nCopyright (C) 1996 Open Market, Inc.",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/doc/fcgi-java.htm",
+    "licenseComments" : "The information in the file is:\nSee the file LICENSE.TERMS for information on usage and redistribution\nof this file,\nWe checked the LICENSE.TERMS file in the root directory it contains the text of the OpenMarket license, which we took and concluded OpenMarket as license of this file",
+    "licenseConcluded" : "LicenseRef-OpenMarket-54ba743c95b2d78f7ba9e6de9fb05979",
+    "licenseInfoInFiles" : [ "LicenseRef-See-doc.OTHER" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897557",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "4978e7e07cd4fc9daeee8d15cf4c7f214a3fb2e4"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "f7fe546dd36831c2174363f4e1f99147a505d22d79d0dba30355efd379beb8e0"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "57d19753c61bc706e166902d85ae066a"
+    } ],
+    "copyrightText" : "Copyright (c) 1996 Open Market, Inc.\nCopyright (C) 1996 Open Market, Inc.\n(C) 1995, 1996 Open Market, Inc. / mbrown@openmarket.com",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/doc/fcgi-spec.html",
+    "licenseComments" : "The information in the file is:\nSee the file LICENSE.TERMS for information on usage and redistribution\nof this file,\nWe checked the LICENSE.TERMS file in the root directory it contains the text of the OpenMarket license, which we took and concluded OpenMarket as license of this file",
+    "licenseConcluded" : "LicenseRef-OpenMarket-54ba743c95b2d78f7ba9e6de9fb05979",
+    "licenseInfoInFiles" : [ "LicenseRef-See-doc.OTHER" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897558",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "64732bd31ccc53822d7988cb29d36caa"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "a42de8f09950040ff06f6a174f8b1f859b0ce5eb"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "689410ca6a0015b85b05076c326d75375119aae465efc931286a0cf9ba790dbc"
+    } ],
+    "copyrightText" : "Copyright (c) 1996 Open Market, Inc.",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/doc/FCGI_StartFilterData.3",
+    "licenseComments" : "The information in the file is:\nSee the file \"LICENSE.TERMS\" for information on usage and redistribution\nof this file\nWe checked the LICENSE.TERMS file in the root directory it contains the text of the OpenMarket license, which we took and concluded OpenMarket as license of this file",
+    "licenseConcluded" : "LicenseRef-OpenMarket-54ba743c95b2d78f7ba9e6de9fb05979",
+    "licenseInfoInFiles" : [ "LicenseRef-See-doc.OTHER" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897559",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "b701cd6668e767f12e95a6c1f92e7a02d2de3df73c639ff3daadf69f68a224e0"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "42415503c78f35c2c1e5810fa39c6fbb54566753"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "0ba711821327e3ac7c4936128cbf284b"
+    } ],
+    "copyrightText" : "Copyright (c) 1996 Open Market, Inc.",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/doc/FCGI_Finish.3",
+    "licenseComments" : "The information in the file is:\nSee the file \"LICENSE.TERMS\" for information on usage and redistribution\nof this file\nWe checked the LICENSE.TERMS file in the root directory it contains the text of the OpenMarket license, which we took and concluded OpenMarket as license of this file",
+    "licenseConcluded" : "LicenseRef-OpenMarket-54ba743c95b2d78f7ba9e6de9fb05979",
+    "licenseInfoInFiles" : [ "LicenseRef-See-doc.OTHER" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897560",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "bb2b84e38ea975505bcd64a09bc12f6f"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "d9587b520d16f6f5b3f0601c7fa90da4d3ed552a"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "75e448d6febb8b709e5e6c3d28764f28256b0d268f86eeb6817c77dc5e20a27c"
+    } ],
+    "copyrightText" : "Copyright (c) 1996 Open Market, Inc.\n(C) 1996, Open Market, Inc.",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/doc/overview.html",
+    "licenseComments" : "The information in the file is:\nSee the file LICENSE.TERMS for information on usage and redistribution\nof this file,\nWe checked the LICENSE.TERMS file in the root directory it contains the text of the OpenMarket license, which we took and concluded OpenMarket as license of this file",
+    "licenseConcluded" : "LicenseRef-OpenMarket-54ba743c95b2d78f7ba9e6de9fb05979",
+    "licenseInfoInFiles" : [ "LicenseRef-See-doc.OTHER" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897561",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "06fe2827dce18f04fa11032c6e13f9013802222f"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "849c9eea34e934d00a07d6d74832243b737a9b49a6b059a58e92d353f22e9807"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "2e11f2ceb0abd2e366de448d96b39f5f"
+    } ],
+    "copyrightText" : "Copyright (c) 1996 Open Market, Inc.",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/doc/FCGI_SetExitStatus.3",
+    "licenseComments" : "The information in the file is:\nSee the file \"LICENSE.TERMS\" for information on usage and redistribution\nof this file\nWe checked the LICENSE.TERMS file in the root directory it contains the text of the OpenMarket license, which we took and concluded OpenMarket as license of this file",
+    "licenseConcluded" : "LicenseRef-OpenMarket-54ba743c95b2d78f7ba9e6de9fb05979",
+    "licenseInfoInFiles" : [ "LicenseRef-See-doc.OTHER" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897562",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "d7d7a344970888aa1fa05287fcba0cee"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "80d50efe53a0662e4c9d0099fb04baa95d611b31"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "b3ee24e79c8a3c37a325e6fdd04b42f86e7fc1fe554f6f805040fc768b7d061a"
+    } ],
+    "copyrightText" : "Copyright (c) 1996 Open Market, Inc.\nCopyright (C) 1996 Open Market, Inc.\n(C) 1996, Open Market, Inc. / mbrown@openmarket.com",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/doc/fcgi-devel-kit.htm",
+    "licenseComments" : "The information in the file is:\nSee the file LICENSE.TERMS for information on usage and redistribution\nof this file,\nWe checked the LICENSE.TERMS file in the root directory it contains the text of the OpenMarket license, which we took and concluded OpenMarket as license of this file",
+    "licenseConcluded" : "LicenseRef-OpenMarket-54ba743c95b2d78f7ba9e6de9fb05979",
+    "licenseInfoInFiles" : [ "LicenseRef-See-doc.OTHER" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897563",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "ef42aab31431d6fbf395a8c4a0ff16708bf78bf5af5c6da4e16bcc0600e77dfb"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "17f449aeefaeab66510e7ef824f1f394"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "01f516fadc5427d4e77e9f56f1ce30b570635900"
+    } ],
+    "copyrightText" : "Copyright (c) 1996 Open Market, Inc.\nCopyright (C) 1996 Open Market, Inc.",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/doc/fcgi-perl.htm",
+    "licenseComments" : "The information in the file is:\nSee the file LICENSE.TERMS for information on usage and redistribution\nof this file,\nWe checked the LICENSE.TERMS file in the root directory it contains the text of the OpenMarket license, which we took and concluded OpenMarket as license of this file",
+    "licenseConcluded" : "LicenseRef-OpenMarket-54ba743c95b2d78f7ba9e6de9fb05979",
+    "licenseInfoInFiles" : [ "LicenseRef-See-doc.OTHER" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897564",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "d6b013d0e85b00a6deb2bc88f9f81c09c3d8704b"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "844c576544f249ee4ba14d6c7626fc13ed77ad8ebfd30b3d6bd8f7d2675e85ce"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "a374b855d444a32717f2c5903b9c0647"
+    } ],
+    "copyrightText" : "Copyright (C) 1996 Open Market, Inc.",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/doc/www5-api-workshop.html",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "LicenseRef-scancode-free-unknown" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897565",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "bd03d99e2531d6740f792da53e9ba3ed"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "84a79e7c117585d82256de31b563e553338b5acb"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "4be928aa61e96a97e92cb4accf029fb002f10c271dfa4261b9ca38b4dfcc1537"
+    } ],
+    "copyrightText" : "Copyright (c) 1996 Open Market, Inc.\nCopyright (C) 1996 Open Market, Inc.",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/doc/fcgi-tcl.htm",
+    "licenseComments" : "The information in the file is:\nSee the file LICENSE.TERMS for information on usage and redistribution\nof this file,\nWe checked the LICENSE.TERMS file in the root directory it contains the text of the OpenMarket license, which we took and concluded OpenMarket as license of this file",
+    "licenseConcluded" : "LicenseRef-OpenMarket-54ba743c95b2d78f7ba9e6de9fb05979",
+    "licenseInfoInFiles" : [ "LicenseRef-See-doc.OTHER" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897567",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "a80be976682ddbda781672087cb7f0ff330696f0"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "6f01c641703997586ac4b50ba392d582ff83a6fe5701addc46ae10c02b629329"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "c997e444dfc8b547b0ee26f294fb7a8f"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/doc/fastcgi-whitepaper/img00003.gif",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897568",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "2dea1241220e6f328114e8223af402e5"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "39b70fd1306f4511424eb8b061be16abb464c0ff"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "7e1eb729118e2d5c94c0353eb92d47e1530183903dac97c0b7513853af9688f7"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/doc/fastcgi-whitepaper/img00001.gif",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897569",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "658e0d8edfe6a27021c012190b54268a18f50b72"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "706d71b34c04a8b3fcb588893661670277c3714978e4a060d785024c20f20e25"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "2341d96ca8ae054dc2481b73a015d839"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/doc/fastcgi-whitepaper/img00002.gif",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897570",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "b37a4b8918fbbc402aa87928bd978ecbc1874e5acfc880f2cd9cf41b3e3e5c49"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "01b4de56eef012063fd3e03678f6bb03"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "dc25b018ed76362d5cd62e949934e74acf36485a"
+    } ],
+    "copyrightText" : "Copyright (c) 1996 Open Market, Inc.",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/doc/fastcgi-whitepaper/fastcgi.htm",
+    "licenseComments" : "The information in the file is:\nSee the file LICENSE.TERMS for information on usage and redistribution\nof this file,\nWe checked the LICENSE.TERMS file in the root directory it contains the text of the OpenMarket license, which we took and concluded OpenMarket as license of this file",
+    "licenseConcluded" : "LicenseRef-OpenMarket-54ba743c95b2d78f7ba9e6de9fb05979",
+    "licenseInfoInFiles" : [ "LicenseRef-See-doc.OTHER" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897571",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "b1b4c9b699f7f2151c2e5d48d17452646bd4148d"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "0ce4fc786f2e13c475d3e5fa26289d8388747400a9b89db1fde3094970e97817"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "308e0900cf8586ec343ca29a68427849"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/doc/omi-logo.gif",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897572",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "9f075fe369c7684400111ba04918cb273fd91d86fcbd523211e8f03022fc7020"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "31ed89c22bb53e531406876b47cc175c"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "22d0019a08073421ee37df773fba1a6ec601c2ad"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/doc/.gitignore",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897573",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "e8db631eabbfc8b7e56473bec85938cf9a69e69b82b503dfcc827b4552191de8"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "352d6aa5379d9e5cb7eb00d067e65c97"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "244c7c98070e6677d33252aab2693b521b742252"
+    } ],
+    "copyrightText" : "Copyright (c) 1996 Open Market, Inc.\nCopyright (C) 1996 Open Market, Inc.\n(C) 1995, Open Market, Inc. / mbrown@openmarket.com",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/doc/fcgi-perf.htm",
+    "licenseComments" : "The information in the file is:\nSee the file LICENSE.TERMS for information on usage and redistribution\nof this file,\nWe checked the LICENSE.TERMS file in the root directory it contains the text of the OpenMarket license, which we took and concluded OpenMarket as license of this file",
+    "licenseConcluded" : "LicenseRef-OpenMarket-54ba743c95b2d78f7ba9e6de9fb05979",
+    "licenseInfoInFiles" : [ "LicenseRef-See-doc.OTHER" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897574",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "172810da866d1db08f4546ffa1c966125d4c0b7d4cc0b902ce3a09979842e2ff"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "8a9eb5367b73244b2e56f2fdc16042fd"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "ff120163cbcf2e4c255550c75d183235741c785a"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/Makefile.nt",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897576",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "ba25786a85818ef45e439a28a8365cb5"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "81136ee383b6932fd8ee3bbfd6ab8f50226fd718"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "197c86a2b572bbb753ddfdd957046dfc136eb54f9b869101546b27ea25fd16b4"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/include/fcgi_config_x86.h",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897577",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "be279e91c789c653d5fa68a6a0432e38"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "8542c828ecd7b5c1967ec43784619cbaf312c7bb"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "f8c73c1a97f9407a5d9b880a2484e08e188a3578ef9b3c1636fea3722596faff"
+    } ],
+    "copyrightText" : "Copyright (c) 1996 Open Market, Inc.",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/include/fcgi_stdio.h",
+    "licenseComments" : "The information in the file is:\nSee the file \"LICENSE.TERMS\" for information on usage and redistribution\nof this file\nWe checked the LICENSE.TERMS file in the root directory it contains the text of the OpenMarket license, which we took and concluded OpenMarket as license of this file",
+    "licenseConcluded" : "LicenseRef-OpenMarket-54ba743c95b2d78f7ba9e6de9fb05979",
+    "licenseInfoInFiles" : [ "LicenseRef-See-doc.OTHER" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897578",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "9aeaf02ecb028c5edade760daec278d2"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "bcaad626dfe05d27e39e5784dfef5fdd6eb12ae8"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "4feedef84799365b4cd2e87672deb3f02b42a84d64b62c49451eb4ba6af69cfb"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/include/fcgi_config.h.in",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897579",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "f75ac5a9b530d48504de5566cad4ded5d827736b"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "c2547d49d0bd2270fc4754ea0a20d998"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "3fc54b0f8e2cc07758557a92b427cbee0f485b1dd112606a41bd47b335c49072"
+    } ],
+    "copyrightText" : "Copyright (c) 1996 Open Market, Inc. All rights reserved.",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/include/fcgios.h",
+    "licenseComments" : "The information in the file is:\nThis file contains proprietary and confidential information and\nremains the unpublished property of Open Market, Inc. Use,\ndisclosure, or reproduction is prohibited except as permitted by\nexpress written license agreement with Open Market, Inc.\nWe checked the LICENSE.TERMS file in the root directory it contains the text of the OpenMarket license, which we took and concluded OpenMarket as license of this file",
+    "licenseConcluded" : "LicenseRef-OpenMarket-54ba743c95b2d78f7ba9e6de9fb05979",
+    "licenseInfoInFiles" : [ "LicenseRef-UnclassifiedLicense", "LicenseRef-scancode-proprietary-license" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897580",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "516039be2e7cc5e7fb86f31654d409b07006ad768691d4d92bed83277528c6a9"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "5ce7e9d361d04a82b154ca618e4204bf"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "5567d2f6f509fd7697acc15014ed30e95d32482d"
+    } ],
+    "copyrightText" : "Copyright (c) 2000 Tux the Linux Penguin\nCopyright (c) 2001 Rob Saccoccio and Chelsea Networks",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/include/fcgio.h",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897581",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "7cf55928d879d223df3ea5e8a6b3cd733fd0e55b001051f4724c049fab83d4a0"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "b45145c05bde6769b3c14569853f9d18"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "47dcbec34774f94565d326f2230c0c641a24240c"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/include/.gitignore",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897582",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "e102b532076616510c308da7cfb6093e5eb7aff318dc89de334771b5f1a11bf1"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "7985ec3d5c60619351c083a519109d10"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "9afd2fe60fd2b828cee3eacd3c9a9a7947a8589f"
+    } ],
+    "copyrightText" : "Copyright (c) 1996 Open Market, Inc.",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/include/fcgiapp.h",
+    "licenseComments" : "The information in the file is:\nSee the file \"LICENSE.TERMS\" for information on usage and redistribution\nof this file\nWe checked the LICENSE.TERMS file in the root directory it contains the text of the OpenMarket license, which we took and concluded OpenMarket as license of this file",
+    "licenseConcluded" : "LicenseRef-OpenMarket-54ba743c95b2d78f7ba9e6de9fb05979",
+    "licenseInfoInFiles" : [ "LicenseRef-See-doc.OTHER" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897583",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "5dcfb29f16508845d1c12be84654b616"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "a1d914ce6d34e42c4f2a72083a3e643fa8be9ae4"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "e960ce31fe36c85be3389a09287c798b94192d70076cd50339d099b2d68c9b5f"
+    } ],
+    "copyrightText" : "Copyright (c) 1995-1996 Open Market, Inc.",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/include/fastcgi.h",
+    "licenseComments" : "The information in the file is:\nSee the file \"LICENSE.TERMS\" for information on usage and redistribution\nof this file\nWe checked the LICENSE.TERMS file in the root directory it contains the text of the OpenMarket license, which we took and concluded OpenMarket as license of this file",
+    "licenseConcluded" : "LicenseRef-OpenMarket-54ba743c95b2d78f7ba9e6de9fb05979",
+    "licenseInfoInFiles" : [ "LicenseRef-See-doc.OTHER" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897584",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "62f3385f859eb2046235e99ec06f2c99"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "a05d92f48e3919fef91a2eb795af90d842a0977e"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "77ef0a10b08e8a6c9f0f36cb0c3a13dd5ae20343b69c7f8a2a48b0128254e09b"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/include/Makefile.am",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897585",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "ba34e757530fe50d2d21af22fc7fe119067a420ac1de476d8bc3c3fa81b8572e"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "f10b25ec6eec52e587748bf221ba7456"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "c6f6cc2be3192736dbf1366e368a2c0585648310"
+    } ],
+    "copyrightText" : "Copyright (c) 1996 Open Market, Inc.",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/include/fcgimisc.h",
+    "licenseComments" : "The information in the file is:\nSee the file \"LICENSE.TERMS\" for information on usage and redistribution\nof this file\nWe checked the LICENSE.TERMS file in the root directory it contains the text of the OpenMarket license, which we took and concluded OpenMarket as license of this file",
+    "licenseConcluded" : "LicenseRef-OpenMarket-54ba743c95b2d78f7ba9e6de9fb05979",
+    "licenseInfoInFiles" : [ "LicenseRef-See-doc.OTHER" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897587",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "5547da83ab07b18ab6b11d2e9b0b6a3949532e6a"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "62caff2ebeff6d2c55d528984c53cbd87ecd951a6e21335544767f9524f31f6d"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "87b273c9d7c75e215312f5123ee561cd"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/perl/MANIFEST",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897588",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "03c3cbf75d7cef2ab11f6ee418b632ec"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "f59d51e951f9a94c2563215366d096bc50e0432a"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "38e1c0c9966e0034e5d516019789773dffa1951d047774fa4f14fd6d659ca6ea"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/perl/ChangeLog",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897589",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "f34a045dcdc03a524edadc313a92261e3612f3c7"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "8716251d461f2b5b9fd9c4003913d418"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "080b613cc34beb730d2fbea26992a66fc31413ba09112115b023945cefffb311"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/perl/test.pl",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897590",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "43c603ebb0971bc7a11a3dfc1ad804bbed56405a5ddb646ba9ed398e8f887daf"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "f149600608769dfdbca48ef69561ad86"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "99009fc3bf02e5ca1e5852519bc6645407d66541"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/perl/FCGI.PL",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897591",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "3ac33069df3ac7d2bd22175c6d2368eb"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "b07917c593406c71afdb0dcc29a49623f8a3f2d9"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "c0e98bdffcdf6b1a444fa21caa816105c2207034fcc8d376a400eee2216a1d73"
+    } ],
+    "copyrightText" : "Copyright (c) 1996 Open Market, Inc.\nCopyright (c) 1996-1998 Sven Verdoolaege",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/perl/README",
+    "licenseComments" : "The information in the file is:\nSee the file \"LICENSE.TERMS\" for information on usage and redistribution\nof this file\nWe checked the LICENSE.TERMS file in the root directory it contains the text of the OpenMarket license, which we took and concluded OpenMarket as license of this file",
+    "licenseConcluded" : "LicenseRef-OpenMarket-54ba743c95b2d78f7ba9e6de9fb05979",
+    "licenseInfoInFiles" : [ "LicenseRef-See-doc.OTHER" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897592",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "b9574cabb049472ebae8ab79402612bc24b0f35618f4697fc34c8fd564d75832"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "f40a95568c162cb808fc6aaeb8acde6f"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "8728bc1ee45614626e804c96d6349a607ff0f00d"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/perl/configure.in",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897593",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "f5f8142abf4bbd8f5fe9c9b994ac8211105f121a"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "1441f818145899a0cb47cb5f5e8dc8f372d059c6d7a093bff6e602d14a49d1de"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "743a553e1726d14fb74801cad4f65a45"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/perl/version.pm",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897594",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "95b052d60fcd0e4891d8f25128a9b414"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "259c7541c1df76303c743c704d66815edf41d4e4"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "de8aa891754434a9daf826dde499a543c55744c20b2f9b51103f23e83e1872ff"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/perl/distrib",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897595",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "346baa5291539a1c8229e8129169a2af7c774f7c"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "6b96b9d98e57a1cb6edbed62be34fde4d448894f22195fd3c048dd10c8800734"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "d52f67fed5bb86acb924622a0ec49af7"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/perl/threaded.PL",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897596",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "cd506d4b85b1f548fd9ad7343155c93d32061bc6"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "a78e3a9f7b4a0d3125084cc7f37a066640ebeef00659c7cd596fb440d2ee4b7c"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "1fa3d232c63ceae0b29bfda39558baa3"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/perl/typemap",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897597",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "076160be78258142dc06c07630a58ab7a875a49a35fd56d3736e18a512d8480d"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "86dd3126553a1b37f56cbd530f169a26"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "270623d894c955da631b1452dfbfcf849081a313"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/perl/Makefile.PL",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897598",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "3af18a556aefe2da77453d153f71ef899d3064f5177981637e606b01ca232d11"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "2c52e09ee8d25c7251d3de76b2f71c50"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "bef33f2d343deab15583baae7081eaa3e58bf597"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/perl/oldinterface.pod",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897599",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "fc127c259caf45550b1cb3d9f744996498417a7daf9042f0735cbf3d9325e09c"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "e40222a30b7abbd4d96041f2142241a0"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "19176d423cb31621b5b194b4851c109475389331"
+    } ],
+    "copyrightText" : "Copyright (c) 1996 Open Market, Inc.",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/perl/echo.PL",
+    "licenseComments" : "The information in the file is:\nSee the file \"LICENSE.TERMS\" for information on usage and redistribution\nof this file\nWe checked the LICENSE.TERMS file in the root directory it contains the text of the OpenMarket license, which we took and concluded OpenMarket as license of this file",
+    "licenseConcluded" : "LicenseRef-OpenMarket-54ba743c95b2d78f7ba9e6de9fb05979",
+    "licenseInfoInFiles" : [ "LicenseRef-See-doc.OTHER" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897600",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "fd4641023a9d1176f4d48d6aa285337c7b518481"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "f0bbe1ded101b42f5143d638eefc45c66f949ebe8130a94dd31bf1abd93057fd"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "fc049022eb988fba3973b939dd3baf8e"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/perl/remote.PL",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897601",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "57f7940f33da086c5a2cdd482cdc0b5ec2defc9b"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "0944249f52ac23a8eae645f569e57d9f35c3756a0bbf24ee603a71d55e001d05"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "e3ca382219c205141e51ec8436f55562"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/perl/FCGI.XL",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897602",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "99cc204e3041ae5916e2810d8c24ae89ac547bd3c4bb3066c49c78b46a8975fb"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "c0fc81945cdf946ed9d7da88c0e62fd9"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "b18f2c863e4b127b927a2d74ba7ac6dd2c604699"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/perl/configure.readme",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897603",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "cb71688e231f547874ce421aa6eeadc54f20b252ce5deb61eb3ff443062e6091"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "164011eaf3277701eac7f5e7ac134337"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "e06328138049c314a7336ef071d5f5afe40f41a6"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/perl/.gitignore",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897605",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "94cf6542f654ff0b786790ff2d0cbc44231833c8"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "00cd634adaf1e55f980f087ba16ca35a14efce19c8c228f5188fa03f934f649d"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "8caf8de262d0374c7d803f2b511accb2"
+    } ],
+    "copyrightText" : "Copyright (c) 1996 Open Market, Inc.",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/cgi-fcgi/cgi-fcgi.c",
+    "licenseComments" : "The information in the file is:\nSee the file \"LICENSE.TERMS\" for information on usage and redistribution\nof this file\nWe checked the LICENSE.TERMS file in the root directory it contains the text of the OpenMarket license, which we took and concluded OpenMarket as license of this file",
+    "licenseConcluded" : "LicenseRef-OpenMarket-54ba743c95b2d78f7ba9e6de9fb05979",
+    "licenseInfoInFiles" : [ "LicenseRef-See-doc.OTHER" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897606",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "dadc30f3026e3ab4ad876b773d6b1aaa64bfafd1"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "a7c00d9d4b3bb7129bf92b0e6cf06e9c405c19d001a64e0f340e6f34241f62ed"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "f4010b2a5dff1e7465d157b853b3b161"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/cgi-fcgi/cgi-fcgi.mak",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897607",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "f3bea9dfc4b4941c85f00fabc92cd54dd019e7da"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "817f9f9587bebd36ab204dbc4a8a1b68c4ed8f5f244e894745f9f8fce05b4f93"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "c1de9ed51042303ee3cd23c3b1c09620"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/cgi-fcgi/.gitignore",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897608",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "1967ef04b22266fdcd4ee28da71153ba"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "5579ae6001113b272c5ddbfc21210e4a9f1bdd6f"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "14ba5c6d4c82a101c382e88e247d3c12deb1fc566aba4f72b74024612e829be9"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/cgi-fcgi/Makefile.am",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897609",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "21fa6cf138ae1c4c13bb625161453de8"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "80b06c3f76cfa149f719b2cde0c9565a6271e1e7"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "da70cfa8df44365022d57460b7329f5bcfd8349cfbe66d7ed902b1ba3924fcd8"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/.gitignore",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item20897610",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "0cc3660387f3b67d3a1a0bea8dafc2aababfd2b4"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "e0e9371126dbad53605ea305162477d33d163306f198ff2259a008e265821836"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "7a42330460e4786f3217f6ac6466707c"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "fcgi2-2.4.2.tar.gz/fcgi2-2.4.2.tar/fcgi2-2.4.2/Makefile.am",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  } ],
+  "relationships" : [ {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897478"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897479"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897480"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897481"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897482"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897483"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897484"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897485"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897487"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897488"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897489"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897490"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897491"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897492"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897493"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897495"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897496"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897497"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897498"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897499"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897500"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897501"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897502"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897504"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897505"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897506"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897507"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897508"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897509"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897510"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897511"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897512"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897513"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897514"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897515"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897516"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897517"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897518"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897519"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897521"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897522"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897523"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897524"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897525"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897527"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897529"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897530"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897531"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897532"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897533"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897534"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897535"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897536"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897537"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897538"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897539"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897540"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897542"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897543"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897545"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897546"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897547"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897548"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897549"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897550"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897551"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897552"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897553"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897554"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897555"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897556"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897557"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897558"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897559"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897560"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897561"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897562"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897563"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897564"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897565"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897567"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897568"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897569"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897570"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897571"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897572"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897573"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897574"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897576"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897577"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897578"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897579"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897580"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897581"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897582"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897583"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897584"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897585"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897587"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897588"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897589"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897590"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897591"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897592"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897593"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897594"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897595"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897596"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897597"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897598"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897599"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897600"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897601"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897602"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897603"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897605"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897606"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897607"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897608"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897609"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4652",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item20897610"
+  }, {
+    "spdxElementId" : "SPDXRef-DOCUMENT",
+    "relationshipType" : "DESCRIBES",
+    "relatedSpdxElement" : "SPDXRef-upload4652"
+  } ]
+}

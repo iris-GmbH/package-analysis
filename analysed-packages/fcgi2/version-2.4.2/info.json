@@ -1,0 +1,31 @@
+{
+    "schema_version": "1.0.0",
+    "name": "fcgi2",
+    "version": "2.4.2",
+    "description": "",
+    "comment": "",
+    "src": {
+        "tarball": {
+            "url": "https://github.com/FastCGI-Archives/fcgi2/archive/refs/tags/2.4.2.tar.gz"
+        }
+    },
+    "clearingFiles": [
+        {
+            "fileName": "fcgi2-2.4.2.spdx.rdf.xml",
+            "priority": "n/a",
+            "author": "Oliver Fendt",
+            "reviewer": [],
+            "alternate_files": [
+                {
+                    "fileName": "fcgi2-2.4.2-SPDX2TV.spdx"
+                },
+                {
+                    "fileName": "fcgi2-2.4.2.spdx.json"
+                },
+                {
+                    "fileName": "fcgi2-2.4.2.spdx.yaml"
+                }
+            ]
+        }
+    ]
+}

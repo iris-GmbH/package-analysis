@@ -1,0 +1,31 @@
+{
+    "schema_version": "1.0.0",
+    "name": "libfontenc",
+    "version": "1.1.9",
+    "description": "",
+    "comment": "",
+    "src": {
+        "tarball": {
+            "url": "https://www.x.org/releases//individual/lib/libfontenc-1.1.9.tar.xz"
+        }
+    },
+    "clearingFiles": [
+        {
+            "fileName": "libfontenc-1.1.9.spdx.rdf.xml",
+            "priority": "n/a",
+            "author": "Oliver Fendt",
+            "reviewer": [],
+            "alternate_files": [
+                {
+                    "fileName": "libfontenc-1.1.9-SPDX2TV.spdx"
+                },
+                {
+                    "fileName": "libfontenc-1.1.9.spdx.json"
+                },
+                {
+                    "fileName": "libfontenc-1.1.9.spdx.yaml"
+                }
+            ]
+        }
+    ]
+}

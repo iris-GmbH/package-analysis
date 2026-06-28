@@ -1,0 +1,31 @@
+{
+    "schema_version": "1.0.0",
+    "name": "rpcbind",
+    "version": "1.2.9",
+    "description": "",
+    "comment": "",
+    "src": {
+        "tarball": {
+            "url": "https://downloads.sourceforge.net/rpcbind/rpcbind-1.2.9.tar.bz2"
+        }
+    },
+    "clearingFiles": [
+        {
+            "fileName": "rpcbind-1.2.9.spdx.rdf.xml",
+            "priority": "n/a",
+            "author": "Oliver Fendt",
+            "reviewer": [],
+            "alternate_files": [
+                {
+                    "fileName": "rpcbind-1.2.9-SPDX2TV.spdx"
+                },
+                {
+                    "fileName": "rpcbind-1.2.9.spdx.json"
+                },
+                {
+                    "fileName": "rpcbind-1.2.9.spdx.yaml"
+                }
+            ]
+        }
+    ]
+}

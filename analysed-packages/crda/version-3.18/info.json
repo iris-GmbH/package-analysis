@@ -1,0 +1,31 @@
+{
+    "schema_version": "1.0.0",
+    "name": "crda",
+    "version": "3.18",
+    "description": "",
+    "comment": "",
+    "src": {
+        "tarball": {
+            "url": "https://www.kernel.org/pub/software/network/crda/crda-3.18.tar.gz"
+        }
+    },
+    "clearingFiles": [
+        {
+            "fileName": "crda-3.18.spdx.rdf.xml",
+            "priority": "n/a",
+            "author": "Oliver Fendt",
+            "reviewer": [],
+            "alternate_files": [
+                {
+                    "fileName": "crda-3.18-SPDX2TV.spdx"
+                },
+                {
+                    "fileName": "crda-3.18.spdx.json"
+                },
+                {
+                    "fileName": "crda-3.18.spdx.yaml"
+                }
+            ]
+        }
+    ]
+}

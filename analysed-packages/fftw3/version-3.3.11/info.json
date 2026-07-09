@@ -1,0 +1,31 @@
+{
+    "schema_version": "1.0.0",
+    "name": "fftw3",
+    "version": "3.3.11",
+    "description": "",
+    "comment": "",
+    "src": {
+        "tarball": {
+            "url": "https://github.com/FFTW/fftw3/archive/refs/tags/fftw-3.3.11.tar.gz"
+        }
+    },
+    "clearingFiles": [
+        {
+            "fileName": "fftw3-fftw-3.3.11.spdx.rdf.xml",
+            "priority": "n/a",
+            "author": "Oliver Fendt",
+            "reviewer": [],
+            "alternate_files": [
+                {
+                    "fileName": "fftw3-3.3.11-SPDX2TV.spdx"
+                },
+                {
+                    "fileName": "fftw3-fftw-3.3.11.spdx.json"
+                },
+                {
+                    "fileName": "fftw3-fftw-3.3.11.spdx.yaml"
+                }
+            ]
+        }
+    ]
+}

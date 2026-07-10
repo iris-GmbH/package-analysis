@@ -1,0 +1,534 @@
+{
+  "SPDXID" : "SPDXRef-DOCUMENT",
+  "spdxVersion" : "SPDX-2.3",
+  "creationInfo" : {
+    "comment" : "This document was created using license information and a generator from Fossology.\nIt contains the license and copyright analysis of libxcb-image xcb-util-image-0.4.1\nPlease check \"LicenseComments\" for explanations of concluded licenses",
+    "created" : "2026-07-07T15:41:15Z",
+    "creators" : [ "Tool: fossology-4.4.0.51", "Person: Oliver Fendt" ],
+    "licenseListVersion" : "3.22"
+  },
+  "name" : "/srv/fossology/repository/report",
+  "dataLicense" : "CC0-1.0",
+  "hasExtractedLicensingInfos" : [ {
+    "licenseId" : "LicenseRef-CC0-1.0",
+    "extractedText" : "Creative Commons Legal Code\n\nCC0 1.0 Universal\n\n    CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE\n    LEGAL SERVICES. DISTRIBUTION OF THIS DOCUMENT DOES NOT CREATE AN\n    ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS\n    INFORMATION ON AN \"AS-IS\" BASIS. CREATIVE COMMONS MAKES NO WARRANTIES\n    REGARDING THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS\n    PROVIDED HEREUNDER, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM\n    THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED\n    HEREUNDER.\n\nStatement of Purpose\n\nThe laws of most jurisdictions throughout the world automatically confer\nexclusive Copyright and Related Rights (defined below) upon the creator\nand subsequent owner(s) (each and all, an \"owner\") of an original work of\nauthorship and/or a database (each, a \"Work\").\n\nCertain owners wish to permanently relinquish those rights to a Work for\nthe purpose of contributing to a commons of creative, cultural and\nscientific works (\"Commons\") that the public can reliably and without fear\nof later claims of infringement build upon, modify, incorporate in other\nworks, reuse and redistribute as freely as possible in any form whatsoever\nand for any purposes, including without limitation commercial purposes.\nThese owners may contribute to the Commons to promote the ideal of a free\nculture and the further production of creative, cultural and scientific\nworks, or to gain reputation or greater distribution for their Work in\npart through the use and efforts of others.\n\nFor these and/or other purposes and motivations, and without any\nexpectation of additional consideration or compensation, the person\nassociating CC0 with a Work (the \"Affirmer\"), to the extent that he or she\nis an owner of Copyright and Related Rights in the Work, voluntarily\nelects to apply CC0 to the Work and publicly distribute the Work under its\nterms, with knowledge of his or her Copyright and Related Rights in the\nWork and the meaning and intended legal effect of CC0 on those rights.\n\n1. Copyright and Related Rights. A Work made available under CC0 may be\nprotected by copyright and related or neighboring rights (\"Copyright and\nRelated Rights\"). Copyright and Related Rights include, but are not\nlimited to, the following:\n\n  i. the right to reproduce, adapt, distribute, perform, display,\n     communicate, and translate a Work;\n ii. moral rights retained by the original author(s) and/or performer(s);\niii. publicity and privacy rights pertaining to a person's image or\n     likeness depicted in a Work;\n iv. rights protecting against unfair competition in regards to a Work,\n     subject to the limitations in paragraph 4(a), below;\n  v. rights protecting the extraction, dissemination, use and reuse of data\n     in a Work;\n vi. database rights (such as those arising under Directive 96/9/EC of the\n     European Parliament and of the Council of 11 March 1996 on the legal\n     protection of databases, and under any national implementation\n     thereof, including any amended or successor version of such\n     directive); and\nvii. other similar, equivalent or corresponding rights throughout the\n     world based on applicable law or treaty, and any national\n     implementations thereof.\n\n2. Waiver. To the greatest extent permitted by, but not in contravention\nof, applicable law, Affirmer hereby overtly, fully, permanently,\nirrevocably and unconditionally waives, abandons, and surrenders all of\nAffirmer's Copyright and Related Rights and associated claims and causes\nof action, whether now known or unknown (including existing as well as\nfuture claims and causes of action), in the Work (i) in all territories\nworldwide, (ii) for the maximum duration provided by applicable law or\ntreaty (including future time extensions), (iii) in any current or future\nmedium and for any number of copies, and (iv) for any purpose whatsoever,\nincluding without limitation commercial, advertising or promotional\npurposes (the \"Waiver\"). Affirmer makes the Waiver for the benefit of each\nmember of the public at large and to the detriment of Affirmer's heirs and\nsuccessors, fully intending that such Waiver shall not be subject to\nrevocation, rescission, cancellation, termination, or any other legal or\nequitable action to disrupt the quiet enjoyment of the Work by the public\nas contemplated by Affirmer's express Statement of Purpose.\n\n3. Public License Fallback. Should any part of the Waiver for any reason\nbe judged legally invalid or ineffective under applicable law, then the\nWaiver shall be preserved to the maximum extent permitted taking into\naccount Affirmer's express Statement of Purpose. In addition, to the\nextent the Waiver is so judged Affirmer hereby grants to each affected\nperson a royalty-free, non transferable, non sublicensable, non exclusive,\nirrevocable and unconditional license to exercise Affirmer's Copyright and\nRelated Rights in the Work (i) in all territories worldwide, (ii) for the\nmaximum duration provided by applicable law or treaty (including future\ntime extensions), (iii) in any current or future medium and for any number\nof copies, and (iv) for any purpose whatsoever, including without\nlimitation commercial, advertising or promotional purposes (the\n\"License\"). The License shall be deemed effective as of the date CC0 was\napplied by Affirmer to the Work. Should any part of the License for any\nreason be judged legally invalid or ineffective under applicable law, such\npartial invalidity or ineffectiveness shall not invalidate the remainder\nof the License, and in such case Affirmer hereby affirms that he or she\nwill not (i) exercise any of his or her remaining Copyright and Related\nRights in the Work or (ii) assert any associated claims and causes of\naction with respect to the Work, in either case contrary to Affirmer's\nexpress Statement of Purpose.\n\n4. Limitations and Disclaimers.\n\n a. No trademark or patent rights held by Affirmer are waived, abandoned,\n    surrendered, licensed or otherwise affected by this document.\n b. Affirmer offers the Work as-is and makes no representations or\n    warranties of any kind concerning the Work, express, implied,\n    statutory or otherwise, including without limitation warranties of\n    title, merchantability, fitness for a particular purpose, non\n    infringement, or the absence of latent or other defects, accuracy, or\n    the present or absence of errors, whether or not discoverable, all to\n    the greatest extent permissible under applicable law.\n c. Affirmer disclaims responsibility for clearing rights of other persons\n    that may apply to the Work or any use thereof, including without\n    limitation any person's Copyright and Related Rights in the Work.\n    Further, Affirmer disclaims responsibility for obtaining any necessary\n    consents, permissions or other rights required for any use of the\n    Work.\n d. Affirmer understands and acknowledges that Creative Commons is not a\n    party to this document and has no duty or obligation with respect to\n    this CC0 or use of the Work.",
+    "name" : "Creative Commons Zero v1.0 Universal"
+  }, {
+    "licenseId" : "LicenseRef-MIT",
+    "extractedText" : "MIT License\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.",
+    "name" : "MIT License"
+  }, {
+    "licenseId" : "LicenseRef-X11",
+    "extractedText" : "X11 License\n\nCopyright (C) 1996 X Consortium\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE X CONSORTIUM BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.\n\nExcept as contained in this notice, the name of the X Consortium shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Software without prior written authorization from the X Consortium.\n\nX Window System is a trademark of X Consortium, Inc.",
+    "name" : "X11 License"
+  }, {
+    "licenseId" : "LicenseRef-X11-distribute-modifications-variant",
+    "extractedText" : "Copyright (c) <year> <copyright holders>\n\nPermission is hereby granted, free of charge, to any person obtaining a\ncopy of this software and associated documentation files (the\n\"Software\"), to deal in the Software without restriction, including\nwithout limitation the rights to use, copy, modify, merge, publish,\ndistribute, distribute with modifications, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included\nin all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS\nOR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF\nMERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.\nIN NO EVENT SHALL THE ABOVE COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,\nDAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR\nOTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR\nTHE USE OR OTHER DEALINGS IN THE SOFTWARE.\n\nExcept as contained in this notice, the name(s) of the above copyright\nholders shall not be used in advertising or otherwise to promote the\nsale, use or other dealings in this Software without prior written\nauthorization.",
+    "name" : "X11 License Distribution Modification Variant"
+  }, {
+    "licenseId" : "LicenseRef-X11-distribute-modifications-variant-fd3266e2c574cfa8daf7fdccc6942848",
+    "extractedText" : "Permission is hereby granted, free of charge, to any person\nobtaining a copy of this software and associated documentation\nfiles (the \"Software\"), to deal in the Software without\nrestriction, including without limitation the rights to use, copy,\nmodify, merge, publish, distribute, sublicense, and/or sell copies\nof the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be\nincluded in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND,\nEXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF\nMERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND\nNONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY\nCLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF\nCONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION\nWITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.\n\nExcept as contained in this notice, the names of the authors or\ntheir institutions shall not be used in advertising or otherwise to\npromote the sale, use or other dealings in this Software without\nprior written authorization from the authors.",
+    "name" : "X11 License Distribution Modification Variant"
+  }, {
+    "licenseId" : "LicenseRef-scancode-xfree86-1.0",
+    "extractedText" : "License by Scancode.",
+    "name" : "XFree86 License 1.0"
+  } ],
+  "documentNamespace" : "http://fossy.osadl.org/repo/SPDX2TV_libxcb-image-xcb-util-image-0.4.1.tar.gz_1783438875.spdx",
+  "packages" : [ {
+    "SPDXID" : "SPDXRef-upload4731",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "ab131af947767cc2f0986a8062d42814"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "38e058dfaa681c5322b0f3510448ea8a894f43c1"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "f8aea5230dcf736aa86a005ba486f58b689f183006c26ecc44b91ed6b11598d4"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "downloadLocation" : "https://gitlab.freedesktop.org/xorg/lib/libxcb-image/-/archive/xcb-util-image-0.4.1/libxcb-image-xcb-util-image-0.4.1.tar.gz?ref_type=tags",
+    "externalRefs" : [ {
+      "referenceCategory" : "PACKAGE-MANAGER",
+      "referenceLocator" : "pkg:generic/libxcb-image@xcb-util-image-0.4.1download_url=https://gitlab.freedesktop.org/xorg/lib/libxcb-image/-/archive/xcb-util-image-0.4.1/libxcb-image-xcb-util-image-0.4.1.tar.gz%3Fref_type%3Dtags",
+      "referenceType" : "purl"
+    } ],
+    "filesAnalyzed" : true,
+    "licenseComments" : "licenseInfoInFile determined by Scanners:\n - nomos (\"4.4.0.51\".1e52cb)\n - monk (\"4.4.0.51\".1e52cb)\n - ojo (\"4.4.0.51\".1e52cb)\n- scancode (\"4.4.0.51\".1e52cb)",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseDeclared" : "LicenseRef-X11-distribute-modifications-variant-fd3266e2c574cfa8daf7fdccc6942848",
+    "licenseInfoFromFiles" : [ "NOASSERTION" ],
+    "name" : "libxcb-image-xcb-util-image-0.4.1.tar.gz",
+    "packageFileName" : "libxcb-image-xcb-util-image-0.4.1.tar.gz",
+    "packageVerificationCode" : {
+      "packageVerificationCodeValue" : "c300c9f38964ce966f1f34fc427f7bafb5151897"
+    }
+  } ],
+  "files" : [ {
+    "SPDXID" : "SPDXRef-item21535832",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "cdadf42f77b857e75f37029b1717ab2f"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "385fa491ef8f71cfbc28711b8208d4c40eacbc79"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "5961a8b4caff32561834d2cda8bb4dd34e7acdf5baa3bf081b860d575faf2368"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "libxcb-image-xcb-util-image-0.4.1.tar.gz/libxcb-image-xcb-util-image-0.4.1.tar/libxcb-image-xcb-util-image-0.4.1/.gitlab-ci.yml",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item21535833",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "42267820c163471bffe513042d968685ccaaef48"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "71d874131cb1b850d218afb27690b11d83c4338eee4f61e75834bd800f061112"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "6f9037851ab8bd379359e94f2b49bafb"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "libxcb-image-xcb-util-image-0.4.1.tar.gz/libxcb-image-xcb-util-image-0.4.1.tar/libxcb-image-xcb-util-image-0.4.1/.gitmodules",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item21535834",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "9e2b581e20ea1814656b49a46e640b0ac14c5f35"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "eea22917dd8727fcb1299aca80ee6045e6530be7956e80bf68891e4704ba84c5"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "97fbd962c3e5f968b475e2c80aaa4292"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "libxcb-image-xcb-util-image-0.4.1.tar.gz/libxcb-image-xcb-util-image-0.4.1.tar/libxcb-image-xcb-util-image-0.4.1/README.md",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item21535835",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "26718b991464ede19b41942bd6b5a5ef"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "30f83ec4363d6c6a4c7b0676cae90860c62e23c0"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "7635dfa098090c27c7cad66b3f9967a4bcc545edcfba49e103aa25beeeefdd95"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "libxcb-image-xcb-util-image-0.4.1.tar.gz/libxcb-image-xcb-util-image-0.4.1.tar/libxcb-image-xcb-util-image-0.4.1/NEWS",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item21535836",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "19ae89ac5c792dd784abd30375bd56ac"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "5648918c122d4d8a6d1a0c70084cc4eb027b44a9c6b046e9afb2557f5a840b31"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "3d60da2343e1a7c5756afafbca37805c0c85d966"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "libxcb-image-xcb-util-image-0.4.1.tar.gz/libxcb-image-xcb-util-image-0.4.1.tar/libxcb-image-xcb-util-image-0.4.1/configure.ac",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item21535838",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "083a7f621adc092e1f039152aead7992"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "692a369095ace2ed9ebb6ecd4b7837120366eec4"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "c2887e46d5f087a8f333114f369062617a3567f449927fd7009c84fb94cc27f5"
+    } ],
+    "copyrightText" : "Copyright © 2008 Bart Massey <bart@cs.pdx.edu>\nCopyright © 2008 Julien Danjou <julien@danjou.info>",
+    "fileName" : "libxcb-image-xcb-util-image-0.4.1.tar.gz/libxcb-image-xcb-util-image-0.4.1.tar/libxcb-image-xcb-util-image-0.4.1/test/test_bitmap.c",
+    "licenseConcluded" : "LicenseRef-X11-distribute-modifications-variant-fd3266e2c574cfa8daf7fdccc6942848",
+    "licenseInfoInFiles" : [ "LicenseRef-X11-distribute-modifications-variant", "LicenseRef-scancode-xfree86-1.0", "LicenseRef-X11", "LicenseRef-MIT" ]
+  }, {
+    "SPDXID" : "SPDXRef-item21535839",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "47e061b7b714d95e423472d80607db76"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "4b6770eded69dbf9f0ba6553d663cedfa47108a9"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "7bf3db4f9ec3c447b374d66ca9e02776e13a094c803e98be5d2540feac8f71e6"
+    } ],
+    "copyrightText" : "Copyright © 2008 Bart Massey <bart@cs.pdx.edu>",
+    "fileName" : "libxcb-image-xcb-util-image-0.4.1.tar.gz/libxcb-image-xcb-util-image-0.4.1.tar/libxcb-image-xcb-util-image-0.4.1/test/test_formats.c",
+    "licenseConcluded" : "LicenseRef-X11-distribute-modifications-variant-fd3266e2c574cfa8daf7fdccc6942848",
+    "licenseInfoInFiles" : [ "LicenseRef-X11-distribute-modifications-variant", "LicenseRef-scancode-xfree86-1.0", "LicenseRef-X11", "LicenseRef-MIT" ]
+  }, {
+    "SPDXID" : "SPDXRef-item21535840",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "5e7c08cf9e40e7556af7ce11cceea1ae"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "123d4e485a84a600d2368ae2a2aabc9c6da97a9699370ffc2a2904710a308430"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "59222a3c02b0cb0d28423c250134141ab05f2961"
+    } ],
+    "copyrightText" : "Copyright © 2008 Keith Packard <keithp@keithp.com>",
+    "fileName" : "libxcb-image-xcb-util-image-0.4.1.tar.gz/libxcb-image-xcb-util-image-0.4.1.tar/libxcb-image-xcb-util-image-0.4.1/test/test_swap.c",
+    "licenseConcluded" : "LicenseRef-X11-distribute-modifications-variant-fd3266e2c574cfa8daf7fdccc6942848",
+    "licenseInfoInFiles" : [ "LicenseRef-X11-distribute-modifications-variant", "LicenseRef-scancode-xfree86-1.0", "LicenseRef-X11", "LicenseRef-MIT" ]
+  }, {
+    "SPDXID" : "SPDXRef-item21535841",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "3e0de8068b6f1b217882400960b2b19e1802e6483cd83e42748864006354f59a"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "ab2a02999e5f08f1a176cf8cb1db7106"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "dc8306feb8c28e20473d10aa839db03cf45ffba1"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "libxcb-image-xcb-util-image-0.4.1.tar.gz/libxcb-image-xcb-util-image-0.4.1.tar/libxcb-image-xcb-util-image-0.4.1/test/test.xbm",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item21535842",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "4b160e8e51a5a7a13b2268b3e9ba39ee"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "63810da74c8010eafbb143287f9fb98fd87fb5a6"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "9df33713847fd724fd790a1a6451c951b67a4a1310f2005af36251a2277ad508"
+    } ],
+    "copyrightText" : "Copyright © 2007 Bart Massey <bart@cs.pdx.edu>",
+    "fileName" : "libxcb-image-xcb-util-image-0.4.1.tar.gz/libxcb-image-xcb-util-image-0.4.1.tar/libxcb-image-xcb-util-image-0.4.1/test/test_xcb_image_shm.c",
+    "licenseConcluded" : "LicenseRef-X11-distribute-modifications-variant-fd3266e2c574cfa8daf7fdccc6942848",
+    "licenseInfoInFiles" : [ "LicenseRef-X11-distribute-modifications-variant", "LicenseRef-scancode-xfree86-1.0", "LicenseRef-X11", "LicenseRef-MIT" ]
+  }, {
+    "SPDXID" : "SPDXRef-item21535843",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "f1e6d65da7661d6ecc8f81ee009b9f2a"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "f58a3ec2aedc36f0d6855658eae8ebb84ad22b7b"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "56f8a37d147406be0dcf9f1d3a7fe4578e53b4e9fee8120e1d42adb33371ff4a"
+    } ],
+    "copyrightText" : "Copyright © 2008 Bart Massey <bart@cs.pdx.edu>",
+    "fileName" : "libxcb-image-xcb-util-image-0.4.1.tar.gz/libxcb-image-xcb-util-image-0.4.1.tar/libxcb-image-xcb-util-image-0.4.1/test/test_xcb_image.c",
+    "licenseConcluded" : "LicenseRef-X11-distribute-modifications-variant-fd3266e2c574cfa8daf7fdccc6942848",
+    "licenseInfoInFiles" : [ "LicenseRef-X11-distribute-modifications-variant", "LicenseRef-scancode-xfree86-1.0", "LicenseRef-X11", "LicenseRef-MIT" ]
+  }, {
+    "SPDXID" : "SPDXRef-item21535844",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "9a420122ae3f08ed73a536bce24f1c85"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "416aa16dcab99e614116774e422f1866236b4b29"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "7f3797cc7aa5fcce062275e8c290451f8c4677b586821641a7ae27a2baf4b3e0"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "libxcb-image-xcb-util-image-0.4.1.tar.gz/libxcb-image-xcb-util-image-0.4.1.tar/libxcb-image-xcb-util-image-0.4.1/test/.gitignore",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item21535845",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "156d2dc29901839e14459c7b18e14f4418a26c8b5a1cfb794590d85045581596"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "1ce4af20b753cdb421bbf72834274b84"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "91c6f0da33b750fd5e761388e7acbcb1ce6e575f"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "libxcb-image-xcb-util-image-0.4.1.tar.gz/libxcb-image-xcb-util-image-0.4.1.tar/libxcb-image-xcb-util-image-0.4.1/test/Makefile.am",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item21535846",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "9a8013bb6ff825f9640f3178c482d6aa"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "143a2d7878137dc41a2a71fc5d0ce2cc49a0397e"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "a7cbe614f2eaa9ac48e5f09bae71f1c22487190314e0b4c16d7184288d75bdb9"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "libxcb-image-xcb-util-image-0.4.1.tar.gz/libxcb-image-xcb-util-image-0.4.1.tar/libxcb-image-xcb-util-image-0.4.1/autogen.sh",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item21535848",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "19672c6153d8c4870abe734fa4dd2197481a311f4788d02ad729be07e116b26b"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "ea7d9d7c851fbe7d251c45669cf53579"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "a047d1c6cffa5b28cfe4ccf6b3e6e0f12b2b52b7"
+    } ],
+    "copyrightText" : "Copyright © 2007-2008 Bart Massey <bart@cs.pdx.edu>\nCopyright © 2008 Julien Danjou <julien@danjou.info>\nCopyright © 2008 Keith Packard <keithp@keithp.com>",
+    "fileName" : "libxcb-image-xcb-util-image-0.4.1.tar.gz/libxcb-image-xcb-util-image-0.4.1.tar/libxcb-image-xcb-util-image-0.4.1/COPYING",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "LicenseRef-X11-distribute-modifications-variant", "LicenseRef-scancode-xfree86-1.0", "LicenseRef-X11", "LicenseRef-MIT" ]
+  }, {
+    "SPDXID" : "SPDXRef-item21535849",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "89005779da892daee5adc1ce0d2b7abb"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "be56aefc9324971f051fc6cc14903ee347e194d0"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "ca65ef6e407bcd817e020f128b94bac49f1f1f31a782eeb19fc93d800b88627e"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "libxcb-image-xcb-util-image-0.4.1.tar.gz/libxcb-image-xcb-util-image-0.4.1.tar/libxcb-image-xcb-util-image-0.4.1/.gitignore",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item21535850",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "b853560c7ec663d70e169ec3ac0c84ed"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "54b9de1930c03abba411dace3c41be6cf0406b20be6c57b74dc4fd4288c44a7f"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "0ef45f530a14d91377b56ad9a653140350aa76f5"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "libxcb-image-xcb-util-image-0.4.1.tar.gz/libxcb-image-xcb-util-image-0.4.1.tar/libxcb-image-xcb-util-image-0.4.1/Makefile.am",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item21535852",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "e6867fc2c3d0156a15f152ac8ff7d32a2aa2e080"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "4db9d3cf553eb587150954a87b06aa7d5ce3140a90918983e545abe73e5a5a9d"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "521d9e72784d3367c5992ea353241cbb"
+    } ],
+    "copyrightText" : "Copyright (C) 2007 Bart Massey",
+    "fileName" : "libxcb-image-xcb-util-image-0.4.1.tar.gz/libxcb-image-xcb-util-image-0.4.1.tar/libxcb-image-xcb-util-image-0.4.1/image/xcb_pixel.h",
+    "licenseConcluded" : "LicenseRef-X11-distribute-modifications-variant-fd3266e2c574cfa8daf7fdccc6942848",
+    "licenseInfoInFiles" : [ "LicenseRef-X11-distribute-modifications-variant", "LicenseRef-scancode-xfree86-1.0", "LicenseRef-X11", "LicenseRef-MIT" ]
+  }, {
+    "SPDXID" : "SPDXRef-item21535853",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "d8ead1fad5620ac1510192bc928476f65f2200e2"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "c6f6688404720cb99bf6337897d8e32c"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "fb747eed7d24860d7283dc74cfc73da99478209e35bfe3bb5ae4762ebb68a979"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "libxcb-image-xcb-util-image-0.4.1.tar.gz/libxcb-image-xcb-util-image-0.4.1.tar/libxcb-image-xcb-util-image-0.4.1/image/xcb-image.pc.in",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  }, {
+    "SPDXID" : "SPDXRef-item21535854",
+    "checksums" : [ {
+      "algorithm" : "MD5",
+      "checksumValue" : "be2e5b4df6317157b9875b78f6e4ba73"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "f50247fd944f8e669ce1b58e4f66fa5041da6524"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "bdc8ba7a56e58c9acd5cd676b8f354d4690b1210cb4e114d4dbd494d8c8146e0"
+    } ],
+    "copyrightText" : "Copyright (C) 2007 Bart Massey",
+    "fileName" : "libxcb-image-xcb-util-image-0.4.1.tar.gz/libxcb-image-xcb-util-image-0.4.1.tar/libxcb-image-xcb-util-image-0.4.1/image/xcb_image.h",
+    "licenseConcluded" : "LicenseRef-X11-distribute-modifications-variant-fd3266e2c574cfa8daf7fdccc6942848",
+    "licenseInfoInFiles" : [ "LicenseRef-X11-distribute-modifications-variant", "LicenseRef-scancode-xfree86-1.0", "LicenseRef-X11", "LicenseRef-MIT" ]
+  }, {
+    "SPDXID" : "SPDXRef-item21535855",
+    "checksums" : [ {
+      "algorithm" : "SHA1",
+      "checksumValue" : "ff987e7fb929a6d073155b267c05d7ef09e75895"
+    }, {
+      "algorithm" : "SHA256",
+      "checksumValue" : "705451f0fe892e5f4ca61638c6a0c9968875cffd9a27b0ff7cd69679dca6103f"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "fd371e4b7da99e2e7a7045c8229d98d3"
+    } ],
+    "copyrightText" : "Copyright (C) 2007 Bart Massey",
+    "fileName" : "libxcb-image-xcb-util-image-0.4.1.tar.gz/libxcb-image-xcb-util-image-0.4.1.tar/libxcb-image-xcb-util-image-0.4.1/image/xcb_bitops.h",
+    "licenseConcluded" : "LicenseRef-X11-distribute-modifications-variant-fd3266e2c574cfa8daf7fdccc6942848",
+    "licenseInfoInFiles" : [ "LicenseRef-X11-distribute-modifications-variant", "LicenseRef-scancode-xfree86-1.0", "LicenseRef-X11", "LicenseRef-MIT" ]
+  }, {
+    "SPDXID" : "SPDXRef-item21535856",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "ac1f7050fbb4a7058f42d49a52d8427aab831a7cec17564af39b269f0a866d9c"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "039c6d45f3cc9a91884f7a2171e1e2a2"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "a7156de9d55ffb6c29cc41a124d202b32ff2e5fb"
+    } ],
+    "copyrightText" : "Copyright © 2007 Bart Massey",
+    "fileName" : "libxcb-image-xcb-util-image-0.4.1.tar.gz/libxcb-image-xcb-util-image-0.4.1.tar/libxcb-image-xcb-util-image-0.4.1/image/xcb_image.c",
+    "licenseConcluded" : "LicenseRef-X11-distribute-modifications-variant-fd3266e2c574cfa8daf7fdccc6942848",
+    "licenseInfoInFiles" : [ "LicenseRef-X11-distribute-modifications-variant", "LicenseRef-scancode-xfree86-1.0", "LicenseRef-X11", "LicenseRef-MIT" ]
+  }, {
+    "SPDXID" : "SPDXRef-item21535857",
+    "checksums" : [ {
+      "algorithm" : "SHA256",
+      "checksumValue" : "0620dc5a7714fc84a8ac7395cd9d25e5d4c6bc70daae34b21bef373640502c29"
+    }, {
+      "algorithm" : "MD5",
+      "checksumValue" : "1dbf303c78a7eca379f49891e0863572"
+    }, {
+      "algorithm" : "SHA1",
+      "checksumValue" : "8e3b54f83e5734f69238780769f224a95dbc3f71"
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "fileName" : "libxcb-image-xcb-util-image-0.4.1.tar.gz/libxcb-image-xcb-util-image-0.4.1.tar/libxcb-image-xcb-util-image-0.4.1/image/Makefile.am",
+    "licenseConcluded" : "NOASSERTION",
+    "licenseInfoInFiles" : [ "NOASSERTION" ]
+  } ],
+  "relationships" : [ {
+    "spdxElementId" : "SPDXRef-upload4731",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item21535832"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4731",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item21535833"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4731",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item21535834"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4731",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item21535835"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4731",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item21535836"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4731",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item21535838"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4731",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item21535839"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4731",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item21535840"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4731",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item21535841"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4731",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item21535842"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4731",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item21535843"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4731",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item21535844"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4731",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item21535845"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4731",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item21535846"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4731",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item21535848"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4731",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item21535849"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4731",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item21535850"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4731",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item21535852"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4731",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item21535853"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4731",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item21535854"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4731",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item21535855"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4731",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item21535856"
+  }, {
+    "spdxElementId" : "SPDXRef-upload4731",
+    "relationshipType" : "CONTAINS",
+    "relatedSpdxElement" : "SPDXRef-item21535857"
+  }, {
+    "spdxElementId" : "SPDXRef-DOCUMENT",
+    "relationshipType" : "DESCRIBES",
+    "relatedSpdxElement" : "SPDXRef-upload4731"
+  } ]
+}

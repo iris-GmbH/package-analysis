@@ -1,0 +1,31 @@
+{
+    "schema_version": "1.0.0",
+    "name": "btrfs-progs",
+    "version": "v7.0",
+    "description": "",
+    "comment": "",
+    "src": {
+        "tarball": {
+            "url": "https://github.com/kdave/btrfs-progs/archive/refs/tags/v7.0.tar.gz"
+        }
+    },
+    "clearingFiles": [
+        {
+            "fileName": "btrfs-progs-v7.0.spdx.rdf.xml",
+            "priority": "n/a",
+            "author": "Oliver Fendt",
+            "reviewer": [],
+            "alternate_files": [
+                {
+                    "fileName": "btrfs-progs-v7.0-SPDX2TV.spdx"
+                },
+                {
+                    "fileName": "btrfs-progs-v7.0.spdx.json"
+                },
+                {
+                    "fileName": "btrfs-progs-v7.0.spdx.yaml"
+                }
+            ]
+        }
+    ]
+}

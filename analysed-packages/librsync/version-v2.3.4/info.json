@@ -1,0 +1,31 @@
+{
+    "schema_version": "1.0.0",
+    "name": "librsync",
+    "version": "v2.3.4",
+    "description": "",
+    "comment": "",
+    "src": {
+        "tarball": {
+            "url": "https://github.com/librsync/librsync/archive/refs/tags/v2.3.4.tar.gz"
+        }
+    },
+    "clearingFiles": [
+        {
+            "fileName": "librsync-v2.3.4.spdx.rdf.xml",
+            "priority": "n/a",
+            "author": "Oliver Fendt",
+            "reviewer": [],
+            "alternate_files": [
+                {
+                    "fileName": "librsync-v2.3.4-SPDX2TV.spdx"
+                },
+                {
+                    "fileName": "librsync-v2.3.4.spdx.json"
+                },
+                {
+                    "fileName": "librsync-v2.3.4.spdx.yaml"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,934 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossy.osadl.org/repo/SPDX2TV_code-tcp_wrappers_7.6.tar.gz_1784204234.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.4.0.51
+Creator: Person: Oliver Fendt
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+It contains the license and copyright analysis of tcp-wrappers tcp_wrappers_7.6
+Please check "LicenseComments" for explanations of concluded licenses
+</text>
+Created: 2026-07-16T12:17:14Z
+LicenseListVersion: 3.22
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: code-tcp_wrappers_7.6.tar.gz
+PackageFileName: code-tcp_wrappers_7.6.tar.gz
+SPDXID: SPDXRef-upload4760
+PackageDownloadLocation: https://github.com/tcp-wrappers/code/archive/refs/tags/tcp_wrappers_7.6.tar.gz
+ExternalRef: PACKAGE-MANAGER purl pkg:github/tcp-wrappers/code@tcp_wrappers_7.6
+FilesAnalyzed: true
+PackageVerificationCode: 5f54b6b192195abee29f2c9fbd9cf474b2c9645f
+PackageChecksum: SHA1: 5c4fef69aba6c64bb9c0e33670086b4474c770a2
+PackageChecksum: SHA256: 509e973f6462291216b1b95ea99341f217611595d59a5bf3237dc7ee5d6ff086
+PackageChecksum: MD5: ef9a052a6675d99a3fde76295c0c7ba5
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-TCP-wrappers-6a91fe298447a5011299430ef5b723b0
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.4.0.51".1e52cb)
+ - monk ("4.4.0.51".1e52cb)
+ - ojo ("4.4.0.51".1e52cb)
+ - scancode ("4.4.0.51".1e52cb) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload4760
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/strcasecmp.c
+SPDXID: SPDXRef-item21649119
+FileChecksum: SHA1: 404a94b27c8baa2cf03ae844a75cd41ebccb62e0
+FileChecksum: SHA256: 0f684ca00860311fdd749328d99b23191f78e2da7cefd09b02d86344840bd758
+FileChecksum: MD5: 1e72db28013fc87fedcdbc155d8ba7fa
+LicenseConcluded: LicenseRef-BSD-4.3TAHOE-28c7562c36393369030e4e3b3f7fc235
+LicenseInfoInFile: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-scancode-bsla
+LicenseInfoInFile: LicenseRef-BSD-4.3TAHOE
+FileCopyrightText: <text> Copyright (c) 1987 Regents of the University of California. All rights reserved. </text>
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/LICENSE
+SPDXID: SPDXRef-item21649073
+FileChecksum: SHA1: af1aa65c1c8ea6bc9af7640668be2e1ef64c9945
+FileChecksum: SHA256: dbe5d013a1e2984ceb7a7a5981cbe9807b06cce25c4668f14dac7b894541a5cf
+FileChecksum: MD5: 4e0e1d2ba2b7faf5dea509f2f3fcf27a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD-style
+LicenseInfoInFile: LicenseRef-TCP-wrappers
+FileCopyrightText: <text> Copyright 1995 by Wietse Venema. All rights reserved. </text>
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/DISCLAIMER
+SPDXID: SPDXRef-item21649124
+FileChecksum: SHA1: 9fd20c8d46ca4e7463ee025988cca793e4fdb910
+FileChecksum: SHA256: 2f358f3b311ce6c3a45da82f7ffddeff522d80ed8f10e511dfcfeb60da3452c3
+FileChecksum: MD5: 071bd69cb78b18888ea5e3da5c3127fa
+LicenseConcluded: LicenseRef-TCP-wrappers-0bf1c742118c66da48b2cfd4406d6ba6
+LicenseInfoInFile: LicenseRef-BSD-style
+LicenseInfoInFile: LicenseRef-TCP-wrappers
+FileCopyrightText: <text> Copyright 1995 by Wietse Venema. All rights reserved. </text>
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/hosts_access.3
+SPDXID: SPDXRef-item21649071
+FileChecksum: SHA1: f844fccd0690335151cc5cbd33df9ac4f65f88dc
+FileChecksum: SHA256: 31de8aaad14d1b2038ed32f61de38d7bd3e903ff6886cada3be96de43754fae2
+FileChecksum: MD5: 7993a6a2a27f729254bf29c13f48e9ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/hosts_ctl.c
+SPDXID: SPDXRef-item21649072
+FileChecksum: SHA1: 268df6c1b3471eb538f5dc56df4d85cc844fb143
+FileChecksum: SHA256: f16897cca97e000bb19de46905da5fd182d8a82bc0c4008fb34552ba243a2013
+FileChecksum: MD5: edad608818ee499ad0497dbabad43227
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/README.NIS
+SPDXID: SPDXRef-item21649074
+FileChecksum: SHA1: 98b80f8f408266d8de1593877a25efa74a3bf1b1
+FileChecksum: SHA256: dd4b0185b3ffd62f9f5362f3be33bffc0e1413bc6d6f837a3cea441da64c74fa
+FileChecksum: MD5: 147a07f2d3e673121dec4975849994e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/hosts_options.5
+SPDXID: SPDXRef-item21649075
+FileChecksum: SHA1: 0d3cf66dc247b43af4342f2d78157e469e02334f
+FileChecksum: SHA256: ed8510ad304a7031397a024c3c1057870be2d66a709995a673de12ea2e6e4800
+FileChecksum: MD5: c4920a00f777844c6e8136e52e260264
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/rfc931.c
+SPDXID: SPDXRef-item21649076
+FileChecksum: SHA1: d157e7b903a18a62a3c87854b29f8bf29a48082a
+FileChecksum: SHA256: 9ac710806e201651a42fabbcd187ed0abc3975560ef84ddbf111be276593ed79
+FileChecksum: MD5: e629b1f5cfdc97dc43301ed1186f7c37
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/safe_finger.c
+SPDXID: SPDXRef-item21649077
+FileChecksum: SHA1: 5f4b3ae9827d3ac6cd17f2e5f18603cf166aa875
+FileChecksum: SHA256: ff0f6373a7f11b34f740d23888e299c114eb32759e31b3048dd9e05dd9aba030
+FileChecksum: MD5: 7e4a788b375b7b05a60d24cd0c83b0b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/eval.c
+SPDXID: SPDXRef-item21649078
+FileChecksum: SHA1: 06d18c548b6457745d7e753ba66cae8254a8cb8e
+FileChecksum: SHA256: fa0ce7bdcda3dcdc35fa7f5bb243d063018594c2c5779d9c00c7de2009ede2ee
+FileChecksum: MD5: b4fbd49308d5a8f77315167a4ee10339
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/tcpdmatch.8
+SPDXID: SPDXRef-item21649079
+FileChecksum: SHA1: 1d4cea02b26a0fb8c94b7d3210ba9884de8a5a7f
+FileChecksum: SHA256: 0b218ee3f808f922988856c2e24fcac7e02a7f7f8d5a8f16fb07fac9dc3954e9
+FileChecksum: MD5: 85bc0335c865954ca534c9a17c666b53
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/hosts_access.5
+SPDXID: SPDXRef-item21649080
+FileChecksum: SHA1: 2f6cd5740c840a82fc3523be6e8e68d7ab78152b
+FileChecksum: SHA256: 1e791d788975b6fad342ae411ecc456dbc86ee2a765eca752288a306b1d6a19d
+FileChecksum: MD5: 67085bc60fb9cbb70be7cb6490002923
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/percent_x.c
+SPDXID: SPDXRef-item21649081
+FileChecksum: SHA1: 71df8559f24690a60bbc19eef5068d0c2af09296
+FileChecksum: SHA256: f7855dc94ed0d528431e39f9b1e5bdc9d85bed9630b0864fea94023d99bfb2c8
+FileChecksum: MD5: a406be699b48a19fb741fe8f31732698
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/inetcf.h
+SPDXID: SPDXRef-item21649082
+FileChecksum: SHA1: 15f664ebf3dc296b1965516629f2c61fcc5eac53
+FileChecksum: SHA256: 92e3a3e753aacea12b2b4ff3ba6e08869f78606455a19158864811f5ea819e96
+FileChecksum: MD5: 2a7ac52919ccece4946943067455b1d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/tcpdchk.8
+SPDXID: SPDXRef-item21649083
+FileChecksum: SHA1: afae0039929268c8036b56a6671c02feced536ea
+FileChecksum: SHA256: d506a593dccc2b8ceb0187f9881e694b1c3b729902eabe8a32189cd506c8b682
+FileChecksum: MD5: ed7b220f6ac7906ae326ac8fa3d04a11
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/fix_options.c
+SPDXID: SPDXRef-item21649084
+FileChecksum: SHA1: d5549ea762a8ee2c3b33c47df25c07bcd4052399
+FileChecksum: SHA256: da4ddf7380e3bdf11aec8d6180f724ea5982970a2ad1a72d1365a7b3a702c520
+FileChecksum: MD5: 99f3cb7841d8bf941bf6750fd7a96df1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/fromhost.c
+SPDXID: SPDXRef-item21649085
+FileChecksum: SHA1: 49bab6f5f0900806abf4c0d8f0e011e07d3b9449
+FileChecksum: SHA256: d702c32a61407f0288d06d0de3752b48a87a0a4c17d0f4f0d5125dd593d6a648
+FileChecksum: MD5: d880bab3c12c4109e95cdd69470e4ea3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/socket.c
+SPDXID: SPDXRef-item21649086
+FileChecksum: SHA1: 1984b8ba98c27580c0c7405ef89f5bb820787137
+FileChecksum: SHA256: 466e59c7b9d50701deb961c97fe9d986228afcc5292018b08ebdc6cb48e3abb3
+FileChecksum: MD5: 00f0890b1bc3e453ce44ccd64223b0c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/printf.ck
+SPDXID: SPDXRef-item21649087
+FileChecksum: SHA1: 6838459a34a67f3440caf36ef753f74c16e7de90
+FileChecksum: SHA256: aa6b0b851f23e6df0b06a0ea836b40fcd9fb833c4cb87296328e6156b938162a
+FileChecksum: MD5: 7dafed0315ad74bc7a28e7d747f29819
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/README.IRIX
+SPDXID: SPDXRef-item21649088
+FileChecksum: SHA1: eafac413293f1fe6d677981c3efc8157336ec289
+FileChecksum: SHA256: e098858c27241cce171de145f067a1adf82d894a9d486450958c3941db60241d
+FileChecksum: MD5: 36603b049d5f89a26a300825c3021310
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/tcpd.8
+SPDXID: SPDXRef-item21649089
+FileChecksum: SHA1: f9efb8b8d0677d6aa9a40dbfb3131ceb80366d56
+FileChecksum: SHA256: d0626be914d4497ea05849f10620038afb107d83d5773213c8193263b4e9ea59
+FileChecksum: MD5: eaee4abbff9c2853b4e5122ec1fb7a1b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/README.md
+SPDXID: SPDXRef-item21649090
+FileChecksum: SHA1: ddefa4583f7adb5827d6ce4c595b36d966c65849
+FileChecksum: SHA256: b1942ed7135d3b2463fc231e5b123968d395a20baca11944d1f62957b1cae152
+FileChecksum: MD5: 6d52d954f01c34c5d7b141c71b061a9d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD-possibility
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/tcpd.c
+SPDXID: SPDXRef-item21649091
+FileChecksum: SHA1: 5dd9376695db52c604632fffab240087c5bc7335
+FileChecksum: SHA256: fa2ade67b38f2ddd23a7d892bd2434405ee58428f0b0f82ecc34312d119028c6
+FileChecksum: MD5: a8255a587f31a38b4a7485a5c8d904a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/README
+SPDXID: SPDXRef-item21649092
+FileChecksum: SHA1: 4cd72bb77427c61cf0e6030e5a28533728dc6d3f
+FileChecksum: SHA256: dd6d7333a48de967de52f892531dc8a320ef3e29f81fcfbea41808d46c819098
+FileChecksum: MD5: 2452fb4f9d06500ec0634d7b64aaf76b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD-possibility
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/workarounds.c
+SPDXID: SPDXRef-item21649093
+FileChecksum: SHA1: 3c2b7acb8c956ec3b675d0d79741431237c6dc0b
+FileChecksum: SHA256: 3dad4d7fb3772d72be6c5b6c1901c7dffcb09b95ab622b3b0bbcac6c88ea0598
+FileChecksum: MD5: d1e7b5abf95067313b7668d8c10a2c5c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/CHANGES
+SPDXID: SPDXRef-item21649094
+FileChecksum: SHA1: 84e45be8e1682c1e53ba9a67378a37a3ee727cd8
+FileChecksum: SHA256: 534018d32b10870dbd1dbfbddb6e0b70337aac62a2589306eacf7611916e442b
+FileChecksum: MD5: ff08c72b8c9c8d56ba9bf3e90d477639
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/update.c
+SPDXID: SPDXRef-item21649095
+FileChecksum: SHA1: 25471a494b6b04ca665c1dbe6e3063d4eeeaf2f9
+FileChecksum: SHA256: bad4ac7f842f76ad742c5b75b842219be73920da99148e693f38173444f380d0
+FileChecksum: MD5: 77c218e0e6366d2327f52068f863d12b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/options.c
+SPDXID: SPDXRef-item21649096
+FileChecksum: SHA1: d18d2f2f68c2001b98eeef8878e0fbed91e75734
+FileChecksum: SHA256: cdc59125a91141234d8df3abd486880dd237789291072ca8b783d4482440db77
+FileChecksum: MD5: 8b27d55628eb2b666b27f015ee2182b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/environ.c
+SPDXID: SPDXRef-item21649097
+FileChecksum: SHA1: d1af1873c11cee6efbc856d67a2e6a8ae214d974
+FileChecksum: SHA256: cdc138e2a94ba501ca32c72f2f37562596033be179729a76282fe163cc835802
+FileChecksum: MD5: 9fa4c0f2fff89d00a4b1283730eab739
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/myvsyslog.c
+SPDXID: SPDXRef-item21649098
+FileChecksum: SHA1: 09352c45cb32ac78e824c881f4f162ce56b7fe24
+FileChecksum: SHA256: 03941e6217b00d7d4eb51a4a3dd4e69dcf12620a522ce9a98aee589eb64987d2
+FileChecksum: MD5: 619fd9232e456e8ab75625f25dd58952
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/fakelog.c
+SPDXID: SPDXRef-item21649099
+FileChecksum: SHA1: 5c49821fbae3e8aeba2d421ee99468390b1214af
+FileChecksum: SHA256: 21e7f2d294b3b51856b56addcabd0837b9146c9e52fc9aff76f991837a4622d2
+FileChecksum: MD5: b329ab5443158e4c79f55710f9a675d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/Makefile
+SPDXID: SPDXRef-item21649100
+FileChecksum: SHA1: f25fde9d5ab011428a827790a338d5ef07622356
+FileChecksum: SHA256: c10d118f2c55d1735bebebfa70a7539d48b3d9648935776d2da9606a3d7c43eb
+FileChecksum: MD5: 0037774577650534f898949d892144ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/clean_exit.c
+SPDXID: SPDXRef-item21649101
+FileChecksum: SHA1: 355910d0a616c94e4ed26b60c4aefd10e3198650
+FileChecksum: SHA256: b5891dbab279c4fe5f5028e0ac8200d5b7aad5e133ea74b35e96835207713421
+FileChecksum: MD5: 1bac137fdc9c151351c0b33c9026421f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/miscd.c
+SPDXID: SPDXRef-item21649102
+FileChecksum: SHA1: 411cc95809298e2a34f8dcabf7b702a6ee234a35
+FileChecksum: SHA256: 0c41690c7bfb583e3230e5fbc750ab70a84f9f0f05502172288c37b2cfe264d1
+FileChecksum: MD5: 720b62d42e8162cb7b696002e56ece6e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/setenv.c
+SPDXID: SPDXRef-item21649103
+FileChecksum: SHA1: f12290451e579da5bbdf05c8255f9ad92608f794
+FileChecksum: SHA256: c3f869feb97c0706ebb8bf34f93efa64c77ca69ea62b7011d60d4432dc79d633
+FileChecksum: MD5: 44209db39c4d3a173d2933b04f67320e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/ncr.c
+SPDXID: SPDXRef-item21649104
+FileChecksum: SHA1: f5ae8f8da098013546fbf15221a9b4a64e964a75
+FileChecksum: SHA256: 93e8c46d5bb22d3ffecbbcb2121e1847f8da4eb6b924cf089734de9a664ffc4d
+FileChecksum: MD5: dc5262ae64eb1e3305bcfdc00e8fb9c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/percent_m.c
+SPDXID: SPDXRef-item21649105
+FileChecksum: SHA1: 56d9356da0c498aff1f6809bf0e886d99fc3255e
+FileChecksum: SHA256: e70c1e918c523646ed1e5cd645da32946c76cb1d12506b78898830e93f4f70c0
+FileChecksum: MD5: 721472d1cc7cc8d4960d800057ed8ec1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/try-from.c
+SPDXID: SPDXRef-item21649106
+FileChecksum: SHA1: e3affc0b1c6fd510542add66957a609e7dba3436
+FileChecksum: SHA256: ae056432945fd5d7c654b478ec5653c21250f65d4bae96949dde5af0eb06a788
+FileChecksum: MD5: c6a00f028c9578a881018b505857a05d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/BLURB
+SPDXID: SPDXRef-item21649107
+FileChecksum: SHA1: cb93e776c38b48d5e6efcc3ca187afc7e883c31e
+FileChecksum: SHA256: ba6ca8ba9ee13ef06fd505b3d9e5b285d454a0e72b86349ac550c1bf7bb075cc
+FileChecksum: MD5: 627fc45308e852c446c3606647fa8c34
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/diag.c
+SPDXID: SPDXRef-item21649108
+FileChecksum: SHA1: 1ee84a4492f4eed765462eacd4b3e7569f6c1d12
+FileChecksum: SHA256: 5f9343f2fd40ae74d8b608c08f33e76002a7ba3dba34af381f1248a98a6acd3b
+FileChecksum: MD5: 8f3d561785f3314a35a9de09d11ccdaa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/tli.c
+SPDXID: SPDXRef-item21649109
+FileChecksum: SHA1: c796dbcdecc9e603d2e90851760e623e5a655af4
+FileChecksum: SHA256: e1b6bebf0d88de95160f6cabd795a1a7f800eb58eaaf7a159a8fa5621faf4737
+FileChecksum: MD5: 7efc6e3c9915d6e8ca762342b540573d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/shell_cmd.c
+SPDXID: SPDXRef-item21649110
+FileChecksum: SHA1: fc6e7cc702cc4a5f72493fdfd8361e778e64a3e4
+FileChecksum: SHA256: aafcc902560831888607387f00cf667c497c025283ddbf8119db1b501245f219
+FileChecksum: MD5: 57b7371b951329db7b5f699e99798164
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/hosts_access.c
+SPDXID: SPDXRef-item21649111
+FileChecksum: SHA1: 1e63bda0a1dc743713dd8dbfc685e7ced62fd49e
+FileChecksum: SHA256: 9d02888c4d8a2f732a9002d806cda52a52cee1ef28b0f8c49ef1c6973cc25b25
+FileChecksum: MD5: cec0cba4a2df178e8857510704cc38f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/refuse.c
+SPDXID: SPDXRef-item21649112
+FileChecksum: SHA1: 92aca308de2f3682f2bcb673f9a5e7ac055f29fa
+FileChecksum: SHA256: 5e65863f84ff8c2af3eef9afbfc947e62c4b0201dc0ce3bfde6366ec4f4b036f
+FileChecksum: MD5: 5f2c0874378f640a86897f5531616dc7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/mystdarg.h
+SPDXID: SPDXRef-item21649113
+FileChecksum: SHA1: 496c5c330a57258cc95ea0bffb7a5c36c2a7d124
+FileChecksum: SHA256: d8fea6d941bccd8c96309c09db1a34c1cd274cfa289d9645930dea04280800cc
+FileChecksum: MD5: ce79d3c00d2ad46db810610c573bce2a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/ptx.c
+SPDXID: SPDXRef-item21649114
+FileChecksum: SHA1: 0fa42ce7617bd8b148ed751b198bc9b27f7130a7
+FileChecksum: SHA256: b921f331bbd863c3caffc924500d8525492bec4e4ae742e6bd61fb6abb561bce
+FileChecksum: MD5: 9ab79f1b51877bbeeac82db794b25ad9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/inetcf.c
+SPDXID: SPDXRef-item21649115
+FileChecksum: SHA1: 69168b5ed69a9cf30d03de574d8484bcdcf02c03
+FileChecksum: SHA256: a684718058d940e2e6af8b248269b3a16e2a7e5042815c64540ffb82779f6701
+FileChecksum: MD5: 02ccca613950bfe18706d0c39cbca9ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/tcpdmatch.c
+SPDXID: SPDXRef-item21649116
+FileChecksum: SHA1: 64d558636b8e669ce923b1e0e0e5d6e72db26887
+FileChecksum: SHA256: f8cca5d08c0e646544a41905fa74e1710dc2da4957573392ec822daedca162cf
+FileChecksum: MD5: 8af6daf4a1e9d9935956f1d31e54ab4f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/tli-sequent.c
+SPDXID: SPDXRef-item21649117
+FileChecksum: SHA1: fa4cc4051de669c082b8dda8e386b0112c6e22d0
+FileChecksum: SHA256: fa954fa58ba1f80231251d830751322abc8e752fa241eaf1f3e2c71b4a660c12
+FileChecksum: MD5: 6266612530ec81b4c3f90cbe34fcd108
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/Banners.Makefile
+SPDXID: SPDXRef-item21649118
+FileChecksum: SHA1: b2ad8164a84a1afdcdc71f7f648ce5d3625c7ea9
+FileChecksum: SHA256: fb72e2ed8672343cb559c943298ed0ccf6d0e01e3de001326a45d2b05e7d2a4c
+FileChecksum: MD5: e53315d5713278df908248602b129955
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/scaffold.h
+SPDXID: SPDXRef-item21649120
+FileChecksum: SHA1: 9eef3b8e7dd501883ade83f280d9be09d898407a
+FileChecksum: SHA256: 09babb9154759b350b0c690f0c6f132769f9039b11d4c18c791626b075392e13
+FileChecksum: MD5: 6b9d803d78ec0a6946f329d5a9856b53
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/vfprintf.c
+SPDXID: SPDXRef-item21649121
+FileChecksum: SHA1: 45d7b047e510bb2152aad367672b47b5f6e6b5db
+FileChecksum: SHA256: 54e17b4ca3e207db5df78d4a8878669580685bb66721ef7fa2b3a95c552f09cf
+FileChecksum: MD5: 332dc8be89d5a59abc3036b490ba07d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/tli-sequent.h
+SPDXID: SPDXRef-item21649122
+FileChecksum: SHA1: 9d189eaaebbf3e6decad6827a9658a9b4ad8ca7a
+FileChecksum: SHA256: 3ba7bdc5abce6d3f3c89cdc7e196358880bf2e67e12fe27cd87c042f206c81ce
+FileChecksum: MD5: 9e8d21063e9157e7c2a4e9e3e3281e8b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/tcpdchk.c
+SPDXID: SPDXRef-item21649123
+FileChecksum: SHA1: b549d393e1c3ee057e975725a2779ce96a272209
+FileChecksum: SHA256: 7118100abd3de86e6366ffdcf08a16d2dc71dbae7ae0db9f9a8eea76bc394c72
+FileChecksum: MD5: fe8a07ff2642e8b55922e6be510b9ed3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/patchlevel.h
+SPDXID: SPDXRef-item21649125
+FileChecksum: SHA1: 8b4040914d2ee93678753060b9420a2617e036c7
+FileChecksum: SHA256: 51d0fa20e81686026a6c043c30eab2a9d829fa8d986d017369b28eb2b8ad2349
+FileChecksum: MD5: 92e06ff46922390163fdb46af95894f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/misc.c
+SPDXID: SPDXRef-item21649126
+FileChecksum: SHA1: 5dd0a22b20944b33ce8c537cd9564d8d564fd1f9
+FileChecksum: SHA256: a251282d9e3ddd76f19ee084fbd6c3620e3fab8c17f6cc8b7dfded3e68b9500d
+FileChecksum: MD5: b74358d00ad758286a44c933fee4eda2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/tcpd.h
+SPDXID: SPDXRef-item21649127
+FileChecksum: SHA1: 5f90b3f4e15b69c5a730fa1649931d0db7fbf89a
+FileChecksum: SHA256: ff2f405951359009d63d1ac25a8bcdb2c58d841bcdc00314a9a557dd90634407
+FileChecksum: MD5: 076cf6456199450a4b81aec77165c716
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: code-tcp_wrappers_7.6.tar.gz/code-tcp_wrappers_7.6.tar/code-tcp_wrappers_7.6/scaffold.c
+SPDXID: SPDXRef-item21649128
+FileChecksum: SHA1: 101bc64d23c53dc6a4926804217886605101d7fd
+FileChecksum: SHA256: aa92e353a8fbfe7223fac5a749fee887735a1d91af266ae1a0dffbb3bb7d5a22
+FileChecksum: MD5: ce9473ec933a5478d3522a15223c48c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+
+  
+LicenseID: LicenseRef-CC0-1.0
+LicenseName: Creative Commons Zero v1.0 Universal
+ExtractedText: <text> Creative Commons Legal Code
+
+CC0 1.0 Universal
+
+    CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE
+    LEGAL SERVICES. DISTRIBUTION OF THIS DOCUMENT DOES NOT CREATE AN
+    ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS
+    INFORMATION ON AN "AS-IS" BASIS. CREATIVE COMMONS MAKES NO WARRANTIES
+    REGARDING THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS
+    PROVIDED HEREUNDER, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM
+    THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED
+    HEREUNDER.
+
+Statement of Purpose
+
+The laws of most jurisdictions throughout the world automatically confer
+exclusive Copyright and Related Rights (defined below) upon the creator
+and subsequent owner(s) (each and all, an "owner") of an original work of
+authorship and/or a database (each, a "Work").
+
+Certain owners wish to permanently relinquish those rights to a Work for
+the purpose of contributing to a commons of creative, cultural and
+scientific works ("Commons") that the public can reliably and without fear
+of later claims of infringement build upon, modify, incorporate in other
+works, reuse and redistribute as freely as possible in any form whatsoever
+and for any purposes, including without limitation commercial purposes.
+These owners may contribute to the Commons to promote the ideal of a free
+culture and the further production of creative, cultural and scientific
+works, or to gain reputation or greater distribution for their Work in
+part through the use and efforts of others.
+
+For these and/or other purposes and motivations, and without any
+expectation of additional consideration or compensation, the person
+associating CC0 with a Work (the "Affirmer"), to the extent that he or she
+is an owner of Copyright and Related Rights in the Work, voluntarily
+elects to apply CC0 to the Work and publicly distribute the Work under its
+terms, with knowledge of his or her Copyright and Related Rights in the
+Work and the meaning and intended legal effect of CC0 on those rights.
+
+1. Copyright and Related Rights. A Work made available under CC0 may be
+protected by copyright and related or neighboring rights ("Copyright and
+Related Rights"). Copyright and Related Rights include, but are not
+limited to, the following:
+
+  i. the right to reproduce, adapt, distribute, perform, display,
+     communicate, and translate a Work;
+ ii. moral rights retained by the original author(s) and/or performer(s);
+iii. publicity and privacy rights pertaining to a person's image or
+     likeness depicted in a Work;
+ iv. rights protecting against unfair competition in regards to a Work,
+     subject to the limitations in paragraph 4(a), below;
+  v. rights protecting the extraction, dissemination, use and reuse of data
+     in a Work;
+ vi. database rights (such as those arising under Directive 96/9/EC of the
+     European Parliament and of the Council of 11 March 1996 on the legal
+     protection of databases, and under any national implementation
+     thereof, including any amended or successor version of such
+     directive); and
+vii. other similar, equivalent or corresponding rights throughout the
+     world based on applicable law or treaty, and any national
+     implementations thereof.
+
+2. Waiver. To the greatest extent permitted by, but not in contravention
+of, applicable law, Affirmer hereby overtly, fully, permanently,
+irrevocably and unconditionally waives, abandons, and surrenders all of
+Affirmer's Copyright and Related Rights and associated claims and causes
+of action, whether now known or unknown (including existing as well as
+future claims and causes of action), in the Work (i) in all territories
+worldwide, (ii) for the maximum duration provided by applicable law or
+treaty (including future time extensions), (iii) in any current or future
+medium and for any number of copies, and (iv) for any purpose whatsoever,
+including without limitation commercial, advertising or promotional
+purposes (the "Waiver"). Affirmer makes the Waiver for the benefit of each
+member of the public at large and to the detriment of Affirmer's heirs and
+successors, fully intending that such Waiver shall not be subject to
+revocation, rescission, cancellation, termination, or any other legal or
+equitable action to disrupt the quiet enjoyment of the Work by the public
+as contemplated by Affirmer's express Statement of Purpose.
+
+3. Public License Fallback. Should any part of the Waiver for any reason
+be judged legally invalid or ineffective under applicable law, then the
+Waiver shall be preserved to the maximum extent permitted taking into
+account Affirmer's express Statement of Purpose. In addition, to the
+extent the Waiver is so judged Affirmer hereby grants to each affected
+person a royalty-free, non transferable, non sublicensable, non exclusive,
+irrevocable and unconditional license to exercise Affirmer's Copyright and
+Related Rights in the Work (i) in all territories worldwide, (ii) for the
+maximum duration provided by applicable law or treaty (including future
+time extensions), (iii) in any current or future medium and for any number
+of copies, and (iv) for any purpose whatsoever, including without
+limitation commercial, advertising or promotional purposes (the
+"License"). The License shall be deemed effective as of the date CC0 was
+applied by Affirmer to the Work. Should any part of the License for any
+reason be judged legally invalid or ineffective under applicable law, such
+partial invalidity or ineffectiveness shall not invalidate the remainder
+of the License, and in such case Affirmer hereby affirms that he or she
+will not (i) exercise any of his or her remaining Copyright and Related
+Rights in the Work or (ii) assert any associated claims and causes of
+action with respect to the Work, in either case contrary to Affirmer's
+express Statement of Purpose.
+
+4. Limitations and Disclaimers.
+
+ a. No trademark or patent rights held by Affirmer are waived, abandoned,
+    surrendered, licensed or otherwise affected by this document.
+ b. Affirmer offers the Work as-is and makes no representations or
+    warranties of any kind concerning the Work, express, implied,
+    statutory or otherwise, including without limitation warranties of
+    title, merchantability, fitness for a particular purpose, non
+    infringement, or the absence of latent or other defects, accuracy, or
+    the present or absence of errors, whether or not discoverable, all to
+    the greatest extent permissible under applicable law.
+ c. Affirmer disclaims responsibility for clearing rights of other persons
+    that may apply to the Work or any use thereof, including without
+    limitation any person's Copyright and Related Rights in the Work.
+    Further, Affirmer disclaims responsibility for obtaining any necessary
+    consents, permissions or other rights required for any use of the
+    Work.
+ d. Affirmer understands and acknowledges that Creative Commons is not a
+    party to this document and has no duty or obligation with respect to
+    this CC0 or use of the Work.
+ </text>
+
+  
+
+LicenseID: LicenseRef-BSD-4.3TAHOE-28c7562c36393369030e4e3b3f7fc235
+LicenseName: BSD 4.3 TAHOE License
+ExtractedText: <text> Redistribution and use in source and binary forms are permitted
+provided that the above copyright notice and this paragraph are
+duplicated in all such forms and that any documentation,
+advertising materials, and other materials related to such
+distribution and use acknowledge that the software was developed
+by the University of California, Berkeley. The name of the
+University may not be used to endorse or promote products derived
+from this software without specific prior written permission.
+THIS SOFTWARE IS PROVIDED ``AS IS'' AND WITHOUT ANY EXPRESS OR
+IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED
+WARRANTIES OF MERCHANTIBILITY AND FITNESS FOR A PARTICULAR PURPOSE. </text>
+
+  
+
+LicenseID: LicenseRef-TCP-wrappers-6a91fe298447a5011299430ef5b723b0
+LicenseName: TCP Wrappers License
+ExtractedText: <text> This material was originally written and compiled by Wietse Venema at
+Eindhoven University of Technology, The Netherlands, in 1990, 1991,
+1992, 1993, 1994 and 1995.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that this entire copyright notice
+is duplicated in all such copies.
+
+This software is provided "as is" and without any expressed or implied
+warranties, including, without limitation, the implied warranties of
+merchantibility and fitness for any particular purpose. </text>
+
+  
+
+LicenseID: LicenseRef-TCP-wrappers-0bf1c742118c66da48b2cfd4406d6ba6
+LicenseName: TCP Wrappers License
+ExtractedText: <text> This material was originally written and compiled by Wietse Venema at
+Eindhoven University of Technology, The Netherlands, in 1990, 1991,
+1992, 1993, 1994 and 1995.
+
+Redistribution and use in source and binary forms are permitted
+provided that this entire copyright notice is duplicated in all such
+copies.
+
+This software is provided "as is" and without any expressed or implied
+warranties, including, without limitation, the implied warranties of
+merchantibility and fitness for any particular purpose. </text>
+
+
+
+LicenseID: LicenseRef-BSD-style
+LicenseName: BSD-style
+ExtractedText: <text> According to BSD license, add some modifications </text>
+
+
+  
+LicenseID: LicenseRef-TCP-wrappers
+LicenseName: TCP Wrappers License
+ExtractedText: <text> Copyright 1995 by Wietse Venema. All rights reserved. Some individual files may be covered by other copyrights.
+
+This material was originally written and compiled by Wietse Venema at Eindhoven University of Technology, The Netherlands, in 1990, 1991, 1992, 1993, 1994 and 1995.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that this entire copyright notice is duplicated in all such copies.
+
+This software is provided "as is" and without any expressed or implied warranties, including, without limitation, the implied warranties of merchantibility and fitness for any particular purpose.
+ </text>
+
+
+
+LicenseID: LicenseRef-BSD-possibility
+LicenseName: BSD-possibility
+ExtractedText: <text> License by Nomos. </text>
+
+
+
+LicenseID: LicenseRef-BSD
+LicenseName: BSD
+ExtractedText: <text> BSD is referenced without a version number. Please look up BSD in the License Admin to view the different versions. </text>
+
+  
+
+LicenseID: LicenseRef-scancode-bsla
+LicenseName: Berkeley Software License Agreement
+ExtractedText: <text> License by Scancode. </text>
+
+
+  
+LicenseID: LicenseRef-BSD-4.3TAHOE
+LicenseName: BSD 4.3 TAHOE License
+ExtractedText: <text> Copyright (c) 1987 Regents of the University of California. All rights reserved. 
+
+Redistribution and use in source and binary forms are permitted provided 
+that the above copyright notice and this paragraph are duplicated in all 
+such forms and that any documentation, advertising materials, and other 
+materials related to such distribution and use acknowledge that the software 
+was developed by the University of California, Berkeley. The name of the 
+University may not be used to endorse or promote products derived from this 
+software without specific prior written permission. THIS SOFTWARE IS PROVIDED 
+``AS IS'' AND WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, WITHOUT 
+LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTIBILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+ </text>
+

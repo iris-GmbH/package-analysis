@@ -1,0 +1,1576 @@
+---
+SPDXID: "SPDXRef-DOCUMENT"
+spdxVersion: "SPDX-2.3"
+creationInfo:
+  comment: "This document was created using license information and a generator from\
+    \ Fossology.\nIt contains the license and copyright analysis of dh-runit debian/2.16.7\n\
+    Please check \"LicenseComments\" for explanations of concluded licenses"
+  created: "2026-07-13T18:41:28Z"
+  creators:
+  - "Tool: fossology-4.4.0.51"
+  - "Person: Oliver Fendt"
+  licenseListVersion: "3.22"
+name: "/srv/fossology/repository/report"
+dataLicense: "CC0-1.0"
+hasExtractedLicensingInfos:
+- licenseId: "LicenseRef-CC0-1.0"
+  extractedText: "Creative Commons Legal Code\n\nCC0 1.0 Universal\n\n    CREATIVE\
+    \ COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE\n    LEGAL SERVICES.\
+    \ DISTRIBUTION OF THIS DOCUMENT DOES NOT CREATE AN\n    ATTORNEY-CLIENT RELATIONSHIP.\
+    \ CREATIVE COMMONS PROVIDES THIS\n    INFORMATION ON AN \"AS-IS\" BASIS. CREATIVE\
+    \ COMMONS MAKES NO WARRANTIES\n    REGARDING THE USE OF THIS DOCUMENT OR THE INFORMATION\
+    \ OR WORKS\n    PROVIDED HEREUNDER, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING\
+    \ FROM\n    THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED\n  \
+    \  HEREUNDER.\n\nStatement of Purpose\n\nThe laws of most jurisdictions throughout\
+    \ the world automatically confer\nexclusive Copyright and Related Rights (defined\
+    \ below) upon the creator\nand subsequent owner(s) (each and all, an \"owner\"\
+    ) of an original work of\nauthorship and/or a database (each, a \"Work\").\n\n\
+    Certain owners wish to permanently relinquish those rights to a Work for\nthe\
+    \ purpose of contributing to a commons of creative, cultural and\nscientific works\
+    \ (\"Commons\") that the public can reliably and without fear\nof later claims\
+    \ of infringement build upon, modify, incorporate in other\nworks, reuse and redistribute\
+    \ as freely as possible in any form whatsoever\nand for any purposes, including\
+    \ without limitation commercial purposes.\nThese owners may contribute to the\
+    \ Commons to promote the ideal of a free\nculture and the further production of\
+    \ creative, cultural and scientific\nworks, or to gain reputation or greater distribution\
+    \ for their Work in\npart through the use and efforts of others.\n\nFor these\
+    \ and/or other purposes and motivations, and without any\nexpectation of additional\
+    \ consideration or compensation, the person\nassociating CC0 with a Work (the\
+    \ \"Affirmer\"), to the extent that he or she\nis an owner of Copyright and Related\
+    \ Rights in the Work, voluntarily\nelects to apply CC0 to the Work and publicly\
+    \ distribute the Work under its\nterms, with knowledge of his or her Copyright\
+    \ and Related Rights in the\nWork and the meaning and intended legal effect of\
+    \ CC0 on those rights.\n\n1. Copyright and Related Rights. A Work made available\
+    \ under CC0 may be\nprotected by copyright and related or neighboring rights (\"\
+    Copyright and\nRelated Rights\"). Copyright and Related Rights include, but are\
+    \ not\nlimited to, the following:\n\n  i. the right to reproduce, adapt, distribute,\
+    \ perform, display,\n     communicate, and translate a Work;\n ii. moral rights\
+    \ retained by the original author(s) and/or performer(s);\niii. publicity and\
+    \ privacy rights pertaining to a person's image or\n     likeness depicted in\
+    \ a Work;\n iv. rights protecting against unfair competition in regards to a Work,\n\
+    \     subject to the limitations in paragraph 4(a), below;\n  v. rights protecting\
+    \ the extraction, dissemination, use and reuse of data\n     in a Work;\n vi.\
+    \ database rights (such as those arising under Directive 96/9/EC of the\n    \
+    \ European Parliament and of the Council of 11 March 1996 on the legal\n     protection\
+    \ of databases, and under any national implementation\n     thereof, including\
+    \ any amended or successor version of such\n     directive); and\nvii. other similar,\
+    \ equivalent or corresponding rights throughout the\n     world based on applicable\
+    \ law or treaty, and any national\n     implementations thereof.\n\n2. Waiver.\
+    \ To the greatest extent permitted by, but not in contravention\nof, applicable\
+    \ law, Affirmer hereby overtly, fully, permanently,\nirrevocably and unconditionally\
+    \ waives, abandons, and surrenders all of\nAffirmer's Copyright and Related Rights\
+    \ and associated claims and causes\nof action, whether now known or unknown (including\
+    \ existing as well as\nfuture claims and causes of action), in the Work (i) in\
+    \ all territories\nworldwide, (ii) for the maximum duration provided by applicable\
+    \ law or\ntreaty (including future time extensions), (iii) in any current or future\n\
+    medium and for any number of copies, and (iv) for any purpose whatsoever,\nincluding\
+    \ without limitation commercial, advertising or promotional\npurposes (the \"\
+    Waiver\"). Affirmer makes the Waiver for the benefit of each\nmember of the public\
+    \ at large and to the detriment of Affirmer's heirs and\nsuccessors, fully intending\
+    \ that such Waiver shall not be subject to\nrevocation, rescission, cancellation,\
+    \ termination, or any other legal or\nequitable action to disrupt the quiet enjoyment\
+    \ of the Work by the public\nas contemplated by Affirmer's express Statement of\
+    \ Purpose.\n\n3. Public License Fallback. Should any part of the Waiver for any\
+    \ reason\nbe judged legally invalid or ineffective under applicable law, then\
+    \ the\nWaiver shall be preserved to the maximum extent permitted taking into\n\
+    account Affirmer's express Statement of Purpose. In addition, to the\nextent the\
+    \ Waiver is so judged Affirmer hereby grants to each affected\nperson a royalty-free,\
+    \ non transferable, non sublicensable, non exclusive,\nirrevocable and unconditional\
+    \ license to exercise Affirmer's Copyright and\nRelated Rights in the Work (i)\
+    \ in all territories worldwide, (ii) for the\nmaximum duration provided by applicable\
+    \ law or treaty (including future\ntime extensions), (iii) in any current or future\
+    \ medium and for any number\nof copies, and (iv) for any purpose whatsoever, including\
+    \ without\nlimitation commercial, advertising or promotional purposes (the\n\"\
+    License\"). The License shall be deemed effective as of the date CC0 was\napplied\
+    \ by Affirmer to the Work. Should any part of the License for any\nreason be judged\
+    \ legally invalid or ineffective under applicable law, such\npartial invalidity\
+    \ or ineffectiveness shall not invalidate the remainder\nof the License, and in\
+    \ such case Affirmer hereby affirms that he or she\nwill not (i) exercise any\
+    \ of his or her remaining Copyright and Related\nRights in the Work or (ii) assert\
+    \ any associated claims and causes of\naction with respect to the Work, in either\
+    \ case contrary to Affirmer's\nexpress Statement of Purpose.\n\n4. Limitations\
+    \ and Disclaimers.\n\n a. No trademark or patent rights held by Affirmer are waived,\
+    \ abandoned,\n    surrendered, licensed or otherwise affected by this document.\n\
+    \ b. Affirmer offers the Work as-is and makes no representations or\n    warranties\
+    \ of any kind concerning the Work, express, implied,\n    statutory or otherwise,\
+    \ including without limitation warranties of\n    title, merchantability, fitness\
+    \ for a particular purpose, non\n    infringement, or the absence of latent or\
+    \ other defects, accuracy, or\n    the present or absence of errors, whether or\
+    \ not discoverable, all to\n    the greatest extent permissible under applicable\
+    \ law.\n c. Affirmer disclaims responsibility for clearing rights of other persons\n\
+    \    that may apply to the Work or any use thereof, including without\n    limitation\
+    \ any person's Copyright and Related Rights in the Work.\n    Further, Affirmer\
+    \ disclaims responsibility for obtaining any necessary\n    consents, permissions\
+    \ or other rights required for any use of the\n    Work.\n d. Affirmer understands\
+    \ and acknowledges that Creative Commons is not a\n    party to this document\
+    \ and has no duty or obligation with respect to\n    this CC0 or use of the Work."
+  name: "Creative Commons Zero v1.0 Universal"
+- licenseId: "LicenseRef-GPL-3.0-or-later"
+  extractedText: "GNU GENERAL PUBLIC LICENSE\n\nVersion 3, 29 June 2007\n\nCopyright\
+    \ © 2007 Free Software Foundation, Inc. <https://fsf.org/>\n\nEveryone is permitted\
+    \ to copy and distribute verbatim copies of this license document, but changing\
+    \ it is not allowed.\n\nPreamble\n\nThe GNU General Public License is a free,\
+    \ copyleft license for software and other kinds of works.\n\nThe licenses for\
+    \ most software and other practical works are designed to take away your freedom\
+    \ to share and change the works. By contrast, the GNU General Public License is\
+    \ intended to guarantee your freedom to share and change all versions of a program--to\
+    \ make sure it remains free software for all its users. We, the Free Software\
+    \ Foundation, use the GNU General Public License for most of our software; it\
+    \ applies also to any other work released this way by its authors. You can apply\
+    \ it to your programs, too.\n\nWhen we speak of free software, we are referring\
+    \ to freedom, not price. Our General Public Licenses are designed to make sure\
+    \ that you have the freedom to distribute copies of free software (and charge\
+    \ for them if you wish), that you receive source code or can get it if you want\
+    \ it, that you can change the software or use pieces of it in new free programs,\
+    \ and that you know you can do these things.\n\nTo protect your rights, we need\
+    \ to prevent others from denying you these rights or asking you to surrender the\
+    \ rights. Therefore, you have certain responsibilities if you distribute copies\
+    \ of the software, or if you modify it: responsibilities to respect the freedom\
+    \ of others.\n\nFor example, if you distribute copies of such a program, whether\
+    \ gratis or for a fee, you must pass on to the recipients the same freedoms that\
+    \ you received. You must make sure that they, too, receive or can get the source\
+    \ code. And you must show them these terms so they know their rights.\n\nDevelopers\
+    \ that use the GNU GPL protect your rights with two steps: (1) assert copyright\
+    \ on the software, and (2) offer you this License giving you legal permission\
+    \ to copy, distribute and/or modify it.\n\nFor the developers' and authors' protection,\
+    \ the GPL clearly explains that there is no warranty for this free software. For\
+    \ both users' and authors' sake, the GPL requires that modified versions be marked\
+    \ as changed, so that their problems will not be attributed erroneously to authors\
+    \ of previous versions.\n\nSome devices are designed to deny users access to install\
+    \ or run modified versions of the software inside them, although the manufacturer\
+    \ can do so. This is fundamentally incompatible with the aim of protecting users'\
+    \ freedom to change the software. The systematic pattern of such abuse occurs\
+    \ in the area of products for individuals to use, which is precisely where it\
+    \ is most unacceptable. Therefore, we have designed this version of the GPL to\
+    \ prohibit the practice for those products. If such problems arise substantially\
+    \ in other domains, we stand ready to extend this provision to those domains in\
+    \ future versions of the GPL, as needed to protect the freedom of users.\n\nFinally,\
+    \ every program is threatened constantly by software patents. States should not\
+    \ allow patents to restrict development and use of software on general-purpose\
+    \ computers, but in those that do, we wish to avoid the special danger that patents\
+    \ applied to a free program could make it effectively proprietary. To prevent\
+    \ this, the GPL assures that patents cannot be used to render the program non-free.\n\
+    \nThe precise terms and conditions for copying, distribution and modification\
+    \ follow.\n\nTERMS AND CONDITIONS\n\n   0. Definitions.\n\n   \"This License\"\
+    \ refers to version 3 of the GNU General Public License.\n\n   \"Copyright\" also\
+    \ means copyright-like laws that apply to other kinds of works, such as semiconductor\
+    \ masks.\n\n   \"The Program\" refers to any copyrightable work licensed under\
+    \ this License. Each licensee is addressed as \"you\". \"Licensees\" and \"recipients\"\
+    \ may be individuals or organizations.\n\n   To \"modify\" a work means to copy\
+    \ from or adapt all or part of the work in a fashion requiring copyright permission,\
+    \ other than the making of an exact copy. The resulting work is called a \"modified\
+    \ version\" of the earlier work or a work \"based on\" the earlier work.\n\n \
+    \  A \"covered work\" means either the unmodified Program or a work based on the\
+    \ Program.\n\n   To \"propagate\" a work means to do anything with it that, without\
+    \ permission, would make you directly or secondarily liable for infringement under\
+    \ applicable copyright law, except executing it on a computer or modifying a private\
+    \ copy. Propagation includes copying, distribution (with or without modification),\
+    \ making available to the public, and in some countries other activities as well.\n\
+    \n   To \"convey\" a work means any kind of propagation that enables other parties\
+    \ to make or receive copies. Mere interaction with a user through a computer network,\
+    \ with no transfer of a copy, is not conveying.\n\n   An interactive user interface\
+    \ displays \"Appropriate Legal Notices\" to the extent that it includes a convenient\
+    \ and prominently visible feature that (1) displays an appropriate copyright notice,\
+    \ and (2) tells the user that there is no warranty for the work (except to the\
+    \ extent that warranties are provided), that licensees may convey the work under\
+    \ this License, and how to view a copy of this License. If the interface presents\
+    \ a list of user commands or options, such as a menu, a prominent item in the\
+    \ list meets this criterion.\n\n   1. Source Code.\n\n   The \"source code\" for\
+    \ a work means the preferred form of the work for making modifications to it.\
+    \ \"Object code\" means any non-source form of a work.\n\n   A \"Standard Interface\"\
+    \ means an interface that either is an official standard defined by a recognized\
+    \ standards body, or, in the case of interfaces specified for a particular programming\
+    \ language, one that is widely used among developers working in that language.\n\
+    \n   The \"System Libraries\" of an executable work include anything, other than\
+    \ the work as a whole, that (a) is included in the normal form of packaging a\
+    \ Major Component, but which is not part of that Major Component, and (b) serves\
+    \ only to enable use of the work with that Major Component, or to implement a\
+    \ Standard Interface for which an implementation is available to the public in\
+    \ source code form. A \"Major Component\", in this context, means a major essential\
+    \ component (kernel, window system, and so on) of the specific operating system\
+    \ (if any) on which the executable work runs, or a compiler used to produce the\
+    \ work, or an object code interpreter used to run it.\n\n   The \"Corresponding\
+    \ Source\" for a work in object code form means all the source code needed to\
+    \ generate, install, and (for an executable work) run the object code and to modify\
+    \ the work, including scripts to control those activities. However, it does not\
+    \ include the work's System Libraries, or general-purpose tools or generally available\
+    \ free programs which are used unmodified in performing those activities but which\
+    \ are not part of the work. For example, Corresponding Source includes interface\
+    \ definition files associated with source files for the work, and the source code\
+    \ for shared libraries and dynamically linked subprograms that the work is specifically\
+    \ designed to require, such as by intimate data communication or control flow\
+    \ between those subprograms and other parts of the work.\n\n   The Corresponding\
+    \ Source need not include anything that users can regenerate automatically from\
+    \ other parts of the Corresponding Source.\n\n   The Corresponding Source for\
+    \ a work in source code form is that same work.\n\n   2. Basic Permissions.\n\n\
+    \   All rights granted under this License are granted for the term of copyright\
+    \ on the Program, and are irrevocable provided the stated conditions are met.\
+    \ This License explicitly affirms your unlimited permission to run the unmodified\
+    \ Program. The output from running a covered work is covered by this License only\
+    \ if the output, given its content, constitutes a covered work. This License acknowledges\
+    \ your rights of fair use or other equivalent, as provided by copyright law.\n\
+    \n   You may make, run and propagate covered works that you do not convey, without\
+    \ conditions so long as your license otherwise remains in force. You may convey\
+    \ covered works to others for the sole purpose of having them make modifications\
+    \ exclusively for you, or provide you with facilities for running those works,\
+    \ provided that you comply with the terms of this License in conveying all material\
+    \ for which you do not control copyright. Those thus making or running the covered\
+    \ works for you must do so exclusively on your behalf, under your direction and\
+    \ control, on terms that prohibit them from making any copies of your copyrighted\
+    \ material outside their relationship with you.\n\n   Conveying under any other\
+    \ circumstances is permitted solely under the conditions stated below. Sublicensing\
+    \ is not allowed; section 10 makes it unnecessary.\n\n   3. Protecting Users'\
+    \ Legal Rights From Anti-Circumvention Law.\n\n   No covered work shall be deemed\
+    \ part of an effective technological measure under any applicable law fulfilling\
+    \ obligations under article 11 of the WIPO copyright treaty adopted on 20 December\
+    \ 1996, or similar laws prohibiting or restricting circumvention of such measures.\n\
+    \n   When you convey a covered work, you waive any legal power to forbid circumvention\
+    \ of technological measures to the extent such circumvention is effected by exercising\
+    \ rights under this License with respect to the covered work, and you disclaim\
+    \ any intention to limit operation or modification of the work as a means of enforcing,\
+    \ against the work's users, your or third parties' legal rights to forbid circumvention\
+    \ of technological measures.\n\n   4. Conveying Verbatim Copies.\n\n   You may\
+    \ convey verbatim copies of the Program's source code as you receive it, in any\
+    \ medium, provided that you conspicuously and appropriately publish on each copy\
+    \ an appropriate copyright notice; keep intact all notices stating that this License\
+    \ and any non-permissive terms added in accord with section 7 apply to the code;\
+    \ keep intact all notices of the absence of any warranty; and give all recipients\
+    \ a copy of this License along with the Program.\n\n   You may charge any price\
+    \ or no price for each copy that you convey, and you may offer support or warranty\
+    \ protection for a fee.\n\n   5. Conveying Modified Source Versions.\n\n   You\
+    \ may convey a work based on the Program, or the modifications to produce it from\
+    \ the Program, in the form of source code under the terms of section 4, provided\
+    \ that you also meet all of these conditions:\n\n      a) The work must carry\
+    \ prominent notices stating that you modified it, and giving a relevant date.\n\
+    \n      b) The work must carry prominent notices stating that it is released under\
+    \ this License and any conditions added under section 7. This requirement modifies\
+    \ the requirement in section 4 to \"keep intact all notices\".\n\n      c) You\
+    \ must license the entire work, as a whole, under this License to anyone who comes\
+    \ into possession of a copy. This License will therefore apply, along with any\
+    \ applicable section 7 additional terms, to the whole of the work, and all its\
+    \ parts, regardless of how they are packaged. This License gives no permission\
+    \ to license the work in any other way, but it does not invalidate such permission\
+    \ if you have separately received it.\n\n      d) If the work has interactive\
+    \ user interfaces, each must display Appropriate Legal Notices; however, if the\
+    \ Program has interactive interfaces that do not display Appropriate Legal Notices,\
+    \ your work need not make them do so.\n\n   A compilation of a covered work with\
+    \ other separate and independent works, which are not by their nature extensions\
+    \ of the covered work, and which are not combined with it such as to form a larger\
+    \ program, in or on a volume of a storage or distribution medium, is called an\
+    \ \"aggregate\" if the compilation and its resulting copyright are not used to\
+    \ limit the access or legal rights of the compilation's users beyond what the\
+    \ individual works permit. Inclusion of a covered work in an aggregate does not\
+    \ cause this License to apply to the other parts of the aggregate.\n\n   6. Conveying\
+    \ Non-Source Forms.\n\n   You may convey a covered work in object code form under\
+    \ the terms of sections 4 and 5, provided that you also convey the machine-readable\
+    \ Corresponding Source under the terms of this License, in one of these ways:\n\
+    \n      a) Convey the object code in, or embodied in, a physical product (including\
+    \ a physical distribution medium), accompanied by the Corresponding Source fixed\
+    \ on a durable physical medium customarily used for software interchange.\n\n\
+    \      b) Convey the object code in, or embodied in, a physical product (including\
+    \ a physical distribution medium), accompanied by a written offer, valid for at\
+    \ least three years and valid for as long as you offer spare parts or customer\
+    \ support for that product model, to give anyone who possesses the object code\
+    \ either (1) a copy of the Corresponding Source for all the software in the product\
+    \ that is covered by this License, on a durable physical medium customarily used\
+    \ for software interchange, for a price no more than your reasonable cost of physically\
+    \ performing this conveying of source, or (2) access to copy the Corresponding\
+    \ Source from a network server at no charge.\n\n      c) Convey individual copies\
+    \ of the object code with a copy of the written offer to provide the Corresponding\
+    \ Source. This alternative is allowed only occasionally and noncommercially, and\
+    \ only if you received the object code with such an offer, in accord with subsection\
+    \ 6b.\n\n      d) Convey the object code by offering access from a designated\
+    \ place (gratis or for a charge), and offer equivalent access to the Corresponding\
+    \ Source in the same way through the same place at no further charge. You need\
+    \ not require recipients to copy the Corresponding Source along with the object\
+    \ code. If the place to copy the object code is a network server, the Corresponding\
+    \ Source may be on a different server (operated by you or a third party) that\
+    \ supports equivalent copying facilities, provided you maintain clear directions\
+    \ next to the object code saying where to find the Corresponding Source. Regardless\
+    \ of what server hosts the Corresponding Source, you remain obligated to ensure\
+    \ that it is available for as long as needed to satisfy these requirements.\n\n\
+    \      e) Convey the object code using peer-to-peer transmission, provided you\
+    \ inform other peers where the object code and Corresponding Source of the work\
+    \ are being offered to the general public at no charge under subsection 6d.\n\n\
+    \   A separable portion of the object code, whose source code is excluded from\
+    \ the Corresponding Source as a System Library, need not be included in conveying\
+    \ the object code work.\n\n   A \"User Product\" is either (1) a \"consumer product\"\
+    , which means any tangible personal property which is normally used for personal,\
+    \ family, or household purposes, or (2) anything designed or sold for incorporation\
+    \ into a dwelling. In determining whether a product is a consumer product, doubtful\
+    \ cases shall be resolved in favor of coverage. For a particular product received\
+    \ by a particular user, \"normally used\" refers to a typical or common use of\
+    \ that class of product, regardless of the status of the particular user or of\
+    \ the way in which the particular user actually uses, or expects or is expected\
+    \ to use, the product. A product is a consumer product regardless of whether the\
+    \ product has substantial commercial, industrial or non-consumer uses, unless\
+    \ such uses represent the only significant mode of use of the product.\n\n   \"\
+    Installation Information\" for a User Product means any methods, procedures, authorization\
+    \ keys, or other information required to install and execute modified versions\
+    \ of a covered work in that User Product from a modified version of its Corresponding\
+    \ Source. The information must suffice to ensure that the continued functioning\
+    \ of the modified object code is in no case prevented or interfered with solely\
+    \ because modification has been made.\n\n   If you convey an object code work\
+    \ under this section in, or with, or specifically for use in, a User Product,\
+    \ and the conveying occurs as part of a transaction in which the right of possession\
+    \ and use of the User Product is transferred to the recipient in perpetuity or\
+    \ for a fixed term (regardless of how the transaction is characterized), the Corresponding\
+    \ Source conveyed under this section must be accompanied by the Installation Information.\
+    \ But this requirement does not apply if neither you nor any third party retains\
+    \ the ability to install modified object code on the User Product (for example,\
+    \ the work has been installed in ROM).\n\n   The requirement to provide Installation\
+    \ Information does not include a requirement to continue to provide support service,\
+    \ warranty, or updates for a work that has been modified or installed by the recipient,\
+    \ or for the User Product in which it has been modified or installed. Access to\
+    \ a network may be denied when the modification itself materially and adversely\
+    \ affects the operation of the network or violates the rules and protocols for\
+    \ communication across the network.\n\n   Corresponding Source conveyed, and Installation\
+    \ Information provided, in accord with this section must be in a format that is\
+    \ publicly documented (and with an implementation available to the public in source\
+    \ code form), and must require no special password or key for unpacking, reading\
+    \ or copying.\n\n   7. Additional Terms.\n\n   \"Additional permissions\" are\
+    \ terms that supplement the terms of this License by making exceptions from one\
+    \ or more of its conditions. Additional permissions that are applicable to the\
+    \ entire Program shall be treated as though they were included in this License,\
+    \ to the extent that they are valid under applicable law. If additional permissions\
+    \ apply only to part of the Program, that part may be used separately under those\
+    \ permissions, but the entire Program remains governed by this License without\
+    \ regard to the additional permissions.\n\n   When you convey a copy of a covered\
+    \ work, you may at your option remove any additional permissions from that copy,\
+    \ or from any part of it. (Additional permissions may be written to require their\
+    \ own removal in certain cases when you modify the work.) You may place additional\
+    \ permissions on material, added by you to a covered work, for which you have\
+    \ or can give appropriate copyright permission.\n\n   Notwithstanding any other\
+    \ provision of this License, for material you add to a covered work, you may (if\
+    \ authorized by the copyright holders of that material) supplement the terms of\
+    \ this License with terms:\n\n      a) Disclaiming warranty or limiting liability\
+    \ differently from the terms of sections 15 and 16 of this License; or\n\n   \
+    \   b) Requiring preservation of specified reasonable legal notices or author\
+    \ attributions in that material or in the Appropriate Legal Notices displayed\
+    \ by works containing it; or\n\n      c) Prohibiting misrepresentation of the\
+    \ origin of that material, or requiring that modified versions of such material\
+    \ be marked in reasonable ways as different from the original version; or\n\n\
+    \      d) Limiting the use for publicity purposes of names of licensors or authors\
+    \ of the material; or\n\n      e) Declining to grant rights under trademark law\
+    \ for use of some trade names, trademarks, or service marks; or\n\n      f) Requiring\
+    \ indemnification of licensors and authors of that material by anyone who conveys\
+    \ the material (or modified versions of it) with contractual assumptions of liability\
+    \ to the recipient, for any liability that these contractual assumptions directly\
+    \ impose on those licensors and authors.\n\n   All other non-permissive additional\
+    \ terms are considered \"further restrictions\" within the meaning of section\
+    \ 10. If the Program as you received it, or any part of it, contains a notice\
+    \ stating that it is governed by this License along with a term that is a further\
+    \ restriction, you may remove that term. If a license document contains a further\
+    \ restriction but permits relicensing or conveying under this License, you may\
+    \ add to a covered work material governed by the terms of that license document,\
+    \ provided that the further restriction does not survive such relicensing or conveying.\n\
+    \n   If you add terms to a covered work in accord with this section, you must\
+    \ place, in the relevant source files, a statement of the additional terms that\
+    \ apply to those files, or a notice indicating where to find the applicable terms.\n\
+    \n   Additional terms, permissive or non-permissive, may be stated in the form\
+    \ of a separately written license, or stated as exceptions; the above requirements\
+    \ apply either way.\n\n   8. Termination.\n\n   You may not propagate or modify\
+    \ a covered work except as expressly provided under this License. Any attempt\
+    \ otherwise to propagate or modify it is void, and will automatically terminate\
+    \ your rights under this License (including any patent licenses granted under\
+    \ the third paragraph of section 11).\n\n   However, if you cease all violation\
+    \ of this License, then your license from a particular copyright holder is reinstated\
+    \ (a) provisionally, unless and until the copyright holder explicitly and finally\
+    \ terminates your license, and (b) permanently, if the copyright holder fails\
+    \ to notify you of the violation by some reasonable means prior to 60 days after\
+    \ the cessation.\n\n   Moreover, your license from a particular copyright holder\
+    \ is reinstated permanently if the copyright holder notifies you of the violation\
+    \ by some reasonable means, this is the first time you have received notice of\
+    \ violation of this License (for any work) from that copyright holder, and you\
+    \ cure the violation prior to 30 days after your receipt of the notice.\n\n  \
+    \ Termination of your rights under this section does not terminate the licenses\
+    \ of parties who have received copies or rights from you under this License. If\
+    \ your rights have been terminated and not permanently reinstated, you do not\
+    \ qualify to receive new licenses for the same material under section 10.\n\n\
+    \   9. Acceptance Not Required for Having Copies.\n\n   You are not required to\
+    \ accept this License in order to receive or run a copy of the Program. Ancillary\
+    \ propagation of a covered work occurring solely as a consequence of using peer-to-peer\
+    \ transmission to receive a copy likewise does not require acceptance. However,\
+    \ nothing other than this License grants you permission to propagate or modify\
+    \ any covered work. These actions infringe copyright if you do not accept this\
+    \ License. Therefore, by modifying or propagating a covered work, you indicate\
+    \ your acceptance of this License to do so.\n\n   10. Automatic Licensing of Downstream\
+    \ Recipients.\n\n   Each time you convey a covered work, the recipient automatically\
+    \ receives a license from the original licensors, to run, modify and propagate\
+    \ that work, subject to this License. You are not responsible for enforcing compliance\
+    \ by third parties with this License.\n\n   An \"entity transaction\" is a transaction\
+    \ transferring control of an organization, or substantially all assets of one,\
+    \ or subdividing an organization, or merging organizations. If propagation of\
+    \ a covered work results from an entity transaction, each party to that transaction\
+    \ who receives a copy of the work also receives whatever licenses to the work\
+    \ the party's predecessor in interest had or could give under the previous paragraph,\
+    \ plus a right to possession of the Corresponding Source of the work from the\
+    \ predecessor in interest, if the predecessor has it or can get it with reasonable\
+    \ efforts.\n\n   You may not impose any further restrictions on the exercise of\
+    \ the rights granted or affirmed under this License. For example, you may not\
+    \ impose a license fee, royalty, or other charge for exercise of rights granted\
+    \ under this License, and you may not initiate litigation (including a cross-claim\
+    \ or counterclaim in a lawsuit) alleging that any patent claim is infringed by\
+    \ making, using, selling, offering for sale, or importing the Program or any portion\
+    \ of it.\n\n   11. Patents.\n\n   A \"contributor\" is a copyright holder who\
+    \ authorizes use under this License of the Program or a work on which the Program\
+    \ is based. The work thus licensed is called the contributor's \"contributor version\"\
+    .\n\n   A contributor's \"essential patent claims\" are all patent claims owned\
+    \ or controlled by the contributor, whether already acquired or hereafter acquired,\
+    \ that would be infringed by some manner, permitted by this License, of making,\
+    \ using, or selling its contributor version, but do not include claims that would\
+    \ be infringed only as a consequence of further modification of the contributor\
+    \ version. For purposes of this definition, \"control\" includes the right to\
+    \ grant patent sublicenses in a manner consistent with the requirements of this\
+    \ License.\n\n   Each contributor grants you a non-exclusive, worldwide, royalty-free\
+    \ patent license under the contributor's essential patent claims, to make, use,\
+    \ sell, offer for sale, import and otherwise run, modify and propagate the contents\
+    \ of its contributor version.\n\n   In the following three paragraphs, a \"patent\
+    \ license\" is any express agreement or commitment, however denominated, not to\
+    \ enforce a patent (such as an express permission to practice a patent or covenant\
+    \ not to sue for patent infringement). To \"grant\" such a patent license to a\
+    \ party means to make such an agreement or commitment not to enforce a patent\
+    \ against the party.\n\n   If you convey a covered work, knowingly relying on\
+    \ a patent license, and the Corresponding Source of the work is not available\
+    \ for anyone to copy, free of charge and under the terms of this License, through\
+    \ a publicly available network server or other readily accessible means, then\
+    \ you must either (1) cause the Corresponding Source to be so available, or (2)\
+    \ arrange to deprive yourself of the benefit of the patent license for this particular\
+    \ work, or (3) arrange, in a manner consistent with the requirements of this License,\
+    \ to extend the patent license to downstream recipients. \"Knowingly relying\"\
+    \ means you have actual knowledge that, but for the patent license, your conveying\
+    \ the covered work in a country, or your recipient's use of the covered work in\
+    \ a country, would infringe one or more identifiable patents in that country that\
+    \ you have reason to believe are valid.\n\n   If, pursuant to or in connection\
+    \ with a single transaction or arrangement, you convey, or propagate by procuring\
+    \ conveyance of, a covered work, and grant a patent license to some of the parties\
+    \ receiving the covered work authorizing them to use, propagate, modify or convey\
+    \ a specific copy of the covered work, then the patent license you grant is automatically\
+    \ extended to all recipients of the covered work and works based on it.\n\n  \
+    \ A patent license is \"discriminatory\" if it does not include within the scope\
+    \ of its coverage, prohibits the exercise of, or is conditioned on the non-exercise\
+    \ of one or more of the rights that are specifically granted under this License.\
+    \ You may not convey a covered work if you are a party to an arrangement with\
+    \ a third party that is in the business of distributing software, under which\
+    \ you make payment to the third party based on the extent of your activity of\
+    \ conveying the work, and under which the third party grants, to any of the parties\
+    \ who would receive the covered work from you, a discriminatory patent license\
+    \ (a) in connection with copies of the covered work conveyed by you (or copies\
+    \ made from those copies), or (b) primarily for and in connection with specific\
+    \ products or compilations that contain the covered work, unless you entered into\
+    \ that arrangement, or that patent license was granted, prior to 28 March 2007.\n\
+    \n   Nothing in this License shall be construed as excluding or limiting any implied\
+    \ license or other defenses to infringement that may otherwise be available to\
+    \ you under applicable patent law.\n\n   12. No Surrender of Others' Freedom.\n\
+    \n   If conditions are imposed on you (whether by court order, agreement or otherwise)\
+    \ that contradict the conditions of this License, they do not excuse you from\
+    \ the conditions of this License. If you cannot convey a covered work so as to\
+    \ satisfy simultaneously your obligations under this License and any other pertinent\
+    \ obligations, then as a consequence you may not convey it at all. For example,\
+    \ if you agree to terms that obligate you to collect a royalty for further conveying\
+    \ from those to whom you convey the Program, the only way you could satisfy both\
+    \ those terms and this License would be to refrain entirely from conveying the\
+    \ Program.\n\n   13. Use with the GNU Affero General Public License.\n\n   Notwithstanding\
+    \ any other provision of this License, you have permission to link or combine\
+    \ any covered work with a work licensed under version 3 of the GNU Affero General\
+    \ Public License into a single combined work, and to convey the resulting work.\
+    \ The terms of this License will continue to apply to the part which is the covered\
+    \ work, but the special requirements of the GNU Affero General Public License,\
+    \ section 13, concerning interaction through a network will apply to the combination\
+    \ as such.\n\n   14. Revised Versions of this License.\n\n   The Free Software\
+    \ Foundation may publish revised and/or new versions of the GNU General Public\
+    \ License from time to time. Such new versions will be similar in spirit to the\
+    \ present version, but may differ in detail to address new problems or concerns.\n\
+    \n   Each version is given a distinguishing version number. If the Program specifies\
+    \ that a certain numbered version of the GNU General Public License \"or any later\
+    \ version\" applies to it, you have the option of following the terms and conditions\
+    \ either of that numbered version or of any later version published by the Free\
+    \ Software Foundation. If the Program does not specify a version number of the\
+    \ GNU General Public License, you may choose any version ever published by the\
+    \ Free Software Foundation.\n\n   If the Program specifies that a proxy can decide\
+    \ which future versions of the GNU General Public License can be used, that proxy's\
+    \ public statement of acceptance of a version permanently authorizes you to choose\
+    \ that version for the Program.\n\n   Later license versions may give you additional\
+    \ or different permissions. However, no additional obligations are imposed on\
+    \ any author or copyright holder as a result of your choosing to follow a later\
+    \ version.\n\n   15. Disclaimer of Warranty.\n\n   THERE IS NO WARRANTY FOR THE\
+    \ PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED\
+    \ IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM \"\
+    AS IS\" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING,\
+    \ BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR\
+    \ A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE\
+    \ PROGRAM IS WITH YOU. SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST\
+    \ OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.\n\n   16. Limitation of Liability.\n\
+    \n   IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL\
+    \ ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS THE PROGRAM\
+    \ AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL,\
+    \ INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE\
+    \ THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED\
+    \ INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM\
+    \ TO OPERATE WITH ANY OTHER PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS\
+    \ BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.\n\n   17. Interpretation of\
+    \ Sections 15 and 16.\n\nIf the disclaimer of warranty and limitation of liability\
+    \ provided above cannot be given local legal effect according to their terms,\
+    \ reviewing courts shall apply local law that most closely approximates an absolute\
+    \ waiver of all civil liability in connection with the Program, unless a warranty\
+    \ or assumption of liability accompanies a copy of the Program in return for a\
+    \ fee.\n\nEND OF TERMS AND CONDITIONS\n\nHow to Apply These Terms to Your New\
+    \ Programs\n\nIf you develop a new program, and you want it to be of the greatest\
+    \ possible use to the public, the best way to achieve this is to make it free\
+    \ software which everyone can redistribute and change under these terms.\n\nTo\
+    \ do so, attach the following notices to the program. It is safest to attach them\
+    \ to the start of each source file to most effectively state the exclusion of\
+    \ warranty; and each file should have at least the \"copyright\" line and a pointer\
+    \ to where the full notice is found.\n\n<one line to give the program's name and\
+    \ a brief idea of what it does.>\n\nCopyright (C) <year> <name of author>\n\n\
+    This program is free software: you can redistribute it and/or modify it under\
+    \ the terms of the GNU General Public License as published by the Free Software\
+    \ Foundation, either version 3 of the License, or (at your option) any later version.\n\
+    \nThis program is distributed in the hope that it will be useful, but WITHOUT\
+    \ ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS\
+    \ FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.\n\
+    \nYou should have received a copy of the GNU General Public License along with\
+    \ this program. If not, see <https://www.gnu.org/licenses/>.\n\nAlso add information\
+    \ on how to contact you by electronic and paper mail.\n\nIf the program does terminal\
+    \ interaction, make it output a short notice like this when it starts in an interactive\
+    \ mode:\n\n<program> Copyright (C) <year> <name of author>\n\nThis program comes\
+    \ with ABSOLUTELY NO WARRANTY; for details type `show w'.\n\nThis is free software,\
+    \ and you are welcome to redistribute it under certain conditions; type `show\
+    \ c' for details.\n\nThe hypothetical commands `show w' and `show c' should show\
+    \ the appropriate parts of the General Public License. Of course, your program's\
+    \ commands might be different; for a GUI interface, you would use an \"about box\"\
+    .\n\nYou should also get your employer (if you work as a programmer) or school,\
+    \ if any, to sign a \"copyright disclaimer\" for the program, if necessary. For\
+    \ more information on this, and how to apply and follow the GNU GPL, see <https://www.gnu.org/licenses/>.\n\
+    \nThe GNU General Public License does not permit incorporating your program into\
+    \ proprietary programs. If your program is a subroutine library, you may consider\
+    \ it more useful to permit linking proprietary applications with the library.\
+    \ If this is what you want to do, use the GNU Lesser General Public License instead\
+    \ of this License. But first, please read <https://www.gnu.org/ licenses /why-not-lgpl.html>."
+  name: "GNU General Public License v3.0 or later"
+documentNamespace: "http://fossy.osadl.org/repo/SPDX2TV_dh-runit-debian-2.16.7.tar.gz_1783968087.spdx"
+packages:
+- SPDXID: "SPDXRef-upload4747"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "0e87129734bfc17ad868f806b8bf0b4c"
+  - algorithm: "SHA1"
+    checksumValue: "6045faff92a304f42c367e84fa98b0ec67307d00"
+  - algorithm: "SHA256"
+    checksumValue: "53cd6bf28eb2b888fce48e0178247ae8bf14e266a2dd353f114ad472d2c1b457"
+  copyrightText: "NOASSERTION"
+  downloadLocation: "https://salsa.debian.org/debian/dh-runit/-/archive/debian/2.16.7/dh-runit-debian-2.16.7.tar.gz?ref_type=tags"
+  externalRefs:
+  - referenceCategory: "PACKAGE-MANAGER"
+    referenceLocator: "pkg:generic/dh-runit@debian/2.16.7?download_url=https://salsa.debian.org/debian/dh-runit/-/archive/debian/2.16.7/dh-runit-debian-2.16.7.tar.gz%3Fref_type%3Dtags"
+    referenceType: "purl"
+  filesAnalyzed: true
+  licenseComments: "licenseInfoInFile determined by Scanners:\n - nomos (\"4.4.0.51\"\
+    .1e52cb)\n - monk (\"4.4.0.51\".1e52cb)\n - ojo (\"4.4.0.51\".1e52cb)\n- scancode\
+    \ (\"4.4.0.51\".1e52cb)"
+  licenseConcluded: "NOASSERTION"
+  licenseDeclared: "LicenseRef-GPL-3.0-or-later"
+  licenseInfoFromFiles:
+  - "NOASSERTION"
+  name: "dh-runit-debian-2.16.7.tar.gz"
+  packageFileName: "dh-runit-debian-2.16.7.tar.gz"
+  packageVerificationCode:
+    packageVerificationCodeValue: "1f3143b05311b4be1381c91a7fd278f63dc4f1fc"
+files:
+- SPDXID: "SPDXRef-item21624987"
+  checksums:
+  - algorithm: "SHA1"
+    checksumValue: "1dfed3f1539b4505508175ee88bf5d183d980e25"
+  - algorithm: "SHA256"
+    checksumValue: "997c3181bfbbbbf971dc2341ec02348984bdb20c329f4c655874ebf03c667da0"
+  - algorithm: "MD5"
+    checksumValue: "08756a14d414cf53fc0739aa33d57cff"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/dh_runit"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21624991"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "e05c8af9579438ef7cb710634a019463"
+  - algorithm: "SHA256"
+    checksumValue: "a4ba65a127950a91323282d0c9952ebebcdc720b30f33173c5866e73169f1948"
+  - algorithm: "SHA1"
+    checksumValue: "ccd09da18f4b6c2dabd5a93dc18e9c63276ee1e7"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/t/checks/935997/check"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21624993"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "fe8b787e1951e6ca57ef43eda124c788"
+  - algorithm: "SHA1"
+    checksumValue: "52ca14c1c817a4bfb25e6dd7b93052e03ac3238f"
+  - algorithm: "SHA256"
+    checksumValue: "4e2141a0d13c967dfc23661b85a0aeae96c39d56614bb9cc6a9e478752a76941"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/t/checks/935997/debian/dh-runit-test.runit"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21624995"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "37a93b6b162663611b67885da5f402899cca9eb60f66ad8b8a183288821bd431"
+  - algorithm: "MD5"
+    checksumValue: "ec4079247d5723b0fe1ba19959545d33"
+  - algorithm: "SHA1"
+    checksumValue: "32917c9ebc17ba833d7bcc3ca73ed17cd2cf1896"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/t/checks/finish/check"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21624997"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "4d845e23dc458ee3a645726df9a271066d1d0e8a81b554761a38a3d1a701a87f"
+  - algorithm: "MD5"
+    checksumValue: "741c62ed5f6cb9d15b92b2034cf6b9be"
+  - algorithm: "SHA1"
+    checksumValue: "166c174d771e8b057ab918e556ff32682d423727"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/t/checks/finish/debian/dh-runit-test.runit"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21624999"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "45a6e642f86cc3f94b62c009ca5d03a7"
+  - algorithm: "SHA1"
+    checksumValue: "f8918ccb1aae92ae3002174d11a3491d95d117ce"
+  - algorithm: "SHA256"
+    checksumValue: "dc9a8afd5b9ef3054e5f3c9ba59c23347336be48f1764067b4dcfaa115c382f0"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/t/checks/metafiles-usr/check"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625001"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "a96a15ae6b54aec1169d67675f6be83d"
+  - algorithm: "SHA1"
+    checksumValue: "ad624f067c2b317f9feb64e23a774aa4eb2d3d72"
+  - algorithm: "SHA256"
+    checksumValue: "5bf7b2fd2b4e4cf491a713ffb9ae140a1c44f5a2e512cf472da9702a53fbf467"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/t/checks/metafiles-usr/debian/dh-runit-test.runit"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625003"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "6950fcf4120fb0fec893dc05c7edeafce3abba187fd425fc9eb7d68d8d98de32"
+  - algorithm: "MD5"
+    checksumValue: "5e97747c04d34e2c4912d74eaa42a642"
+  - algorithm: "SHA1"
+    checksumValue: "2d1451e64f54448cce39d99e4e553411697eb637"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/t/checks/924903/check"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625005"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "4dd1b201dd11c0268a21caf9b539164a"
+  - algorithm: "SHA1"
+    checksumValue: "de382988db69cd6cc93b2aae76332dcf3c1f3558"
+  - algorithm: "SHA256"
+    checksumValue: "6be376e9e7588ca09b0cf73367aab3c2b23c4cdd6408927a1f8d42131e5aa4df"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/t/checks/924903/debian/dh-runit-test.runit"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625007"
+  checksums:
+  - algorithm: "SHA1"
+    checksumValue: "115d1b847853f4eae2acc0e873e4c1d33844776a"
+  - algorithm: "SHA256"
+    checksumValue: "d2c3ae8b8bb6f5f0070f05e66043985045b5fbb9c7a6a1a60a1a15d4c8b4e8e5"
+  - algorithm: "MD5"
+    checksumValue: "84cf405c7b88ff1a0a4712a2af28206c"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/t/checks/bin-etc/check"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625009"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "ff6905c5578831a0ed0fd99c0462ea76"
+  - algorithm: "SHA1"
+    checksumValue: "bb8d1db983a4baace6976a9ab959a0428ab84b9a"
+  - algorithm: "SHA256"
+    checksumValue: "2cc4a9add2c052fca89b7c43530234c9ed699761dbbb46c1883b52e3e964ca43"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/t/checks/bin-etc/debian/dh-runit-test.runit"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625011"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "2d3640174c54324e86c02abe04f53899c95536db449da0bca39e051bdc2a87d2"
+  - algorithm: "MD5"
+    checksumValue: "6173532eca4a5d40224a7444a649d901"
+  - algorithm: "SHA1"
+    checksumValue: "760fe6fd3eb1922b0fa9a7b8674beb6f9ad4cb10"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/t/checks/931425/check"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625013"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "19d553442b8edd590a7cfadd7b43769f097a87b3f5c431a4755cd2d63cf7c92a"
+  - algorithm: "MD5"
+    checksumValue: "3277acf59317b7ed119c8c981682f138"
+  - algorithm: "SHA1"
+    checksumValue: "ffa25790c4abd705650ac6825a523700940e9fa4"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/t/checks/931425/debian/dh-runit-test.runit"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625015"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "b18b3d5242d4b8933bd7936c6da4f9c2"
+  - algorithm: "SHA1"
+    checksumValue: "ed692be9c838b25712f7066de3591bbcbf234e7e"
+  - algorithm: "SHA256"
+    checksumValue: "c394ca96a32714232e6c78f78ae2d5951b588fad3e48ef80be1b1e76a73f2157"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/t/checks/metafiles-usr-noimplicit/check"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625017"
+  checksums:
+  - algorithm: "SHA1"
+    checksumValue: "87c789b08cc036db258f2f168dae2801001b6c38"
+  - algorithm: "SHA256"
+    checksumValue: "c522f0509179557ed6e2af2427373ff6e5d074f8df8528002c168acf8032c754"
+  - algorithm: "MD5"
+    checksumValue: "52b034f1bc034da6b675f46384d9ff9f"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/t/checks/metafiles-usr-noimplicit/debian/dh-runit-test.runit"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625019"
+  checksums:
+  - algorithm: "SHA1"
+    checksumValue: "bdc4bbc3c5e1c7b26ed79789cc35212a3313f78d"
+  - algorithm: "SHA256"
+    checksumValue: "48b73ee848cb47e136579f7f64e3cab3423f6a1f5bf99c13df2de33b401f4f5d"
+  - algorithm: "MD5"
+    checksumValue: "8a34294bfa3877c7d05e3e7543a92f51"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/t/checks/usr/check"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625021"
+  checksums:
+  - algorithm: "SHA1"
+    checksumValue: "53f32b9b2640dd63262b94af4ed4a03722b9130f"
+  - algorithm: "SHA256"
+    checksumValue: "c4a0f161f179b33ad4e69899ad7610668d60c9eb6fe43ffc0ff3856b4cac04eb"
+  - algorithm: "MD5"
+    checksumValue: "912cffa2f944729e9bdda07678092ed7"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/t/checks/usr/debian/dh-runit-test.runit"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625023"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "7991c9958ad3ec088c80a2789babb8c6"
+  - algorithm: "SHA1"
+    checksumValue: "3ac566fa0370f77b6bcb7db5b98ecbe93a03c702"
+  - algorithm: "SHA256"
+    checksumValue: "60ee00019fdf0d5333cd35060cfe22af1afe7382ad4778a5ceabee07f5458664"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/t/checks/929778/check"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625025"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "c6d6b51e4cb1c61e0a985d6e370f4429"
+  - algorithm: "SHA1"
+    checksumValue: "b380c23866e2b45b04991f1b6c68e952712e1103"
+  - algorithm: "SHA256"
+    checksumValue: "6c21d7d7c28f1a29a6b5bacdf4f5ae52d6b964311830b9961eff09460f64799d"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/t/checks/929778/debian/dh-runit-test.runit"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625027"
+  checksums:
+  - algorithm: "SHA1"
+    checksumValue: "328d94d3c7ae02d438e49fe80e54dd7f39353382"
+  - algorithm: "SHA256"
+    checksumValue: "b55f6dc84dfd425985d918b14094a4ba2f5194c1ec6f3912f91e4880e24ac0a8"
+  - algorithm: "MD5"
+    checksumValue: "ff80c1c722094e5c1e135bcb2cd81f24"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/t/checks/reload-noreplace/check"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625029"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "8ca2d0891d790352d5d199a34d112652780f8adda0a08777a3c6f22a48eeebae"
+  - algorithm: "MD5"
+    checksumValue: "9c7097449073b2a218d5e80786bb7286"
+  - algorithm: "SHA1"
+    checksumValue: "903d4906fe19d16f71c5b091dcef5b83d2df3c40"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/t/checks/reload-noreplace/debian/dh-runit-test.runit"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625031"
+  checksums:
+  - algorithm: "SHA1"
+    checksumValue: "87fb5b9f67ec811ac15c65c0b4a0292955870550"
+  - algorithm: "SHA256"
+    checksumValue: "b878540d47349a52198c47862965f826df7af33217b0ffd5d3583883890efea3"
+  - algorithm: "MD5"
+    checksumValue: "03f79a59c10830776b7081e5fb8da54f"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/t/checks/metafiles/check"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625033"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "6ffafaffd8bd1ca3efb7c21c058978c2e90379f4a7b3f18e367cd0767fc73d5b"
+  - algorithm: "MD5"
+    checksumValue: "5488ccfa7adb500c0955fe4dfa656dd4"
+  - algorithm: "SHA1"
+    checksumValue: "36e8339585d52010a8b7738c6690d108d59bed4f"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/t/checks/metafiles/debian/dh-runit-test.runit"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625035"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "6d429b79226b2ff7a3aab01a77bab1b9"
+  - algorithm: "SHA1"
+    checksumValue: "ed369364512206deecf395c8579e0187cec56a46"
+  - algorithm: "SHA256"
+    checksumValue: "63c522f1d4125c16af12c42fa2596ab86e540960406d6c48b87c05eec9965054"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/t/checks/934173/check"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625037"
+  checksums:
+  - algorithm: "SHA1"
+    checksumValue: "30067bdb1e53fb0bec29eb44f2e94c7a1a91e8ad"
+  - algorithm: "SHA256"
+    checksumValue: "4a1e91a4ba70e2bd59fce433369e567b90a3ee518f6edc33278c076658ca80f7"
+  - algorithm: "MD5"
+    checksumValue: "ccb3b69e41b945cd5f47d8c4b61ca533"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/t/checks/934173/debian/dh-runit-test.runit"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625039"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  - algorithm: "MD5"
+    checksumValue: "d41d8cd98f00b204e9800998ecf8427e"
+  - algorithm: "SHA1"
+    checksumValue: "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/t/checks/934173/debian/test.rundir/finish"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625041"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  - algorithm: "MD5"
+    checksumValue: "d41d8cd98f00b204e9800998ecf8427e"
+  - algorithm: "SHA1"
+    checksumValue: "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/t/checks/934173/debian/test.rundir/control/u"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625042"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  - algorithm: "MD5"
+    checksumValue: "d41d8cd98f00b204e9800998ecf8427e"
+  - algorithm: "SHA1"
+    checksumValue: "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/t/checks/934173/debian/test.rundir/check"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625043"
+  checksums:
+  - algorithm: "SHA1"
+    checksumValue: "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  - algorithm: "SHA256"
+    checksumValue: "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  - algorithm: "MD5"
+    checksumValue: "d41d8cd98f00b204e9800998ecf8427e"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/t/checks/934173/debian/test.rundir/run"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625045"
+  checksums:
+  - algorithm: "SHA1"
+    checksumValue: "328d94d3c7ae02d438e49fe80e54dd7f39353382"
+  - algorithm: "MD5"
+    checksumValue: "ff80c1c722094e5c1e135bcb2cd81f24"
+  - algorithm: "SHA256"
+    checksumValue: "b55f6dc84dfd425985d918b14094a4ba2f5194c1ec6f3912f91e4880e24ac0a8"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/t/checks/928935/check"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625047"
+  checksums:
+  - algorithm: "SHA1"
+    checksumValue: "52ca14c1c817a4bfb25e6dd7b93052e03ac3238f"
+  - algorithm: "SHA256"
+    checksumValue: "4e2141a0d13c967dfc23661b85a0aeae96c39d56614bb9cc6a9e478752a76941"
+  - algorithm: "MD5"
+    checksumValue: "fe8b787e1951e6ca57ef43eda124c788"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/t/checks/928935/debian/dh-runit-test.runit"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625051"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "d06d5a458af59019247161fae874695caf15834f25f947ea393d591ace3b2a49"
+  - algorithm: "MD5"
+    checksumValue: "e9e9409a637ef24f27eabad038a4a037"
+  - algorithm: "SHA1"
+    checksumValue: "f80cb63cfdcd51de8bd2e01a31f79e86f64fec78"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/t/base/default/debian/changelog"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625052"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "f7016ed0a59bfd4dfafa5b61b8c5b55a"
+  - algorithm: "SHA1"
+    checksumValue: "8f773023a448e0168fb02ce7e6da26bd5e805e69"
+  - algorithm: "SHA256"
+    checksumValue: "de7670d35ebd2f20d9dae82a82b3ffc7e25f8d68384615911aa45c513189a971"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/t/base/default/debian/test.runscript"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625054"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "eca0816ffff2dfedac7f7778b891ccfe"
+  - algorithm: "SHA1"
+    checksumValue: "8582cf95881c38e1643527c449e3898831f3cd1b"
+  - algorithm: "SHA256"
+    checksumValue: "fa96f73f4e82d3521b2cad2c417a28b504845fd230dd63f50a769972a681d15e"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/t/base/default/debian/test.rundir/run"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625055"
+  checksums:
+  - algorithm: "SHA1"
+    checksumValue: "ed81078c492515bc1a85cf5c7a7bfd61531c085c"
+  - algorithm: "MD5"
+    checksumValue: "3cbe3769ec74cdb5ae3b2b8d8081e79c"
+  - algorithm: "SHA256"
+    checksumValue: "3c6d5f63c561e14e403e24980318dd7102ee11105dedd24ff34d731928a99a7a"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/t/base/default/debian/control"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625056"
+  checksums:
+  - algorithm: "SHA1"
+    checksumValue: "fd81b391e685def6da9bf443cd4fc40c6d40bc79"
+  - algorithm: "SHA256"
+    checksumValue: "680657f72e8e833f436f616a67b924df38801cfe2d8457c45cd2d1fc65d9d3ae"
+  - algorithm: "MD5"
+    checksumValue: "a1fb3c97ff4ef9b6ecab18c8ce2a86c2"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/t/base/default/debian/rules"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625057"
+  checksums:
+  - algorithm: "SHA1"
+    checksumValue: "dd71038f3463f511ee7403dbcbc87195302d891c"
+  - algorithm: "SHA256"
+    checksumValue: "25d4f2a86deb5e2574bb3210b67bb24fcc4afb19f93a7b65a057daa874a9d18e"
+  - algorithm: "MD5"
+    checksumValue: "166d77ac1b46a1ec38aa35ab7e628ab5"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/t/base/default/debian/compat"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625058"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "b554dc1c444b2efe29bf89e43f753cb7"
+  - algorithm: "SHA1"
+    checksumValue: "a08af1b380b5b3f4ca934c9315513cbd39e63b09"
+  - algorithm: "SHA256"
+    checksumValue: "a888b9df89402a815bdb15d30c5280b090be11655ab4cc2299ce748d44cd6ed4"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/t/.gitignore"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625059"
+  checksums:
+  - algorithm: "SHA1"
+    checksumValue: "aa24b69b06cf1a05da0fcdcad1aebe5ce44b8931"
+  - algorithm: "SHA256"
+    checksumValue: "50273223ecf286bcff110ab58dc5f986dd5b4c40022660bcc7e4d24ff7045d7d"
+  - algorithm: "MD5"
+    checksumValue: "7103f1899d73450b2d29c9ef6b501cae"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/testrunner.hs"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625060"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "59003509cf0449334290d42b78f21d65673435b78bc39d8b117869f369c4834f"
+  - algorithm: "MD5"
+    checksumValue: "5c6f9a29ade8f85686cedf69e3193cfe"
+  - algorithm: "SHA1"
+    checksumValue: "b3435af9031cde85793cfa0e22b64baecd3a32d5"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/postinst-runit"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625061"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "773c1bec279301aa55317eff818366b1a944d64a320dbcb5386f32dedc0d57b2"
+  - algorithm: "MD5"
+    checksumValue: "e5b904121bfd57f38be3bef24c959970"
+  - algorithm: "SHA1"
+    checksumValue: "4055deea1f68e8d8a1f0e2905881364d65ed752f"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/runit.pm"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625062"
+  checksums:
+  - algorithm: "SHA1"
+    checksumValue: "208c9b61726c2a37917a33b044e4437484421f75"
+  - algorithm: "SHA256"
+    checksumValue: "820614e4e1613b869df7b93216f65d4077183d45d0f6d87a7cabf3c7e7786e57"
+  - algorithm: "MD5"
+    checksumValue: "97a6178908319d98fda18010be6b23b7"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/Makefile"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625064"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "2592381be04376e7085b55bcabbbf3a0f66a54b7284560461176457d927fad51"
+  - algorithm: "SHA1"
+    checksumValue: "a055e6be42742c9b578aa84d29db234b3197e874"
+  - algorithm: "MD5"
+    checksumValue: "98ff36f49080160fbc95daf18e94723c"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/debian/.gitlab-ci.yml"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625066"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "c5fc031a250b2d76fe051ac3621620ab"
+  - algorithm: "SHA1"
+    checksumValue: "f8738a6566306ae25f93456a019426af51ccc827"
+  - algorithm: "SHA256"
+    checksumValue: "e8e18df40bcd69d6aa404282679186d9b8256ac63a5b4e80d7f081e8a0095a2e"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/debian/source/format"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625067"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "8fe073df8e91a983665dccf019116fbc"
+  - algorithm: "SHA256"
+    checksumValue: "4e626464a560e666f48f99cb645d5a7de85cc3fcfbb79b218bac80d2abcf2b0c"
+  - algorithm: "SHA1"
+    checksumValue: "7fb116cd479f69686c5cbc5783ef6b238847c04d"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/debian/dh-runit.manpages"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625068"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "7c70c48bfec378e44f4be529a93520ef"
+  - algorithm: "SHA1"
+    checksumValue: "4ca2dbede4848f700cb8c758015d340a2eefea92"
+  - algorithm: "SHA256"
+    checksumValue: "d356843803acfe550527ad874ef9e9d0dfef62ced033776dca41b496e8ba6466"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/debian/dh-runit.install"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625069"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "0087d7e389df1589dc77c46df7ad6c5db54ee0e3977056f00fa0bed6c1d14bf2"
+  - algorithm: "MD5"
+    checksumValue: "0938558a0b5f1e7245a8692e01137ad7"
+  - algorithm: "SHA1"
+    checksumValue: "b70016866d6c431410501e5d29536b486b7060a2"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/debian/changelog"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625070"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "af4827abd9cb071887b81498c385355ea4e1461621ae012ae10931ae5d739efa"
+  - algorithm: "MD5"
+    checksumValue: "00b93c399c2c1f90a3c739476b9a1e21"
+  - algorithm: "SHA1"
+    checksumValue: "a895759decd7ed73705da86e8ebc1209f8e7dbf4"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/debian/control"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625071"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "53a933bdf3de063c367b6f8210ebba39"
+  - algorithm: "SHA1"
+    checksumValue: "a68030c265a7221ece73a62e9121d16b73ae41c0"
+  - algorithm: "SHA256"
+    checksumValue: "f56d7df4362728c20b0171f7bb18418c0963a4a2919a84a115c95d1f8a7128bb"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/debian/dh-runit.lintian-overrides"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625072"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "f82e707977ef1e985a00e4ff1b2d97c6"
+  - algorithm: "SHA1"
+    checksumValue: "4e34a9513c76d31b5068eed022ee7d96a193f4c0"
+  - algorithm: "SHA256"
+    checksumValue: "cb4ce1cc00a7fce57510808532637256d671474631e27fab898cc69b030c3a7d"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/debian/rules"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625073"
+  checksums:
+  - algorithm: "SHA1"
+    checksumValue: "42aef9f91d6adf39c5231ab615d6d5cac1cf0ac5"
+  - algorithm: "SHA256"
+    checksumValue: "deab9a400f96297601ddf0a9137e9bb4e0c5f89d877cfef9732d9ee696a92931"
+  - algorithm: "MD5"
+    checksumValue: "56ed4aada8a026b9e45be5eef403e85a"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/debian/runit-helper.install"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625075"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "7759ee29e764d674cda446847cec6e73"
+  - algorithm: "SHA1"
+    checksumValue: "1418ab01dc60b7779de8f57fab242a161b7f5719"
+  - algorithm: "SHA256"
+    checksumValue: "bf21dd816b11b4916662871b3106e94df719bfdc55089a2db94848173b0be0b8"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/debian/tests/helper-update-rc.d"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625076"
+  checksums:
+  - algorithm: "SHA1"
+    checksumValue: "40e6d9afe241d9f1c10fac6f921260704eafcf36"
+  - algorithm: "SHA256"
+    checksumValue: "b881ecf5f2ce26db99fa8a52334469c97700084d7417ddc9dc8ec7c32ea4970e"
+  - algorithm: "MD5"
+    checksumValue: "74f458ffd192ffd25bb8a30155a2ffc6"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/debian/tests/control"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625077"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "8d3b212317bfd2f4b76b2119ffbb6571f95d459921147b98b47110f71f76d39f"
+  - algorithm: "MD5"
+    checksumValue: "51b4fa1f01545d20ac2a0de86f9087d7"
+  - algorithm: "SHA1"
+    checksumValue: "d5310485874195503e8d4142b811a43bb3ab55a9"
+  copyrightText: "Copyright: 2016-2019 Dmitry Bogatov <KAction@disroot.org> 2020-2024\
+    \ Lorenzo Puliti <plorenzo@disroot.org>"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/debian/copyright"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-3.0-or-later"
+- SPDXID: "SPDXRef-item21625078"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "abfe182bb96a6e3a4ec440c407624989138db28a02413eeab7a08f79943aef94"
+  - algorithm: "SHA1"
+    checksumValue: "10a3e57665ab6a776449b72f8cf50dfd552a88d2"
+  - algorithm: "MD5"
+    checksumValue: "1e5a70790c3e53061ba1f84a3fb7dea5"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/debian/clean"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625080"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "fe048d133509d9f18f1a178e84d1e45b"
+  - algorithm: "SHA1"
+    checksumValue: "03bc74c3a94afcc156d0b1d06416cb9191154733"
+  - algorithm: "SHA256"
+    checksumValue: "8f5f29c478f48c6c4271bc1e13ae7860903eb5b0fef95f7626e06a7065058a6d"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/data/finish"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625081"
+  checksums:
+  - algorithm: "SHA1"
+    checksumValue: "1a22ff8d047460b5ab66f9d39cfc5d3a139dec3f"
+  - algorithm: "SHA256"
+    checksumValue: "a6a454642f22343a8a72fc6ae86e523de1b2ba7bf2444eea3c32c0ae9ca66746"
+  - algorithm: "MD5"
+    checksumValue: "2d774bbae11ec7f079c488fbccf043de"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/data/logscript"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625082"
+  checksums:
+  - algorithm: "SHA256"
+    checksumValue: "857915fade8bcb52ca0b4409b26468bdeecad408d8cb074ca7854940017f1349"
+  - algorithm: "MD5"
+    checksumValue: "c6f8c88549923e486e30e9dd22e52fee"
+  - algorithm: "SHA1"
+    checksumValue: "f43e467aa98074f51dc72d81f2ed1a46d85f3373"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/data/presubj"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625083"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "7df3c852afc435432a5244b564ab6831"
+  - algorithm: "SHA1"
+    checksumValue: "cabe39672198761cc38ce5d8c976445012fb053b"
+  - algorithm: "SHA256"
+    checksumValue: "e611ffbee4e8d2ace9b28cd831be88738dce952d38093c7a20bf721a753665ee"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/postrm-runit"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625084"
+  checksums:
+  - algorithm: "SHA1"
+    checksumValue: "52bea7512dbaf6b5903682036daea902c48625ad"
+  - algorithm: "SHA256"
+    checksumValue: "7f119806fdc8649fda2a42809a2ff7ae517ce5a6e5e3fc014ab4aec010429269"
+  - algorithm: "MD5"
+    checksumValue: "3fd749a49e07b692367e19f6a142966c"
+  copyrightText: "Copyright (C) 2017 Dmitry Bogatov <KAction@gnu.org>"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/runit-helper"
+  licenseConcluded: "LicenseRef-GPL-3.0-or-later"
+  licenseInfoInFiles:
+  - "LicenseRef-GPL-3.0-or-later"
+- SPDXID: "SPDXRef-item21625085"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "98003586b87c6eaf17b223bf0ac9c500"
+  - algorithm: "SHA1"
+    checksumValue: "5af65635a60db8bd5423b500847fe1fc770d85cc"
+  - algorithm: "SHA256"
+    checksumValue: "5bdb03c3b42ba67c331579735663159f125d388c6d42d2326a8bf1354ca97dba"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/prerm-runit"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+- SPDXID: "SPDXRef-item21625086"
+  checksums:
+  - algorithm: "MD5"
+    checksumValue: "a1cfb89585498bbde525a38e6c2dab4c"
+  - algorithm: "SHA1"
+    checksumValue: "b2c8997eb6cfab5edcb768971065c8101f480300"
+  - algorithm: "SHA256"
+    checksumValue: "a2a68e36599560762abd6c31f15a6a15f52ea9bad48b1cfaf3773a27e7df2cee"
+  copyrightText: "NOASSERTION"
+  fileName: "dh-runit-debian-2.16.7.tar.gz/dh-runit-debian-2.16.7.tar/dh-runit-debian-2.16.7/.gitignore"
+  licenseConcluded: "NOASSERTION"
+  licenseInfoInFiles:
+  - "NOASSERTION"
+relationships:
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21624987"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21624991"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21624993"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21624995"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21624997"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21624999"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625001"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625003"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625005"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625007"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625009"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625011"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625013"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625015"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625017"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625019"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625021"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625023"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625025"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625027"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625029"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625031"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625033"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625035"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625037"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625039"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625041"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625042"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625043"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625045"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625047"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625051"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625052"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625054"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625055"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625056"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625057"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625058"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625059"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625060"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625061"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625062"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625064"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625066"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625067"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625068"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625069"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625070"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625071"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625072"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625073"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625075"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625076"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625077"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625078"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625080"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625081"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625082"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625083"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625084"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625085"
+- spdxElementId: "SPDXRef-upload4747"
+  relationshipType: "CONTAINS"
+  relatedSpdxElement: "SPDXRef-item21625086"
+- spdxElementId: "SPDXRef-DOCUMENT"
+  relationshipType: "DESCRIBES"
+  relatedSpdxElement: "SPDXRef-upload4747"

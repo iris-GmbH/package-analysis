@@ -1,0 +1,31 @@
+{
+    "schema_version": "1.0.0",
+    "name": "dh-runit",
+    "version": "debian-2.16.7",
+    "description": "",
+    "comment": "",
+    "src": {
+        "tarball": {
+            "url": "https://salsa.debian.org/debian/dh-runit/-/archive/debian/2.16.7/dh-runit-debian-2.16.7.tar.gz?ref_type=tags"
+        }
+    },
+    "clearingFiles": [
+        {
+            "fileName": "dh-runit-debian-2.16.7.spdx.rdf.xml",
+            "priority": "n/a",
+            "author": "Oliver Fendt",
+            "reviewer": [],
+            "alternate_files": [
+                {
+                    "fileName": "dh-runit-debian-2.16.7-SPDX2TV.spdx"
+                },
+                {
+                    "fileName": "dh-runit-debian-2.16.7.spdx.json"
+                },
+                {
+                    "fileName": "dh-runit-debian-2.16.7.spdx.yaml"
+                }
+            ]
+        }
+    ]
+}
